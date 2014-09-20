@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/procps/procps-3.3.9.ebuild,v 1.8 2014/08/01 10:41:31 armin76 Exp $
 
 EAPI="4"
 

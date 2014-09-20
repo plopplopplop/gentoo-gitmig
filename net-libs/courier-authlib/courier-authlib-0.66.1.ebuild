@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/courier-authlib/courier-authlib-0.66.1.ebuild,v 1.3 2014/08/25 12:56:31 djc Exp $
 
 EAPI=5
 inherit autotools eutils flag-o-matic multilib user

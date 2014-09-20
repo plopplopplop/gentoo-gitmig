@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/accerciser/accerciser-1.12.1.ebuild,v 1.8 2012/02/10 04:04:50 patrick Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

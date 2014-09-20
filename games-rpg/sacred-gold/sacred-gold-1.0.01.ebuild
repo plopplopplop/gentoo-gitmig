@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/sacred-gold/sacred-gold-1.0.01.ebuild,v 1.4 2014/04/16 17:08:02 ulm Exp $
 
 inherit versionator eutils cdrom unpacker games
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/ant-trax/ant-trax-1.8.4.ebuild,v 1.6 2013/02/05 05:54:19 zerochaos Exp $
 
 EAPI="4"
 

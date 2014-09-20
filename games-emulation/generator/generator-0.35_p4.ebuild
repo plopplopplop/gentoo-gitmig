@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/generator/generator-0.35_p4.ebuild,v 1.1 2014/07/02 03:48:43 mr_bones_ Exp $
 
 EAPI=5
 inherit autotools eutils toolchain-funcs games

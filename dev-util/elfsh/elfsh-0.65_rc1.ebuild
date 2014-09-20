@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/elfsh/elfsh-0.65_rc1.ebuild,v 1.4 2009/05/02 20:29:16 halcy0n Exp $
 
 inherit eutils toolchain-funcs
 

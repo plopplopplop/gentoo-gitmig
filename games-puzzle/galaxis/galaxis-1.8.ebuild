@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/galaxis/galaxis-1.8.ebuild,v 1.2 2010/11/30 21:07:55 maekke Exp $
 
 EAPI=2
 inherit games

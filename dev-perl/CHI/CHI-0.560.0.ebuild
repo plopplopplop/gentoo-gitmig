@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/CHI/CHI-0.560.0.ebuild,v 1.1 2012/11/04 16:26:18 tove Exp $
 
 EAPI="4"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/vala-common/vala-common-0.22.1.ebuild,v 1.13 2014/04/21 10:28:54 ago Exp $
 
 EAPI="5"
 GNOME_ORG_MODULE="vala"

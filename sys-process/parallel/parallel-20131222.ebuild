@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/parallel/parallel-20131222.ebuild,v 1.1 2013/12/23 00:53:36 radhermit Exp $
 
 EAPI=5
 

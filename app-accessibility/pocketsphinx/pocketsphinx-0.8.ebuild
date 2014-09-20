@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/pocketsphinx/pocketsphinx-0.8.ebuild,v 1.3 2013/06/27 18:20:46 ago Exp $
 
 EAPI=5
 

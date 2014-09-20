@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/egenix-mx-base/egenix-mx-base-3.2.4.ebuild,v 1.9 2012/12/08 15:52:06 ago Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

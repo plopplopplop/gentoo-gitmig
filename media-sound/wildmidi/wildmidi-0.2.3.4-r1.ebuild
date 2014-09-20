@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/wildmidi/wildmidi-0.2.3.4-r1.ebuild,v 1.12 2011/03/16 19:29:43 xarthisius Exp $
 
 EAPI=3
 

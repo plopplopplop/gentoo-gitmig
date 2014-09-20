@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/setuptools/setuptools-2.2.ebuild,v 1.11 2014/08/01 11:31:47 armin76 Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_6,2_7,3_2,3_3,3_4} pypy pypy2_0 )

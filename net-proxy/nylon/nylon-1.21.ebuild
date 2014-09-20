@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/nylon/nylon-1.21.ebuild,v 1.8 2013/03/04 16:04:42 dastergon Exp $
 
 DESCRIPTION="A lightweight SOCKS proxy server"
 HOMEPAGE="http://monkey.org/~marius/nylon/"

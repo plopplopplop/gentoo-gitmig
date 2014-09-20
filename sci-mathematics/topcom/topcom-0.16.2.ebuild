@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/topcom/topcom-0.16.2.ebuild,v 1.2 2012/07/12 06:19:23 jlec Exp $
 
 EAPI=4
 

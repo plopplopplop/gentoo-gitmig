@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/java-virtuals/saaj-api/saaj-api-1.3-r3.ebuild,v 1.1 2014/07/14 21:05:05 sera Exp $
 
 EAPI=5
 

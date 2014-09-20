@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/emacs/emacs-24.3-r6.ebuild,v 1.11 2014/06/08 10:59:33 ago Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/htpdate/htpdate-1.0.5.ebuild,v 1.2 2013/08/12 07:50:18 pinkbyte Exp $
 
 EAPI=5
 

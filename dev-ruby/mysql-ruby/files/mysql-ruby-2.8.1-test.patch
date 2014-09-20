@@ -3,7 +3,7 @@
 @@ -1,12 +1,17 @@
 -#!/usr/local/bin/ruby
 +#!/usr/bin/env ruby
- # $Id$
+ # $Id: test.rb 244 2009-02-01 08:43:39Z tommy $
  
  require "test/unit"
 -require "./mysql.o"

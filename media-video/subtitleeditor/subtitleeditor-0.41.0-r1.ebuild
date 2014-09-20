@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/subtitleeditor/subtitleeditor-0.41.0-r1.ebuild,v 1.3 2014/05/04 12:11:38 pacho Exp $
 
 EAPI=5
 GCONF_DEBUG="no"

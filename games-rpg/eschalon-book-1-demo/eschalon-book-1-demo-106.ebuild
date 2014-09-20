@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/eschalon-book-1-demo/eschalon-book-1-demo-106.ebuild,v 1.4 2013/01/26 21:23:52 tupone Exp $
 
 EAPI=2
 inherit eutils games

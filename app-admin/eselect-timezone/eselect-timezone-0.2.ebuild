@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-timezone/eselect-timezone-0.2.ebuild,v 1.2 2013/01/23 02:26:50 ottxor Exp $
 
 EAPI=4
 

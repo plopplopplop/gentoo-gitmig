@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/django-oauth-plus/django-oauth-plus-2.1.5.ebuild,v 1.1 2013/10/02 06:12:16 patrick Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

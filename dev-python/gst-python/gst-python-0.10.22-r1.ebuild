@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/gst-python/gst-python-0.10.22-r1.ebuild,v 1.11 2013/10/22 06:23:06 ago Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyside/pyside-1.1.2-r1.ebuild,v 1.7 2014/08/27 12:15:40 blueness Exp $
 
 EAPI=5
 

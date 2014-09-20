@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/securemodelines/securemodelines-20080424.ebuild,v 1.3 2014/08/10 18:40:38 slyfox Exp $
 
 VIM_PLUGIN_VIM_VERSION="7.0"
 inherit vim-plugin

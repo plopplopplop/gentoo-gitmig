@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/bitflu/bitflu-1.51.ebuild,v 1.1 2014/03/03 12:39:07 blueness Exp $
 
 EAPI=4
 

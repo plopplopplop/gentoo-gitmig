@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/icewmcp/icewmcp-3.2-r3.ebuild,v 1.1 2011/10/01 06:20:23 vapier Exp $
 
 EAPI="2"
 PYTHON_DEPEND="2"

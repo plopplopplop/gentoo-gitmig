@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/qemu-guest-agent/qemu-guest-agent-2.0.0.ebuild,v 1.1 2014/05/18 17:15:42 vapier Exp $
 
 EAPI=5
 

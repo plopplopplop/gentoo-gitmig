@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/e-uae/e-uae-0.8.28-r3.ebuild,v 1.11 2012/12/11 18:21:18 grobian Exp $
 
 EAPI="1"
 

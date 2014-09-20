@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/baudline/baudline-1.08-r1.ebuild,v 1.3 2012/12/04 17:00:55 xmw Exp $
 
 EAPI=3
 

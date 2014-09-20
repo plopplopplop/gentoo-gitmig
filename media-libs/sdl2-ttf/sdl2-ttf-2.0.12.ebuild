@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/sdl2-ttf/sdl2-ttf-2.0.12.ebuild,v 1.3 2013/09/02 20:45:58 hasufell Exp $
 
 EAPI=5
 inherit autotools eutils

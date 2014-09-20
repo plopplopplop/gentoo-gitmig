@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libtommath/libtommath-0.42.0-r1.ebuild,v 1.19 2013/08/16 13:30:06 aballier Exp $
 
 EAPI=4
 

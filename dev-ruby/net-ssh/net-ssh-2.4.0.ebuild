@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/net-ssh/net-ssh-2.4.0.ebuild,v 1.6 2014/04/05 13:52:56 mrueg Exp $
 
 EAPI=4
 USE_RUBY="ruby19 jruby"

@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/insaneodyssey/insaneodyssey-000311.ebuild,v 1.6 2007/03/13 21:42:26 nyhm Exp $
 
 inherit eutils games
 

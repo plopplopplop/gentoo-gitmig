@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libnsgif/libnsgif-0.0.3.ebuild,v 1.3 2013/02/28 07:46:00 xmw Exp $
 
 EAPI=5
 

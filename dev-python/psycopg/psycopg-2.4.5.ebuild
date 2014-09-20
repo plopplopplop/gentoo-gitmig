@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/psycopg/psycopg-2.4.5.ebuild,v 1.10 2013/02/20 09:45:09 ago Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

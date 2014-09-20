@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/webscarab/webscarab-20070504.ebuild,v 1.5 2012/03/25 07:25:05 radhermit Exp $
 
 DESCRIPTION="A framework for analysing applications that communicate using the HTTP and HTTPS protocols"
 HOMEPAGE="https://www.owasp.org/index.php/Webscarab"

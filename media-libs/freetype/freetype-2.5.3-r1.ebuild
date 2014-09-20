@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/freetype/freetype-2.5.3-r1.ebuild,v 1.15 2014/08/02 17:52:37 zlogene Exp $
 
 EAPI=5
 

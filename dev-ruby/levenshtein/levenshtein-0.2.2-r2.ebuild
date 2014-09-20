@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/levenshtein/levenshtein-0.2.2-r2.ebuild,v 1.4 2014/08/13 18:39:56 armin76 Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20 ruby21"

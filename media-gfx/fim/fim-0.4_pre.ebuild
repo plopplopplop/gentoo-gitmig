@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/fim/fim-0.4_pre.ebuild,v 1.3 2014/01/11 01:31:35 xmw Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyenchant/pyenchant-1.6.5-r1.ebuild,v 1.2 2013/07/06 00:56:03 floppym Exp $
 
 EAPI=5
 

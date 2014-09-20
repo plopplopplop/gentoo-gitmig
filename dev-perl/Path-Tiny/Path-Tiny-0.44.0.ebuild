@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Path-Tiny/Path-Tiny-0.44.0.ebuild,v 1.1 2013/10/31 15:51:29 zlogene Exp $
 
 EAPI=5
 

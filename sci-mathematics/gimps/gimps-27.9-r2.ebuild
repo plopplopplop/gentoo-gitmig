@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/gimps/gimps-27.9-r2.ebuild,v 1.3 2014/05/04 08:31:07 ago Exp $
 
 EAPI=4
 

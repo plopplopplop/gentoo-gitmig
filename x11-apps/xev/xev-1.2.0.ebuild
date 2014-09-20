@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xev/xev-1.2.0.ebuild,v 1.11 2012/08/26 16:41:42 armin76 Exp $
 
 EAPI=4
 

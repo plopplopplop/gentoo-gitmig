@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/tpm-emulator/tpm-emulator-0.5.1.ebuild,v 1.3 2012/05/31 03:31:59 zmedico Exp $
 
 EAPI=2
 inherit toolchain-funcs linux-mod eutils multilib user

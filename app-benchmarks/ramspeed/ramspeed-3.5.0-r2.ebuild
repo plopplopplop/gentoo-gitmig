@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/ramspeed/ramspeed-3.5.0-r2.ebuild,v 1.1 2013/06/02 11:23:45 jlec Exp $
 
 EAPI=5
 

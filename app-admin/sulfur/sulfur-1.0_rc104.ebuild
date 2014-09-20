@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/sulfur/sulfur-1.0_rc104.ebuild,v 1.1 2012/08/25 05:17:03 lxnay Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

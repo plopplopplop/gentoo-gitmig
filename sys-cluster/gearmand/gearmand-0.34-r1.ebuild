@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/gearmand/gearmand-0.34-r1.ebuild,v 1.2 2013/03/04 08:42:15 flameeyes Exp $
 
 EAPI=5
 

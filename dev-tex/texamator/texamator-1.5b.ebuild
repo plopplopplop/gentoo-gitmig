@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/texamator/texamator-1.5b.ebuild,v 1.2 2011/04/25 19:27:48 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

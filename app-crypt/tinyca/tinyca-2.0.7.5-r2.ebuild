@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/tinyca/tinyca-2.0.7.5-r2.ebuild,v 1.1 2014/08/20 03:41:09 alonbl Exp $
 
 EAPI=5
 

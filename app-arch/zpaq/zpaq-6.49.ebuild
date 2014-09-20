@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/zpaq/zpaq-6.49.ebuild,v 1.1 2014/02/19 17:32:37 mgorny Exp $
 
 EAPI=5
 

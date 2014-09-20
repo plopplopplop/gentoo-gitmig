@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2004 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/zebedee/files/zebedee,v 1.4 2008/06/14 03:35:45 darkside Exp $
 
 depend() {
 	need net

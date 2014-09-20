@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/sparky/sparky-3.115-r1.ebuild,v 1.3 2013/11/11 18:12:11 jlec Exp $
 
 EAPI=5
 

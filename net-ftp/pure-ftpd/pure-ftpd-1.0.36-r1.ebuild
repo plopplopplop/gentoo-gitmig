@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-ftp/pure-ftpd/pure-ftpd-1.0.36-r1.ebuild,v 1.2 2014/08/10 20:54:57 slyfox Exp $
 
 EAPI=5
 inherit eutils confutils flag-o-matic

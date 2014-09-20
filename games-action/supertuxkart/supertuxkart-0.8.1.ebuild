@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/supertuxkart/supertuxkart-0.8.1.ebuild,v 1.5 2014/04/29 23:31:25 hasufell Exp $
 
 EAPI=5
 inherit gnome2-utils cmake-utils eutils games

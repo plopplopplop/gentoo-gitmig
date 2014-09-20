@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-fs/tahoe-lafs/tahoe-lafs-1.10.0-r2.ebuild,v 1.5 2014/08/14 16:37:40 phajdan.jr Exp $
 
 EAPI=5
 

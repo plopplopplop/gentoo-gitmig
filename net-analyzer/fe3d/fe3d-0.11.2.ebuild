@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/fe3d/fe3d-0.11.2.ebuild,v 1.7 2013/02/01 15:05:24 jer Exp $
 
 EAPI=5
 inherit autotools eutils

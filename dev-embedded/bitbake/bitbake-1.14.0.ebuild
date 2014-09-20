@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-embedded/bitbake/bitbake-1.14.0.ebuild,v 1.6 2013/05/12 18:31:43 floppym Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.5"

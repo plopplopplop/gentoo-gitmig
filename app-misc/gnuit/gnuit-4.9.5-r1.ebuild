@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/gnuit/gnuit-4.9.5-r1.ebuild,v 1.3 2011/01/05 15:15:34 jlec Exp $
 
 EAPI="2"
 

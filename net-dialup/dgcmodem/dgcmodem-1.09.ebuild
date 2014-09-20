@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/dgcmodem/dgcmodem-1.09.ebuild,v 1.2 2009/08/31 22:34:09 ikelos Exp $
 
 inherit linux-info
 

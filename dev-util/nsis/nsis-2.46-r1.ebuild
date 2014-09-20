@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/nsis/nsis-2.46-r1.ebuild,v 1.4 2014/01/26 11:02:46 ago Exp $
 
 EAPI="5"
 mingw32_variants=$(echo {,i{6,5,4,3}86-{,pc-,w32-,w64-}}mingw32)

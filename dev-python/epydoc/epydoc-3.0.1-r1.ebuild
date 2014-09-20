@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/epydoc/epydoc-3.0.1-r1.ebuild,v 1.14 2012/04/26 17:38:39 aballier Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/freexl/freexl-1.0.0e.ebuild,v 1.5 2013/05/14 09:39:11 ago Exp $
 
 EAPI=5
 

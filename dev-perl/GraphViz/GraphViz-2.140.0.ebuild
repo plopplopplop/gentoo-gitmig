@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/GraphViz/GraphViz-2.140.0.ebuild,v 1.2 2014/08/31 11:30:03 zlogene Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/transmission-remote-cli/transmission-remote-cli-1.6.3.ebuild,v 1.2 2014/04/09 21:28:54 mgorny Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/bioapi/bioapi-1.2.4.ebuild,v 1.1 2014/05/04 15:51:25 vapier Exp $
 
 EAPI="4"
 

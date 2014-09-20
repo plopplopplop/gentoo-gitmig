@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/cdk/cdk-5.0.20090215.ebuild,v 1.9 2012/04/14 17:50:56 radhermit Exp $
 
 EAPI=3
 

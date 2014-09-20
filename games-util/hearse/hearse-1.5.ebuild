@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/hearse/hearse-1.5.ebuild,v 1.4 2010/11/01 18:12:49 mr_bones_ Exp $
 
 EAPI=2
 inherit games

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/utidylib/utidylib-0.2-r2.ebuild,v 1.1 2013/08/31 16:41:51 mgorny Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/lastfm-desktop/lastfm-desktop-2.1.36.ebuild,v 1.3 2014/03/27 07:16:01 jlec Exp $
 
 EAPI=5
 

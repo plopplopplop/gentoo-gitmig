@@ -10,7 +10,7 @@ index a596c81..351a4a0 100755
 +++ b/Configure
 @@ -18,7 +18,7 @@
  
- # $Id$
+ # $Id: gtk-gnutella-1.0.0-bdf.patch,v 1.1 2013/09/10 16:01:13 graaff Exp $
  #
 -# Generated on Sat Aug 31 16:12:14 CEST 2013 [metaconfig 3.5-170]
 +# Generated on Wed Sep  4 19:50:17 CEST 2013 [metaconfig 3.5-171]

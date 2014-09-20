@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/suite3270/suite3270-3.3.12_p12.ebuild,v 1.9 2013/04/02 13:17:47 ago Exp $
 
 EAPI="4"
 

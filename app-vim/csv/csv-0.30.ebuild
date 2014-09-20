@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/csv/csv-0.30.ebuild,v 1.1 2014/03/29 00:02:20 radhermit Exp $
 
 EAPI="5"
 

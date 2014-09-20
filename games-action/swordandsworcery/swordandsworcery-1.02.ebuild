@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/swordandsworcery/swordandsworcery-1.02.ebuild,v 1.6 2014/06/25 13:46:19 mgorny Exp $
 
 # TODO: unbundle liblua-5.1 when available for multilib
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-terms/eterm/eterm-0.9.6.ebuild,v 1.3 2012/11/05 08:04:53 vapier Exp $
 
 EAPI="3"
 inherit eutils autotools

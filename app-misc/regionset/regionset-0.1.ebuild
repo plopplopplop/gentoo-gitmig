@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/regionset/regionset-0.1.ebuild,v 1.9 2008/11/26 17:50:56 beandog Exp $
 
 inherit toolchain-funcs
 

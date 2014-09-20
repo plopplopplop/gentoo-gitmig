@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/test-framework/test-framework-0.6.1.ebuild,v 1.2 2012/12/06 22:54:56 slyfox Exp $
 
 EAPI=5
 

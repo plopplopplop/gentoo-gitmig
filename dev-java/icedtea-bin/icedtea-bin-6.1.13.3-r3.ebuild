@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/icedtea-bin/icedtea-bin-6.1.13.3-r3.ebuild,v 1.5 2014/07/06 15:32:09 sera Exp $
 
 EAPI="5"
 

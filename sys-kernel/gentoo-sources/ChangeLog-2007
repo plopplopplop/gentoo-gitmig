@@ -1,6 +1,6 @@
 # ChangeLog for sys-kernel/gentoo-sources
 # Copyright 1999-2013 Gentoo Foundation; Distributed under the GPL v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/gentoo-sources/ChangeLog-2007,v 1.1 2013/06/29 23:14:17 dilfridge Exp $
 
   23 Dec 2007; Raúl Porcel <armin76@gentoo.org>
   gentoo-sources-2.6.22-r10.ebuild:

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/cronie/cronie-1.4.11-r3.ebuild,v 1.4 2014/09/07 15:27:13 jmorgan Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/netsurf/netsurf-2.9.ebuild,v 1.6 2013/04/21 07:48:27 xmw Exp $
 
 EAPI=5
 

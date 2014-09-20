@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/pcgen/pcgen-6.00.0.ebuild,v 1.3 2013/01/22 17:29:01 ago Exp $
 
 EAPI=5
 inherit versionator gnome2-utils games

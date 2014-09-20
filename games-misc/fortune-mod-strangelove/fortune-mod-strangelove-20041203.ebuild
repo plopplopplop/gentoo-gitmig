@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-strangelove/fortune-mod-strangelove-20041203.ebuild,v 1.9 2013/01/12 09:16:43 ulm Exp $
 
 DESCRIPTION="Quotes from Dr. Strangelove"
 HOMEPAGE="http://seiler.us/wiki/index.php/Strangelove"

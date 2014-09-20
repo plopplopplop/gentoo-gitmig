@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/flac123/flac123-0.0.11.ebuild,v 1.7 2009/06/16 17:58:23 klausman Exp $
 
 DESCRIPTION="console app for playing FLAC audio files"
 HOMEPAGE="http://flac-tools.sourceforge.net"

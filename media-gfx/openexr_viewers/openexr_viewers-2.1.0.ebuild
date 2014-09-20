@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/openexr_viewers/openexr_viewers-2.1.0.ebuild,v 1.1 2014/01/22 18:35:01 ssuominen Exp $
 
 EAPI=5
 inherit autotools eutils flag-o-matic

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/libeventdb/libeventdb-0.90.ebuild,v 1.8 2010/05/26 14:38:02 miknix Exp $
 
 GPE_TARBALL_SUFFIX="bz2"
 

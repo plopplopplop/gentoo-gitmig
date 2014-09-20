@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/enclosed-exceptions/enclosed-exceptions-1.0.0.1.ebuild,v 1.1 2014/03/09 12:40:35 gienah Exp $
 
 EAPI=5
 

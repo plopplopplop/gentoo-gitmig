@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/hyperdex/hyperdex-1.4.4.ebuild,v 1.1 2014/09/01 03:53:23 patrick Exp $
 EAPI=5
 
 PYTHON_COMPAT=( python2_7)

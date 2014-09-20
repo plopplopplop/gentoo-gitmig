@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pycurl/pycurl-7.19.0-r2.ebuild,v 1.3 2014/06/15 15:22:12 mgorny Exp $
 
 EAPI=5
 

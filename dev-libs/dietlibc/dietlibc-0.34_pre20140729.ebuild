@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/dietlibc/dietlibc-0.34_pre20140729.ebuild,v 1.2 2014/07/29 09:15:25 patrick Exp $
 
 EAPI=5
 inherit eutils flag-o-matic toolchain-funcs

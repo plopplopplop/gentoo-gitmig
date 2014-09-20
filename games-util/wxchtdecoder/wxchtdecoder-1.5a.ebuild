@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/wxchtdecoder/wxchtdecoder-1.5a.ebuild,v 1.3 2009/10/20 12:59:19 maekke Exp $
 
 EAPI=2
 WX_GTK_VER="2.8"

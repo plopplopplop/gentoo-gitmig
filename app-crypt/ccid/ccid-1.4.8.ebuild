@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/ccid/ccid-1.4.8.ebuild,v 1.13 2013/01/06 09:12:49 ago Exp $
 
 EAPI="4"
 

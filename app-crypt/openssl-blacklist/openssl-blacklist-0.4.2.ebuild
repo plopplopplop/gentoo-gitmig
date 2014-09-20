@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/openssl-blacklist/openssl-blacklist-0.4.2.ebuild,v 1.1 2009/04/15 08:05:43 hanno Exp $
 
 DESCRIPTION="Detection of weak ssl keys produced by certain debian versions between 2006 and 2008"
 HOMEPAGE="https://launchpad.net/ubuntu/+source/openssl-blacklist/"

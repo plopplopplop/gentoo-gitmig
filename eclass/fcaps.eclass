@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/fcaps.eclass,v 1.10 2014/07/31 10:21:05 vapier Exp $
 
 # @ECLASS: fcaps.eclass
 # @MAINTAINER:

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/nsgenbind/nsgenbind-0.0.1.ebuild,v 1.2 2013/06/23 16:46:30 xmw Exp $
 
 EAPI=5
 NETSURF_COMPONENT_TYPE=binary

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/elisp-manual/elisp-manual-19.2.4.2.ebuild,v 1.6 2013/04/01 23:27:09 ulm Exp $
 
 EAPI=5
 

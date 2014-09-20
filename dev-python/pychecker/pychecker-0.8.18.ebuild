@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pychecker/pychecker-0.8.18.ebuild,v 1.10 2012/01/26 13:46:47 ssuominen Exp $
 
 EAPI="2"
 SUPPORT_PYTHON_ABIS="1"

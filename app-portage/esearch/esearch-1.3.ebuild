@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/esearch/esearch-1.3.ebuild,v 1.13 2014/01/18 05:18:24 vapier Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

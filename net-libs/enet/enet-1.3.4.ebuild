@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/enet/enet-1.3.4.ebuild,v 1.3 2012/07/03 07:59:54 jdhore Exp $
 
 EAPI=3
 inherit base

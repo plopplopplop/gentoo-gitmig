@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libevent/libevent-2.0.21.ebuild,v 1.17 2014/01/18 04:51:21 vapier Exp $
 
 EAPI=5
 inherit eutils libtool

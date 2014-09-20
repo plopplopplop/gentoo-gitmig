@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/maxima/maxima-5.26.0.ebuild,v 1.3 2012/05/21 19:24:08 xarthisius Exp $
 
 EAPI=3
 

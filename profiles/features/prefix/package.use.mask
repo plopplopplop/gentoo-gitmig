@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/features/prefix/package.use.mask,v 1.1 2014/01/18 02:01:20 redlizard Exp $
 
 # Kacper Kowalik <xarthisius@gentoo.org> (14 Jan 2012)
 # sci-libs/mkl don't have prefix keywords

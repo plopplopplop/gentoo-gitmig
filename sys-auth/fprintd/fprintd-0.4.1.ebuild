@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/fprintd/fprintd-0.4.1.ebuild,v 1.7 2013/02/02 23:10:27 ago Exp $
 
 EAPI=4
 

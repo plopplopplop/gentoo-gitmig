@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/roboto/roboto-20120823.ebuild,v 1.2 2013/10/21 12:16:29 grobian Exp $
 
 inherit font
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/alacarte/alacarte-0.13.2.ebuild,v 1.12 2012/12/15 20:13:34 swegener Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

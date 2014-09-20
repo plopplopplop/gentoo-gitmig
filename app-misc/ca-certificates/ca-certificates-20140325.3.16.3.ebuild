@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/ca-certificates/ca-certificates-20140325.3.16.3.ebuild,v 1.1 2014/08/12 13:08:49 vapier Exp $
 
 # The Debian ca-certificates package merely takes the CA database as it exists
 # in the nss package and repackages it for use by openssl.

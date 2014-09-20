@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/dspam/dspam-3.10.2-r1.ebuild,v 1.4 2014/04/14 13:35:22 eras Exp $
 
 EAPI=4
 

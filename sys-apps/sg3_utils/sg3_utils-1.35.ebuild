@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/sg3_utils/sg3_utils-1.35.ebuild,v 1.11 2013/06/02 08:39:20 ago Exp $
 
 EAPI="4"
 

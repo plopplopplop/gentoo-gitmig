@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/cracklib/cracklib-2.8.19.ebuild,v 1.13 2014/01/18 02:22:34 vapier Exp $
 
 EAPI="3"
 PYTHON_DEPEND="python? 2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-cpp/commoncpp2/commoncpp2-1.8.0.ebuild,v 1.7 2014/03/01 22:24:51 mgorny Exp $
 
 EAPI="2"
 inherit eutils autotools

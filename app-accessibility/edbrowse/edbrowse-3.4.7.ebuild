@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/edbrowse/edbrowse-3.4.7.ebuild,v 1.3 2011/11/15 16:35:58 axs Exp $
 
 EAPI="4"
 inherit eutils

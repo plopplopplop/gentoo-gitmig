@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/netbeans-platform/netbeans-platform-7.1.1.ebuild,v 1.3 2012/05/07 06:32:55 phajdan.jr Exp $
 
 EAPI="4"
 WANT_ANT_TASKS="ant-nodeps"

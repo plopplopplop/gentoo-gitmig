@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/xen-tools/xen-tools-4.3.2-r6.ebuild,v 1.1 2014/08/19 14:16:01 dlan Exp $
 
 EAPI=5
 

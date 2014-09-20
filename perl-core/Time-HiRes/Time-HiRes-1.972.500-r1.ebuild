@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/Time-HiRes/Time-HiRes-1.972.500-r1.ebuild,v 1.1 2014/07/26 12:58:17 dilfridge Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/glark/glark-1.8.0.ebuild,v 1.10 2011/01/24 03:52:30 jer Exp $
 
 EAPI=3
 

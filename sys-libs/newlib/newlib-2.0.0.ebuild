@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/newlib/newlib-2.0.0.ebuild,v 1.2 2013/12/24 06:43:22 vapier Exp $
 
 EAPI="4"
 

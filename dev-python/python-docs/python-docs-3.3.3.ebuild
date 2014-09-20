@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-docs/python-docs-3.3.3.ebuild,v 1.2 2014/01/18 01:08:18 vapier Exp $
 
 EAPI="3"
 

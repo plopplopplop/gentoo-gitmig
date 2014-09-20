@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/charm/charm-6.5.1-r3.ebuild,v 1.2 2013/12/15 04:19:41 nicolasbock Exp $
 
 EAPI=5
 

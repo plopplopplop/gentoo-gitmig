@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnustep-base/gnustep-back-xlib/gnustep-back-xlib-0.24.0.ebuild,v 1.1 2014/01/29 15:13:51 voyageur Exp $
 
 EAPI=5
 inherit gnustep-base

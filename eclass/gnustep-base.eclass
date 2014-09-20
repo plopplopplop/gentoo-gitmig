@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/gnustep-base.eclass,v 1.27 2012/06/22 12:41:51 voyageur Exp $
 
 # @ECLASS: gnustep-base.eclass
 # @MAINTAINER:

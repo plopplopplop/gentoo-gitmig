@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-base/gnome/gnome-3.10.0.ebuild,v 1.6 2014/07/05 09:22:08 klausman Exp $
 
 EAPI="5"
 

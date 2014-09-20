@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/bedup/bedup-0.9.0_p20140413.ebuild,v 1.5 2014/09/06 11:07:40 mgorny Exp $
 
 EAPI=5
 

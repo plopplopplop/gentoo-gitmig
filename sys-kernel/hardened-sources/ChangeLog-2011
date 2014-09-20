@@ -1,6 +1,6 @@
 # ChangeLog for sys-kernel/hardened-sources
 # Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/hardened-sources/ChangeLog-2011,v 1.1 2012/01/01 20:57:23 dilfridge Exp $
 
   29 Dec 2011; Anthony G. Basile <blueness@gentoo.org>
   -hardened-sources-2.6.32-r82.ebuild:

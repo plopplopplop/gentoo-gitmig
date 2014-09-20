@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/unixODBC/unixODBC-2.3.0-r1.ebuild,v 1.8 2011/04/16 15:48:53 armin76 Exp $
 
 EAPI=3
 inherit libtool eutils

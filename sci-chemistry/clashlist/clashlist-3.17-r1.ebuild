@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/clashlist/clashlist-3.17-r1.ebuild,v 1.1 2012/06/07 15:08:22 jlec Exp $
 
 EAPI=4
 

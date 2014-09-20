@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/moosic/moosic-1.5.6-r1.ebuild,v 1.1 2014/08/27 14:00:13 mgorny Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-roguelike/crossfire-client/crossfire-client-1.70.0-r1.ebuild,v 1.1 2013/01/28 08:24:58 hasufell Exp $
 
 EAPI=5
 inherit autotools eutils toolchain-funcs gnome2-utils games

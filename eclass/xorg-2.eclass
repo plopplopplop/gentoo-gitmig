@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/xorg-2.eclass,v 1.64 2014/03/02 15:41:20 mgorny Exp $
 
 # @ECLASS: xorg-2.eclass
 # @MAINTAINER:

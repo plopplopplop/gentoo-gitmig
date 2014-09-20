@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/Version-Requirements/Version-Requirements-0.101.22-r1.ebuild,v 1.2 2014/07/29 03:46:34 patrick Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-engines/frobtads/frobtads-1.2.2.ebuild,v 1.4 2012/12/04 15:38:48 ago Exp $
 
 EAPI=4
 inherit eutils flag-o-matic games

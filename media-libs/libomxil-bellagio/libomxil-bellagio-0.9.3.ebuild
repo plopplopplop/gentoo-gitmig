@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libomxil-bellagio/libomxil-bellagio-0.9.3.ebuild,v 1.1 2014/02/12 17:19:56 chithanh Exp $
 
 EAPI=5
 XORG_MULTILIB=yes

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/biosdisk/biosdisk-0_p20100611-r1.ebuild,v 1.1 2013/07/30 01:24:40 floppym Exp $
 
 EAPI="5"
 

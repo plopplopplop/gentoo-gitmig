@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-boot/os-prober/os-prober-1.57.ebuild,v 1.1 2013/01/05 22:52:56 pinkbyte Exp $
 
 EAPI=5
 

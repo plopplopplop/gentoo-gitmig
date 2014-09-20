@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/xc/xc-4.3.2-r4.ebuild,v 1.1 2014/04/19 01:43:08 kumba Exp $
 
 EAPI=5
 

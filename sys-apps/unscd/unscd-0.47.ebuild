@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/unscd/unscd-0.47.ebuild,v 1.1 2010/08/06 20:42:13 vapier Exp $
 
 inherit toolchain-funcs
 

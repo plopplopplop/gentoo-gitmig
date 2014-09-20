@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/printproto/printproto-1.0.5-r1.ebuild,v 1.11 2013/10/21 13:57:35 grobian Exp $
 
 EAPI=5
 

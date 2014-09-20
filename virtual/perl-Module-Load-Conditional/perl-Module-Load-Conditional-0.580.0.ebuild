@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Module-Load-Conditional/perl-Module-Load-Conditional-0.580.0.ebuild,v 1.2 2014/01/20 21:01:48 vapier Exp $
 
 DESCRIPTION="Virtual for ${PN#perl-}"
 HOMEPAGE=""

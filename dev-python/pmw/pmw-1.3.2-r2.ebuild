@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pmw/pmw-1.3.2-r2.ebuild,v 1.10 2013/01/29 12:35:56 jlec Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

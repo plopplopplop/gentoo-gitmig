@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/havp/havp-0.92a.ebuild,v 1.5 2013/01/10 15:19:06 ago Exp $
 
 EAPI=4
 inherit eutils user

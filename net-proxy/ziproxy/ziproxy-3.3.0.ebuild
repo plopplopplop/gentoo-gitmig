@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/ziproxy/ziproxy-3.3.0.ebuild,v 1.1 2013/01/08 16:19:56 jer Exp $
 
 EAPI=4
 inherit user

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/nb/nb-0.8.17.ebuild,v 1.2 2014/08/15 09:04:47 jer Exp $
 
 EAPI=5
 inherit autotools eutils

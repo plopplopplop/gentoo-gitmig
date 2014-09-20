@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-tv/xmltv/xmltv-0.5.50.ebuild,v 1.11 2014/08/10 21:03:29 slyfox Exp $
 
 inherit eutils perl-module
 

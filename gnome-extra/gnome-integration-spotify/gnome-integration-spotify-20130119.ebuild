@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gnome-integration-spotify/gnome-integration-spotify-20130119.ebuild,v 1.1 2013/01/21 06:41:51 prometheanfire Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/qcomicbook/qcomicbook-0.9.0.ebuild,v 1.4 2014/08/10 20:03:40 slyfox Exp $
 
 EAPI=4
 

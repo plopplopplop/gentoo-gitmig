@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/IO-Compress/IO-Compress-2.60.0.ebuild,v 1.15 2014/01/20 20:47:43 vapier Exp $
 
 EAPI=5
 

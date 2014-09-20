@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/testtools/testtools-0.9.24.ebuild,v 1.12 2013/04/02 13:24:56 ago Exp $
 
 EAPI="4"
 PYTHON_DEPEND="*:2.6"

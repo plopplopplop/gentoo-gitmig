@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/ganglia/ganglia-3.6.0.ebuild,v 1.1 2013/06/22 01:04:28 jsbronder Exp $
 
 EAPI="3"
 PYTHON_DEPEND="python? 2"

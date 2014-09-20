@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-base/gnome-panel/gnome-panel-2.32.1-r3.ebuild,v 1.14 2014/01/04 02:44:19 tetromino Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

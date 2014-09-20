@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ada/gtkada/gtkada-2.4.0-r2.ebuild,v 1.6 2007/12/28 22:40:13 george Exp $
 
 inherit eutils gnat
 

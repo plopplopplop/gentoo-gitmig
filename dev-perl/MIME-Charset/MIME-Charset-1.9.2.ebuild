@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/MIME-Charset/MIME-Charset-1.9.2.ebuild,v 1.3 2012/09/12 11:02:15 johu Exp $
 
 EAPI=4
 

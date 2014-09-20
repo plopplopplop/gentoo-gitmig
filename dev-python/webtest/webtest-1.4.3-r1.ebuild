@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/webtest/webtest-1.4.3-r1.ebuild,v 1.14 2014/07/06 13:04:55 mgorny Exp $
 
 EAPI=5
 

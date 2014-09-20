@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Test-Output/Test-Output-0.16.ebuild,v 1.5 2013/07/08 09:41:09 vincent Exp $
 
 EAPI=5
 

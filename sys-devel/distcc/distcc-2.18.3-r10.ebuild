@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/distcc/distcc-2.18.3-r10.ebuild,v 1.16 2014/05/12 11:36:29 ssuominen Exp $
 
 EAPI=5
 inherit eutils flag-o-matic toolchain-funcs user

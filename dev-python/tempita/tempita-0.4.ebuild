@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/tempita/tempita-0.4.ebuild,v 1.6 2010/12/26 15:46:00 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

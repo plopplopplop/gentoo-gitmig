@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-firmware/nvidia-firmware/nvidia-firmware-340.32.ebuild,v 1.1 2014/08/23 23:07:12 idl0r Exp $
 
 EAPI=5
 

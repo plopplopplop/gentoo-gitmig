@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/tornado/tornado-1.4.ebuild,v 1.3 2009/11/13 17:18:36 volkmar Exp $
 
 EAPI=2
 inherit eutils games

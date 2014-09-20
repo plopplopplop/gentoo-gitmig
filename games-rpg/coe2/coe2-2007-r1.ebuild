@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/coe2/coe2-2007-r1.ebuild,v 1.2 2014/04/16 17:02:40 ulm Exp $
 
 EAPI=5
 

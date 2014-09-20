@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libbs2b/libbs2b-3.1.0.ebuild,v 1.12 2014/03/04 20:45:46 vincent Exp $
 
 DESCRIPTION="Bauer stereophonic-to-binaural DSP library"
 HOMEPAGE="http://bs2b.sourceforge.net/"

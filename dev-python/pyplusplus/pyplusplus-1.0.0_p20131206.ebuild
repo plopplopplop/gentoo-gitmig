@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyplusplus/pyplusplus-1.0.0_p20131206.ebuild,v 1.2 2014/02/25 01:56:52 heroxbd Exp $
 
 EAPI=5
 

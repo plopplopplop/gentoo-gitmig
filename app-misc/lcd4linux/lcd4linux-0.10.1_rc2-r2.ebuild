@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/lcd4linux/lcd4linux-0.10.1_rc2-r2.ebuild,v 1.9 2012/05/06 16:24:52 pacho Exp $
 
 EAPI=4
 PYTHON_DEPEND="python? 2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/mono/mono-2.10.9-r2.ebuild,v 1.5 2013/02/23 15:52:33 ago Exp $
 
 EAPI="4"
 

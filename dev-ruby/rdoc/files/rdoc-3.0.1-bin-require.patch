@@ -12,7 +12,7 @@ Index: trunk/bin/rdoc
 +++ trunk/bin/rdoc	(working copy)
 @@ -8,6 +8,7 @@
  #
- #  $Revision$
+ #  $Revision: 1.1 $
  
 +$:.unshift(File.dirname(__FILE__) + '/../lib') unless $:.include?(File.dirname(__FILE__) + '/../lib')
  require 'rdoc/rdoc'

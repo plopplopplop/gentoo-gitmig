@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/bombono-dvd/bombono-dvd-1.2.2.ebuild,v 1.3 2014/07/24 17:17:32 pacho Exp $
 
 EAPI=4
 SCONS_MIN_VERSION="0.96.1"

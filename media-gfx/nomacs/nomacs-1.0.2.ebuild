@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/nomacs/nomacs-1.0.2.ebuild,v 1.1 2013/06/12 14:39:56 kensington Exp $
 
 EAPI=5
 

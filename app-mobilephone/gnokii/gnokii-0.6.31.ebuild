@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-mobilephone/gnokii/gnokii-0.6.31.ebuild,v 1.1 2012/09/11 04:17:55 ottxor Exp $
 
 EAPI=4
 

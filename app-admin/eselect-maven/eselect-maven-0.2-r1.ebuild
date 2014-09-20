@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-maven/eselect-maven-0.2-r1.ebuild,v 1.5 2013/04/06 10:25:13 caster Exp $
 
 EAPI=3
 

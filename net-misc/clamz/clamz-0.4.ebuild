@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/clamz/clamz-0.4.ebuild,v 1.5 2014/03/01 22:39:08 mgorny Exp $
 
 EAPI=3
 inherit fdo-mime

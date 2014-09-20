@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/astmanproxy/astmanproxy-1.28.2.ebuild,v 1.1 2014/02/10 11:34:11 chainsaw Exp $
 
 EAPI=5
 inherit base multilib toolchain-funcs

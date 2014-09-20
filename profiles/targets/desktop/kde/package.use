@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/targets/desktop/kde/package.use,v 1.7 2014/04/22 15:48:15 kensington Exp $
 
 # Required by kde-base/pykde4
 dev-python/PyQt4 script sql webkit

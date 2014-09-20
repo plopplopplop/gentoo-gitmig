@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/kedpm/kedpm-0.4.0-r1.ebuild,v 1.3 2011/04/06 17:59:12 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

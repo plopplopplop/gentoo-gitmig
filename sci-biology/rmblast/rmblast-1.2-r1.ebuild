@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/rmblast/rmblast-1.2-r1.ebuild,v 1.1 2013/02/18 10:48:11 jlec Exp $
 
 EAPI=5
 

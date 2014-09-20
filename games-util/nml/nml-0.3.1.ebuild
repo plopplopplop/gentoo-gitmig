@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/nml/nml-0.3.1.ebuild,v 1.1 2014/06/11 15:17:53 mr_bones_ Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_6 python2_7 )

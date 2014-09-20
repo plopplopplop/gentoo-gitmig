@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/xfce4-dev-tools/xfce4-dev-tools-4.11.0.ebuild,v 1.1 2014/03/11 13:09:57 ssuominen Exp $
 
 EAPI=5
 inherit xfconf

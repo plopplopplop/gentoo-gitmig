@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/mplay-sh/mplay-sh-0.5.3.ebuild,v 1.2 2009/03/30 22:19:32 hd_brummy Exp $
 
 inherit eutils
 

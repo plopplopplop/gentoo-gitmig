@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/gnome-disk-utility/gnome-disk-utility-3.0.2-r201.ebuild,v 1.9 2012/10/28 16:32:46 armin76 Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/clustal-omega/clustal-omega-1.1.0.ebuild,v 1.1 2013/04/26 10:06:03 jlec Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/d2x-rebirth/d2x-rebirth-0.58.1.ebuild,v 1.1 2014/07/02 05:48:27 mr_bones_ Exp $
 
 EAPI=5
 

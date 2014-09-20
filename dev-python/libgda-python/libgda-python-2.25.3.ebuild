@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/libgda-python/libgda-python-2.25.3.ebuild,v 1.10 2012/08/13 09:31:09 tetromino Exp $
 
 EAPI="2"
 G_PY_PN="gnome-python-extras"

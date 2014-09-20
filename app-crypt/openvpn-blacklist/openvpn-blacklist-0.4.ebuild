@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/openvpn-blacklist/openvpn-blacklist-0.4.ebuild,v 1.1 2009/06/28 11:04:10 hanno Exp $
 
 DESCRIPTION="Detection of weak openvpn keys produced by certain debian versions between 2006 and 2008"
 HOMEPAGE="http://packages.debian.org/sid/openvpn-blacklist"

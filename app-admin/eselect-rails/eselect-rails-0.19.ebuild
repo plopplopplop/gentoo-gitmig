@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-rails/eselect-rails-0.19.ebuild,v 1.1 2013/10/07 08:41:29 graaff Exp $
 
 EAPI=5
 

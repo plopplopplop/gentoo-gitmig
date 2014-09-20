@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/avant-window-navigator/avant-window-navigator-0.4.2.ebuild,v 1.4 2014/08/21 08:25:52 jer Exp $
 
 EAPI=5
 GCONF_DEBUG=no

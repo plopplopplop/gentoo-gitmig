@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/gpe-lights/gpe-lights-0.13.ebuild,v 1.2 2010/10/18 17:15:51 mr_bones_ Exp $
 
 EAPI=2
 inherit gpe

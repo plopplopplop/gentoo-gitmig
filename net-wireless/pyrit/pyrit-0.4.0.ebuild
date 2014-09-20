@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/pyrit/pyrit-0.4.0.ebuild,v 1.1 2012/03/29 16:46:45 maksbotan Exp $
 
 EAPI=4
 

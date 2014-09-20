@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/webapp-config/webapp-config-1.52.ebuild,v 1.2 2013/11/30 16:27:54 jer Exp $
 
 EAPI="5"
 

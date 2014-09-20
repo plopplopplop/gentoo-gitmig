@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/sablecc/sablecc-3.2.ebuild,v 1.4 2010/05/22 13:42:17 pacho Exp $
 
 JAVA_PKG_IUSE="source"
 

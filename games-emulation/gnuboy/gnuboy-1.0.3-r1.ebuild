@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/gnuboy/gnuboy-1.0.3-r1.ebuild,v 1.1 2014/07/04 08:11:39 mr_bones_ Exp $
 
 EAPI=5
 inherit autotools eutils games

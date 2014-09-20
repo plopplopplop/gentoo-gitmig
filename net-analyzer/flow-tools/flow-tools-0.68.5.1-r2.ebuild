@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/flow-tools/flow-tools-0.68.5.1-r2.ebuild,v 1.6 2014/04/13 14:34:03 jer Exp $
 
 EAPI=4
 inherit eutils user

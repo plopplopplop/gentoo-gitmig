@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/musca/musca-0.9.24_p20100226-r3.ebuild,v 1.1 2014/01/07 18:20:04 jer Exp $
 
 EAPI="4"
 

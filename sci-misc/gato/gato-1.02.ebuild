@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-misc/gato/gato-1.02.ebuild,v 1.1 2010/06/24 12:51:38 jlec Exp $
 
 EAPI="3"
 

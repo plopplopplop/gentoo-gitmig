@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/parassign/parassign-20130522.ebuild,v 1.3 2013/06/04 12:49:41 jlec Exp $
 
 EAPI=5
 

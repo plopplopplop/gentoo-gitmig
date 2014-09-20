@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/rednotebook/rednotebook-1.7.3.ebuild,v 1.3 2014/01/13 20:52:11 mattm Exp $
 
 EAPI="4"
 PYTHON_COMPAT=( python2_7 )

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/bsd-games-non-free/bsd-games-non-free-2.17.ebuild,v 1.7 2010/09/21 10:56:43 tupone Exp $
 
 EAPI=2
 inherit games

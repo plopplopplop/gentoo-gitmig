@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnustep-apps/gnumail/gnumail-1.2.0_pre3-r1.ebuild,v 1.8 2011/06/06 09:09:49 voyageur Exp $
 
 inherit gnustep-2
 

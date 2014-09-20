@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/brainworkshop/brainworkshop-4.8.4.ebuild,v 1.2 2013/09/05 19:44:50 mgorny Exp $
 
 EAPI=5
 

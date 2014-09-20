@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/bluefish/bluefish-2.2.2.ebuild,v 1.11 2014/08/10 17:40:30 slyfox Exp $
 
 EAPI=4
 

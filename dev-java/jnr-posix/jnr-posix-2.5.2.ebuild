@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jnr-posix/jnr-posix-2.5.2.ebuild,v 1.1 2013/09/17 14:40:43 tomwij Exp $
 
 EAPI="5"
 

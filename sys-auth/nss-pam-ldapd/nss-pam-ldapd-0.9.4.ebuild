@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/nss-pam-ldapd/nss-pam-ldapd-0.9.4.ebuild,v 1.1 2014/06/15 03:51:12 prometheanfire Exp $
 
 EAPI=5
 

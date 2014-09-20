@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-nds/openldap/openldap-2.4.38-r2.ebuild,v 1.15 2014/08/10 17:25:37 ago Exp $
 
 EAPI="5"
 

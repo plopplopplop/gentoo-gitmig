@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/mariadb-galera/mariadb-galera-10.0.13.ebuild,v 1.1 2014/09/03 22:44:00 grknight Exp $
 
 EAPI="5"
 MY_EXTRAS_VER="20140903-1928Z"

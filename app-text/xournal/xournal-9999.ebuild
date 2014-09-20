@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/xournal/xournal-9999.ebuild,v 1.8 2014/08/10 18:38:21 slyfox Exp $
 
 EAPI=5
 

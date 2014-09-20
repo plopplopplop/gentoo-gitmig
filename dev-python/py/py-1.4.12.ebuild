@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/py/py-1.4.12.ebuild,v 1.1 2012/11/13 10:30:00 patrick Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

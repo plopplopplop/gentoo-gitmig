@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/sil-abyssinica/sil-abyssinica-1.200.ebuild,v 1.3 2012/05/27 12:21:12 yngwin Exp $
 
 EAPI="4"
 

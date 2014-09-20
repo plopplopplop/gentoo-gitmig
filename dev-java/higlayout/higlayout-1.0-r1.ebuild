@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/higlayout/higlayout-1.0-r1.ebuild,v 1.4 2007/10/27 14:01:14 angelos Exp $
 
 inherit java-pkg-2
 

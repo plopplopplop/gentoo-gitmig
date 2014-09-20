@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pypax/pypax-0.8.4.ebuild,v 1.12 2014/09/08 20:49:32 blueness Exp $
 
 EAPI="5"
 

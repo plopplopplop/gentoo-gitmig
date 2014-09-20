@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/java-sdk-docs/java-sdk-docs-1.7.0.55.ebuild,v 1.2 2014/05/23 13:26:21 mrueg Exp $
 
 EAPI=5
 

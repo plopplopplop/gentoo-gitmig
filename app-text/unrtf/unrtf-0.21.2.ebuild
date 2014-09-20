@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/unrtf/unrtf-0.21.2.ebuild,v 1.1 2011/12/20 04:16:22 robbat2 Exp $
 
 EAPI="4"
 

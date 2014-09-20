@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/bwa/bwa-0.5.9.ebuild,v 1.1 2011/05/01 09:19:52 jlec Exp $
 
 EAPI=2
 

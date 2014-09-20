@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/timidity++/timidity++-2.14.0-r1.ebuild,v 1.6 2014/05/17 15:13:39 swift Exp $
 
 EAPI=5
 inherit autotools eutils elisp-common user systemd toolchain-funcs

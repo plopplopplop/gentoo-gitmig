@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/msv/msv-20050627-r3.ebuild,v 1.5 2012/04/15 18:39:26 vapier Exp $
 
 EAPI=1
 JAVA_PKG_IUSE="doc source"

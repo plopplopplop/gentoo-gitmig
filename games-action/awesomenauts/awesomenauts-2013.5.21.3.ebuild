@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/awesomenauts/awesomenauts-2013.5.21.3.ebuild,v 1.3 2014/06/25 13:46:17 mgorny Exp $
 
 EAPI=5
 

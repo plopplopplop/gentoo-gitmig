@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/trnascan-se/trnascan-se-1.23-r1.ebuild,v 1.6 2009/08/05 18:45:47 ssuominen Exp $
 
 inherit eutils toolchain-funcs
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyro/pyro-4.24.ebuild,v 1.7 2014/07/17 02:06:27 idella4 Exp $
 
 EAPI=5
 

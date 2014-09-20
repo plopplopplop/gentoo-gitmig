@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/setconf/setconf-0.6.2.ebuild,v 1.4 2014/03/29 15:08:53 floppym Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_{2,3,4}} )

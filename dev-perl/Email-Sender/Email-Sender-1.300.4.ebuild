@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Email-Sender/Email-Sender-1.300.4.ebuild,v 1.1 2013/02/10 12:23:57 tove Exp $
 
 EAPI=5
 

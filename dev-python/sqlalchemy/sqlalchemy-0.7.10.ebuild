@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/sqlalchemy/sqlalchemy-0.7.10.ebuild,v 1.5 2013/10/31 05:11:28 floppym Exp $
 
 EAPI=5
 # py3 appears underdone, 

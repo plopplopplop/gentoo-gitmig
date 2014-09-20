@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/qtm/qtm-1.3.14.ebuild,v 1.2 2014/01/03 22:35:36 pinkbyte Exp $
 
 EAPI="4"
 

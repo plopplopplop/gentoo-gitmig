@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/weasyprint/weasyprint-0.22.ebuild,v 1.3 2014/07/03 17:19:54 idella4 Exp $
 
 EAPI="5"
 

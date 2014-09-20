@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/tcomment/tcomment-3.01.ebuild,v 1.1 2014/03/29 00:04:01 radhermit Exp $
 
 EAPI=5
 

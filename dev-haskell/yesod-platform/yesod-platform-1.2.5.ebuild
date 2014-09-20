@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/yesod-platform/yesod-platform-1.2.5.ebuild,v 1.1 2013/12/11 06:59:50 gienah Exp $
 
 EAPI=5
 

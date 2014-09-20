@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-visualization/paraview/paraview-4.1.0-r1.ebuild,v 1.3 2014/05/22 20:05:57 hasufell Exp $
 
 EAPI=5
 

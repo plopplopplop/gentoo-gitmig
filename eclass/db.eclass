@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/db.eclass,v 1.49 2013/07/21 09:23:45 pacho Exp $
 # This is a common location for functions used in the sys-libs/db ebuilds
 #
 # Bugs: maintainer-needed@gentoo.org

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/bluez/bluez-4.101-r8.ebuild,v 1.7 2014/01/19 10:31:05 ago Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

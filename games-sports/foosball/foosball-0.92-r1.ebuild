@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-sports/foosball/foosball-0.92-r1.ebuild,v 1.2 2008/05/02 23:01:31 nyhm Exp $
 
 inherit eutils games
 

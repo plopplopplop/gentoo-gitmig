@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/acetoneiso/acetoneiso-2.3.ebuild,v 1.4 2013/11/18 21:21:43 hwoarang Exp $
 
 EAPI=4
 MY_P=${PN}_${PV}

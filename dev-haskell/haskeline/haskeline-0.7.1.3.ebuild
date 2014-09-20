@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/haskeline/haskeline-0.7.1.3.ebuild,v 1.2 2014/07/25 09:16:17 slyfox Exp $
 
 EAPI=5
 

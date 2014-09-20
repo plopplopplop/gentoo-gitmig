@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/fluxbox/fluxbox-9999.ebuild,v 1.13 2013/01/08 21:32:50 lack Exp $
 
 EAPI=4
 inherit eutils flag-o-matic toolchain-funcs git-2 prefix

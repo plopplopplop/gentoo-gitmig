@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/zeromq/zeromq-2.2.0.ebuild,v 1.15 2014/08/10 20:50:54 slyfox Exp $
 
 # NOTES:
 # 1- use flag 'pgm' (OpenPGM support) must be masked by profiles for ARM archs;

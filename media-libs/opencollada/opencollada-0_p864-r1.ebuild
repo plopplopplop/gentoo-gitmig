@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/opencollada/opencollada-0_p864-r1.ebuild,v 1.4 2012/12/01 18:32:28 blueness Exp $
 
 EAPI="3"
 

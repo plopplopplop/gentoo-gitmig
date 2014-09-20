@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/yatebts/yatebts-9999.ebuild,v 1.3 2014/07/27 21:44:56 zerochaos Exp $
 
 EAPI=5
 

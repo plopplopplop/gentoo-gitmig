@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/git-annex/git-annex-5.20140717.ebuild,v 1.2 2014/07/20 07:35:01 slyfox Exp $
 
 EAPI=5
 

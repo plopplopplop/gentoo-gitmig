@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/gamin/gamin-0.1.10.ebuild,v 1.11 2012/04/26 17:34:06 aballier Exp $
 
 DESCRIPTION="Meta package providing the File Alteration Monitor API & Server"
 HOMEPAGE="http://www.gnome.org/~veillard/gamin/"

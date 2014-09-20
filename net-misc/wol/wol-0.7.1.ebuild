@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/wol/wol-0.7.1.ebuild,v 1.12 2014/08/10 20:49:10 slyfox Exp $
 
 DESCRIPTION="Wake On LAN client, wakes up hardware that is Magic Packet compliant"
 HOMEPAGE="http://ahh.sourceforge.net/wol/"

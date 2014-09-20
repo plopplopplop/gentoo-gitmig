@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/haveged/haveged-1.9.1.ebuild,v 1.1 2014/02/24 22:45:57 blueness Exp $
 
 EAPI=5
 

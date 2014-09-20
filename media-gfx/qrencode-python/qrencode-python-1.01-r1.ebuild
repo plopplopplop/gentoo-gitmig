@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/qrencode-python/qrencode-python-1.01-r1.ebuild,v 1.1 2013/06/10 15:13:19 jlec Exp $
 
 EAPI=5
 

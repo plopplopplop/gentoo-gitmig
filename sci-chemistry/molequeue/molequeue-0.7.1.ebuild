@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/molequeue/molequeue-0.7.1.ebuild,v 1.3 2014/01/16 18:07:13 jlec Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/llpp/llpp-20_p20140818.ebuild,v 1.1 2014/08/25 15:25:09 xmw Exp $
 
 EAPI=5
 

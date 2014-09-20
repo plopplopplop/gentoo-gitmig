@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/virt-manager/virt-manager-0.10.0-r2.ebuild,v 1.5 2014/08/27 07:57:29 pinkbyte Exp $
 
 EAPI=5
 

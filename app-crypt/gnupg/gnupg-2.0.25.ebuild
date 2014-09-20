@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/gnupg/gnupg-2.0.25.ebuild,v 1.11 2014/07/12 18:57:31 tgall Exp $
 
 EAPI="5"
 

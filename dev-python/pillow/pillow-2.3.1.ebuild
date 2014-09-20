@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pillow/pillow-2.3.1.ebuild,v 1.1 2014/04/18 13:39:06 floppym Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7,3_2,3_3} )

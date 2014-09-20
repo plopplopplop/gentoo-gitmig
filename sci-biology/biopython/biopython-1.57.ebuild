@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/biopython/biopython-1.57.ebuild,v 1.6 2012/12/14 10:00:10 ulm Exp $
 
 EAPI=3
 PYTHON_DEPEND="2"

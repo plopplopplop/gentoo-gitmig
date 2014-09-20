@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/java-access-bridge/java-access-bridge-1.26.2.ebuild,v 1.5 2012/12/08 21:40:27 ago Exp $
 
 EAPI=4
 GNOME_TARBALL_SUFFIX="bz2"

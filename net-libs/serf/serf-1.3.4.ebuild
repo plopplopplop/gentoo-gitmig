@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/serf/serf-1.3.4.ebuild,v 1.7 2014/06/14 10:41:53 phajdan.jr Exp $
 
 EAPI="5"
 

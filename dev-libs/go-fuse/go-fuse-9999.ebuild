@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/go-fuse/go-fuse-9999.ebuild,v 1.5 2014/06/28 17:53:37 zerochaos Exp $
 
 EAPI=5
 

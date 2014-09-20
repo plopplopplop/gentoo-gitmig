@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/java-sdk-docs/java-sdk-docs-1.6.0.25.ebuild,v 1.4 2012/03/06 21:10:32 ranger Exp $
 
 ORIG_NAME="jdk-6u25-fcs-bin-b04-apidocs-04_Apr_2011.zip"
 SRC_URI="jdk-6u25-fcs-bin-b04-apidocs-04_Apr_2011.zip"

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-powerpuff/fortune-mod-powerpuff-0.3.ebuild,v 1.6 2010/12/12 16:29:40 grobian Exp $
 
 MY_PN=powerpuff
 DESCRIPTION="Quotes taken from the Power Puff Girls series from Cartoon Network"

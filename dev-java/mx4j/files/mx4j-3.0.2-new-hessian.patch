@@ -28,7 +28,7 @@ diff -Nru mx4j-3.0.2.vanilla/src/tools/mx4j/tools/remote/caucho/serialization/JM
 +import com.caucho.hessian.io.AbstractSerializer;
  
  /**
-  * @version $Revision$
+  * @version $Revision: 1.3 $
   */
 -class JMXSerializer extends Serializer
 +class JMXSerializer extends AbstractSerializer

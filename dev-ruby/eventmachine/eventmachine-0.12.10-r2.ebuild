@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/eventmachine/eventmachine-0.12.10-r2.ebuild,v 1.10 2014/08/05 16:01:02 mrueg Exp $
 
 EAPI="2"
 # jruby → has shims for Java handling but tests fail badly, remaining

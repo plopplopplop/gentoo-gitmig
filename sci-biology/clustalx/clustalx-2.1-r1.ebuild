@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/clustalx/clustalx-2.1-r1.ebuild,v 1.1 2014/01/06 08:33:15 jlec Exp $
 
 EAPI=5
 

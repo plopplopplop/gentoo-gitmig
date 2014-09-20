@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/edox-data/edox-data-0.16.8_pre2.ebuild,v 1.1 2006/10/22 05:40:11 vapier Exp $
 
 inherit eutils
 

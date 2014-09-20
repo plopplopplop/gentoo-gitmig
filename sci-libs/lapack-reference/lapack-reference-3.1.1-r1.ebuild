@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/lapack-reference/lapack-reference-3.1.1-r1.ebuild,v 1.33 2013/02/21 21:27:56 jlec Exp $
 
 inherit autotools eutils fortran-2 flag-o-matic multilib toolchain-funcs
 

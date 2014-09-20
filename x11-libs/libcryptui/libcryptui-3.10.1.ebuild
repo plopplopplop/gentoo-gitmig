@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libcryptui/libcryptui-3.10.1.ebuild,v 1.5 2014/03/09 12:04:48 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="yes"

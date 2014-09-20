@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/duhdraw/duhdraw-2.8.13.ebuild,v 1.7 2010/01/07 22:02:50 fauli Exp $
 
 inherit toolchain-funcs eutils
 

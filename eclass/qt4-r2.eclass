@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/qt4-r2.eclass,v 1.30 2014/06/23 08:53:48 pinkbyte Exp $
 
 # @ECLASS: qt4-r2.eclass
 # @MAINTAINER:

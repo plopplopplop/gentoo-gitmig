@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/librosprite/librosprite-0.1.0.ebuild,v 1.3 2014/01/05 19:09:35 grobian Exp $
 
 EAPI=5
 

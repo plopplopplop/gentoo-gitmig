@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-embedded/libftdi/libftdi-0.18.ebuild,v 1.2 2010/09/09 18:04:18 vapier Exp $
 
 EAPI="2"
 

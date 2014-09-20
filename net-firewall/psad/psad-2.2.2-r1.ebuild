@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-firewall/psad/psad-2.2.2-r1.ebuild,v 1.5 2014/03/24 15:10:02 ago Exp $
 
 EAPI=4
 #PERL_EXPORT_PHASE_FUNCTIONS=no

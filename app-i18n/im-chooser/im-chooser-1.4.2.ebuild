@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/im-chooser/im-chooser-1.4.2.ebuild,v 1.2 2012/05/03 19:24:26 jdhore Exp $
 
 EAPI=3
 inherit gnome2

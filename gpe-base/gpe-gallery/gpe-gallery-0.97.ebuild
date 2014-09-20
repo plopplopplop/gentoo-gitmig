@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/gpe-gallery/gpe-gallery-0.97.ebuild,v 1.1 2009/07/06 20:13:14 miknix Exp $
 
 inherit gpe
 

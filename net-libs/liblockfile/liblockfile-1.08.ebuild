@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/liblockfile/liblockfile-1.08.ebuild,v 1.8 2014/01/08 06:42:31 vapier Exp $
 
 EAPI=2
 

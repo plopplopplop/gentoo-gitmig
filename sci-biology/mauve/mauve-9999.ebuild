@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/mauve/mauve-9999.ebuild,v 1.2 2010/03/09 13:04:57 abcd Exp $
 
 EAPI="2"
 

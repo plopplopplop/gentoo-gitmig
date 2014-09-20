@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/fsniper/fsniper-1.3.1.ebuild,v 1.5 2011/10/07 14:57:06 jlec Exp $
 
 DESCRIPTION="Tool that monitors a given set of directories for new files"
 HOMEPAGE="https://github.com/l3ib/fsniper/"

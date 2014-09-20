@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/nose-cover3/nose-cover3-0.1.0-r1.ebuild,v 1.4 2014/04/08 02:50:20 idella4 Exp $
 
 EAPI=5
 

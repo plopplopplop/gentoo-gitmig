@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/an/an-1.1.ebuild,v 1.8 2014/03/02 17:28:00 jer Exp $
 
 EAPI=5
 

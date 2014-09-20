@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Devel-Size/Devel-Size-0.780.0.ebuild,v 1.4 2013/04/30 18:22:13 xarthisius Exp $
 
 EAPI=4
 

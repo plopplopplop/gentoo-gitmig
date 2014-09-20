@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/e16keyedit/e16keyedit-0.6.ebuild,v 1.7 2012/12/28 18:05:50 ulm Exp $
 
 DESCRIPTION="Key binding editor for enlightenment 16"
 HOMEPAGE="http://www.enlightenment.org/"

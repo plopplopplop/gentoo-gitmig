@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/bomberclone/bomberclone-0.11.8.ebuild,v 1.9 2012/09/05 07:44:06 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils autotools games

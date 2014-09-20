@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-block/iscsitarget/iscsitarget-1.4.20.2_p20130821.ebuild,v 1.2 2013/10/03 17:50:56 ryao Exp $
 
 EAPI="4"
 

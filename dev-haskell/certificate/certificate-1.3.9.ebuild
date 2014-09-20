@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/certificate/certificate-1.3.9.ebuild,v 1.3 2014/01/26 11:01:43 ago Exp $
 
 EAPI=5
 

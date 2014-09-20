@@ -1,4 +1,4 @@
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/siege/files/siege.bash-completion,v 1.1 2004/11/21 10:00:20 ka0ttic Exp $
 # siege completion
 
 _siege() {

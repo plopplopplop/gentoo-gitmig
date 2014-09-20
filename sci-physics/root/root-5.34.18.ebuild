@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-physics/root/root-5.34.18.ebuild,v 1.2 2014/09/01 16:40:31 mgorny Exp $
 
 EAPI=5
 

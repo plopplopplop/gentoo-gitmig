@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-qt/qtcore/qtcore-4.8.5-r1.ebuild,v 1.11 2014/07/07 20:03:53 pesa Exp $
 
 EAPI=5
 

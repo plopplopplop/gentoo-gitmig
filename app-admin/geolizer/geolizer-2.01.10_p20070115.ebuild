@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/geolizer/geolizer-2.01.10_p20070115.ebuild,v 1.3 2010/09/17 06:47:32 sping Exp $
 
 # uses webapp.eclass to create directories with right permissions
 # probably slight overkill but works well

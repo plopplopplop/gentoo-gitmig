@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/kmymoney/kmymoney-4.6.4.ebuild,v 1.3 2013/12/24 12:47:00 ago Exp $
 
 EAPI=5
 KDE_LINGUAS="bg bs ca ca@valencia cs da de el en_GB eo es et eu fi fr ga gl

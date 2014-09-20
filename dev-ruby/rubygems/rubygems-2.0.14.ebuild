@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rubygems/rubygems-2.0.14.ebuild,v 1.15 2014/08/15 17:36:02 armin76 Exp $
 
 EAPI=5
 

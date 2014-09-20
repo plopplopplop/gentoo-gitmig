@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mate-extra/mate-dialogs/mate-dialogs-1.6.2.ebuild,v 1.4 2014/05/04 14:54:27 ago Exp $
 
 EAPI="5"
 

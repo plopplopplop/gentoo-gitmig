@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/opencascade/opencascade-6.7.0.ebuild,v 1.1 2014/04/23 21:00:11 xmw Exp $
 
 EAPI=5
 

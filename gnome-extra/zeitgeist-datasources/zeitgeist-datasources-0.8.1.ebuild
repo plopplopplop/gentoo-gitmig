@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/zeitgeist-datasources/zeitgeist-datasources-0.8.1.ebuild,v 1.7 2013/12/08 20:00:35 pacho Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyyaml/pyyaml-3.10.ebuild,v 1.6 2012/07/01 15:53:42 hattya Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

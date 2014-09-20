@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/camlidl/camlidl-1.05.ebuild,v 1.5 2010/02/25 18:56:05 zmedico Exp $
 
 EAPI="2"
 

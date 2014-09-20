@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/opendkim/opendkim-2.9.2-r1.ebuild,v 1.5 2014/08/14 16:17:22 phajdan.jr Exp $
 
 EAPI=5
 inherit autotools db-use eutils systemd user

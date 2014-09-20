@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/onis/onis-0.6.1.ebuild,v 1.6 2009/06/06 21:38:09 cla Exp $
 
 inherit eutils
 

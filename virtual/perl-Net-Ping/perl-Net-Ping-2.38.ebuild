@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Net-Ping/perl-Net-Ping-2.38.ebuild,v 1.1 2014/07/23 00:25:07 dilfridge Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/postal2mp-demo/postal2mp-demo-1407-r1.ebuild,v 1.6 2012/12/15 19:24:08 tupone Exp $
 
 EAPI=2
 inherit eutils unpacker multilib games

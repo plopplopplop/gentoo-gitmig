@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/tomoe/tomoe-0.6.0.ebuild,v 1.5 2012/05/03 19:24:32 jdhore Exp $
 
 DESCRIPTION="Japanese handwriting recognition engine"
 HOMEPAGE="http://tomoe.sourceforge.jp/"

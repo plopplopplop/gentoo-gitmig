@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libproxy/libproxy-0.4.10-r1.ebuild,v 1.14 2013/08/09 13:43:34 axs Exp $
 
 EAPI=4
 PYTHON_DEPEND="python? 2:2.6"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libaacs/libaacs-0.7.1.ebuild,v 1.1 2014/06/20 07:58:19 radhermit Exp $
 
 EAPI=5
 

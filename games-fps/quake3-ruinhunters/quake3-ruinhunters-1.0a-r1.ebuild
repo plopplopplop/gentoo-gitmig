@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake3-ruinhunters/quake3-ruinhunters-1.0a-r1.ebuild,v 1.4 2009/10/10 17:29:39 nyhm Exp $
 
 EAPI=2
 

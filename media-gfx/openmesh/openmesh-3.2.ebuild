@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/openmesh/openmesh-3.2.ebuild,v 1.1 2014/08/25 23:14:55 jsbronder Exp $
 
 EAPI="5"
 inherit eutils cmake-utils

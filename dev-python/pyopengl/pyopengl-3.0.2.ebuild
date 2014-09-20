@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyopengl/pyopengl-3.0.2.ebuild,v 1.1 2012/10/30 07:56:23 patrick Exp $
 
 EAPI="3"
 PYTHON_USE_WITH="tk"

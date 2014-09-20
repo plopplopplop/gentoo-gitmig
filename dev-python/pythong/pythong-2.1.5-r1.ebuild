@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pythong/pythong-2.1.5-r1.ebuild,v 1.7 2013/01/22 19:06:03 jlec Exp $
 
 EAPI="3"
 PYTHON_USE_WITH="tk"

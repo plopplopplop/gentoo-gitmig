@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/pstoedit/pstoedit-3.60.ebuild,v 1.5 2012/06/28 12:47:18 naota Exp $
 
 EAPI=4
 inherit autotools eutils

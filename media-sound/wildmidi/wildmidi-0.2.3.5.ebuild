@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/wildmidi/wildmidi-0.2.3.5.ebuild,v 1.8 2013/02/16 08:11:46 pacho Exp $
 
 EAPI=5
 inherit base autotools readme.gentoo

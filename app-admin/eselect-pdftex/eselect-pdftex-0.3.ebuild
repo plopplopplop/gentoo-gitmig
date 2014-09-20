@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-pdftex/eselect-pdftex-0.3.ebuild,v 1.5 2010/05/21 17:46:17 pva Exp $
 
 inherit eutils
 

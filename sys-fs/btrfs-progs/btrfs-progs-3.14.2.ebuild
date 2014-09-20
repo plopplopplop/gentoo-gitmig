@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/btrfs-progs/btrfs-progs-3.14.2.ebuild,v 1.4 2014/09/13 12:22:27 maekke Exp $
 
 EAPI=5
 

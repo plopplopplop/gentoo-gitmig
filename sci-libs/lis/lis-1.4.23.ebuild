@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/lis/lis-1.4.23.ebuild,v 1.1 2014/01/15 05:38:39 bicatali Exp $
 
 EAPI=5
 

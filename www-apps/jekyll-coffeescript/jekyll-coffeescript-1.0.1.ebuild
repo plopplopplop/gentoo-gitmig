@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/jekyll-coffeescript/jekyll-coffeescript-1.0.1.ebuild,v 1.1 2014/09/02 00:53:05 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

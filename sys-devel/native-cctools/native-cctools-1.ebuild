@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/native-cctools/native-cctools-1.ebuild,v 1.1 2011/02/09 15:53:53 haubi Exp $
 
 EAPI="3"
 

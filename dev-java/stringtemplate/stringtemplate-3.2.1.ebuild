@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/stringtemplate/stringtemplate-3.2.1.ebuild,v 1.4 2013/02/05 07:00:10 zerochaos Exp $
 
 EAPI="2"
 JAVA_PKG_IUSE="doc source test"

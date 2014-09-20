@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/freeimage/freeimage-3.15.4.ebuild,v 1.9 2014/08/09 18:36:35 nativemad Exp $
 
 EAPI="4"
 

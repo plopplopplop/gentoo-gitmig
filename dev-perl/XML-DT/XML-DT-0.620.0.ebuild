@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/XML-DT/XML-DT-0.620.0.ebuild,v 1.6 2013/02/20 15:58:08 ago Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Cairo/Cairo-1.103.0.ebuild,v 1.10 2014/04/18 17:37:19 zlogene Exp $
 
 EAPI=5
 

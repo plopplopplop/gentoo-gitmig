@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-input-void/xf86-input-void-1.4.0.ebuild,v 1.12 2013/07/04 03:03:06 heroxbd Exp $
 
 EAPI=4
 inherit xorg-2

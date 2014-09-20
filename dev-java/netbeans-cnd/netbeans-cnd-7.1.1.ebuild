@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/netbeans-cnd/netbeans-cnd-7.1.1.ebuild,v 1.4 2012/12/06 12:25:30 fordfrog Exp $
 
 EAPI="4"
 WANT_ANT_TASKS="ant-nodeps"

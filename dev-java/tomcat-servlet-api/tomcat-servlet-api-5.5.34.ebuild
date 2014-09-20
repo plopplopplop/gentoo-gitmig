@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/tomcat-servlet-api/tomcat-servlet-api-5.5.34.ebuild,v 1.3 2013/02/05 07:28:11 zerochaos Exp $
 
 inherit eutils java-pkg-2 java-ant-2 java-osgi
 

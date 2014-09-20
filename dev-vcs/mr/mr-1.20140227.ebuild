@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/mr/mr-1.20140227.ebuild,v 1.1 2014/03/24 21:02:53 dastergon Exp $
 
 EAPI=5
 

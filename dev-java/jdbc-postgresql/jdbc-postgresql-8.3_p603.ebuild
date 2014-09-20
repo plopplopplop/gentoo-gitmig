@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jdbc-postgresql/jdbc-postgresql-8.3_p603.ebuild,v 1.6 2013/09/19 20:20:44 titanofold Exp $
 
 JAVA_PKG_IUSE="doc source"
 inherit java-pkg-2 java-ant-2

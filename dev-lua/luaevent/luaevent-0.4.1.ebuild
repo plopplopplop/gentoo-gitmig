@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lua/luaevent/luaevent-0.4.1.ebuild,v 1.1 2012/08/13 14:34:52 blueness Exp $
 
 EAPI="4"
 

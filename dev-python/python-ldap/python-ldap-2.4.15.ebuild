@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-ldap/python-ldap-2.4.15.ebuild,v 1.2 2014/06/26 15:18:18 idella4 Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/nuvola/nuvola-1.0-r1.ebuild,v 1.13 2009/10/14 17:15:03 ssuominen Exp $
 
 DESCRIPTION="Nuvola SVG icon theme"
 HOMEPAGE="http://www.kde-look.org/content/show.php?content=5358"

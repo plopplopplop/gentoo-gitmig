@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libuninameslist/libuninameslist-20080409.ebuild,v 1.11 2010/01/15 09:43:44 fauli Exp $
 
 DESCRIPTION="Library of unicode annotation data"
 HOMEPAGE="http://libuninameslist.sourceforge.net/"

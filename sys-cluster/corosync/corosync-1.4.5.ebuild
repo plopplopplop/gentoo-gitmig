@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/corosync/corosync-1.4.5.ebuild,v 1.1 2013/01/18 10:22:53 ultrabug Exp $
 
 EAPI=4
 

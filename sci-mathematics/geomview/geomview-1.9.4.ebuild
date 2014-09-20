@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/geomview/geomview-1.9.4.ebuild,v 1.9 2013/11/11 22:16:29 mr_bones_ Exp $
 
 EAPI=1
 

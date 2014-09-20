@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/geos/geos-3.3.8-r1.ebuild,v 1.7 2013/04/12 07:08:26 vincent Exp $
 
 EAPI=4
 

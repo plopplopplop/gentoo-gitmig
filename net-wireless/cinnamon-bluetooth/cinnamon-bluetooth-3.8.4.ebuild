@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/cinnamon-bluetooth/cinnamon-bluetooth-3.8.4.ebuild,v 1.2 2014/06/03 03:13:36 tetromino Exp $
 
 EAPI="5"
 GCONF_DEBUG="yes"

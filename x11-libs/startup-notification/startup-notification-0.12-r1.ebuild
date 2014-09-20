@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/startup-notification/startup-notification-0.12-r1.ebuild,v 1.1 2014/02/19 03:40:55 ssuominen Exp $
 
 EAPI=5
 inherit eutils xorg-2

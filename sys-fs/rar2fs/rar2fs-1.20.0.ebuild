@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/rar2fs/rar2fs-1.20.0.ebuild,v 1.1 2014/03/27 04:07:29 radhermit Exp $
 
 EAPI=5
 

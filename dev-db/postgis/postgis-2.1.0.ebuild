@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/postgis/postgis-2.1.0.ebuild,v 1.1 2013/08/18 19:18:15 titanofold Exp $
 
 EAPI="5"
 POSTGRES_COMPAT=( 9.{0,1,2,3} )

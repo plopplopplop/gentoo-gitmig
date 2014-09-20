@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/dvdrip/dvdrip-0.98.11-r2.ebuild,v 1.1 2014/08/27 17:21:14 axs Exp $
 
 EAPI=5
 inherit eutils flag-o-matic perl-module

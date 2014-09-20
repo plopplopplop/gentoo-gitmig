@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-gnat/files/gnat-common-1.4-r1.bash,v 1.1 2008/05/16 22:09:38 george Exp $
 
 #
 # Author: George Shapovalov <george@gentoo.org>

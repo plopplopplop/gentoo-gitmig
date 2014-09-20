@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/liquidwar6/liquidwar6-0.0.13_beta.ebuild,v 1.3 2014/05/15 17:05:28 ulm Exp $
 
 EAPI=5
 

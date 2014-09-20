@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/XML-Simple/XML-Simple-2.180.0.ebuild,v 1.3 2012/05/15 23:30:51 aballier Exp $
 
 EAPI=4
 

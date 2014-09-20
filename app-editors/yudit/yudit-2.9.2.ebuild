@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/yudit/yudit-2.9.2.ebuild,v 1.1 2012/10/07 12:54:22 ulm Exp $
 
 EAPI=4
 

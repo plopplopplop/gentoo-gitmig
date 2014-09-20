@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation.
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/desc/php_targets.desc,v 1.4 2014/01/28 09:47:35 olemarkus Exp $
 
 # This file contains descriptions of the PHP_TARGETS USE_EXPAND flags
 

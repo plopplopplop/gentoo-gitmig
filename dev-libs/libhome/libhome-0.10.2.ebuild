@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libhome/libhome-0.10.2.ebuild,v 1.3 2011/01/10 19:50:30 flameeyes Exp $
 
 inherit autotools db-use eutils
 

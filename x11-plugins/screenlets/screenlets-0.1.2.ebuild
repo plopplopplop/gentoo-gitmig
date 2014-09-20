@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/screenlets/screenlets-0.1.2.ebuild,v 1.2 2011/04/11 20:52:51 arfrever Exp $
 
 EAPI=3
 PYTHON_DEPEND="2"

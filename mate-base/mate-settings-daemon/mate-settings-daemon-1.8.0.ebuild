@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mate-base/mate-settings-daemon/mate-settings-daemon-1.8.0.ebuild,v 1.1 2014/04/17 14:52:48 tomwij Exp $
 
 EAPI="5"
 

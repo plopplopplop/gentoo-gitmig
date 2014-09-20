@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/ibus/ibus-1.5.5.ebuild,v 1.7 2014/08/01 08:28:40 maekke Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

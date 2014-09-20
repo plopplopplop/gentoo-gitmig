@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/timer_entropyd/timer_entropyd-0.1-r3.ebuild,v 1.3 2012/03/08 11:34:06 phajdan.jr Exp $
 
 EAPI=2
 

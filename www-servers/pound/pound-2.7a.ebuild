@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/pound/pound-2.7a.ebuild,v 1.2 2014/08/10 20:08:55 slyfox Exp $
 
 EAPI=2
 inherit eutils

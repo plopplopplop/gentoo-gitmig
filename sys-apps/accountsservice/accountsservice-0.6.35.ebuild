@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/accountsservice/accountsservice-0.6.35.ebuild,v 1.7 2014/04/18 19:51:08 swift Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

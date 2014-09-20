@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/colubrid/colubrid-0.10-r1.ebuild,v 1.4 2010/11/08 19:09:50 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

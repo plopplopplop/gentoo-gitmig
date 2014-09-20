@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/monomer-db/monomer-db-0.090729.ebuild,v 1.9 2011/10/25 06:06:56 jlec Exp $
 
 DESCRIPTION="Monomer library used for macromolecular structure building and refinement"
 HOMEPAGE="http://www.ccp4.ac.uk/"

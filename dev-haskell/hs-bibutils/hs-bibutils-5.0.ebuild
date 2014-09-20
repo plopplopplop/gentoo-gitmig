@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/hs-bibutils/hs-bibutils-5.0.ebuild,v 1.1 2013/08/06 09:22:02 slyfox Exp $
 
 EAPI=5
 

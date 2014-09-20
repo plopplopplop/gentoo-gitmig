@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/yubikey-personalization-gui/yubikey-personalization-gui-3.1.14.ebuild,v 1.1 2014/03/30 13:01:29 wschlich Exp $
 
 EAPI=5
 

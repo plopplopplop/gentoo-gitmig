@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/pithos/pithos-20130808.ebuild,v 1.2 2014/04/06 10:45:27 eva Exp $
 
 EAPI=5
 PYTHON_COMPAT=(python2_7)

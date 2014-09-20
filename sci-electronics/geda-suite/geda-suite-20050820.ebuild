@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/geda-suite/geda-suite-20050820.ebuild,v 1.6 2011/07/15 22:49:54 calchan Exp $
 
 HOMEPAGE="http://www.geda.seul.org"
 DESCRIPTION="Metapackage which installs all the components required for a full-featured gEDA/gaf system"

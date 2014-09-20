@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/ck-sources/ck-sources-3.7.10-r1.ebuild,v 1.2 2014/08/10 20:18:42 slyfox Exp $
 
 EAPI="5"
 ETYPE="sources"

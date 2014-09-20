@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/doom-data/doom-data-1-r1.ebuild,v 1.4 2013/02/25 02:42:56 vapier Exp $
 
 inherit eutils games
 

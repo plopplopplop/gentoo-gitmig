@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/milter-regex/milter-regex-1.9.ebuild,v 1.3 2014/03/02 08:05:32 ago Exp $
 
 EAPI=4
 

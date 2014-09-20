@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/dirmngr/dirmngr-1.1.1-r1.ebuild,v 1.1 2014/04/28 13:22:02 alonbl Exp $
 
 EAPI="5"
 

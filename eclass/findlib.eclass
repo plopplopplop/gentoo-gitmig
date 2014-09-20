@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/findlib.eclass,v 1.11 2011/08/22 04:46:31 vapier Exp $
 
 # @ECLASS: findlib.eclass
 # @MAINTAINER:

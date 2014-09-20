@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-autodie/perl-autodie-2.230.0.ebuild,v 1.1 2014/07/15 19:20:41 dilfridge Exp $
 
 EAPI=5
 

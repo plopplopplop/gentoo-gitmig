@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/netpbm/netpbm-10.66.00.ebuild,v 1.2 2014/06/16 00:15:40 vapier Exp $
 
 EAPI="4"
 

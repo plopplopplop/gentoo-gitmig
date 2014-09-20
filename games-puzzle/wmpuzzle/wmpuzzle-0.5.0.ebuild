@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/wmpuzzle/wmpuzzle-0.5.0.ebuild,v 1.5 2011/05/25 17:01:30 mr_bones_ Exp $
 
 inherit eutils games
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/lilypond/lilypond-9999.ebuild,v 1.8 2014/09/07 07:22:29 radhermit Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

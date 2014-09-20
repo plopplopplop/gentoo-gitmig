@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/icinga2/icinga2-2.0.2.ebuild,v 1.1 2014/08/22 05:27:00 prometheanfire Exp $
 
 EAPI=5
 inherit depend.apache eutils cmake-utils toolchain-funcs user versionator systemd

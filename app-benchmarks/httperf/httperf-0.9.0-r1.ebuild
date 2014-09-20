@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/httperf/httperf-0.9.0-r1.ebuild,v 1.5 2014/08/05 07:59:56 patrick Exp $
 
 EAPI=2
 

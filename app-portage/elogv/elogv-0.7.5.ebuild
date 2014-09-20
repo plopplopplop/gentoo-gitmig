@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/elogv/elogv-0.7.5.ebuild,v 1.3 2012/01/11 01:55:41 ottxor Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

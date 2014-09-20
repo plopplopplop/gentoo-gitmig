@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-base/pykde4/pykde4-4.13.3.ebuild,v 1.3 2014/07/17 11:40:55 kensington Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_2,3_3,3_4} )

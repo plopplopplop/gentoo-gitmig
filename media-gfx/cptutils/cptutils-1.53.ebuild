@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/cptutils/cptutils-1.53.ebuild,v 1.1 2014/04/25 05:14:39 radhermit Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_{6,7} )

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/aria/aria-2.3.2_p20130826.ebuild,v 1.2 2014/01/06 12:00:45 jlec Exp $
 
 EAPI=5
 

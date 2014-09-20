@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/javacup/javacup-0.11a_beta20060608.ebuild,v 1.15 2013/06/14 19:29:48 aballier Exp $
 
 JAVA_PKG_IUSE="source doc"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Email-MIME/Email-MIME-1.924.0.ebuild,v 1.3 2014/03/19 20:49:26 zlogene Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/kipi-plugins/kipi-plugins-4.0.0.ebuild,v 1.3 2014/09/15 23:30:42 reavertm Exp $
 
 EAPI=5
 
@@ -63,6 +63,7 @@ COMMONDEPEND="
 	vkontakte?	( net-libs/libkvkontakte )
 "
 DEPEND="${COMMONDEPEND}
+	sys-devel/gettext
 	panorama?	(
 			  sys-devel/bison
 			  sys-devel/flex

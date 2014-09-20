@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ipython/ipython-0.10.2.ebuild,v 1.8 2012/08/26 18:48:25 armin76 Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

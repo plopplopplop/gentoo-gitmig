@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/distutils-r1.eclass,v 1.102 2014/08/24 13:23:48 mgorny Exp $
 
 # @ECLASS: distutils-r1
 # @MAINTAINER:

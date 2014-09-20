@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libaosd/libaosd-0.2.7.ebuild,v 1.10 2014/08/21 11:42:26 armin76 Exp $
 
 EAPI=5
 inherit autotools-utils

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/vdr-skinelchi/vdr-skinelchi-0.2.7-r1.ebuild,v 1.1 2013/01/28 18:38:05 hd_brummy Exp $
 
 EAPI="5"
 

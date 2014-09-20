@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/trine-bin/trine-bin-1.08.ebuild,v 1.5 2013/03/29 15:48:19 hasufell Exp $
 
 # these are ELFs that include a ZIP (504b0304) appended to it
 #   dd if=Trine.64.run of=Trine.64.zip ibs=$((0x342a8)) skip=1

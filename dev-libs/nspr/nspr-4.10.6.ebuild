@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/nspr/nspr-4.10.6.ebuild,v 1.10 2014/07/05 12:57:47 ago Exp $
 
 EAPI=5
 WANT_AUTOCONF="2.5"

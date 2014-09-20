@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/python-wifi/python-wifi-0.3.1-r1.ebuild,v 1.3 2012/02/25 11:53:52 patrick Exp $
 
 EAPI="3"
 

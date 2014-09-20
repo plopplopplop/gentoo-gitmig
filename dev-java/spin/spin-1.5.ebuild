@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/spin/spin-1.5.ebuild,v 1.9 2014/08/10 20:24:10 slyfox Exp $
 
 JAVA_PKG_IUSE="doc source"
 

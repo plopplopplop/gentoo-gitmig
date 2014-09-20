@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/eggy/eggy-0.3.3.ebuild,v 1.2 2010/06/29 23:20:28 arfrever Exp $
 
 EAPI="2"
 PYTHON_DEPEND="2"

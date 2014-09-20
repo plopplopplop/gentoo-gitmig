@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/gmime/gmime-2.4.32.ebuild,v 1.9 2012/07/15 16:18:40 armin76 Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

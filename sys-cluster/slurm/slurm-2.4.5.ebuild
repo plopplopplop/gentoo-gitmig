@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/slurm/slurm-2.4.5.ebuild,v 1.4 2014/07/30 01:03:14 grknight Exp $
 
 EAPI=4
 

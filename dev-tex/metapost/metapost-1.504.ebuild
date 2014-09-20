@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/metapost/metapost-1.504.ebuild,v 1.2 2012/07/26 11:10:39 aballier Exp $
 
 EAPI=3
 

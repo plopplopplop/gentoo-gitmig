@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/unreal/unreal-226.ebuild,v 1.20 2014/09/07 09:48:57 ulm Exp $
 
 inherit eutils unpacker cdrom games
 

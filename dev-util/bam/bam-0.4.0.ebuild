@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/bam/bam-0.4.0.ebuild,v 1.5 2012/07/22 17:32:58 pacho Exp $
 
 EAPI=4
 PYTHON_DEPEND="2"

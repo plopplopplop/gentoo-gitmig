@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/functest/functest-0.8.8.ebuild,v 1.5 2010/10/30 19:44:37 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

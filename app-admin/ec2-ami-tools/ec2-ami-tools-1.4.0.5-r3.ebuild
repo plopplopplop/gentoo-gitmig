@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/ec2-ami-tools/ec2-ami-tools-1.4.0.5-r3.ebuild,v 1.2 2014/08/10 01:37:43 patrick Exp $
 
 EAPI="5"
 

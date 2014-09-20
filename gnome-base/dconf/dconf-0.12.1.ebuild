@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-base/dconf/dconf-0.12.1.ebuild,v 1.9 2012/10/28 15:49:38 armin76 Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

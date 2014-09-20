@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libotf/libotf-0.9.8.ebuild,v 1.12 2012/05/04 18:35:44 jdhore Exp $
 
 WANT_AUTOMAKE=latest
 WANT_AUTOCONF=latest

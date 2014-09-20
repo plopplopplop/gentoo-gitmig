@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/cgi/cgi-3001.1.8.5.ebuild,v 1.1 2014/02/24 07:03:35 qnikst Exp $
 
 EAPI=5
 

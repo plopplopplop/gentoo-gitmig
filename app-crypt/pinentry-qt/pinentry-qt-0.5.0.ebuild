@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/pinentry-qt/pinentry-qt-0.5.0.ebuild,v 1.3 2013/03/02 19:15:38 hwoarang Exp $
 
 EAPI=2
 inherit cmake-utils

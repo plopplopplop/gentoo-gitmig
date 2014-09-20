@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/mup/mup-5.4.ebuild,v 1.10 2012/01/19 09:13:24 ssuominen Exp $
 
 EAPI=2
 inherit eutils multilib toolchain-funcs

@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/arphicfonts/arphicfonts-0.1.20060928.ebuild,v 1.12 2007/10/02 01:29:30 dirtyepic Exp $
 
 inherit font
 

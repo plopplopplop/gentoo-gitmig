@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/hashable/hashable-1.2.0.10.ebuild,v 1.1 2013/08/26 15:08:32 qnikst Exp $
 
 EAPI=5
 

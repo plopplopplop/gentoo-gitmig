@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libcdio-paranoia/libcdio-paranoia-0.90_p1-r1.ebuild,v 1.13 2014/06/18 19:12:09 mgorny Exp $
 
 EAPI=5
 MY_P=${PN}-10.2+${PV/_p/+}

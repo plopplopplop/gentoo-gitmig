@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/bioperl/bioperl-1.6.9.ebuild,v 1.3 2014/08/09 22:46:03 zlogene Exp $
 
 EAPI="5"
 

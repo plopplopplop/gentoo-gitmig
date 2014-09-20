@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/html5lib/html5lib-0.90.ebuild,v 1.6 2012/08/02 21:59:05 neurogeek Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

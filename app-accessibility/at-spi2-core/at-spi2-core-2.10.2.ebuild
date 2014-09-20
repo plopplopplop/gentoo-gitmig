@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/at-spi2-core/at-spi2-core-2.10.2.ebuild,v 1.14 2014/04/21 10:28:26 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

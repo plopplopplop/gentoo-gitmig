@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-freebsd/freebsd-sbin/freebsd-sbin-9.2_rc2.ebuild,v 1.1 2013/08/22 15:46:31 aballier Exp $
 
 EAPI=2
 

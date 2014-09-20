@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/regex-tdfa/regex-tdfa-1.2.0.ebuild,v 1.1 2014/03/12 20:48:55 qnikst Exp $
 
 EAPI=5
 

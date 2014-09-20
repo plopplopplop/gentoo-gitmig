@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-firewall/shorewall6/shorewall6-4.5.21.7.ebuild,v 1.2 2014/06/12 14:26:06 tomwij Exp $
 
 EAPI="5"
 

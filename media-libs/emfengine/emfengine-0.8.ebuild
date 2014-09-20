@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/emfengine/emfengine-0.8.ebuild,v 1.4 2013/03/02 21:42:40 hwoarang Exp $
 
 EAPI="3"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/midentd/midentd-2.3.1-r1.ebuild,v 1.6 2006/12/04 02:30:15 vapier Exp $
 
 inherit eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apache/mod_qos/mod_qos-8.18.ebuild,v 1.2 2012/10/12 08:29:44 patrick Exp $
 
 EAPI="2"
 

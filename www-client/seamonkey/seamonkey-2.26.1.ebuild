@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/seamonkey/seamonkey-2.26.1.ebuild,v 1.4 2014/07/05 11:23:47 ago Exp $
 
 EAPI=5
 WANT_AUTOCONF="2.1"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libkolab/libkolab-0.4.1.ebuild,v 1.7 2013/05/30 11:48:36 kensington Exp $
 
 EAPI=5
 

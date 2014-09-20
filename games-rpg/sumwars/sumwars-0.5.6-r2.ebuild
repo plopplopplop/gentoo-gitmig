@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/sumwars/sumwars-0.5.6-r2.ebuild,v 1.10 2013/08/17 20:30:45 calchan Exp $
 
 EAPI=4
 

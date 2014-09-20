@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/XML-Feed/XML-Feed-0.520.0.ebuild,v 1.1 2013/03/17 17:24:44 tove Exp $
 
 EAPI=5
 

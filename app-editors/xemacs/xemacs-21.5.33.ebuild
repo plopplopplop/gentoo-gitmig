@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/xemacs/xemacs-21.5.33.ebuild,v 1.2 2013/06/26 22:52:02 matsl Exp $
 
 # Note: xemacs currently does not work with a hardened profile. If you
 # want to use xemacs on a hardened profile then compile with the

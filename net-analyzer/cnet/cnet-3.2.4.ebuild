@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/cnet/cnet-3.2.4.ebuild,v 1.1 2014/01/16 11:31:45 pinkbyte Exp $
 
 EAPI=5
 

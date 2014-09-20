@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/amqplib/amqplib-0.6.1-r1.ebuild,v 1.2 2013/09/05 18:46:11 mgorny Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python2_6 python2_7 )

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/reverend/reverend-0.4.ebuild,v 1.3 2010/12/26 15:41:28 arfrever Exp $
 
 EAPI="2"
 SUPPORT_PYTHON_ABIS="1"

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/biniax2/biniax2-1.30.ebuild,v 1.4 2012/09/05 00:10:01 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils games

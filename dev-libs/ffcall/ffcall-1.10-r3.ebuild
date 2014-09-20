@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/ffcall/ffcall-1.10-r3.ebuild,v 1.2 2012/08/20 03:32:11 ottxor Exp $
 
 EAPI=3
 inherit eutils flag-o-matic

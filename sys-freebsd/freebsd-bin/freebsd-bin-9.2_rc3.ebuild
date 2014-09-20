@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-freebsd/freebsd-bin/freebsd-bin-9.2_rc3.ebuild,v 1.1 2013/08/26 20:41:32 aballier Exp $
 
 inherit bsdmk freebsd
 

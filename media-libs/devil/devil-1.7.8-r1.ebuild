@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/devil/devil-1.7.8-r1.ebuild,v 1.10 2014/02/02 11:51:15 pinkbyte Exp $
 
 EAPI=2
 

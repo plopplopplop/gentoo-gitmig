@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/depend.php.eclass,v 1.32 2012/06/02 19:16:31 zmedico Exp $
 
 # @ECLASS: depend.php.eclass
 # @MAINTAINER:

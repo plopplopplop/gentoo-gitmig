@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/linkchecker/linkchecker-9999.ebuild,v 1.2 2013/12/16 10:54:30 jlec Exp $
 
 EAPI=5
 

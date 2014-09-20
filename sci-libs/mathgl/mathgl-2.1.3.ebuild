@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/mathgl/mathgl-2.1.3.ebuild,v 1.2 2013/11/16 08:44:11 dirtyepic Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # ChangeLog for sys-apps/portage
 # Copyright 1999-2013 Gentoo Foundation; Distributed under the GPL v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/portage/ChangeLog-2012,v 1.1 2013/01/01 13:38:34 dilfridge Exp $
 
   22 Dec 2012; Zac Medico <zmedico@gentoo.org> metadata.xml,
   portage-2.1.11.31.ebuild, portage-2.1.11.38.ebuild, portage-2.1.6.7_p1.ebuild,

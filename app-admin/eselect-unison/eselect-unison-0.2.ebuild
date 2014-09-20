@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-unison/eselect-unison-0.2.ebuild,v 1.2 2012/02/05 18:46:17 armin76 Exp $
 
 inherit eutils
 

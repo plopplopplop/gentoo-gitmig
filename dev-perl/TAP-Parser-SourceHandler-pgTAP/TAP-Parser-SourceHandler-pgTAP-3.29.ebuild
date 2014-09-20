@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/TAP-Parser-SourceHandler-pgTAP/TAP-Parser-SourceHandler-pgTAP-3.29.ebuild,v 1.2 2013/05/01 10:31:48 ago Exp $
 
 EAPI=5
 

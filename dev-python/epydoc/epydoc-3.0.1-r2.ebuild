@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/epydoc/epydoc-3.0.1-r2.ebuild,v 1.15 2013/10/22 11:48:57 grobian Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

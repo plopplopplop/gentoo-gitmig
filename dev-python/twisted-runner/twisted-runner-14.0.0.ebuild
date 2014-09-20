@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/twisted-runner/twisted-runner-14.0.0.ebuild,v 1.3 2014/08/10 21:24:15 slyfox Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_6,2_7} )

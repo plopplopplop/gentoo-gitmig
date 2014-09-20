@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libggi/libggi-2.2.2.ebuild,v 1.14 2012/05/09 13:25:31 aballier Exp $
 
 DESCRIPTION="Fast and safe graphics and drivers for about any graphics card to the Linux kernel (sometimes)"
 HOMEPAGE="http://www.ggi-project.org"

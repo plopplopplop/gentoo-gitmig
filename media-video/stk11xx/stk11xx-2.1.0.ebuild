@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/stk11xx/stk11xx-2.1.0.ebuild,v 1.3 2011/02/04 23:39:36 mgorny Exp $
 
 EAPI=2
 

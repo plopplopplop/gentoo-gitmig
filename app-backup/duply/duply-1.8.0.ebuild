@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-backup/duply/duply-1.8.0.ebuild,v 1.1 2014/07/13 16:02:43 jlec Exp $
 
 EAPI="5"
 

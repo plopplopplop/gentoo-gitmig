@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/pugixml/pugixml-1.2.ebuild,v 1.9 2014/08/27 12:28:44 ago Exp $
 
 EAPI=4
 

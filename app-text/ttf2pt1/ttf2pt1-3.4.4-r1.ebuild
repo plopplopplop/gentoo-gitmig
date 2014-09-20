@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/ttf2pt1/ttf2pt1-3.4.4-r1.ebuild,v 1.5 2011/02/12 18:32:40 armin76 Exp $
 
 EAPI="3"
 

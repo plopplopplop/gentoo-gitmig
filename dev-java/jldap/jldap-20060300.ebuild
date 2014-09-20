@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jldap/jldap-20060300.ebuild,v 1.7 2007/08/16 00:08:02 dertobi123 Exp $
 
 inherit java-pkg-2 java-ant-2
 

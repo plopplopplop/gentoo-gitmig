@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/portpeek/portpeek-2.1.9.ebuild,v 1.7 2013/10/13 07:22:14 pacho Exp $
 
 EAPI="5"
 

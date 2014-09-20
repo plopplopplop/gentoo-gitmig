@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/naev/naev-0.5.3.ebuild,v 1.9 2014/06/07 04:02:33 mr_bones_ Exp $
 
 EAPI=5
 inherit flag-o-matic gnome2-utils games

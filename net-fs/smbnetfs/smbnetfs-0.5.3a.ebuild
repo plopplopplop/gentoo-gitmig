@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-fs/smbnetfs/smbnetfs-0.5.3a.ebuild,v 1.1 2013/09/27 10:10:27 slyfox Exp $
 
 EAPI=5
 inherit eutils readme.gentoo

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/freetds/freetds-0.64.ebuild,v 1.13 2014/08/10 19:58:52 slyfox Exp $
 
 DESCRIPTION="Tabular Datastream Library"
 HOMEPAGE="http://www.freetds.org/"

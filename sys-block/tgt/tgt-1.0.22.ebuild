@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-block/tgt/tgt-1.0.22.ebuild,v 1.3 2012/02/04 16:54:30 alexxy Exp $
 
 EAPI=4
 

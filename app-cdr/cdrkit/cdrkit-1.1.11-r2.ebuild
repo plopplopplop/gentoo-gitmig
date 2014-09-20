@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/cdrkit/cdrkit-1.1.11-r2.ebuild,v 1.8 2014/08/13 09:16:43 ago Exp $
 
 EAPI=5
 inherit cmake-utils eutils

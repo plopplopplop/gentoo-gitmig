@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/portmidi/portmidi-217.ebuild,v 1.4 2012/06/13 12:58:07 johu Exp $
 
 EAPI="4"
 PYTHON_DEPEND="python? 2:2.6"

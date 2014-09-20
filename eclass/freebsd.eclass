@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/freebsd.eclass,v 1.35 2013/08/28 15:56:11 aballier Exp $
 #
 # Diego Pettenò <flameeyes@gentoo.org>
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-mta/qpsmtpd/qpsmtpd-9999.ebuild,v 1.9 2014/07/25 00:23:41 zlogene Exp $
 
 EAPI=5
 

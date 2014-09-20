@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/rdflib/rdflib-3.2.3-r1.ebuild,v 1.11 2014/01/15 12:41:28 ago Exp $
 
 EAPI=5
 

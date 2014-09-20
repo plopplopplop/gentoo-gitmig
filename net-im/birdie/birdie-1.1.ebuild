@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/birdie/birdie-1.1.ebuild,v 1.2 2014/03/10 07:29:09 jlec Exp $
 
 EAPI=5
 

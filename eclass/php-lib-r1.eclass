@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/php-lib-r1.eclass,v 1.11 2012/02/12 21:48:58 mabi Exp $
 
 # @ECLASS: php-lib-r1.eclass
 # @MAINTAINER:

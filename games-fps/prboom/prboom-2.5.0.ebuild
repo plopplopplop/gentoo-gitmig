@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/prboom/prboom-2.5.0.ebuild,v 1.10 2013/02/25 02:43:15 vapier Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs games

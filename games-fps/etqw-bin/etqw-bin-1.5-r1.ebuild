@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/etqw-bin/etqw-bin-1.5-r1.ebuild,v 1.1 2014/07/07 18:03:58 axs Exp $
 
 EAPI=5
 inherit eutils games

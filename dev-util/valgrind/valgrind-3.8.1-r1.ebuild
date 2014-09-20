@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/valgrind/valgrind-3.8.1-r1.ebuild,v 1.1 2013/06/18 20:56:20 blueness Exp $
 
 EAPI="4"
 inherit autotools eutils flag-o-matic toolchain-funcs multilib pax-utils

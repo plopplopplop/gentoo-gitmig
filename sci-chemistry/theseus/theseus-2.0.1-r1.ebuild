@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/theseus/theseus-2.0.1-r1.ebuild,v 1.1 2013/04/24 10:21:00 jlec Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ply/ply-3.4.ebuild,v 1.10 2013/05/23 08:20:45 patrick Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

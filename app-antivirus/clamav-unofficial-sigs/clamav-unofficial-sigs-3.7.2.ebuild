@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-antivirus/clamav-unofficial-sigs/clamav-unofficial-sigs-3.7.2.ebuild,v 1.1 2013/12/27 20:06:46 mjo Exp $
 
 EAPI=5
 

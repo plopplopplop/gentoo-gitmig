@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libsigsegv/libsigsegv-2.8.ebuild,v 1.7 2012/04/13 18:56:07 ulm Exp $
 
 EAPI=2
 

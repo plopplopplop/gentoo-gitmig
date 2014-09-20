@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-ncurses/pecl-ncurses-1.0.1.ebuild,v 1.1 2012/01/22 00:05:02 mabi Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/xml-types/xml-types-0.3.4.ebuild,v 1.7 2014/07/18 12:31:24 klausman Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/scripts/scripts-1.0.1-r1.ebuild,v 1.7 2013/04/02 20:57:07 ago Exp $
 
 EAPI=3
 

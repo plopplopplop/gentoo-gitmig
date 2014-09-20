@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/ruby-rdoc/ruby-rdoc-4.ebuild,v 1.1 2013/12/26 09:29:33 graaff Exp $
 
 EAPI=5
 USE_RUBY="ruby21"

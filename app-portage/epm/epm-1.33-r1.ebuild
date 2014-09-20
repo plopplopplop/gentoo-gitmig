@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/epm/epm-1.33-r1.ebuild,v 1.2 2012/05/16 15:46:54 fuzzyray Exp $
 
 EAPI="4"
 

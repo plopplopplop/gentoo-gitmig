@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/sharutils/sharutils-4.13.1.ebuild,v 1.2 2013/01/02 06:23:43 radhermit Exp $
 
 EAPI="5"
 

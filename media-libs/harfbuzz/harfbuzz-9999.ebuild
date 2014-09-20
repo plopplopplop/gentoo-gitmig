@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/harfbuzz/harfbuzz-9999.ebuild,v 1.29 2014/07/27 10:29:02 mgorny Exp $
 
 EAPI=5
 

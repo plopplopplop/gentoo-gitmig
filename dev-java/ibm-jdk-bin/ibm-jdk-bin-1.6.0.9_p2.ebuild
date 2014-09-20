@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/ibm-jdk-bin/ibm-jdk-bin-1.6.0.9_p2.ebuild,v 1.5 2014/05/16 19:18:46 swift Exp $
 
 inherit java-vm-2 versionator eutils
 

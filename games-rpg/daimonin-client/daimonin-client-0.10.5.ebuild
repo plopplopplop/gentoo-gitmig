@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/daimonin-client/daimonin-client-0.10.5.ebuild,v 1.5 2014/05/15 16:57:56 ulm Exp $
 
 EAPI=2
 inherit eutils autotools games

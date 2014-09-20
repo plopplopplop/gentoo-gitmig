@@ -83,7 +83,7 @@
 --- plugins/video/H.263-1998/h263-1998.cxx
 +++ plugins/video/H.263-1998/h263-1998.cxx
 @@ -43,6 +43,12 @@
-  * $Date$
+  * $Date: 2014/04/29 09:02:06 $
   */
  
 +#define CODEC_FLAG_H263P_UMV      0x02000000
@@ -165,7 +165,7 @@
 --- plugins/video/H.264/h264-x264.cxx
 +++ plugins/video/H.264/h264-x264.cxx
 @@ -36,6 +36,15 @@
-  * $Date$
+  * $Date: 2014/04/29 09:02:06 $
   */
  
 +#define FF_ER_AGGRESSIVE      3

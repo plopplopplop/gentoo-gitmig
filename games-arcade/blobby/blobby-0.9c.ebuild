@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/blobby/blobby-0.9c.ebuild,v 1.7 2014/05/15 16:27:24 ulm Exp $
 
 EAPI=2
 inherit cmake-utils eutils games

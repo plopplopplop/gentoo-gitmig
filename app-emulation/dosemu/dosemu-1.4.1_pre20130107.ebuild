@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/dosemu/dosemu-1.4.1_pre20130107.ebuild,v 1.1 2013/07/17 20:56:54 slyfox Exp $
 
 EAPI=5
 

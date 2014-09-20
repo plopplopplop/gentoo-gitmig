@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/netbeans-ergonomics/netbeans-ergonomics-7.0.1.ebuild,v 1.3 2011/10/24 23:57:15 fordfrog Exp $
 
 EAPI="4"
 WANT_ANT_TASKS="ant-nodeps"

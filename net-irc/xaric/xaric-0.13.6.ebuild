@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/xaric/xaric-0.13.6.ebuild,v 1.1 2014/01/14 06:38:02 patrick Exp $
 
 EAPI=2
 inherit eutils

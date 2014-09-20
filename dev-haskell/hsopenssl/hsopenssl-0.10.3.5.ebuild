@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/hsopenssl/hsopenssl-0.10.3.5.ebuild,v 1.1 2013/11/14 09:12:16 slyfox Exp $
 
 EAPI=5
 

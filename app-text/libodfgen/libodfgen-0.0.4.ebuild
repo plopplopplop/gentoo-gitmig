@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/libodfgen/libodfgen-0.0.4.ebuild,v 1.3 2014/06/29 16:43:37 ago Exp $
 
 EAPI=5
 

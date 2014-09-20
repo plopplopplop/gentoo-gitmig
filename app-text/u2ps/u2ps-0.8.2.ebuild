@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/u2ps/u2ps-0.8.2.ebuild,v 1.1 2011/09/13 14:46:54 hwoarang Exp $
 
 EAPI=2
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/mockito/mockito-1.9.5-r1.ebuild,v 1.1 2013/11/30 17:39:59 ercpe Exp $
 
 EAPI="5"
 

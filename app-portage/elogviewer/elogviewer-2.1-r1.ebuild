@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/elogviewer/elogviewer-2.1-r1.ebuild,v 1.4 2014/07/13 10:54:45 zlogene Exp $
 
 EAPI="5"
 PYTHON_COMPAT=(python{2_6,2_7,3_1,3_2,3_3})

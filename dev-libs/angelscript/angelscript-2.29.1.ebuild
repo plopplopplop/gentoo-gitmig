@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/angelscript/angelscript-2.29.1.ebuild,v 1.1 2014/07/24 20:12:56 hasufell Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-ftp/gftp/gftp-9999.ebuild,v 1.3 2012/05/03 05:37:17 jdhore Exp $
 
 EAPI="1"
 

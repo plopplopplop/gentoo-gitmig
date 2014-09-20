@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-geosciences/viking/viking-1.4.1.ebuild,v 1.2 2014/01/06 14:54:03 jlec Exp $
 
 EAPI=5
 

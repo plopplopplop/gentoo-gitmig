@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/virtinst/virtinst-0.600.4.ebuild,v 1.3 2013/07/04 12:24:52 ago Exp $
 
 #BACKPORTS=2
 

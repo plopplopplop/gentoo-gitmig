@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/mari0/mari0-1.6.ebuild,v 1.10 2013/02/07 22:05:31 ulm Exp $
 
 EAPI=4
 

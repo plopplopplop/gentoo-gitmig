@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/suse-build/suse-build-9999.ebuild,v 1.10 2014/01/28 13:35:22 miska Exp $
 
 EAPI=5
 

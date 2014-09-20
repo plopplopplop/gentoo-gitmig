@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/recode/recode-3.6_p17-r2.ebuild,v 1.13 2012/06/13 13:23:02 darkside Exp $
 
 EAPI="3"
 WANT_AUTOMAKE="1.11" # bug 419455

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/udns/udns-0.1.ebuild,v 1.7 2012/07/21 02:21:38 blueness Exp $
 
 EAPI="4"
 inherit eutils multilib

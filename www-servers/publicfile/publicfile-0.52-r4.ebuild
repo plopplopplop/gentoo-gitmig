@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/publicfile/publicfile-0.52-r4.ebuild,v 1.5 2014/01/14 15:34:38 ago Exp $
 
 EAPI=4
 

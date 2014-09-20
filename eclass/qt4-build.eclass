@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/qt4-build.eclass,v 1.155 2014/08/29 23:56:18 pesa Exp $
 
 # @ECLASS: qt4-build.eclass
 # @MAINTAINER:

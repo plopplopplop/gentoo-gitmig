@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/rancid-git/rancid-git-2.3.8.ebuild,v 1.1 2013/08/02 22:45:58 xmw Exp $
 
 EAPI=5
 

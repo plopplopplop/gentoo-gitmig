@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/ntfs3g/ntfs3g-2014.2.15.ebuild,v 1.3 2014/04/13 15:02:30 vapier Exp $
 
 EAPI=5
 inherit eutils linux-info udev

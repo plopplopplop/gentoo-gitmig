@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/iozone/iozone-3.242.ebuild,v 1.11 2009/09/13 22:20:40 patrick Exp $
 
 # TODO
 #        ->   linux-arm            (32bit)   <-

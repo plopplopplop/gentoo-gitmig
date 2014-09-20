@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/gherkin/gherkin-2.11.6.ebuild,v 1.13 2014/08/15 17:34:46 armin76 Exp $
 
 EAPI=4
 USE_RUBY="ruby19"

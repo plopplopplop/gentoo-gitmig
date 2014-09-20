@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/libexcelformat/libexcelformat-101016.ebuild,v 1.2 2010/10/18 09:53:11 jlec Exp $
 
 EAPI="3"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/orage/orage-4.10.0.ebuild,v 1.7 2014/04/16 07:49:51 ago Exp $
 
 EAPI=5
 inherit multilib xfconf

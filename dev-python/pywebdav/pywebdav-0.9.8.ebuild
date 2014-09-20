@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pywebdav/pywebdav-0.9.8.ebuild,v 1.1 2012/05/05 11:02:52 cedk Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

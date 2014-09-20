@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/lxr/lxr-0.9.8-r1.ebuild,v 1.3 2014/08/25 02:36:49 patrick Exp $
 
 EAPI=5
 

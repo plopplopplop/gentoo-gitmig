@@ -1,7 +1,7 @@
 # -*-eselect-*-  vim: ft=eselect
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Id$
+# $Id: ecj-0.7.eselect,v 1.1 2011/12/18 08:44:56 sera Exp $
 
 DESCRIPTION="Manage ECJ targets"
 MAINTAINER="java@gentoo.org"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/torque/torque-2.5.12-r1.ebuild,v 1.9 2014/01/19 13:46:43 ago Exp $
 
 EAPI=4
 

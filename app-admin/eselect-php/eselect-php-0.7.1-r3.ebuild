@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-php/eselect-php-0.7.1-r3.ebuild,v 1.10 2014/02/22 07:40:50 ago Exp $
 
 EAPI=5
 

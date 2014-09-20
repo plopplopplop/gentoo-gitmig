@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-File_Find/PEAR-File_Find-1.3.2.ebuild,v 1.3 2014/08/10 20:46:39 slyfox Exp $
 
 EAPI="5"
 

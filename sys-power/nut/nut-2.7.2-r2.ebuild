@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-power/nut/nut-2.7.2-r2.ebuild,v 1.1 2014/09/08 04:55:35 prometheanfire Exp $
 
 EAPI=5
 inherit autotools bash-completion-r1 eutils fixheadtails multilib user systemd flag-o-matic toolchain-funcs

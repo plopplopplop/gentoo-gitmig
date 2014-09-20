@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pythondialog/pythondialog-3.0.1.ebuild,v 1.2 2014/08/10 21:20:11 slyfox Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{3_2,3_3} )

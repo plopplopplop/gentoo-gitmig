@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/k9copy/k9copy-2.3.8-r1.ebuild,v 1.3 2014/08/10 02:14:17 patrick Exp $
 
 EAPI=5
 

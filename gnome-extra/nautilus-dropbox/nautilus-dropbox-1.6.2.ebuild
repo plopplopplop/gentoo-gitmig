@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/nautilus-dropbox/nautilus-dropbox-1.6.2.ebuild,v 1.2 2014/07/22 19:38:18 pacho Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/sun-jms/sun-jms-1.1-r2.ebuild,v 1.17 2014/08/10 20:24:59 slyfox Exp $
 
 inherit java-pkg-2
 

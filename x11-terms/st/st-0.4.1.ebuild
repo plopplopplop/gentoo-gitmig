@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-terms/st/st-0.4.1.ebuild,v 1.2 2013/06/17 06:08:43 xmw Exp $
 
 EAPI=5
 

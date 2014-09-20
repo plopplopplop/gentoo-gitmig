@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/system-config-printer-common/system-config-printer-common-1.3.13.ebuild,v 1.2 2014/07/30 19:17:42 ssuominen Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python2_{6,7} )

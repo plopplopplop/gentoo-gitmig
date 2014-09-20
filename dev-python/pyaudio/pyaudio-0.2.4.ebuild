@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyaudio/pyaudio-0.2.4.ebuild,v 1.3 2012/08/03 11:36:25 hwoarang Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-Validate/PEAR-Validate-0.8.4.ebuild,v 1.1 2011/03/21 08:37:40 olemarkus Exp $
 
 inherit php-pear-r1
 

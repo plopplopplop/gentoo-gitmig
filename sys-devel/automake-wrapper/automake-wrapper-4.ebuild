@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/automake-wrapper/automake-wrapper-4.ebuild,v 1.9 2010/05/31 19:18:14 josejx Exp $
 
 inherit multilib
 

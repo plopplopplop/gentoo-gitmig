@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/dash/dash-0.5.7.3-r1.ebuild,v 1.13 2014/01/18 02:27:02 vapier Exp $
 
 EAPI="4"
 

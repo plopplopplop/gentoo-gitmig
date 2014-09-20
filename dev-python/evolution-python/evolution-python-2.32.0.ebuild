@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/evolution-python/evolution-python-2.32.0.ebuild,v 1.10 2013/04/02 20:10:40 pacho Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

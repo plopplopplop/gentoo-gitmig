@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/gnucash-docs/gnucash-docs-2.6.3.ebuild,v 1.3 2014/05/04 12:09:15 pacho Exp $
 
 EAPI=5
 GCONF_DEBUG=no

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/repoze-lru/repoze-lru-0.6.ebuild,v 1.1 2012/07/30 07:16:35 patrick Exp $
 
 EAPI=3
 

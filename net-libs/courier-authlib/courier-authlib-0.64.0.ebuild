@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/courier-authlib/courier-authlib-0.64.0.ebuild,v 1.8 2014/08/10 20:48:20 slyfox Exp $
 
 inherit eutils flag-o-matic multilib user
 

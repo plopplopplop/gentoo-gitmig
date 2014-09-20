@@ -9,7 +9,7 @@
  // Operating System types
  
 @@ -109,20 +110,20 @@
- #define revision "$Revision$"
+ #define revision "$Revision: 1.1 $"
  
  struct __version_t {
 - unsigned long major;  // major version for incompatible versions

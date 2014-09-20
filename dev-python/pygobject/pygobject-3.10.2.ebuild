@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pygobject/pygobject-3.10.2.ebuild,v 1.15 2014/07/06 12:48:44 mgorny Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

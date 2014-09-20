@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/liblinear/liblinear-194.ebuild,v 1.6 2014/08/21 12:45:10 armin76 Exp $
 
 EAPI=5
 inherit multilib toolchain-funcs

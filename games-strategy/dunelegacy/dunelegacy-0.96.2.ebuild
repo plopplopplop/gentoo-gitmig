@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/dunelegacy/dunelegacy-0.96.2.ebuild,v 1.6 2014/05/15 17:02:46 ulm Exp $
 
 EAPI=4
 inherit autotools eutils gnome2-utils games

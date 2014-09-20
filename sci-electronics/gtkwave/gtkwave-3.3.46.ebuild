@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/gtkwave/gtkwave-3.3.46.ebuild,v 1.1 2013/05/06 06:56:51 xmw Exp $
 
 EAPI="4"
 

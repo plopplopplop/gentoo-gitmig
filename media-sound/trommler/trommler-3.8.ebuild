@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/trommler/trommler-3.8.ebuild,v 1.9 2014/08/10 21:12:43 slyfox Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs

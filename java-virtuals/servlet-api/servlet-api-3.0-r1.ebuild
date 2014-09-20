@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/java-virtuals/servlet-api/servlet-api-3.0-r1.ebuild,v 1.8 2013/06/27 21:39:19 aballier Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/batrachians/batrachians-0.1.6.ebuild,v 1.3 2014/07/27 10:39:12 phajdan.jr Exp $
 
 EAPI=5
 inherit autotools gnome2-utils games

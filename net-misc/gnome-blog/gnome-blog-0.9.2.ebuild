@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/gnome-blog/gnome-blog-0.9.2.ebuild,v 1.6 2012/05/05 03:20:45 jdhore Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

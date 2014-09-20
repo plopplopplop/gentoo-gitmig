@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libpng/libpng-1.5.18-r1.ebuild,v 1.2 2014/07/22 12:46:07 ssuominen Exp $
 
 # this ebuild is only for the libpng15.so.15 SONAME for ABI compat
 

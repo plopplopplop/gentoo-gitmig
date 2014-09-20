@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake3-bin/quake3-bin-1.32c-r1.ebuild,v 1.16 2013/01/13 11:27:58 ago Exp $
 
 EAPI=2
 inherit eutils unpacker games

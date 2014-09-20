@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/mc/mc-1.5.ebuild,v 1.5 2012/10/16 20:40:42 jlec Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/ddrescue/ddrescue-1.17-r1.ebuild,v 1.3 2014/02/27 21:08:15 ssuominen Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-mud/mcl/mcl-0.53.00.ebuild,v 1.21 2010/10/13 21:26:37 mr_bones_ Exp $
 
 EAPI=2
 PYTHON_DEPEND="python? 2"

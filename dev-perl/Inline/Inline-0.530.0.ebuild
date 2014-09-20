@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Inline/Inline-0.530.0.ebuild,v 1.6 2014/06/09 23:42:13 vapier Exp $
 
 EAPI=5
 

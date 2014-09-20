@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/opengl-apple/opengl-apple-3.ebuild,v 1.6 2012/12/04 08:08:05 grobian Exp $
 
 EAPI="3"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/sharutils/sharutils-4.11.1.ebuild,v 1.9 2012/07/06 04:21:44 vapier Exp $
 
 EAPI="2"
 

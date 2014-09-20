@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/seed/seed-3.8.1.ebuild,v 1.5 2013/12/08 18:07:10 pacho Exp $
 
 EAPI=5
 GNOME2_LA_PUNT="yes"

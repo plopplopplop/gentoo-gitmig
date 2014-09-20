@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/microcode-ctl/microcode-ctl-1.17-r2.ebuild,v 1.5 2013/09/15 18:00:47 swift Exp $
 
 inherit linux-info toolchain-funcs
 

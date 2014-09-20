@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/cowsay/cowsay-3.03-r2.ebuild,v 1.11 2014/02/01 11:55:59 grobian Exp $
 
 EAPI=3
 inherit eutils

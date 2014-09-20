@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/db/db-6.0.30-r1.ebuild,v 1.1 2014/08/03 22:03:03 robbat2 Exp $
 
 EAPI=5
 inherit eutils db flag-o-matic java-pkg-opt-2 autotools multilib multilib-minimal versionator

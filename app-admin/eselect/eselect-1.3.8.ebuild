@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect/eselect-1.3.8.ebuild,v 1.13 2014/01/18 04:38:14 vapier Exp $
 
 EAPI=4
 

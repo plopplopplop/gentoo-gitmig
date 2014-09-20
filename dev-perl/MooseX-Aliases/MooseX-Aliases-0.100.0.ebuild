@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/MooseX-Aliases/MooseX-Aliases-0.100.0.ebuild,v 1.2 2011/10/16 19:40:39 grobian Exp $
 
 EAPI=4
 

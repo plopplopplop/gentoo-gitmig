@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/HTML-Table/HTML-Table-2.08a-r1.ebuild,v 1.2 2013/12/08 16:37:08 zlogene Exp $
 
 EAPI=5
 

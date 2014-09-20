@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/google-musicmanager/google-musicmanager-1.0.117.4968_beta.ebuild,v 1.2 2014/08/10 21:06:19 slyfox Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/libgeodecomp/libgeodecomp-0.3.1.ebuild,v 1.1 2014/05/19 10:42:34 slis Exp $
 
 EAPI=5
 

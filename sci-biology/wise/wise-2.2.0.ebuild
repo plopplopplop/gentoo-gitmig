@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/wise/wise-2.2.0.ebuild,v 1.12 2010/10/02 15:08:42 dilfridge Exp $
 
 inherit eutils toolchain-funcs
 

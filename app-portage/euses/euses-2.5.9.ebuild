@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/euses/euses-2.5.9.ebuild,v 1.7 2012/10/25 19:58:33 ken69267 Exp $
 
 EAPI=4
 

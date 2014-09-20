@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/ibus-qt/ibus-qt-1.3.1.ebuild,v 1.10 2013/11/11 08:14:10 jlec Exp $
 
 EAPI="5"
 inherit cmake-utils eutils multilib

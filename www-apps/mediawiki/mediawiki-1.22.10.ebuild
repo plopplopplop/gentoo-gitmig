@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/mediawiki/mediawiki-1.22.10.ebuild,v 1.1 2014/08/30 13:45:49 dev-zero Exp $
 
 EAPI=5
 inherit webapp versionator

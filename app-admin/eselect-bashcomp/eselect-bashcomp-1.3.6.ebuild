@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-bashcomp/eselect-bashcomp-1.3.6.ebuild,v 1.12 2014/03/26 10:58:06 ago Exp $
 
 EAPI=4
 

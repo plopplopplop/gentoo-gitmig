@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Sort-Key/Sort-Key-1.330.0.ebuild,v 1.1 2014/08/26 16:51:12 chainsaw Exp $
 
 EAPI=5
 

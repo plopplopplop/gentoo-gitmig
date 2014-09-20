@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/awk/awk-0.ebuild,v 1.10 2014/01/18 02:58:37 vapier Exp $
 
 DESCRIPTION="Virtual for awk implementation"
 HOMEPAGE=""

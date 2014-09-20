@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/joomla/joomla-3.3.3.ebuild,v 1.3 2014/09/05 16:54:18 williamh Exp $
 
 EAPI=5
 

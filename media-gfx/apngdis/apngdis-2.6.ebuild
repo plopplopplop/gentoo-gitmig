@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/apngdis/apngdis-2.6.ebuild,v 1.2 2013/12/17 10:24:12 radhermit Exp $
 
 EAPI="5"
 

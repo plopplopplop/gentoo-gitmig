@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/pacman/pacman-4.0.1.ebuild,v 1.3 2012/06/16 05:28:26 binki Exp $
 
 EAPI=4
 

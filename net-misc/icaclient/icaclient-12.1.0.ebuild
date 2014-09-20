@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/icaclient/icaclient-12.1.0.ebuild,v 1.7 2014/06/18 20:40:01 mgorny Exp $
 
 EAPI=4
 

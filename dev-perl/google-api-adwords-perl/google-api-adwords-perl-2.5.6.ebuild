@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/google-api-adwords-perl/google-api-adwords-perl-2.5.6.ebuild,v 1.1 2012/04/11 17:31:40 flameeyes Exp $
 
 EAPI="4"
 

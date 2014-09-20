@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/makeself/makeself-2.1.5-r1.ebuild,v 1.7 2012/08/26 18:58:21 armin76 Exp $
 
 inherit unpacker
 

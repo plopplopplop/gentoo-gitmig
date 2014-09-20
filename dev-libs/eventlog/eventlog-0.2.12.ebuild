@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/eventlog/eventlog-0.2.12.ebuild,v 1.11 2014/06/09 23:57:45 vapier Exp $
 
 EAPI=2
 inherit libtool eutils

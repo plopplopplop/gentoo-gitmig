@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/clusterssh/clusterssh-9999.ebuild,v 1.8 2014/08/10 20:43:41 slyfox Exp $
 
 EAPI=5
 

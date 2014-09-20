@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-libnet/perl-libnet-1.270.0.ebuild,v 1.2 2014/07/22 22:58:22 dilfridge Exp $
 
 # Some important notes about detecting libnet version 
 # http://dev.gentoo.org/~zlogene/perl-libnet-mantainer-notes   

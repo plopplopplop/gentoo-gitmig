@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/openbabel/openbabel-2.3.1.ebuild,v 1.2 2012/03/04 10:32:17 jlec Exp $
 
 EAPI=4
 

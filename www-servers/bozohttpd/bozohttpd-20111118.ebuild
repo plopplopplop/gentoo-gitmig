@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/bozohttpd/bozohttpd-20111118.ebuild,v 1.1 2013/03/26 19:54:50 tomwij Exp $
 
 EAPI="5"
 

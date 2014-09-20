@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/vicious/vicious-2.0.4.ebuild,v 1.1 2012/05/06 18:15:28 maksbotan Exp $
 
 EAPI=3
 

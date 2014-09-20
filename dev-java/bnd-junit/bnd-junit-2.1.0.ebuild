@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/bnd-junit/bnd-junit-2.1.0.ebuild,v 1.2 2014/08/10 20:08:48 slyfox Exp $
 
 EAPI="5"
 

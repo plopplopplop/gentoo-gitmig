@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/gliv/gliv-1.9.6.ebuild,v 1.11 2014/08/09 12:09:43 ago Exp $
 
 EAPI=2
 

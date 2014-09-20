@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libyui-gtk/libyui-gtk-2.21.96.ebuild,v 1.1 2011/08/15 09:32:42 miska Exp $
 
 EAPI=4
 

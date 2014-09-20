@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/streamdvd/streamdvd-0.4-r1.ebuild,v 1.16 2009/08/05 19:06:47 ssuominen Exp $
 
 inherit eutils toolchain-funcs
 

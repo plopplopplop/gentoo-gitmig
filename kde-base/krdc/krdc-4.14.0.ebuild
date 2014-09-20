@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-base/krdc/krdc-4.14.0.ebuild,v 1.1 2014/08/20 16:02:44 johu Exp $
 
 EAPI=5
 

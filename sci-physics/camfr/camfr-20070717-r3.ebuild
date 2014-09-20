@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-physics/camfr/camfr-20070717-r3.ebuild,v 1.5 2013/02/21 22:09:58 jlec Exp $
 
 EAPI=4
 

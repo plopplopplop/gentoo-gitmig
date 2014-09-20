@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/gnulib/gnulib-9999-r1.ebuild,v 1.6 2014/08/10 20:33:44 slyfox Exp $
 
 EGIT_REPO_URI="git://git.savannah.gnu.org/${PN}.git
 	http://git.savannah.gnu.org/r/${PN}.git"

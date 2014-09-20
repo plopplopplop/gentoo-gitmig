@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/lxqt-base/lxqt-policykit/lxqt-policykit-0.7.0-r1.ebuild,v 1.2 2014/05/29 08:07:47 mrueg Exp $
 
 EAPI=5
 inherit cmake-utils

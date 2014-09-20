@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/automake/automake-1.13.1.ebuild,v 1.7 2014/01/16 06:25:07 vapier Exp $
 
 inherit eutils versionator unpacker
 

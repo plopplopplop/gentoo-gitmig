@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/netcdf-cxx/netcdf-cxx-4.2-r300.ebuild,v 1.1 2014/01/01 19:04:28 jlec Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/prawn-layout/prawn-layout-0.8.4-r2.ebuild,v 1.10 2014/04/25 00:56:52 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 jruby"

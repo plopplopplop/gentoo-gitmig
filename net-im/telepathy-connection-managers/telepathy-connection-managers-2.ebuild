@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/telepathy-connection-managers/telepathy-connection-managers-2.ebuild,v 1.9 2014/08/05 18:34:05 mrueg Exp $
 
 DESCRIPTION="Meta-package for Telepathy Connection Managers"
 

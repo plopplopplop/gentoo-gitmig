@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/linux-gpib/linux-gpib-3.2.20-r1.ebuild,v 1.5 2014/03/12 05:29:17 phajdan.jr Exp $
 
 EAPI=5
 

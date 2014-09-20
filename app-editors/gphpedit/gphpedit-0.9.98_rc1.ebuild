@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/gphpedit/gphpedit-0.9.98_rc1.ebuild,v 1.4 2012/10/16 04:03:35 blueness Exp $
 
 EAPI="4"
 inherit gnome2 autotools eutils

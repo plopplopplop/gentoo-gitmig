@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/dungeon-defenders/dungeon-defenders-20130305.ebuild,v 1.5 2013/06/02 18:51:54 hasufell Exp $
 
 # TODO: unbundle SDL-2 when it gets released
 

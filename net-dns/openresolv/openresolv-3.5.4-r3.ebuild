@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/openresolv/openresolv-3.5.4-r3.ebuild,v 1.12 2013/07/07 10:18:41 ago Exp $
 
 EAPI=5
 

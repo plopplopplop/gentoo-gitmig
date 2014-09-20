@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/ut2003/ut2003-2225-r4.ebuild,v 1.16 2014/09/07 19:42:41 ulm Exp $
 
 inherit eutils games
 

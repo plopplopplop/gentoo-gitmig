@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/swatch/swatch-3.2.3-r2.ebuild,v 1.5 2013/04/05 21:45:55 ago Exp $
 
 EAPI=5
 

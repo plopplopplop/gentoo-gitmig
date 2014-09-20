@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/thin/thin-1.6.2.ebuild,v 1.2 2014/07/10 11:53:22 graaff Exp $
 
 EAPI=5
 

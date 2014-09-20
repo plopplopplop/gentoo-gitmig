@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/gst-plugins-libav/gst-plugins-libav-1.1.0_pre20130128-r1.ebuild,v 1.10 2013/10/22 07:21:03 ago Exp $
 
 EAPI="5"
 

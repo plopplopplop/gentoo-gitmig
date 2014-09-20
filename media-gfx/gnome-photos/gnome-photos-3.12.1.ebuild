@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/gnome-photos/gnome-photos-3.12.1.ebuild,v 1.2 2014/07/22 10:47:43 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

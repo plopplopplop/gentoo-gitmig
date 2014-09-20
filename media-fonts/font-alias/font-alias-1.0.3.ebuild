@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/font-alias/font-alias-1.0.3.ebuild,v 1.11 2013/02/22 18:14:43 zmedico Exp $
 
 # Must be before x-modular eclass is inherited
 #SNAPSHOT="yes"

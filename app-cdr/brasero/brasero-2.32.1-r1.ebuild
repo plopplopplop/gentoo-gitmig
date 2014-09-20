@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/brasero/brasero-2.32.1-r1.ebuild,v 1.12 2012/12/16 09:10:31 tetromino Exp $
 
 EAPI="4"
 GNOME2_LA_PUNT="yes"

@@ -2,7 +2,7 @@ diff -ur wmmixer-1.5.orig/Makefile wmmixer-1.5/Makefile
 --- wmmixer-1.5.orig/Makefile	2002-06-25 23:13:11.000000000 +0300
 +++ wmmixer-1.5/Makefile	2008-12-23 00:34:28.000000000 +0200
 @@ -1,19 +1,12 @@
- # $Id$
+ # $Id: wmmixer-1.5-respect_flags.patch,v 1.1 2008/12/22 22:51:03 ssuominen Exp $
  
 -prefix      = /usr/local
 +prefix      = /usr

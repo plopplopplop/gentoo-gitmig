@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/graveman/graveman-0.3.12_p5-r2.ebuild,v 1.4 2014/08/02 11:34:25 armin76 Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

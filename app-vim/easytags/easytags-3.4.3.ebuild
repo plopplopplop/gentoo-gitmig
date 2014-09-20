@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/easytags/easytags-3.4.3.ebuild,v 1.3 2014/03/02 08:06:46 ago Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

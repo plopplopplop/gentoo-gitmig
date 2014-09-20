@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/putty/putty-0.63_p20140416.ebuild,v 1.1 2014/04/16 15:53:52 jer Exp $
 
 EAPI=5
 inherit autotools eutils gnome2-utils toolchain-funcs versionator

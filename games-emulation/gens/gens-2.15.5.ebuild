@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/gens/gens-2.15.5.ebuild,v 1.7 2011/09/21 21:17:48 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils flag-o-matic games

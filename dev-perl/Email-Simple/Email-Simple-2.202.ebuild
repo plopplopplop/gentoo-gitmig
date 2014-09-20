@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Email-Simple/Email-Simple-2.202.ebuild,v 1.6 2014/02/21 19:43:31 zlogene Exp $
 
 EAPI=5
 

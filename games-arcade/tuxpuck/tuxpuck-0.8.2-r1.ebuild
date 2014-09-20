@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/tuxpuck/tuxpuck-0.8.2-r1.ebuild,v 1.8 2011/09/14 15:46:53 tupone Exp $
 
 EAPI=2
 inherit eutils games

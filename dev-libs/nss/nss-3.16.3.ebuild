@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/nss/nss-3.16.3.ebuild,v 1.6 2014/08/10 18:37:32 ago Exp $
 
 EAPI=5
 inherit eutils flag-o-matic multilib toolchain-funcs multilib-minimal

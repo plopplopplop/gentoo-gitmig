@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/unf_ext/unf_ext-0.0.6.ebuild,v 1.4 2014/04/12 23:53:59 mrueg Exp $
 
 EAPI=5
 

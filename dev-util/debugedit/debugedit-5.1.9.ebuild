@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/debugedit/debugedit-5.1.9.ebuild,v 1.3 2012/07/29 18:26:20 armin76 Exp $
 
 # To recreate this tarball, just grab latest rpm5 release:
 #	http://rpm5.org/files/rpm/

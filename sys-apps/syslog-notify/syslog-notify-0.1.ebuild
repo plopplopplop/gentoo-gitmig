@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/syslog-notify/syslog-notify-0.1.ebuild,v 1.8 2012/09/04 19:11:55 hwoarang Exp $
 
 EAPI=2
 inherit eutils

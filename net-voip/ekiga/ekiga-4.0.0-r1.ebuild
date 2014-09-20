@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-voip/ekiga/ekiga-4.0.0-r1.ebuild,v 1.11 2014/08/04 18:51:47 armin76 Exp $
 
 EAPI=5
 

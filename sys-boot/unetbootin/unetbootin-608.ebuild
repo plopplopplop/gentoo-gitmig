@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-boot/unetbootin/unetbootin-608.ebuild,v 1.4 2014/08/20 22:44:26 jer Exp $
 
 EAPI=5
 

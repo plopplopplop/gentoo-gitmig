@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/squirm/squirm-1.26.ebuild,v 1.2 2012/12/16 13:48:17 ago Exp $
 
 EAPI="2"
 

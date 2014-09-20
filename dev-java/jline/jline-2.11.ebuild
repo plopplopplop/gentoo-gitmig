@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jline/jline-2.11.ebuild,v 1.1 2013/06/04 17:48:29 tomwij Exp $
 
 EAPI="5"
 

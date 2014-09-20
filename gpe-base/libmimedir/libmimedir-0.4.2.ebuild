@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/libmimedir/libmimedir-0.4.2.ebuild,v 1.5 2013/05/06 04:49:04 patrick Exp $
 
 GPE_TARBALL_SUFFIX="gz"
 GPE_MIRROR="http://gpe.linuxtogo.org/download/source"

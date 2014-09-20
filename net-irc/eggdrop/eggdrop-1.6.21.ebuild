@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/eggdrop/eggdrop-1.6.21.ebuild,v 1.4 2012/10/08 16:59:53 blueness Exp $
 
 EAPI=4
 

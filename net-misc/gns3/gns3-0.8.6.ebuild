@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/gns3/gns3-0.8.6.ebuild,v 1.1 2013/12/06 10:38:05 pinkbyte Exp $
 
 EAPI="5"
 

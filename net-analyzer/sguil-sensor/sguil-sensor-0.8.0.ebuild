@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/sguil-sensor/sguil-sensor-0.8.0.ebuild,v 1.5 2014/07/16 23:56:11 jer Exp $
 
 EAPI=5
 inherit user

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/x264/x264-0.0.20140308.ebuild,v 1.9 2014/08/25 11:00:18 ago Exp $
 
 EAPI=5
 

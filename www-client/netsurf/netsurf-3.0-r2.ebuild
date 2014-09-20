@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/netsurf/netsurf-3.0-r2.ebuild,v 1.3 2014/06/24 22:17:10 mgorny Exp $
 
 EAPI=5
 NETSURF_COMPONENT_TYPE=binary

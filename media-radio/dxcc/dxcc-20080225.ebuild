@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-radio/dxcc/dxcc-20080225.ebuild,v 1.3 2010/10/22 14:41:07 fauli Exp $
 
 inherit eutils
 

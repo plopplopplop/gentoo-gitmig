@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/vdr-skinnopacity/vdr-skinnopacity-1.1.3.ebuild,v 1.1 2014/05/27 17:42:13 idl0r Exp $
 
 EAPI=5
 

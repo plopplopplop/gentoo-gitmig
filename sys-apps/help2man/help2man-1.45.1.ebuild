@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/help2man/help2man-1.45.1.ebuild,v 1.1 2014/03/25 07:43:34 polynomial-c Exp $
 
 EAPI=4
 inherit eutils

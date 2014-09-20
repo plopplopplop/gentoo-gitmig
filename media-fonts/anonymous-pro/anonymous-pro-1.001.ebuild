@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/anonymous-pro/anonymous-pro-1.001.ebuild,v 1.2 2010/02/02 09:02:56 scarabeus Exp $
 
 EAPI="2"
 inherit font

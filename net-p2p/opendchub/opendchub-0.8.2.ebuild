@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/opendchub/opendchub-0.8.2.ebuild,v 1.2 2011/08/19 13:59:24 tomka Exp $
 
 EAPI="4"
 

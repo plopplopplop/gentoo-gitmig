@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/binwalk/binwalk-1.2.1.ebuild,v 1.2 2013/10/13 15:08:34 hwoarang Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

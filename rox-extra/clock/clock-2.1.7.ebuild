@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/clock/clock-2.1.7.ebuild,v 1.8 2009/05/31 13:34:07 nixnut Exp $
 
 ROX_CLIB_VER=2.1.8
 inherit rox eutils

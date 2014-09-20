@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/myodbc/myodbc-5.2.7-r1.ebuild,v 1.1 2014/09/01 01:15:27 grknight Exp $
 
 EAPI=5
 inherit cmake-multilib eutils flag-o-matic versionator

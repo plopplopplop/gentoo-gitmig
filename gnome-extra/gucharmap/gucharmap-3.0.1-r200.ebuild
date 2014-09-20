@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gucharmap/gucharmap-3.0.1-r200.ebuild,v 1.10 2012/11/15 19:51:04 pacho Exp $
 
 EAPI="4"
 GCONF_DEBUG="yes"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/tesseract/tesseract-3.02-r1.ebuild,v 1.8 2014/08/21 11:35:02 armin76 Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-laptop/prey/prey-0.5.4-r1.ebuild,v 1.4 2013/02/15 18:47:47 pacho Exp $
 
 EAPI=4
 

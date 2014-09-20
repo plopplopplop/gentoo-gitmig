@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/urllib3/urllib3-1.8-r1.ebuild,v 1.7 2014/05/06 04:44:23 radhermit Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7,3_2,3_3} pypy pypy2_0 )

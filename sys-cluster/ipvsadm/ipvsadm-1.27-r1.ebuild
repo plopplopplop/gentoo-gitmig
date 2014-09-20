@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/ipvsadm/ipvsadm-1.27-r1.ebuild,v 1.1 2013/11/02 19:49:47 robbat2 Exp $
 
 EAPI=4
 

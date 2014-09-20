@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/lockdev/lockdev-1.0.3.1.2-r2.ebuild,v 1.7 2014/08/21 12:52:24 armin76 Exp $
 
 EAPI=5
 

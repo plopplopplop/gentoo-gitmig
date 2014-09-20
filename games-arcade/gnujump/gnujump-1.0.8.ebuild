@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/gnujump/gnujump-1.0.8.ebuild,v 1.3 2014/09/12 16:22:38 nimiux Exp $
 
 EAPI=5
 inherit eutils flag-o-matic games

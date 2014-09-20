@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/yasm/yasm-1.2.0.ebuild,v 1.9 2013/01/15 02:41:42 vapier Exp $
 
 EAPI=4
 PYTHON_DEPEND="python? 2:2.7"

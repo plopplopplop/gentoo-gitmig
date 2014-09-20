@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/sphinx_rtd_theme/sphinx_rtd_theme-0.1.6.ebuild,v 1.5 2014/09/04 10:59:46 idella4 Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_3,3_4} pypy )

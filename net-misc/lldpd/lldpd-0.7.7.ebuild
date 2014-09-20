@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/lldpd/lldpd-0.7.7.ebuild,v 1.1 2014/02/21 18:47:03 chutzpah Exp $
 
 EAPI=5
 

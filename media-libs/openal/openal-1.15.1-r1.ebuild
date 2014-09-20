@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/openal/openal-1.15.1-r1.ebuild,v 1.8 2014/04/28 17:47:22 mgorny Exp $
 
 EAPI=5
 inherit cmake-multilib

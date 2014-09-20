@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-qt/qtsingleapplication/qtsingleapplication-2.6.1_p20130904-r1.ebuild,v 1.3 2014/07/14 11:53:59 pesa Exp $
 
 EAPI=5
 

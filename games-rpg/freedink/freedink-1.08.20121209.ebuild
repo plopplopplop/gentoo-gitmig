@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/freedink/freedink-1.08.20121209.ebuild,v 1.5 2014/05/15 16:58:17 ulm Exp $
 
 EAPI=5
 

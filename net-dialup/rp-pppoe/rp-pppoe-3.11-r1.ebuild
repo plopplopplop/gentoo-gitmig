@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/rp-pppoe/rp-pppoe-3.11-r1.ebuild,v 1.1 2014/02/22 09:27:55 polynomial-c Exp $
 
 EAPI=5
 

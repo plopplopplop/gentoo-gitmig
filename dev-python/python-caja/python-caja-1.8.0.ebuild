@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-caja/python-caja-1.8.0.ebuild,v 1.5 2014/07/02 09:45:52 pacho Exp $
 
 EAPI="5"
 

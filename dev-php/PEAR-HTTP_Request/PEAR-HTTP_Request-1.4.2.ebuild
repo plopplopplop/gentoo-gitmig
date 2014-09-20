@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-HTTP_Request/PEAR-HTTP_Request-1.4.2.ebuild,v 1.10 2014/01/26 18:31:04 olemarkus Exp $
 
 inherit php-pear-r1
 

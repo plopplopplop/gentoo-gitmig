@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/mwlib/mwlib-0.15.10.ebuild,v 1.1 2013/07/26 14:25:40 idella4 Exp $
 
 EAPI=5
 

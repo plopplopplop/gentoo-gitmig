@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/cxsparse/cxsparse-2.2.1.ebuild,v 1.16 2014/08/10 20:25:06 slyfox Exp $
 
 inherit autotools eutils
 

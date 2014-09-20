@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/vobcopy/vobcopy-1.1.1.ebuild,v 1.1 2008/08/17 08:42:58 aballier Exp $
 
 inherit toolchain-funcs
 

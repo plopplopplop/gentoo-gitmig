@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/make/make-3.80-r4.ebuild,v 1.12 2011/02/06 11:37:17 leio Exp $
 
 inherit eutils flag-o-matic
 

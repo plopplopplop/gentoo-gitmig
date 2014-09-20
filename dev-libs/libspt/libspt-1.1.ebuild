@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libspt/libspt-1.1.ebuild,v 1.5 2009/09/23 17:23:50 patrick Exp $
 
 DESCRIPTION="Library for handling root privilege"
 HOMEPAGE="http://www.j10n.org/libspt/index.html"

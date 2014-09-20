@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/readahead-list/readahead-list-0.20050517.0220.ebuild,v 1.5 2014/08/10 20:24:55 slyfox Exp $
 
 DESCRIPTION="Preloads files into the page cache to accelerate program loading"
 HOMEPAGE="http://www.orbis-terrarum.net"

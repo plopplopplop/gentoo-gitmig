@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/vobject/vobject-0.8.1c.ebuild,v 1.7 2012/04/01 04:42:41 floppym Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

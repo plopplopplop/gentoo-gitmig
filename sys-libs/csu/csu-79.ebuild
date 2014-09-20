@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/csu/csu-79.ebuild,v 1.3 2011/09/04 13:20:29 grobian Exp $
 
 EAPI=3
 

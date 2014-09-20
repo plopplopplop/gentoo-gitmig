@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/augeas/augeas-1.1.0.ebuild,v 1.8 2014/08/15 17:55:19 armin76 Exp $
 
 EAPI=5
 

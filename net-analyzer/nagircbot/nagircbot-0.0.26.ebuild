@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/nagircbot/nagircbot-0.0.26.ebuild,v 1.1 2008/04/12 19:22:14 caleb Exp $
 
 DESCRIPTION="An irc bot that alerts you to nagios changes"
 HOMEPAGE="http://www.vanheusden.com/nagircbot"

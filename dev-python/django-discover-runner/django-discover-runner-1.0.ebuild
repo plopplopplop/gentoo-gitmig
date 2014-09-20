@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/django-discover-runner/django-discover-runner-1.0.ebuild,v 1.3 2014/07/01 06:10:14 idella4 Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_3,3_4} pypy )

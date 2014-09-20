@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/supernova/supernova-1.0.3-r1.ebuild,v 1.2 2014/08/27 18:02:02 mgorny Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 )

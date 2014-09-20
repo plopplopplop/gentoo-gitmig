@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/darcs.eclass,v 1.17 2014/05/22 16:30:59 slyfox Exp $
 
 # @ECLASS: darcs.eclass
 # @MAINTAINER:

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/proj/proj-4.8.0.ebuild,v 1.11 2014/01/06 14:48:29 jlec Exp $
 
 EAPI=4
 

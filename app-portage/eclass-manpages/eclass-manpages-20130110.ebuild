@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/eclass-manpages/eclass-manpages-20130110.ebuild,v 1.3 2013/01/11 18:35:28 vapier Exp $
 
 EAPI="4"
 

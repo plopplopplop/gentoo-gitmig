@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/gourmet/gourmet-0.17.2.ebuild,v 1.3 2014/06/23 15:01:19 pacho Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python2_7 )

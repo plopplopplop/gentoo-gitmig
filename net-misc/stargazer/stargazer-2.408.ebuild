@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/stargazer/stargazer-2.408.ebuild,v 1.4 2014/04/26 22:24:21 tomwij Exp $
 
 EAPI="5"
 

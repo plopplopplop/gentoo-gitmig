@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/DBD-Pg/DBD-Pg-3.3.0.ebuild,v 1.1 2014/06/13 19:08:35 zlogene Exp $
 
 EAPI=5
 

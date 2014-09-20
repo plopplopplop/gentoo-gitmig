@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xbacklight/xbacklight-1.2.0.ebuild,v 1.12 2013/01/04 17:51:28 jer Exp $
 
 EAPI=3
 

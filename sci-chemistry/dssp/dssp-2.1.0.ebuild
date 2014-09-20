@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/dssp/dssp-2.1.0.ebuild,v 1.2 2013/07/09 08:34:28 jlec Exp $
 
 EAPI=5
 

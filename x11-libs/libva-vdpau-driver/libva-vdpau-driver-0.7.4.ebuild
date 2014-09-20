@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libva-vdpau-driver/libva-vdpau-driver-0.7.4.ebuild,v 1.3 2014/07/24 15:30:56 ssuominen Exp $
 
 EAPI="2"
 inherit autotools eutils

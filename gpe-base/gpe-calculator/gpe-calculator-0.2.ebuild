@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/gpe-calculator/gpe-calculator-0.2.ebuild,v 1.2 2009/07/06 20:50:34 mr_bones_ Exp $
 
 inherit eutils gpe
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/statsmodels/statsmodels-0.5.0.ebuild,v 1.4 2013/10/27 08:26:43 mgorny Exp $
 
 EAPI=5
 

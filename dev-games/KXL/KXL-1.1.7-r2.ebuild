@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/KXL/KXL-1.1.7-r2.ebuild,v 1.7 2011/03/04 01:29:59 ranger Exp $
 
 EAPI=2
 inherit eutils autotools

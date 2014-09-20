@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/asymptote/asymptote-2.32.ebuild,v 1.2 2014/06/07 07:46:21 grozin Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 )

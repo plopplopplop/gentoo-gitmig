@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/ruby-ffi/ruby-ffi-1.ebuild,v 1.15 2014/04/22 03:23:03 mrueg Exp $
 
 EAPI=2
 USE_RUBY="ruby19 jruby"

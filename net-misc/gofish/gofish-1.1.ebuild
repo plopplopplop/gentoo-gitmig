@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/gofish/gofish-1.1.ebuild,v 1.4 2014/01/08 06:34:08 vapier Exp $
 
 inherit eutils user
 

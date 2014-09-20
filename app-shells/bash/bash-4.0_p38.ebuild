@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/bash/bash-4.0_p38.ebuild,v 1.7 2014/01/18 02:25:19 vapier Exp $
 
 EAPI="4"
 

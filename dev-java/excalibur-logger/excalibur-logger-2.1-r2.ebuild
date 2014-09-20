@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/excalibur-logger/excalibur-logger-2.1-r2.ebuild,v 1.3 2009/07/05 20:01:44 maekke Exp $
 
 EAPI="2"
 JAVA_PKG_IUSE="doc source"

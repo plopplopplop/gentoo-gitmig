@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/burn-cd/burn-cd-1.8.0.ebuild,v 1.1 2009/11/24 14:55:12 beandog Exp $
 
 DESCRIPTION="Smart console frontend for virtual/cdrtools and dvd+rw-tools"
 HOMEPAGE="http://burn-cd.sourceforge.net"

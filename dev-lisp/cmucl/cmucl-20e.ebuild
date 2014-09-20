@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lisp/cmucl/cmucl-20e.ebuild,v 1.1 2014/02/06 12:57:26 grozin Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs multilib

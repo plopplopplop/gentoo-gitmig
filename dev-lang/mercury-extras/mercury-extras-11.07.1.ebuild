@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/mercury-extras/mercury-extras-11.07.1.ebuild,v 1.2 2012/06/06 03:15:39 zmedico Exp $
 
 EAPI=2
 

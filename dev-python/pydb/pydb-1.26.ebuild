@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pydb/pydb-1.26.ebuild,v 1.3 2011/12/24 13:21:05 grozin Exp $
 
 EAPI=3
 

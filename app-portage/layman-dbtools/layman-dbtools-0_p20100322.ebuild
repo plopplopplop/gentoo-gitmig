@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/layman-dbtools/layman-dbtools-0_p20100322.ebuild,v 1.3 2011/09/20 22:15:23 mgorny Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

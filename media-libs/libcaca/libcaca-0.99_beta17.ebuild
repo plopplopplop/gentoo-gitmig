@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libcaca/libcaca-0.99_beta17.ebuild,v 1.25 2013/08/12 23:53:21 aballier Exp $
 
 EAPI=2
 inherit autotools flag-o-matic mono multilib java-pkg-opt-2

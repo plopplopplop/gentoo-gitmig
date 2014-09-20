@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/p7zip/p7zip-9.20.1-r5.ebuild,v 1.4 2014/05/10 17:09:55 jlec Exp $
 
 EAPI=5
 

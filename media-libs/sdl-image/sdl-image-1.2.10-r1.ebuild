@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/sdl-image/sdl-image-1.2.10-r1.ebuild,v 1.12 2011/03/25 11:24:15 tupone Exp $
 EAPI=2
 
 inherit base

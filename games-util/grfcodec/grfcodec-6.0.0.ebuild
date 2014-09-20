@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/grfcodec/grfcodec-6.0.0.ebuild,v 1.5 2012/06/07 21:08:33 ranger Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/scons/scons-2.3.0.ebuild,v 1.18 2014/06/10 00:48:55 vapier Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

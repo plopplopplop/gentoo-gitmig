@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/entangle/entangle-0.4.0.ebuild,v 1.4 2014/07/24 18:25:46 ssuominen Exp $
 
 EAPI=5
 

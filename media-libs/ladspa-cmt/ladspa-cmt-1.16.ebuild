@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/ladspa-cmt/ladspa-cmt-1.16.ebuild,v 1.14 2012/11/27 11:55:17 aballier Exp $
 
 inherit eutils multilib toolchain-funcs
 

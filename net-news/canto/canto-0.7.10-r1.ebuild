@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-news/canto/canto-0.7.10-r1.ebuild,v 1.1 2014/02/20 20:41:07 pinkbyte Exp $
 
 EAPI="5"
 

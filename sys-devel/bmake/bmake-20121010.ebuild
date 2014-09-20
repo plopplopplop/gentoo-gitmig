@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/bmake/bmake-20121010.ebuild,v 1.1 2012/10/30 11:51:05 aballier Exp $
 
 EAPI=3
 

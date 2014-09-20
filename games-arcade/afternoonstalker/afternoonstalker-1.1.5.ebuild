@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/afternoonstalker/afternoonstalker-1.1.5.ebuild,v 1.4 2012/12/04 10:56:21 ago Exp $
 
 EAPI=2
 inherit autotools games

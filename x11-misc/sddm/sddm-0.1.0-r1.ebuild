@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/sddm/sddm-0.1.0-r1.ebuild,v 1.5 2014/09/01 16:43:24 mgorny Exp $
 
 EAPI=5
 inherit cmake-utils toolchain-funcs

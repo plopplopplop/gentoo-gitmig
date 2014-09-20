@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/core_extended/core_extended-109.36.00.ebuild,v 1.1 2013/08/19 15:42:51 aballier Exp $
 
 EAPI="5"
 

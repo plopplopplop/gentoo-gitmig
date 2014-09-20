@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/profphd/profphd-1.0.39.ebuild,v 1.4 2014/04/24 11:38:57 jlec Exp $
 
 EAPI=5
 

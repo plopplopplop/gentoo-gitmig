@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/couchdb-python/couchdb-python-0.9.ebuild,v 1.5 2013/09/12 20:59:38 mgorny Exp $
 
 EAPI=5
 

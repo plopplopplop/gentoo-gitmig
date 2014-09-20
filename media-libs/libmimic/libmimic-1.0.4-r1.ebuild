@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libmimic/libmimic-1.0.4-r1.ebuild,v 1.15 2012/10/02 21:24:51 maekke Exp $
 
 EAPI="2"
 

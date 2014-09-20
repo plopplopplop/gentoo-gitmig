@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/snapraid/snapraid-6.1.ebuild,v 1.1 2014/05/12 02:09:45 ottxor Exp $
 
 EAPI=5
 

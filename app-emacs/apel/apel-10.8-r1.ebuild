@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emacs/apel/apel-10.8-r1.ebuild,v 1.10 2014/08/29 06:36:55 ulm Exp $
 
 EAPI=4
 

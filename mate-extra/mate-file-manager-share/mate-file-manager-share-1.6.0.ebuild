@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mate-extra/mate-file-manager-share/mate-file-manager-share-1.6.0.ebuild,v 1.2 2014/05/04 14:54:43 ago Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xinit/xinit-1.3.2.ebuild,v 1.12 2013/02/27 06:12:46 zmedico Exp $
 
 EAPI=4
 

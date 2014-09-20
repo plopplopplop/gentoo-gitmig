@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/keyczar/keyczar-0.71c.ebuild,v 1.1 2014/02/22 22:16:23 radhermit Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

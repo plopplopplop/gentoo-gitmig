@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/windowmaker/windowmaker-0.95.5.ebuild,v 1.1 2013/09/13 23:43:48 voyageur Exp $
 
 EAPI=5
 inherit autotools eutils

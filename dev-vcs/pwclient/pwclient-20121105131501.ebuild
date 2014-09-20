@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/pwclient/pwclient-20121105131501.ebuild,v 1.1 2012/12/01 22:41:40 vapier Exp $
 
 EAPI="4"
 

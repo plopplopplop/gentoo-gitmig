@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-IPC-Cmd/perl-IPC-Cmd-0.800.0-r1.ebuild,v 1.4 2014/08/31 17:07:09 zlogene Exp $
 
 EAPI=5
 

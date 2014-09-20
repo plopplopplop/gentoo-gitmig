@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/mixlib-authentication/mixlib-authentication-1.3.0-r1.ebuild,v 1.1 2014/08/02 01:45:54 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

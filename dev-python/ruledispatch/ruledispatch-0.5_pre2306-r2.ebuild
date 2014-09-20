@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ruledispatch/ruledispatch-0.5_pre2306-r2.ebuild,v 1.4 2013/10/22 14:25:01 grobian Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_6,2_7} )

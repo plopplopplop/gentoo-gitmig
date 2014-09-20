@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/libvirt/libvirt-1.2.6.ebuild,v 1.3 2014/08/06 03:22:22 patrick Exp $
 
 EAPI=5
 

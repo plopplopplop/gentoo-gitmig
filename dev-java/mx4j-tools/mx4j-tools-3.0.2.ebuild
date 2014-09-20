@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/mx4j-tools/mx4j-tools-3.0.2.ebuild,v 1.4 2012/12/02 08:31:21 ulm Exp $
 
 EAPI=1
 

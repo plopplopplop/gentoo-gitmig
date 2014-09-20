@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/pkgconfig/pkgconfig-0.28-r2.ebuild,v 1.1 2014/07/29 07:58:43 ssuominen Exp $
 
 EAPI=5
 

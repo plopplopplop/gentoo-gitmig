@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lisp/clozurecl/clozurecl-1.9_p1-r1.ebuild,v 1.1 2013/10/14 10:48:32 grozin Exp $
 
 EAPI=5
 inherit eutils multilib toolchain-funcs

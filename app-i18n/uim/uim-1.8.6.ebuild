@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/uim/uim-1.8.6.ebuild,v 1.2 2014/04/14 14:27:44 jer Exp $
 
 EAPI="5"
 inherit autotools eutils multilib elisp-common gnome2-utils

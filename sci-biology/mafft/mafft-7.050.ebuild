@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/mafft/mafft-7.050.ebuild,v 1.2 2013/07/19 09:44:31 jlec Exp $
 
 EAPI=5
 

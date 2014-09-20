@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/mediainfo/mediainfo-0.7.68.ebuild,v 1.1 2014/04/21 07:51:03 radhermit Exp $
 
 EAPI=5
 WX_GTK_VER="3.0"

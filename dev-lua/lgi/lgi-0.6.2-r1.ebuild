@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lua/lgi/lgi-0.6.2-r1.ebuild,v 1.1 2013/02/08 15:48:18 maksbotan Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/ortp/ortp-0.23.0.ebuild,v 1.1 2014/09/13 16:32:22 mgorny Exp $
 
 EAPI=5
 

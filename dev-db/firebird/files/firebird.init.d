@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/firebird/files/firebird.init.d,v 1.5 2013/01/24 04:52:12 pinkbyte Exp $
 
 pidfile=/var/run/firebird/firebird.pid
 FB_OPTS="-pidfile $pidfile -start -forever"

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/top-apple/top-apple-73.ebuild,v 1.1 2012/05/03 13:22:41 grobian Exp $
 
 EAPI="4"
 

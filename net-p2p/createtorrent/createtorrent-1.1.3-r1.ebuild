@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/createtorrent/createtorrent-1.1.3-r1.ebuild,v 1.1 2007/04/13 19:16:06 drac Exp $
 
 inherit autotools eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/gnome-video-effects/gnome-video-effects-0.4.0.ebuild,v 1.8 2013/02/02 22:59:21 ago Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

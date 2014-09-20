@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/graphicsmagick/graphicsmagick-1.3.19.ebuild,v 1.3 2014/03/03 19:22:50 ssuominen Exp $
 
 EAPI=5
 inherit autotools eutils toolchain-funcs

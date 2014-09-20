@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/audacity/audacity-2.0.0.ebuild,v 1.7 2012/06/03 14:01:04 blueness Exp $
 
 EAPI=4
 

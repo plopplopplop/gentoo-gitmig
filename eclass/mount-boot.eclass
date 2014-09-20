@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/mount-boot.eclass,v 1.18 2011/01/09 03:18:38 vapier Exp $
 #
 # This eclass is really only useful for bootloaders.
 #

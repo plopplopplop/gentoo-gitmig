@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/genkernel-next/genkernel-next-58.ebuild,v 1.3 2014/07/20 08:35:44 klausman Exp $
 
 EAPI=5
 

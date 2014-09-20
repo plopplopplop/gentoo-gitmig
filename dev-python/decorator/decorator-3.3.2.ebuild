@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/decorator/decorator-3.3.2.ebuild,v 1.12 2013/02/24 17:49:59 ago Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

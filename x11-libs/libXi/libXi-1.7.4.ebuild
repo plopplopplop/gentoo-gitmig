@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libXi/libXi-1.7.4.ebuild,v 1.1 2014/07/18 15:47:38 mattst88 Exp $
 
 EAPI=5
 

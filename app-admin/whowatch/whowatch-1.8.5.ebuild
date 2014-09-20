@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/whowatch/whowatch-1.8.5.ebuild,v 1.6 2014/01/03 13:27:12 pinkbyte Exp $
 
 EAPI=5
 inherit autotools eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Test-Command-Simple/Test-Command-Simple-0.040.0.ebuild,v 1.1 2013/04/02 08:18:01 pinkbyte Exp $
 
 EAPI="5"
 

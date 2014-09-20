@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/multi_test/multi_test-0.0.3.ebuild,v 1.3 2014/08/15 17:04:12 armin76 Exp $
 
 EAPI=5
 

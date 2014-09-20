@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/maxr/maxr-0.2.8.ebuild,v 1.4 2013/01/13 11:30:18 ago Exp $
 
 EAPI=2
 inherit eutils games

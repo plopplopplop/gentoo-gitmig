@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libunistring/libunistring-0.9.1.1-r1.ebuild,v 1.1 2010/10/06 04:22:11 chiiph Exp $
 
 EAPI="3"
 

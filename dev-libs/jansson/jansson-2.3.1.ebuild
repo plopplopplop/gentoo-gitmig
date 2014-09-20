@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/jansson/jansson-2.3.1.ebuild,v 1.4 2013/04/23 23:29:35 radhermit Exp $
 
 EAPI="3"
 AUTOTOOLS_AUTORECONF=1

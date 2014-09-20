@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/bdf2psf/bdf2psf-1.104.ebuild,v 1.6 2014/08/29 01:08:52 blueness Exp $
 
 EAPI=5
 

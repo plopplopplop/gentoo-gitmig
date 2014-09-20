@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/miniupnpd/miniupnpd-1.9_pre20140523.ebuild,v 1.1 2014/07/26 09:03:37 gurligebis Exp $
 
 EAPI="5"
 

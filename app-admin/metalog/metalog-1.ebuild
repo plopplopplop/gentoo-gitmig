@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/metalog/metalog-1.ebuild,v 1.10 2011/04/07 07:50:42 ultrabug Exp $
 
 EAPI="2"
 

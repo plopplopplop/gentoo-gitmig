@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/firebird/firebird-2.5.2.26540.0.ebuild,v 1.1 2014/05/30 12:58:22 swift Exp $
 
 EAPI=4
 

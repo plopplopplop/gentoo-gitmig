@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Pod-POM/Pod-POM-0.270.0.ebuild,v 1.1 2011/08/29 10:36:13 tove Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # ChangeLog for profiles/prefix
 # Copyright 1999-2013 Gentoo Foundation; Distributed under the GPL v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/prefix/ChangeLog-2012,v 1.1 2013/01/01 13:26:42 dilfridge Exp $
 
   26 Dec 2012; Benda Xu <heroxbd@gentoo.org> use.mask:
   mask USE suid which requires root. bug 447340

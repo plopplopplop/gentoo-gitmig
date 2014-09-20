@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/apsw/apsw-3.8.5_p1.ebuild,v 1.1 2014/06/10 23:56:38 radhermit Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_2,3_3,3_4} )

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-physics/pythia/pythia-6.4.24.ebuild,v 1.10 2012/11/30 22:08:58 bicatali Exp $
 
 EAPI=2
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/tcl/tcl-8.5.13-r1.ebuild,v 1.15 2014/01/20 07:34:30 jlec Exp $
 
 EAPI=4
 

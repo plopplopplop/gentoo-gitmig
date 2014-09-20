@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pygame/pygame-1.9.2_pre20120101-r1.ebuild,v 1.7 2013/01/01 19:29:29 hasufell Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

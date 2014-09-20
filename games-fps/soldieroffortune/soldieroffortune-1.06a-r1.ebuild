@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/soldieroffortune/soldieroffortune-1.06a-r1.ebuild,v 1.1 2014/07/11 14:04:00 axs Exp $
 
 EAPI=5
 inherit eutils unpacker cdrom games

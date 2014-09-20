@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/openpyxl/openpyxl-1.5.8.ebuild,v 1.2 2012/12/03 21:31:10 bicatali Exp $
 
 EAPI=4
 

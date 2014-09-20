@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/gpe-dm/gpe-dm-0.52.ebuild,v 1.1 2013/08/26 14:36:00 patrick Exp $
 
 # NOTE to bumpers: Version 0.52 changes don't affect Gentoo.
 # Please don't bump to that version.

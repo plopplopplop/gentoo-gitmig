@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-radio/xlog/xlog-2.0.12.ebuild,v 1.1 2014/04/02 18:43:27 tomjbe Exp $
 
 EAPI=4
 

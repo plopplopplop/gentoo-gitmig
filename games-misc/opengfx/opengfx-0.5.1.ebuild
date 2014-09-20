@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/opengfx/opengfx-0.5.1.ebuild,v 1.2 2014/06/30 06:39:35 mr_bones_ Exp $
 
 EAPI=5
 inherit eutils games

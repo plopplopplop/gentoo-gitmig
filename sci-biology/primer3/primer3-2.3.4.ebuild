@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/primer3/primer3-2.3.4.ebuild,v 1.2 2012/12/12 13:10:00 jlec Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-engines/scummvm/scummvm-1.7.0.ebuild,v 1.2 2014/07/24 18:39:36 mr_bones_ Exp $
 
 EAPI=5
 inherit eutils flag-o-matic gnome2-utils toolchain-funcs games

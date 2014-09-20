@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Module-Install/Module-Install-1.60.0-r1.ebuild,v 1.5 2014/08/31 16:17:45 zlogene Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-tv/v4l-dvb-saa716x/v4l-dvb-saa716x-0.0.1_p20130802.ebuild,v 1.1 2013/10/03 14:06:50 hd_brummy Exp $
 
 EAPI="5"
 

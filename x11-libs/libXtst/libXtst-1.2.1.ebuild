@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libXtst/libXtst-1.2.1.ebuild,v 1.11 2014/04/15 18:39:03 vapier Exp $
 
 EAPI=4
 

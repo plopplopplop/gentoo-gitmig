@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/rstudio/rstudio-0.98.490.ebuild,v 1.3 2014/07/27 11:33:09 phajdan.jr Exp $
 
 EAPI=5
 

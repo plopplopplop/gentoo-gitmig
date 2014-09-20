@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/blokish/blokish-0.9.4-r1.ebuild,v 1.9 2014/09/14 07:58:17 mr_bones_ Exp $
 
 EAPI=5
 WX_GTK_VER="2.8"

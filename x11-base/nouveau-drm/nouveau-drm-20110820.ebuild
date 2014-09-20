@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-base/nouveau-drm/nouveau-drm-20110820.ebuild,v 1.1 2011/08/20 18:48:28 chithanh Exp $
 
 EAPI=2
 

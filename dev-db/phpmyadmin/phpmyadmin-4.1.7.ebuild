@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/phpmyadmin/phpmyadmin-4.1.7.ebuild,v 1.7 2014/03/24 14:29:02 ago Exp $
 
 EAPI="4"
 

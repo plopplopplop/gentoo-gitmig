@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-prctl/python-prctl-1.4.0.ebuild,v 1.1 2013/01/22 08:19:34 patrick Exp $
 
 EAPI=3
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/ccglue/ccglue-0.6.0.ebuild,v 1.1 2012/06/21 20:46:31 radhermit Exp $
 
 EAPI=4
 

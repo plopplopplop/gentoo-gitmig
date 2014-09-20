@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libjwc_c/libjwc_c-1.1-r2.ebuild,v 1.4 2012/08/20 19:27:15 johu Exp $
 
 EAPI=4
 

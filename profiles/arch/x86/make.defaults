@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/arch/x86/make.defaults,v 1.16 2014/07/01 07:50:38 mgorny Exp $
 
 # All extra USE/etc should be specified in sub-profiles.
 # DO NOT POLLUTE USE ON THIS PROFILE.

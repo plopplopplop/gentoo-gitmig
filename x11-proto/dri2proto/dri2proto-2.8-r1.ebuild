@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/dri2proto/dri2proto-2.8-r1.ebuild,v 1.10 2014/06/08 09:16:14 ago Exp $
 
 EAPI=5
 

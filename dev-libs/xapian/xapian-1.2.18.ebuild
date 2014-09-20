@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/xapian/xapian-1.2.18.ebuild,v 1.2 2014/09/14 09:13:09 maekke Exp $
 
 EAPI="5"
 

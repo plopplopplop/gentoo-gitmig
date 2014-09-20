@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/mrtg/mrtg-2.16.4-r1.ebuild,v 1.8 2011/03/30 08:40:24 xmw Exp $
 
 EAPI="3"
 

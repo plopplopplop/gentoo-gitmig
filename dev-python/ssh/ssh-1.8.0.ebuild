@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ssh/ssh-1.8.0.ebuild,v 1.1 2012/11/14 04:18:38 patrick Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

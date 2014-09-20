@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/weasyprint/weasyprint-0.21-r1.ebuild,v 1.1 2014/05/08 22:20:28 mgorny Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_7,3_2,3_3} )

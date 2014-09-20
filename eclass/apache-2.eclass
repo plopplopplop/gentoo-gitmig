@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/apache-2.eclass,v 1.39 2014/08/07 07:37:54 polynomial-c Exp $
 
 # @ECLASS: apache-2.eclass
 # @MAINTAINER:

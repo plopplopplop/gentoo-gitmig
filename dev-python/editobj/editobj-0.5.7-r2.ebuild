@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/editobj/editobj-0.5.7-r2.ebuild,v 1.3 2014/08/10 21:10:01 slyfox Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

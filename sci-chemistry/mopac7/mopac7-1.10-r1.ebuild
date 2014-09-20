@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/mopac7/mopac7-1.10-r1.ebuild,v 1.9 2014/01/03 15:28:32 ulm Exp $
 
 WANT_AUTOMAKE="1.8"
 

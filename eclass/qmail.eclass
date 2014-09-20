@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/qmail.eclass,v 1.9 2014/01/08 06:20:29 vapier Exp $
 
 # @ECLASS: qmail.eclass
 # @MAINTAINER:

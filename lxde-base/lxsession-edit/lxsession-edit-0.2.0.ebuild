@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/lxde-base/lxsession-edit/lxsession-edit-0.2.0.ebuild,v 1.7 2013/02/23 02:42:36 zmedico Exp $
 
 EAPI="4"
 

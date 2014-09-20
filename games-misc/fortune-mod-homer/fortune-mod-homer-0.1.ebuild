@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-homer/fortune-mod-homer-0.1.ebuild,v 1.13 2010/12/12 17:11:51 grobian Exp $
 
 DESCRIPTION="Quotes from Homer Simpson"
 HOMEPAGE="http://www.cs.indiana.edu/~crcarter/homer/homer.html"

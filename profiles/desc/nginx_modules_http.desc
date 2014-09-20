@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation.
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/desc/nginx_modules_http.desc,v 1.21 2014/07/22 06:45:37 dev-zero Exp $
 
 # This file contains descriptions of NGINX_MODULES_HTTP USE_EXPAND flags.
 

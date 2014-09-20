@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/fontforge/fontforge-20100501.ebuild,v 1.12 2014/03/23 17:26:35 kensington Exp $
 
 # Some notes for maintainers this package:
 # 1. README-unix: freetype headers are required to make use of truetype debugger

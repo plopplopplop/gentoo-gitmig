@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/bmrblib/bmrblib-1.0.0.ebuild,v 1.2 2012/07/19 15:18:05 jlec Exp $
 
 EAPI=4
 

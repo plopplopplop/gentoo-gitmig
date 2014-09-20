@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/syslog-summary/syslog-summary-1.14.ebuild,v 1.6 2014/08/10 01:37:44 patrick Exp $
 
 EAPI=2
 PYTHON_DEPEND="2:2.5"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/blender/blender-2.71.ebuild,v 1.1 2014/06/28 12:05:30 hasufell Exp $
 
 # TODO:
 #   bundled-deps: bullet is modified

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/fixtures/fixtures-0.3.14-r1.ebuild,v 1.10 2014/08/20 20:24:24 blueness Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_2,3_3} pypy pypy2_0 )

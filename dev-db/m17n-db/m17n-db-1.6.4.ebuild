@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/m17n-db/m17n-db-1.6.4.ebuild,v 1.11 2013/02/24 18:07:09 ago Exp $
 
 EAPI=4
 

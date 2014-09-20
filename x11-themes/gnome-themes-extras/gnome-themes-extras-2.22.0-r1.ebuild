@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/gnome-themes-extras/gnome-themes-extras-2.22.0-r1.ebuild,v 1.10 2013/09/29 09:18:35 pacho Exp $
 
 EAPI=5
 GCONF_DEBUG="yes"

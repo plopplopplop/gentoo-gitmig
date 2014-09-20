@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/sfftobmp/sfftobmp-3.1.2.ebuild,v 1.8 2013/02/02 19:22:56 ulm Exp $
 
 EAPI=2
 inherit autotools eutils flag-o-matic

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/root-docs/root-docs-5.34.18.ebuild,v 1.1 2014/03/18 19:19:00 bicatali Exp $
 
 EAPI=5
 

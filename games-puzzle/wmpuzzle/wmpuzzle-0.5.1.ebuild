@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/wmpuzzle/wmpuzzle-0.5.1.ebuild,v 1.2 2013/02/21 02:59:37 mr_bones_ Exp $
 
 EAPI=5
 inherit eutils gnome2-utils games

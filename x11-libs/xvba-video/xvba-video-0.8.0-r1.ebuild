@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/xvba-video/xvba-video-0.8.0-r1.ebuild,v 1.8 2014/07/21 09:04:41 chithanh Exp $
 
 EAPI=5
 

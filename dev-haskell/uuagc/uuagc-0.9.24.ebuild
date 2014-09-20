@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/uuagc/uuagc-0.9.24.ebuild,v 1.5 2012/09/12 15:24:31 qnikst Exp $
 
 CABAL_FEATURES="bin lib profile haddock"
 inherit haskell-cabal

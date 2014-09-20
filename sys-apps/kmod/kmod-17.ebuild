@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/kmod/kmod-17.ebuild,v 1.13 2014/09/02 03:24:55 ryao Exp $
 
 EAPI=5
 

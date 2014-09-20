@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/expect/expect-5.43.0.ebuild,v 1.23 2010/04/16 12:07:25 jlec Exp $
 
 WANT_AUTOCONF="2.1"
 inherit autotools eutils versionator

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pycdio/pycdio-0.20.ebuild,v 1.1 2013/09/18 06:05:39 patrick Exp $
 
 EAPI=5
 PYTHON_DEPEND=2

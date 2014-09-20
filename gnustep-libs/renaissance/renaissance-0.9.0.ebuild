@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnustep-libs/renaissance/renaissance-0.9.0.ebuild,v 1.4 2010/02/10 21:38:45 voyageur Exp $
 
 inherit gnustep-2
 

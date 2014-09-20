@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ipaddr/ipaddr-2.1.10.ebuild,v 1.1 2012/03/07 21:32:28 maksbotan Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

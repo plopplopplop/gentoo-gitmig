@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/Babel/Babel-1.3.ebuild,v 1.12 2014/03/31 20:42:37 mgorny Exp $
 
 EAPI=5
 

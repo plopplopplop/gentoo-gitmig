@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/virtualbox-modules/virtualbox-modules-4.2.24.ebuild,v 1.3 2014/06/08 09:44:28 ago Exp $
 
 # XXX: the tarball here is just the kernel modules split out of the binary
 #      package that comes from virtualbox-bin

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/xalan-serializer/xalan-serializer-2.7.1.ebuild,v 1.11 2013/06/14 19:35:24 aballier Exp $
 
 JAVA_PKG_IUSE="doc source"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/hspec-meta/hspec-meta-1.7.2.ebuild,v 1.3 2013/11/24 19:35:47 ago Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-visualization/veusz/veusz-1.21.ebuild,v 1.1 2014/06/18 13:29:00 jlec Exp $
 
 EAPI=5
 

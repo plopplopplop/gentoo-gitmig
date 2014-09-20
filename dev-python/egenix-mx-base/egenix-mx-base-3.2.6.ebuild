@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/egenix-mx-base/egenix-mx-base-3.2.6.ebuild,v 1.5 2014/03/28 12:45:47 idella4 Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

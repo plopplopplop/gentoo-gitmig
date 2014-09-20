@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gnome-games/gnome-games-2.28.2.ebuild,v 1.19 2014/01/16 15:58:56 blueness Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

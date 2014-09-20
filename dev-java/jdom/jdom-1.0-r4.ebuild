@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jdom/jdom-1.0-r4.ebuild,v 1.14 2013/07/28 09:43:06 grobian Exp $
 
 JAVA_PKG_IUSE="doc examples source"
 

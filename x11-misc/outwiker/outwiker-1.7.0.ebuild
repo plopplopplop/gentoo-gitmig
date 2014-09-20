@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/outwiker/outwiker-1.7.0.ebuild,v 1.2 2013/08/14 11:31:49 patrick Exp $
 
 EAPI=5
 PYTHON_DEPEND="2:2.7"

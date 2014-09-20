@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/cgoban2/cgoban2-2.6.12.ebuild,v 1.4 2007/03/13 22:49:46 nyhm Exp $
 
 inherit games
 

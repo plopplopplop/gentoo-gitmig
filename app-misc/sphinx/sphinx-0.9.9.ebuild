@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/sphinx/sphinx-0.9.9.ebuild,v 1.6 2014/04/16 05:56:39 graaff Exp $
 
 EAPI=2
 inherit eutils autotools

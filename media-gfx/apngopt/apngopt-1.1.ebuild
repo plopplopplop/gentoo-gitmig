@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/apngopt/apngopt-1.1.ebuild,v 1.2 2012/05/05 07:00:23 jdhore Exp $
 
 EAPI="4"
 

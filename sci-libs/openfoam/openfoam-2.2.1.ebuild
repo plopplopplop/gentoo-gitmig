@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/openfoam/openfoam-2.2.1.ebuild,v 1.1 2013/07/29 08:10:39 patrick Exp $
 
 EAPI="5"
 

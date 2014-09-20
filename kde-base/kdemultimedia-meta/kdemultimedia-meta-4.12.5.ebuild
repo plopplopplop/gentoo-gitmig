@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-base/kdemultimedia-meta/kdemultimedia-meta-4.12.5.ebuild,v 1.6 2014/05/12 02:04:20 reavertm Exp $
 
 EAPI=5
 inherit kde4-meta-pkg

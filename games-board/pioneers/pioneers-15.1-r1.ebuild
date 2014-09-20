@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/pioneers/pioneers-15.1-r1.ebuild,v 1.1 2014/06/12 20:03:25 hasufell Exp $
 
 # NOTE: "QA Notice: Unrecognized configure options --with-gtk" is a false-positive
 

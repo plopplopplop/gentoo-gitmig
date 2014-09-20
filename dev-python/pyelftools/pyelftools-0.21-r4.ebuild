@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyelftools/pyelftools-0.21-r4.ebuild,v 1.9 2014/02/11 18:25:02 bicatali Exp $
 
 EAPI="4"
 

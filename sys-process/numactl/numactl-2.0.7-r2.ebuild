@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/numactl/numactl-2.0.7-r2.ebuild,v 1.5 2013/02/23 22:05:06 ago Exp $
 
 EAPI="4"
 

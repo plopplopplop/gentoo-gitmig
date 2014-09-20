@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/base/package.mask,v 1.66 2014/07/21 22:34:56 blueness Exp $
 
 # Rick Farina <zerochaos@gentoo.org> (6 Jun 2013)
 # Pm-utils based hibernate and suspend support has discontinued.

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/agda/agda-2.3.2.2-r1.ebuild,v 1.2 2014/02/25 15:40:58 slyfox Exp $
 
 EAPI=5
 

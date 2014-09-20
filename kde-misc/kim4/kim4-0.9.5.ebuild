@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-misc/kim4/kim4-0.9.5.ebuild,v 1.5 2014/01/05 21:34:47 creffett Exp $
 
 EAPI=5
 

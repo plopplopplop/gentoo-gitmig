@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/scan-ffs/scan-ffs-1.2.ebuild,v 1.2 2007/02/22 10:35:36 drizzt Exp $
 
 inherit bsdmk
 

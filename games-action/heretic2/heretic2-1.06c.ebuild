@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/heretic2/heretic2-1.06c.ebuild,v 1.11 2012/02/05 05:00:48 vapier Exp $
 
 inherit eutils unpacker cdrom multilib games
 

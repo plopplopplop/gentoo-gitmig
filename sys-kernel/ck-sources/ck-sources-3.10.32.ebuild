@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/ck-sources/ck-sources-3.10.32.ebuild,v 1.1 2014/03/05 20:25:39 tomwij Exp $
 
 EAPI="5"
 ETYPE="sources"

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/celementtree/celementtree-1.0.5-r1.ebuild,v 1.13 2012/02/22 08:57:01 patrick Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

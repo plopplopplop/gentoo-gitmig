@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-nss/python-nss-0.8.ebuild,v 1.3 2012/02/22 02:48:23 patrick Exp $
 
 EAPI="3"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-base/rox-media/rox-media-0.0.3-r1.ebuild,v 1.4 2012/04/12 09:25:21 tetromino Exp $
 
 EAPI=3
 inherit rox eutils

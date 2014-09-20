@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/ccache/ccache-3.1.5.ebuild,v 1.1 2011/05/29 16:32:27 vapier Exp $
 
 inherit multilib
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libmcal/libmcal-0.7-r3.ebuild,v 1.11 2011/02/06 12:37:55 leio Exp $
 
 inherit eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/shared-color-profiles/shared-color-profiles-0.1.5.ebuild,v 1.13 2013/01/22 07:24:29 tetromino Exp $
 
 EAPI="4"
 

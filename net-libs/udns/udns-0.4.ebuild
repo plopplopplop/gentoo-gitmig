@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/udns/udns-0.4.ebuild,v 1.1 2014/04/26 15:19:58 wschlich Exp $
 
 EAPI="4"
 

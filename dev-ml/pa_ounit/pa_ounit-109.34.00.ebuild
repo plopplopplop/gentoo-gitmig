@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/pa_ounit/pa_ounit-109.34.00.ebuild,v 1.1 2013/07/22 01:40:42 aballier Exp $
 
 EAPI="5"
 

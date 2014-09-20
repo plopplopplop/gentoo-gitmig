@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/memtest86/memtest86-4.3.3-r2.ebuild,v 1.1 2014/08/31 03:06:02 floppym Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/fakechroot/fakechroot-2.15.ebuild,v 1.1 2011/12/18 19:42:51 maksbotan Exp $
 
 EAPI="4"
 inherit eutils

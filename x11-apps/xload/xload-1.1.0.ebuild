@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xload/xload-1.1.0.ebuild,v 1.9 2011/02/14 23:40:57 xarthisius Exp $
 
 EAPI=3
 

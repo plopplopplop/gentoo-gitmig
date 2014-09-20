@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-renpy/eselect-renpy-0.5.ebuild,v 1.1 2014/08/23 02:24:04 hasufell Exp $
 
 EAPI=5
 

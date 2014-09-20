@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/slim/slim-1.3.6-r3.ebuild,v 1.9 2014/02/28 15:52:08 axs Exp $
 
 EAPI=5
 

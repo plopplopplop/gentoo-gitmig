@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/evolution-data-server/evolution-data-server-2.32.3-r3.ebuild,v 1.10 2013/02/24 11:25:55 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

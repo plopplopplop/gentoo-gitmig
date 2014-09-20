@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/darwinia/darwinia-1.3.0.ebuild,v 1.17 2014/09/07 15:36:20 ulm Exp $
 
 CDROM_OPTIONAL="yes"
 inherit eutils unpacker cdrom games

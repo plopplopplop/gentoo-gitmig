@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-misc/urlwatch/urlwatch-1.14.ebuild,v 1.3 2013/09/13 21:34:32 mgorny Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2:2.5 3:3.2"

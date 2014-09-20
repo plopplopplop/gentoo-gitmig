@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/kernel-2.eclass,v 1.296 2014/04/21 00:08:15 mpagano Exp $
 
 # Description: kernel.eclass rewrite for a clean base regarding the 2.6
 #              series of kernel with back-compatibility for 2.4

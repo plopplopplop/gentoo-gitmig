@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-client/claws-mail/claws-mail-3.9.1-r1.ebuild,v 1.5 2014/08/20 11:29:04 armin76 Exp $
 
 EAPI="5"
 

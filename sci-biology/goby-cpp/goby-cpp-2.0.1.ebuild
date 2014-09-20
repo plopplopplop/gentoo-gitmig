@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/goby-cpp/goby-cpp-2.0.1.ebuild,v 1.1 2012/07/19 10:46:06 jlec Exp $
 
 EAPI=4
 

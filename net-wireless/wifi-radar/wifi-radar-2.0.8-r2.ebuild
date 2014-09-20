@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/wifi-radar/wifi-radar-2.0.8-r2.ebuild,v 1.5 2014/08/10 20:35:15 slyfox Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

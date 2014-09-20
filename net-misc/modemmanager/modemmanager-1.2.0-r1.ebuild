@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/modemmanager/modemmanager-1.2.0-r1.ebuild,v 1.7 2014/09/12 19:28:47 vincent Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

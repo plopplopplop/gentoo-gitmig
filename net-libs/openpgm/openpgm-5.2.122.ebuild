@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/openpgm/openpgm-5.2.122.ebuild,v 1.7 2014/03/28 03:56:04 jer Exp $
 
 EAPI=5
 

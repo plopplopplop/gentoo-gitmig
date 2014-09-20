@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/skype/skype-4.3.0.37.ebuild,v 1.3 2014/08/30 17:27:14 ulm Exp $
 
 EAPI=5
 

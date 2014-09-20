@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pgmagick/pgmagick-0.5.6.ebuild,v 1.3 2014/08/10 21:15:19 slyfox Exp $
 
 EAPI=5
 

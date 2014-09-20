@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/w3af/w3af-1.0_rc5-r1.ebuild,v 1.3 2013/01/17 16:44:48 mgorny Exp $
 
 EAPI=2
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-HTML_Select/PEAR-HTML_Select-1.3.0.ebuild,v 1.3 2014/08/10 20:49:02 slyfox Exp $
 
 inherit php-pear-r1
 

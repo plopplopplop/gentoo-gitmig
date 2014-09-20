@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/tmail/tmail-1.2.7.1-r3.ebuild,v 1.7 2014/04/05 15:02:58 mrueg Exp $
 
 EAPI=2
 USE_RUBY="ruby19 jruby"

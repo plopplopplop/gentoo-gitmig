@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/createrepo/createrepo-0.9.9.ebuild,v 1.1 2012/05/15 08:55:21 pacho Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2:2.7"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Pod-Parser/perl-Pod-Parser-1.600.0.ebuild,v 1.4 2014/08/31 17:27:07 zlogene Exp $
 
 EAPI=5
 

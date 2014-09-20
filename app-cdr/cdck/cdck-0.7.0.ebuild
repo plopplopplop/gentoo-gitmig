@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/cdck/cdck-0.7.0.ebuild,v 1.1 2008/06/15 17:18:41 drac Exp $
 
 DESCRIPTION="CD/DVD check tools"
 HOMEPAGE="http://swaj.net/unix/index.html#cdck"

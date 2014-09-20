@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/qelectrotech/qelectrotech-0.30.ebuild,v 1.1 2013/12/22 16:56:39 pesa Exp $
 
 EAPI=5
 PLOCALES="cs de el en es fr it pl pt ro ru"

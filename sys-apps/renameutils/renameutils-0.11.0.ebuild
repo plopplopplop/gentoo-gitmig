@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/renameutils/renameutils-0.11.0.ebuild,v 1.1 2012/02/09 23:50:48 dev-zero Exp $
 
 EAPI="4"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/nettle/nettle-1.15.ebuild,v 1.10 2012/07/24 18:42:35 flameeyes Exp $
 
 inherit eutils autotools
 

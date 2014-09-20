@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/djbfft/djbfft-0.76-r2.ebuild,v 1.1 2013/08/10 18:29:14 aballier Exp $
 
 EAPI=5
 inherit eutils flag-o-matic toolchain-funcs multilib multilib-minimal

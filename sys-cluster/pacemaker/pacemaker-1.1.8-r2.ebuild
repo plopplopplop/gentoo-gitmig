@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/pacemaker/pacemaker-1.1.8-r2.ebuild,v 1.1 2013/04/23 08:04:02 ultrabug Exp $
 
 EAPI=4
 

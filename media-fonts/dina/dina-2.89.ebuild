@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/dina/dina-2.89.ebuild,v 1.3 2013/04/17 18:17:51 ulm Exp $
 
 inherit font
 

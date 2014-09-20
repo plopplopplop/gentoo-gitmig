@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/hercules/hercules-3.07.ebuild,v 1.2 2010/09/07 21:18:58 vapier Exp $
 
 inherit eutils flag-o-matic
 

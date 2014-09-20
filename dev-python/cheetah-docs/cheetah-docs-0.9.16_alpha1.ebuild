@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/cheetah-docs/cheetah-docs-0.9.16_alpha1.ebuild,v 1.9 2014/08/10 21:08:40 slyfox Exp $
 
 DESCRIPTION="Documentation for Cheetah templates"
 HOMEPAGE="http://www.cheetahtemplate.org/"

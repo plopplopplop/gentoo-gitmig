@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/yodl/yodl-3.02.0.ebuild,v 1.1 2013/06/09 09:51:53 radhermit Exp $
 
 EAPI=5
 

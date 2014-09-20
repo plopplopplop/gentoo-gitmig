@@ -1,6 +1,6 @@
 # ChangeLog for profile directory
 # Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/ChangeLog-2007,v 1.1 2012/01/02 19:03:52 dilfridge Exp $
 #
 # This ChangeLog should include records for all changes in profiles directory.
 # Only typo fixes which don't affect portage/repoman behaviour could be avoided

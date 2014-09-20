@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/probcons/probcons-1.12.ebuild,v 1.5 2010/06/17 09:46:52 jlec Exp $
 
 inherit eutils toolchain-funcs
 

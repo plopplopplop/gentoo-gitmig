@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/dcc/dcc-1.3.102.ebuild,v 1.3 2012/06/04 23:45:28 zmedico Exp $
 
 inherit eutils flag-o-matic
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/byzanz/byzanz-0.2.3.ebuild,v 1.5 2012/10/25 20:21:51 eva Exp $
 
 EAPI="2"
 GCONF_DEBUG="no"

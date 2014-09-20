@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/ppl/ppl-0.12.1-r1.ebuild,v 1.14 2013/06/26 04:30:57 dirtyepic Exp $
 
 EAPI="3"
 

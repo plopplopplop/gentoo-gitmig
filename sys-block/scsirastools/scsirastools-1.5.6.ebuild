@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-block/scsirastools/scsirastools-1.5.6.ebuild,v 1.3 2009/08/05 19:50:07 ssuominen Exp $
 
 inherit autotools eutils
 

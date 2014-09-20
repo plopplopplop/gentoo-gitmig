@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyodbc/pyodbc-3.0.7.ebuild,v 1.3 2014/01/14 13:52:39 ago Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/cronutils/cronutils-1.2.ebuild,v 1.2 2012/12/24 08:19:21 ramereth Exp $
 
 EAPI=4
 

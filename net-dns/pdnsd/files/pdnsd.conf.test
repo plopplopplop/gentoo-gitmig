@@ -1,4 +1,4 @@
-// $Id$
+// $Id: pdnsd.conf.test,v 1.1 2004/10/04 09:20:45 dragonheart Exp $
 
 global {
 	perm_cache=512;

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Config-Properties/Config-Properties-1.760.0.ebuild,v 1.1 2014/02/19 10:58:46 radhermit Exp $
 
 EAPI="5"
 

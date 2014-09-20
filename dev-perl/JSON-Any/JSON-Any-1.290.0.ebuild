@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/JSON-Any/JSON-Any-1.290.0.ebuild,v 1.2 2011/09/24 13:18:26 grobian Exp $
 
 EAPI=4
 

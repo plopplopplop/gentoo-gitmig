@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/ruby/ruby-1.9.3_p547.ebuild,v 1.7 2014/08/21 09:23:19 graaff Exp $
 
 EAPI=4
 

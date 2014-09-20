@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/socat/socat-2.0.0_beta7-r1.ebuild,v 1.1 2014/03/22 15:32:07 jer Exp $
 
 EAPI=5
 

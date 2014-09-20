@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/urlgrabber/urlgrabber-3.9.1-r1.ebuild,v 1.7 2012/06/15 14:44:56 jlec Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.5"

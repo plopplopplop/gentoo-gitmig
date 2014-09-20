@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/sigrok-cli/sigrok-cli-9999.ebuild,v 1.1 2014/06/14 06:22:26 vapier Exp $
 
 EAPI="5"
 

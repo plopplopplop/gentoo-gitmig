@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/noweb/noweb-2.11b-r3.ebuild,v 1.7 2012/07/29 18:43:46 armin76 Exp $
 
 EAPI=3
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/arch/sh/package.use.mask,v 1.30 2014/06/04 02:09:50 grknight Exp $
 
 # Brian Evans <grknight@gentoo.org> (03 Jun 2014)
 # unkeworded dependencies (bug #429708)

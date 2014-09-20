@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/mechanize/mechanize-0.2.5-r1.ebuild,v 1.5 2014/05/20 20:56:18 mrueg Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} pypy pypy2_0 )

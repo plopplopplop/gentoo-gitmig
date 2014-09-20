@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/redoflacs/redoflacs-0.16.2.ebuild,v 1.1 2012/10/29 14:25:28 yngwin Exp $
 
 EAPI=5
 inherit vcs-snapshot

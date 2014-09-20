@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/html5lib/html5lib-0.999.ebuild,v 1.6 2014/08/13 17:43:24 blueness Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_2,3_3,3_4} pypy )

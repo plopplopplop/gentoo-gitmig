@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/man/man-1.6f-r5.ebuild,v 1.4 2012/12/15 12:53:52 swift Exp $
 
 EAPI="2"
 

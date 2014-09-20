@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/openconnect/openconnect-6.00.ebuild,v 1.1 2014/07/26 19:26:38 hasufell Exp $
 
 EAPI="5"
 

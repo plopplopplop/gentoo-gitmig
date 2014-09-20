@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/whisper/whisper-0.9.9.ebuild,v 1.1 2012/01/20 01:53:25 chutzpah Exp $
 
 EAPI=3
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/php-docs/php-docs-20071125-r2.ebuild,v 1.7 2007/12/11 16:54:25 nixnut Exp $
 
 EAPI="1"
 

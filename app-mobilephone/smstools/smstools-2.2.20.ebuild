@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-mobilephone/smstools/smstools-2.2.20.ebuild,v 1.4 2012/06/02 05:02:33 zmedico Exp $
 
 inherit eutils toolchain-funcs user
 

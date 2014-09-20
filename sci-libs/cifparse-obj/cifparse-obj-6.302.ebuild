@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/cifparse-obj/cifparse-obj-6.302.ebuild,v 1.5 2011/08/26 16:18:55 jlec Exp $
 
 inherit eutils toolchain-funcs
 

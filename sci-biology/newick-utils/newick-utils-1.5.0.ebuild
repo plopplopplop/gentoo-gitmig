@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/newick-utils/newick-utils-1.5.0.ebuild,v 1.2 2011/07/13 14:45:45 xarthisius Exp $
 
 EAPI="2"
 

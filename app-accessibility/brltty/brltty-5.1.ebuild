@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/brltty/brltty-5.1.ebuild,v 1.1 2014/08/23 14:37:40 teiresias Exp $
 
 EAPI=5
 

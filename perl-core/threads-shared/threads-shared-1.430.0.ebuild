@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/threads-shared/threads-shared-1.430.0.ebuild,v 1.1 2013/01/19 16:23:48 tove Exp $
 
 EAPI=5
 

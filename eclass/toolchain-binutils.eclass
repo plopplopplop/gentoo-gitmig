@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/toolchain-binutils.eclass,v 1.135 2014/09/09 22:29:29 vapier Exp $
 #
 # Maintainer: Toolchain Ninjas <toolchain@gentoo.org>
 #

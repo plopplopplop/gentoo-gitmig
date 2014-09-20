@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/avahi/avahi-0.6.31-r2.ebuild,v 1.17 2014/08/03 17:45:35 tgall Exp $
 
 EAPI="5"
 

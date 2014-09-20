@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/calligra/calligra-2.8.5.ebuild,v 1.1 2014/07/25 19:29:06 johu Exp $
 
 # note: files that need to be checked for dependencies etc:
 # CMakeLists.txt, kexi/CMakeLists.txt kexi/migration/CMakeLists.txt

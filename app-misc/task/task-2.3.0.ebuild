@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/task/task-2.3.0.ebuild,v 1.1 2014/08/31 15:35:39 dev-zero Exp $
 
 EAPI=5
 

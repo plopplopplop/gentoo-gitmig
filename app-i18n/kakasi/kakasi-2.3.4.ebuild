@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/kakasi/kakasi-2.3.4.ebuild,v 1.16 2011/10/22 08:54:33 naota Exp $
 
 DESCRIPTION="Converts Japanese text between kanji, kana, and romaji"
 HOMEPAGE="http://kakasi.namazu.org/"

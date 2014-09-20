@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Bio-SamTools/Bio-SamTools-1.370.0-r1.ebuild,v 1.1 2013/01/24 07:58:57 jlec Exp $
 
 EAPI=4
 

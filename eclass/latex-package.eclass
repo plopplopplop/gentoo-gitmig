@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/latex-package.eclass,v 1.40 2013/07/05 22:59:40 aballier Exp $
 
 # @ECLASS: latex-package.eclass
 # @MAINTAINER:

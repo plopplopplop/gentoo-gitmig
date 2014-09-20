@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/lapack/lapack-3.1.ebuild,v 1.10 2013/10/21 13:35:25 grobian Exp $
 
 DESCRIPTION="Virtual for Linear Algebra Package FORTRAN 77 (LAPACK) implementation"
 HOMEPAGE=""

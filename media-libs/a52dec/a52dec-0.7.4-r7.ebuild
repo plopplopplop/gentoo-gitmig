@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/a52dec/a52dec-0.7.4-r7.ebuild,v 1.3 2014/06/18 19:25:41 mgorny Exp $
 
 EAPI=5
 inherit autotools eutils flag-o-matic multilib-minimal

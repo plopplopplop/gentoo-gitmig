@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/kcm-fcitx/kcm-fcitx-0.4.2.ebuild,v 1.4 2013/08/03 14:49:31 ago Exp $
 
 EAPI=5
 inherit kde4-base

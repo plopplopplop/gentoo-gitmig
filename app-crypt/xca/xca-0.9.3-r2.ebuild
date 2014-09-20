@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/xca/xca-0.9.3-r2.ebuild,v 1.1 2014/08/29 21:01:37 alonbl Exp $
 
 EAPI="5"
 

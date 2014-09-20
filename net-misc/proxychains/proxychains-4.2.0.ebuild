@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/proxychains/proxychains-4.2.0.ebuild,v 1.4 2013/02/14 22:13:41 ago Exp $
 
 EAPI=5
 

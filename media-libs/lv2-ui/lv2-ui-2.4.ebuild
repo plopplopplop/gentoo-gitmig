@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/lv2-ui/lv2-ui-2.4.ebuild,v 1.2 2012/03/01 13:46:11 tomka Exp $
 
 EAPI=3
 inherit waf-utils

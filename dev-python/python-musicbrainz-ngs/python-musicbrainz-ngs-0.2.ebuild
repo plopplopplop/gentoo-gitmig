@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-musicbrainz-ngs/python-musicbrainz-ngs-0.2.ebuild,v 1.3 2012/05/30 12:47:38 xarthisius Exp $
 
 EAPI=4
 

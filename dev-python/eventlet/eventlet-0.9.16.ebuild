@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/eventlet/eventlet-0.9.16.ebuild,v 1.3 2013/02/01 02:34:27 idella4 Exp $
 
 EAPI=3
 

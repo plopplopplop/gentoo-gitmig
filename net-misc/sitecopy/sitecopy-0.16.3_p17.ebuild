@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/sitecopy/sitecopy-0.16.3_p17.ebuild,v 1.7 2010/06/22 20:06:49 arfrever Exp $
 
 EAPI="2"
 

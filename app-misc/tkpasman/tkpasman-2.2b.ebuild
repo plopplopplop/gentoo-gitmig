@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/tkpasman/tkpasman-2.2b.ebuild,v 1.5 2008/04/10 16:07:45 ken69267 Exp $
 
 inherit eutils
 

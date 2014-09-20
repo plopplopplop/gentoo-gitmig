@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/xproto/xproto-7.0.26.ebuild,v 1.1 2014/04/14 15:54:14 chithanh Exp $
 
 EAPI=5
 

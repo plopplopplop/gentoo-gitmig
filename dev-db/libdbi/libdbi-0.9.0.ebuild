@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/libdbi/libdbi-0.9.0.ebuild,v 1.12 2014/08/10 20:00:32 slyfox Exp $
 
 EAPI=4
 

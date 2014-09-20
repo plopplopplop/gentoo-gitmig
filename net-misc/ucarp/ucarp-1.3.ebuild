@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/ucarp/ucarp-1.3.ebuild,v 1.4 2014/08/10 20:48:37 slyfox Exp $
 
 inherit eutils
 

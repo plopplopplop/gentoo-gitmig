@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/openfire/openfire-3.9.2-r1.ebuild,v 1.3 2014/05/18 10:16:07 ago Exp $
 
 inherit eutils java-pkg-2 java-ant-2 systemd
 

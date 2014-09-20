@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/matchbox/matchbox-1.0.ebuild,v 1.13 2012/12/22 17:52:22 ulm Exp $
 
 DESCRIPTION="Light weight WM designed for use on PDA computers"
 HOMEPAGE="http://matchbox-project.org/"

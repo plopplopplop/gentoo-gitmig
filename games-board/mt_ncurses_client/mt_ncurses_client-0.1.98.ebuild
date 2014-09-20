@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/mt_ncurses_client/mt_ncurses_client-0.1.98.ebuild,v 1.7 2011/01/24 21:52:54 mr_bones_ Exp $
 
 EAPI=2
 inherit games

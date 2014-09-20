@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/sexypsf/sexypsf-0.4.7.ebuild,v 1.10 2008/03/24 12:53:11 coldwind Exp $
 
 inherit eutils flag-o-matic
 

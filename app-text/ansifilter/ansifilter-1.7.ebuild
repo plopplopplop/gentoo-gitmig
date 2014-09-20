@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/ansifilter/ansifilter-1.7.ebuild,v 1.3 2013/03/02 19:40:05 hwoarang Exp $
 
 EAPI=4
 

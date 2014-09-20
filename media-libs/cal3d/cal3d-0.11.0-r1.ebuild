@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/cal3d/cal3d-0.11.0-r1.ebuild,v 1.12 2012/06/29 11:48:28 tupone Exp $
 
 EAPI=2
 inherit eutils base autotools

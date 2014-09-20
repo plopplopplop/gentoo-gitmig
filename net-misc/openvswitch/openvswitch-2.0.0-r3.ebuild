@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/openvswitch/openvswitch-2.0.0-r3.ebuild,v 1.1 2014/02/17 05:07:34 prometheanfire Exp $
 
 EAPI=5
 

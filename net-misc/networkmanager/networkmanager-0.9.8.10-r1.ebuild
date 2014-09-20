@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/networkmanager/networkmanager-0.9.8.10-r1.ebuild,v 1.6 2014/08/21 10:45:38 ago Exp $
 
 EAPI="5"
 GNOME_ORG_MODULE="NetworkManager"

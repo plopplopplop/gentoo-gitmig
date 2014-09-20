@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/davical/davical-1.1.0.ebuild,v 1.1 2012/06/26 09:39:33 patrick Exp $
 
 EAPI=2
 

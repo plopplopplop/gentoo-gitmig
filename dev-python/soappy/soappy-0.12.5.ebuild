@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/soappy/soappy-0.12.5.ebuild,v 1.10 2012/07/22 21:06:18 blueness Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

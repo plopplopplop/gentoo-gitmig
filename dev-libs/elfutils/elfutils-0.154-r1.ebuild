@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/elfutils/elfutils-0.154-r1.ebuild,v 1.3 2012/10/09 15:49:14 vapier Exp $
 
 EAPI="4"
 

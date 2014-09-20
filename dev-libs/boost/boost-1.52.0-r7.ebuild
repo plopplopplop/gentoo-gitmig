@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/boost/boost-1.52.0-r7.ebuild,v 1.11 2014/08/19 10:37:37 armin76 Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_7,3_2,3_3} )

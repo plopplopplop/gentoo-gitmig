@@ -6,7 +6,7 @@ index 42d03e4..2f4d4f6 100644
 --- a/cpp/Makefile
 +++ b/cpp/Makefile
 @@ -3,7 +3,7 @@
- # ($Revision$)
+ # ($Revision: 1.2 $)
  
  # Compiler
 -CPP = g++

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/rubinius/rubinius-1.2.4.20110705.ebuild,v 1.7 2014/03/23 07:07:45 graaff Exp $
 
 EAPI=4
 inherit eutils flag-o-matic multilib versionator

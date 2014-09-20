@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/kamerka/kamerka-0.8.5.ebuild,v 1.4 2013/06/11 15:53:10 ago Exp $
 
 EAPI=5
 KDE_LINGUAS="cs de es nl pl pt sr sr@ijekavian sr@ijekavianlatin sr@latin zh_TW"

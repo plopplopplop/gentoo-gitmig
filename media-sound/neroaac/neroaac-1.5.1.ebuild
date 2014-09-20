@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/neroaac/neroaac-1.5.1.ebuild,v 1.4 2012/06/13 08:15:35 sbriesen Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/camlp5/camlp5-6.11.ebuild,v 1.4 2013/12/24 12:41:40 ago Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/ant-testutil/ant-testutil-1.9.1.ebuild,v 1.1 2013/07/05 14:28:11 tomwij Exp $
 
 EAPI="5"
 

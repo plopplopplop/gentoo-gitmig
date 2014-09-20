@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/castor/castor-0.9.9.1-r6.ebuild,v 1.2 2009/12/09 22:36:25 maekke Exp $
 
 EAPI=2
 JAVA_PKG_IUSE="doc examples source"

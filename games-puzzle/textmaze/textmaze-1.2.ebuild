@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/textmaze/textmaze-1.2.ebuild,v 1.5 2009/11/16 14:50:25 volkmar Exp $
 
 EAPI=2
 inherit games

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/tmpwatch/tmpwatch-2.10.1.ebuild,v 1.7 2012/11/27 19:06:27 swift Exp $
 
 DESCRIPTION="Files which haven't been accessed in a given period of time are removed from specified directories"
 HOMEPAGE="https://fedorahosted.org/tmpwatch/"

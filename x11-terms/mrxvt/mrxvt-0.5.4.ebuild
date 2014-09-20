@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-terms/mrxvt/mrxvt-0.5.4.ebuild,v 1.10 2014/07/11 22:25:43 blueness Exp $
 
 EAPI=4
 inherit autotools eutils

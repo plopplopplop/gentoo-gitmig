@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-calculators/pcalc/pcalc-1.2.ebuild,v 1.9 2008/11/09 12:01:43 vapier Exp $
 
 inherit eutils
 

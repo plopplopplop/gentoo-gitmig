@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/bogofilter/bogofilter-1.2.4.ebuild,v 1.3 2014/08/10 21:15:42 slyfox Exp $
 
 EAPI=5
 inherit autotools db-use eutils flag-o-matic toolchain-funcs

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Math-BigRat/perl-Math-BigRat-0.260.300.ebuild,v 1.1 2014/07/10 22:02:14 dilfridge Exp $
 
 EAPI=5
 

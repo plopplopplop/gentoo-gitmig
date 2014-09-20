@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/nvi/nvi-1.81.6-r3.ebuild,v 1.15 2013/07/09 22:23:51 neurogeek Exp $
 
 EAPI=5
 

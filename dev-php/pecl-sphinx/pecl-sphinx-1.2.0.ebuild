@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-sphinx/pecl-sphinx-1.2.0.ebuild,v 1.1 2012/08/26 05:28:27 olemarkus Exp $
 
 EAPI="4"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/PortageXS/PortageXS-0.02.12.ebuild,v 1.5 2014/07/26 21:21:47 zlogene Exp $
 
 EAPI=5
 

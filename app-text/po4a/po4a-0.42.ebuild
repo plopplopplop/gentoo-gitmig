@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/po4a/po4a-0.42.ebuild,v 1.12 2013/02/24 17:46:45 ago Exp $
 
 EAPI=4
 

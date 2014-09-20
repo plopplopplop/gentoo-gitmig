@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/rb_libtorrent/rb_libtorrent-0.15.10.ebuild,v 1.7 2012/11/08 06:24:13 flameeyes Exp $
 
 EAPI="4"
 PYTHON_DEPEND="python? 2:2.6"

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/botan/botan-1.10.1.ebuild,v 1.1 2011/08/20 14:11:54 scarabeus Exp $
 
 EAPI="3"
 #PYTHON_BDEPEND="2"

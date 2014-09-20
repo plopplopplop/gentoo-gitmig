@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/openbabel-perl/openbabel-perl-2.3.2.ebuild,v 1.4 2013/02/20 19:42:53 ago Exp $
 
 EAPI=5
 

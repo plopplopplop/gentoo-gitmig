@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/inspircd/inspircd-2.0.17.ebuild,v 1.1 2014/08/09 10:17:36 nimiux Exp $
 
 EAPI=5
 

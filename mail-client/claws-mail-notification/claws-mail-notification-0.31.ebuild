@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-client/claws-mail-notification/claws-mail-notification-0.31.ebuild,v 1.6 2013/05/08 04:00:03 fauli Exp $
 
 EAPI=4
 inherit multilib

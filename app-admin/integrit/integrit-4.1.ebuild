@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/integrit/integrit-4.1.ebuild,v 1.1 2009/01/04 23:03:27 patrick Exp $
 
 inherit autotools toolchain-funcs
 

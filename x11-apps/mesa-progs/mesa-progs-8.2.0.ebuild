@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/mesa-progs/mesa-progs-8.2.0.ebuild,v 1.4 2014/09/16 16:23:26 chithanh Exp $
 
 EAPI=5
 
@@ -29,9 +29,8 @@ KEYWORDS="~alpha ~amd64 ~arm ~hppa ~ia64 ~mips ~ppc ~ppc64 ~sh ~sparc ~x86 ~x86-
 IUSE="egl gles1 gles2"
 
 RDEPEND="
-	egl? ( media-libs/glew )
-	gles1? ( media-libs/glew )
-	gles2? ( media-libs/glew )
+	media-libs/freeglut
+	media-libs/glew
 	media-libs/mesa[egl?,gles1?,gles2?]
 	virtual/opengl
 	x11-libs/libX11"
@@ -53,22 +52,8 @@ src_prepare() {
 	eautoreconf
 }
 
-src_configure() {
-	# We're not using the complete buildsystem if we only want to build
-	# glxinfo and glxgears.
-	if use egl || use gles1 || use gles2; then
-		default_src_configure
-	fi
-}
-
 src_compile() {
-	if ! use egl && ! use gles1 && ! use gles2; then
-		tc-export CC
-		emake LDLIBS='-lX11 -lGL' src/xdemos/glxinfo
-		emake LDLIBS='-lX11 -lGL -lm' src/xdemos/glxgears
-	else
-		emake -C src/xdemos glxgears glxinfo
-	fi
+	emake -C src/xdemos glxgears glxinfo
 
 	if use egl; then
 		emake LDLIBS="-lEGL" -C src/egl/opengl/ eglinfo

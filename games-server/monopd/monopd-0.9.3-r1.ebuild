@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-server/monopd/monopd-0.9.3-r1.ebuild,v 1.5 2011/12/15 17:53:14 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils games

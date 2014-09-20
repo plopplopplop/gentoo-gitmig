@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-geosciences/osgearth/osgearth-2.5.ebuild,v 1.1 2013/11/22 13:36:54 hasufell Exp $
 
 EAPI=5
 

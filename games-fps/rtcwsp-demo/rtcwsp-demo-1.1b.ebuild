@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/rtcwsp-demo/rtcwsp-demo-1.1b.ebuild,v 1.11 2012/02/08 21:24:43 vapier Exp $
 
 inherit eutils unpacker games
 

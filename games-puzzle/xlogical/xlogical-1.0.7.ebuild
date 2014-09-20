@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/xlogical/xlogical-1.0.7.ebuild,v 1.9 2013/07/21 11:11:24 ago Exp $
 
 EAPI=2
 inherit autotools versionator eutils games

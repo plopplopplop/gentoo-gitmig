@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-base/kdelibs/kdelibs-4.12.5-r2.ebuild,v 1.6 2014/08/09 10:48:46 ago Exp $
 
 EAPI=5
 

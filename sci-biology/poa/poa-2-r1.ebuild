@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/poa/poa-2-r1.ebuild,v 1.1 2010/09/18 16:04:00 jlec Exp $
 
 EAPI="3"
 

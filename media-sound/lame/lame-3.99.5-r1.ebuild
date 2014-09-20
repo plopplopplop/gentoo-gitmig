@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/lame/lame-3.99.5-r1.ebuild,v 1.12 2014/08/10 09:30:20 ago Exp $
 
 EAPI=5
 

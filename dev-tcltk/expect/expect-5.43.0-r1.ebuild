@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/expect/expect-5.43.0-r1.ebuild,v 1.3 2010/04/23 10:44:12 jlec Exp $
 
 EAPI="3"
 

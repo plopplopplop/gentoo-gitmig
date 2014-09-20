@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-dicts/myspell-en/myspell-en-20081002.ebuild,v 1.17 2012/05/17 18:12:22 aballier Exp $
 
 MYSPELL_SPELLING_DICTIONARIES=(
 "en,AU,en_AU,English (Australian),en_AU.zip"

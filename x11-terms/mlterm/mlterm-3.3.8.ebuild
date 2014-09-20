@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-terms/mlterm/mlterm-3.3.8.ebuild,v 1.2 2014/09/09 09:34:31 jer Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jmock/jmock-1.1.0-r2.ebuild,v 1.12 2014/08/10 20:18:36 slyfox Exp $
 
 JAVA_PKG_IUSE="doc examples source test"
 inherit eutils java-pkg-2 java-ant-2

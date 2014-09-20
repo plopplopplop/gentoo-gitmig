@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/unixtop/unixtop-3.8_beta1-r1.ebuild,v 1.2 2010/01/15 19:55:39 ulm Exp $
 
 inherit eutils autotools
 

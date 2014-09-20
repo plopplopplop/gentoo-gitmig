@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/kchmviewer/kchmviewer-6.0-r1.ebuild,v 1.8 2014/08/10 18:25:14 slyfox Exp $
 
 EAPI=5
 KDE_REQUIRED="optional"

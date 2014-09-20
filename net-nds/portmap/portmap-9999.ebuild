@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-nds/portmap/portmap-9999.ebuild,v 1.5 2012/12/09 12:34:07 ulm Exp $
 
 EGIT_REPO_URI="git://neil.brown.name/portmap"
 inherit toolchain-funcs user git-2

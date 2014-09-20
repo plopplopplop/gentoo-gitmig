@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ada/cbind/cbind-6.0.ebuild,v 1.9 2014/08/10 19:53:11 slyfox Exp $
 
 # !NOTE!
 # this is a utility, no libs generated, no reason to do the gnat.eclass dance

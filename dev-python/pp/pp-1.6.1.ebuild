@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pp/pp-1.6.1.ebuild,v 1.1 2011/07/29 21:39:26 bicatali Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

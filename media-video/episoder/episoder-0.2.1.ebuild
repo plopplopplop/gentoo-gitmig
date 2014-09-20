@@ -1,6 +1,6 @@
 # Copyright 1999-2005 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/episoder/episoder-0.2.1.ebuild,v 1.3 2005/07/28 10:31:19 dholm Exp $
 
 DESCRIPTION="episoder is a tool to tell you when new episodes of your favourite
 TV shows are airing"

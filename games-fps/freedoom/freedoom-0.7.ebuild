@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/freedoom/freedoom-0.7.ebuild,v 1.7 2013/02/25 02:40:27 vapier Exp $
 
 inherit eutils games
 

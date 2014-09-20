@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-forensics/aide/aide-0.15.1.ebuild,v 1.6 2014/03/01 23:07:16 mgorny Exp $
 
 EAPI="3"
 

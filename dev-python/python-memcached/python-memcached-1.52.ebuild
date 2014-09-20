@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-memcached/python-memcached-1.52.ebuild,v 1.1 2013/06/19 07:03:36 patrick Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

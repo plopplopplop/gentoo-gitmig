@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/flatzebra/flatzebra-0.1.6.ebuild,v 1.4 2012/10/17 03:28:48 phajdan.jr Exp $
 
 EAPI=2
 

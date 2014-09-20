@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/postgresql-base/postgresql-base-9999.ebuild,v 1.12 2014/06/26 06:29:10 patrick Exp $
 
 EAPI="5"
 

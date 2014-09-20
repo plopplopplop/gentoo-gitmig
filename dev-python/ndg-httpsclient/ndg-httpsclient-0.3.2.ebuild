@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ndg-httpsclient/ndg-httpsclient-0.3.2.ebuild,v 1.16 2014/09/03 17:12:02 ottxor Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} pypy pypy2_0 )

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-visualization/qtiplot/qtiplot-0.9.8.9-r1.ebuild,v 1.8 2013/03/02 23:28:36 hwoarang Exp $
 
 EAPI=3
 

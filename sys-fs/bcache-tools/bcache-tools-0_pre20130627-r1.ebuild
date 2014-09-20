@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/bcache-tools/bcache-tools-0_pre20130627-r1.ebuild,v 1.3 2013/10/28 10:53:29 jlec Exp $
 
 EAPI=5
 

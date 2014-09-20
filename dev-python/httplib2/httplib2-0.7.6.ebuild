@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/httplib2/httplib2-0.7.6.ebuild,v 1.8 2012/12/30 20:25:48 ago Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2 3:3.2"

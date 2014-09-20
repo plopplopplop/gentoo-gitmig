@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-lzf/pecl-lzf-1.6.2.ebuild,v 1.2 2014/08/10 21:02:29 slyfox Exp $
 
 EAPI=5
 

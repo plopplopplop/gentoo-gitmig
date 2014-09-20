@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/gpe-contacts/gpe-contacts-0.49.ebuild,v 1.3 2013/05/06 05:07:18 patrick Exp $
 
 GPE_TARBALL_SUFFIX="bz2"
 inherit gpe autotools

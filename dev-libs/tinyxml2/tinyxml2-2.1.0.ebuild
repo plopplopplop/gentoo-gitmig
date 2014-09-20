@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/tinyxml2/tinyxml2-2.1.0.ebuild,v 1.1 2014/04/21 08:01:20 radhermit Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/adonthell/adonthell-0.3.5-r1.ebuild,v 1.7 2014/05/15 16:57:07 ulm Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_6 python2_7 )

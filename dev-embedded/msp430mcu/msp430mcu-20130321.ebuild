@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-embedded/msp430mcu/msp430mcu-20130321.ebuild,v 1.1 2013/06/09 10:48:04 radhermit Exp $
 
 EAPI="4"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/net-scp/net-scp-1.1.2-r1.ebuild,v 1.2 2013/12/22 18:43:36 blueness Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

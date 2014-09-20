@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/uae/uae-0.8.29-r2.ebuild,v 1.1 2014/04/02 11:55:44 tomwij Exp $
 
 EAPI="5"
 

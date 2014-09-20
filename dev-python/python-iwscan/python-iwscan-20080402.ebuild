@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-iwscan/python-iwscan-20080402.ebuild,v 1.10 2011/02/16 20:57:10 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

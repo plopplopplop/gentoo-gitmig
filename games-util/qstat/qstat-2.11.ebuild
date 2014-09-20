@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/qstat/qstat-2.11.ebuild,v 1.10 2012/09/06 01:40:05 blueness Exp $
 
 EAPI=2
 DESCRIPTION="Server statics collector supporting many FPS games"

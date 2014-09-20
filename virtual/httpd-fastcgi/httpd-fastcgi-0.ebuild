@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/httpd-fastcgi/httpd-fastcgi-0.ebuild,v 1.6 2011/02/06 11:59:27 leio Exp $
 
 DESCRIPTION="Virtual for FastCGI-enabled webservers"
 HOMEPAGE=""

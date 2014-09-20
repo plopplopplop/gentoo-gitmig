@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/usbirboy/usbirboy-0.3.1-r1.ebuild,v 1.2 2011/06/06 00:21:38 robbat2 Exp $
 
 inherit linux-mod eutils
 

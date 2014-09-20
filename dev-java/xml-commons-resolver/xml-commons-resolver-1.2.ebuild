@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/xml-commons-resolver/xml-commons-resolver-1.2.ebuild,v 1.15 2014/07/04 14:15:41 haubi Exp $
 
 JAVA_PKG_IUSE="doc source"
 

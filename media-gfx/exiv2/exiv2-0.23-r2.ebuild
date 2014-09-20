@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/exiv2/exiv2-0.23-r2.ebuild,v 1.4 2014/06/18 19:24:27 mgorny Exp $
 
 EAPI=5
 AUTOTOOLS_IN_SOURCE_BUILD=1

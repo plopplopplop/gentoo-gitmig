@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/openerp-client/openerp-client-5.0.15-r1.ebuild,v 1.5 2011/04/08 22:35:19 tomka Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

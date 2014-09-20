@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/nwn-data/nwn-data-1.29-r5.ebuild,v 1.4 2013/08/11 17:01:08 mr_bones_ Exp $
 
 EAPI=4
 

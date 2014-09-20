@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/dczip/dczip-2.05.ebuild,v 1.11 2007/11/09 19:47:14 armin76 Exp $
 
 DESCRIPTION="dcZip is an archiving program for managing various compression file formats"
 HOMEPAGE="http://www.davidcampaign.net/dczip.html"

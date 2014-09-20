@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jnr-constants/jnr-constants-0.8.2.ebuild,v 1.3 2012/05/09 17:09:24 phajdan.jr Exp $
 
 EAPI="4"
 

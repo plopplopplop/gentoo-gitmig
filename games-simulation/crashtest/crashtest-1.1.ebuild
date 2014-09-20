@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-simulation/crashtest/crashtest-1.1.ebuild,v 1.5 2014/04/10 06:33:20 mr_bones_ Exp $
 
 EAPI=5
 inherit eutils flag-o-matic games

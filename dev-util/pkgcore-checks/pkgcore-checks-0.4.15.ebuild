@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/pkgcore-checks/pkgcore-checks-0.4.15.ebuild,v 1.1 2011/10/27 08:23:03 ferringb Exp $
 
 EAPI="3"
 DISTUTILS_SRC_TEST="setup.py"

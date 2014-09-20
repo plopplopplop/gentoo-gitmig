@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/allegro/allegro-5.0.8.ebuild,v 1.5 2013/02/10 17:18:19 ago Exp $
 
 EAPI=5
 inherit cmake-utils

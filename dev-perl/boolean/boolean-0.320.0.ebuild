@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/boolean/boolean-0.320.0.ebuild,v 1.1 2014/02/19 10:42:59 radhermit Exp $
 
 EAPI=5
 

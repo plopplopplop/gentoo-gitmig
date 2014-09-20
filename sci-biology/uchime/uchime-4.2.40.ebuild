@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/uchime/uchime-4.2.40.ebuild,v 1.1 2012/08/14 15:36:10 jlec Exp $
 
 EAPI=4
 

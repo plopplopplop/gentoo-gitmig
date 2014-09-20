@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation.
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/desc/input_devices.desc,v 1.10 2014/06/08 14:43:11 swift Exp $
 
 # This file contains descriptions of INPUT_DEVICES USE_EXPAND flags.
 

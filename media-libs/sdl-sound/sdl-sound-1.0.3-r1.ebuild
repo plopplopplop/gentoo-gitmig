@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/sdl-sound/sdl-sound-1.0.3-r1.ebuild,v 1.2 2014/06/18 19:56:09 mgorny Exp $
 
 EAPI=5
 inherit autotools eutils multilib-minimal

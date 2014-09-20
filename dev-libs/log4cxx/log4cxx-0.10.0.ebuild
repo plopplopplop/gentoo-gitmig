@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/log4cxx/log4cxx-0.10.0.ebuild,v 1.10 2010/02/25 09:53:49 ssuominen Exp $
 
 EAPI=2
 inherit eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/bwmon/bwmon-1.3-r2.ebuild,v 1.7 2014/07/10 19:51:24 jer Exp $
 
 EAPI=5
 

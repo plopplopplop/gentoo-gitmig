@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/kdenlive/kdenlive-0.9.2.ebuild,v 1.7 2014/08/10 20:59:53 slyfox Exp $
 
 EAPI=5
 KDE_LINGUAS="ca cs da de el es et fi fr ga gl he hr hu it ja lt nb nds nl pl pt

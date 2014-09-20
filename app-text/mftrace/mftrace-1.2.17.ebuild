@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/mftrace/mftrace-1.2.17.ebuild,v 1.9 2012/01/06 16:52:12 ranger Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

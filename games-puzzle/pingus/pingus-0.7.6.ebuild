@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/pingus/pingus-0.7.6.ebuild,v 1.9 2012/12/08 07:32:00 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils flag-o-matic scons-utils toolchain-funcs games

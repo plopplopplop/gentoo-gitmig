@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/mr/mr-1.14.ebuild,v 1.1 2013/03/10 08:38:12 tove Exp $
 
 EAPI=5
 

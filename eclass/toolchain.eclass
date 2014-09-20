@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/toolchain.eclass,v 1.635 2014/08/05 01:41:01 floppym Exp $
 
 # Maintainer: Toolchain Ninjas <toolchain@gentoo.org>
 

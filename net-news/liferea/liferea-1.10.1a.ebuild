@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-news/liferea/liferea-1.10.1a.ebuild,v 1.1 2013/08/01 13:40:40 slyfox Exp $
 
 EAPI="5"
 

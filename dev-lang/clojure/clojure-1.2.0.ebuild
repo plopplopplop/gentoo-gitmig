@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/clojure/clojure-1.2.0.ebuild,v 1.5 2010/11/24 19:58:37 darkside Exp $
 
 EAPI=2
 JAVA_PKG_IUSE="source test"

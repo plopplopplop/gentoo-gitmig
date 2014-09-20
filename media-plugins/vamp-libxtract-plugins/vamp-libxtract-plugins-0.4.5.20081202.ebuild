@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/vamp-libxtract-plugins/vamp-libxtract-plugins-0.4.5.20081202.ebuild,v 1.2 2010/12/30 12:58:31 aballier Exp $
 
 EAPI=2
 inherit eutils multilib toolchain-funcs

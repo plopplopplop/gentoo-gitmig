@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/fricas/fricas-1.2.3.ebuild,v 1.1 2014/05/08 09:19:16 grozin Exp $
 EAPI=5
 inherit multilib elisp-common
 

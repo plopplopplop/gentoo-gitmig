@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake4-demo/quake4-demo-1.0.ebuild,v 1.17 2012/02/08 23:18:01 vapier Exp $
 
 inherit eutils unpacker games
 

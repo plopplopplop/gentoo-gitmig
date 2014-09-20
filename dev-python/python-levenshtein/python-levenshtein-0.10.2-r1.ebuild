@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-levenshtein/python-levenshtein-0.10.2-r1.ebuild,v 1.7 2014/03/31 20:46:52 mgorny Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} pypy pypy2_0 )

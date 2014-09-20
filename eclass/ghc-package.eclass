@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/ghc-package.eclass,v 1.39 2014/02/11 19:00:06 slyfox Exp $
 
 # @ECLASS: ghc-package.eclass
 # @MAINTAINER:

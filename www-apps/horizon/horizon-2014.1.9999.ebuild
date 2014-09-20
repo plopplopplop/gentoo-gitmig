@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/horizon/horizon-2014.1.9999.ebuild,v 1.3 2014/08/10 20:13:31 slyfox Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 )

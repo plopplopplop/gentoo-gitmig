@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-mobilephone/sms/sms-2.0.3.ebuild,v 1.4 2006/09/24 11:16:40 mrness Exp $
 
 inherit toolchain-funcs eutils
 

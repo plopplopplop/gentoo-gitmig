@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/freeciv/freeciv-2.3.4.ebuild,v 1.5 2014/05/15 17:03:17 ulm Exp $
 
 EAPI=5
 inherit eutils gnome2-utils games-ggz games

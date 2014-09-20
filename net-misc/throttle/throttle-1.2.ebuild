@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/throttle/throttle-1.2.ebuild,v 1.5 2010/01/07 15:59:20 fauli Exp $
 
 DESCRIPTION="Bandwidth limiting pipe"
 HOMEPAGE="http://klicman.org/throttle/"

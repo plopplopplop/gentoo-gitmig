@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/camato/camato-0.7.4.ebuild,v 1.5 2010/01/22 20:04:11 ranger Exp $
 
 EAPI=2
 inherit versionator games

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/lxde-base/lxappearance/lxappearance-0.5.5.ebuild,v 1.6 2014/03/08 13:14:24 maekke Exp $
 
 EAPI=5
 

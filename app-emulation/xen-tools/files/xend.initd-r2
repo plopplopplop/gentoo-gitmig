@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/xen-tools/files/xend.initd-r2,v 1.5 2014/01/02 04:58:53 idella4 Exp $
 
 extra_commands="status"
 

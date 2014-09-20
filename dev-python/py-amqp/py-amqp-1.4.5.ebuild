@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/py-amqp/py-amqp-1.4.5.ebuild,v 1.3 2014/07/06 12:45:25 mgorny Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/ruby-gdkpixbuf2/ruby-gdkpixbuf2-2.0.2.ebuild,v 1.1 2013/12/05 11:38:12 naota Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

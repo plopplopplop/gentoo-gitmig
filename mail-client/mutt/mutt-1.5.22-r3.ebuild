@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-client/mutt/mutt-1.5.22-r3.ebuild,v 1.10 2014/05/14 16:10:47 ago Exp $
 
 EAPI="5"
 

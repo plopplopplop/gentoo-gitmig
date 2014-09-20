@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/gitolite/gitolite-3.5.3.1.ebuild,v 1.4 2014/01/19 16:48:26 idl0r Exp $
 
 EAPI=5
 

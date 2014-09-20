@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/mscgen/mscgen-0.18.ebuild,v 1.3 2012/09/29 11:59:54 pinkbyte Exp $
 
 EAPI=2
 inherit autotools eutils

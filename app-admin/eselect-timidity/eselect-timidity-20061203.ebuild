@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-timidity/eselect-timidity-20061203.ebuild,v 1.9 2007/09/29 09:03:15 drac Exp $
 
 DESCRIPTION="Manages configuration of TiMidity++ patchsets"
 HOMEPAGE="http://www.gentoo.org/"

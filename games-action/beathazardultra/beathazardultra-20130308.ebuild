@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/beathazardultra/beathazardultra-20130308.ebuild,v 1.7 2014/06/25 13:46:14 mgorny Exp $
 
 # TODO: unbundle allegro[gtk...] (no multilib on amd64 and 5.0.9 soname)
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/grc/grc-1.5.ebuild,v 1.8 2014/03/31 20:32:26 mgorny Exp $
 
 EAPI=5
 

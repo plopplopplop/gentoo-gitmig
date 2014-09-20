@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/axtls/axtls-1.4.9-r1.ebuild,v 1.2 2014/09/14 21:57:46 jer Exp $
 
 EAPI="5"
 

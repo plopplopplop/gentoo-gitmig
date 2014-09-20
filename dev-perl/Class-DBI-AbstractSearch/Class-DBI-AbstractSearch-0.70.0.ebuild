@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Class-DBI-AbstractSearch/Class-DBI-AbstractSearch-0.70.0.ebuild,v 1.1 2011/09/01 11:22:52 tove Exp $
 
 EAPI=4
 

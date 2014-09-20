@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libvncserver/libvncserver-0.9.9-r1.ebuild,v 1.7 2014/08/09 10:48:03 ago Exp $
 
 EAPI="4"
 

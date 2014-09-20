@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/php-openid/php-openid-2.2.2.ebuild,v 1.2 2012/01/28 14:08:19 mabi Exp $
 
 EAPI="4"
 MY_P="openid-php-openid-2.2.2-0-ga287b2d"

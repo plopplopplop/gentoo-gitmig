@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/hdbc-postgresql/hdbc-postgresql-2.3.2.1.ebuild,v 1.5 2012/12/24 15:35:57 slyfox Exp $
 
 EAPI=4
 

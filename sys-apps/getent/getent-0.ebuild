@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/getent/getent-0.ebuild,v 1.2 2014/07/21 22:18:21 blueness Exp $
 
 EAPI="5"
 

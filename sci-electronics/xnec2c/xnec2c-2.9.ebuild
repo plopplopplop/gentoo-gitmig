@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/xnec2c/xnec2c-2.9.ebuild,v 1.2 2014/08/10 20:29:03 slyfox Exp $
 
 EAPI=4
 

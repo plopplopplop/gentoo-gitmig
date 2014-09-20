@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/feedparser/feedparser-5.1.3-r2.ebuild,v 1.4 2014/05/12 08:55:28 idella4 Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_{2,3,4}} pypy )

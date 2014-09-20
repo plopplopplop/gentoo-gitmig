@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/lxde-base/lxterminal/lxterminal-0.1.11.ebuild,v 1.7 2013/02/22 20:59:46 zmedico Exp $
 
 EAPI="4"
 

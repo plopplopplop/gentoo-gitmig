@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/netcdf4-python/netcdf4-python-1.0.4.ebuild,v 1.3 2014/07/06 12:42:57 mgorny Exp $
 
 EAPI=5
 

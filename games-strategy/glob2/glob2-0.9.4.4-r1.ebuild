@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/glob2/glob2-0.9.4.4-r1.ebuild,v 1.4 2013/12/24 12:57:42 ago Exp $
 
 EAPI=5
 inherit eutils gnome2-utils scons-utils games

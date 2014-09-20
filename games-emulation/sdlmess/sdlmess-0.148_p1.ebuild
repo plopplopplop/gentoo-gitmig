@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/sdlmess/sdlmess-0.148_p1.ebuild,v 1.4 2014/05/15 16:40:37 ulm Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_6 python2_7 )

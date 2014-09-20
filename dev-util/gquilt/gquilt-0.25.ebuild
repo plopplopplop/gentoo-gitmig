@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/gquilt/gquilt-0.25.ebuild,v 1.4 2012/12/02 13:25:45 hasufell Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

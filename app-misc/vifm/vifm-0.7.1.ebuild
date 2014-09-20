@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/vifm/vifm-0.7.1.ebuild,v 1.2 2014/07/15 09:42:05 nimiux Exp $
 
 EAPI=4
 

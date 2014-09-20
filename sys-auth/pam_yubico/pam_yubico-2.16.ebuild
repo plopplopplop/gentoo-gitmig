@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/pam_yubico/pam_yubico-2.16.ebuild,v 1.1 2014/08/19 02:33:41 zerochaos Exp $
 
 EAPI=5
 inherit multilib

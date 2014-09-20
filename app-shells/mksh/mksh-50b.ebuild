@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/mksh/mksh-50b.ebuild,v 1.1 2014/09/04 08:31:29 patrick Exp $
 
 EAPI=5
 

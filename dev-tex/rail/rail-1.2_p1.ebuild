@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/rail/rail-1.2_p1.ebuild,v 1.1 2012/01/08 12:40:00 gienah Exp $
 
 EAPI="4"
 

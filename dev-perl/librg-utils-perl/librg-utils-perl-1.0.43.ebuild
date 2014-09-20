@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/librg-utils-perl/librg-utils-perl-1.0.43.ebuild,v 1.2 2013/04/24 15:13:21 jlec Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libxkbfile/libxkbfile-1.0.8.ebuild,v 1.10 2013/02/25 08:29:30 zmedico Exp $
 
 EAPI=4
 inherit xorg-2

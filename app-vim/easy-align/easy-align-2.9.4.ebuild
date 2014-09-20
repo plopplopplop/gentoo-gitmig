@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/easy-align/easy-align-2.9.4.ebuild,v 1.1 2014/06/26 06:03:31 radhermit Exp $
 
 EAPI=5
 inherit vim-plugin

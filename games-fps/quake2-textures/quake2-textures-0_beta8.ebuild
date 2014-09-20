@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake2-textures/quake2-textures-0_beta8.ebuild,v 1.4 2014/04/24 19:05:50 ulm Exp $
 
 inherit eutils versionator games
 

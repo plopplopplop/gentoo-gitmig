@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libtrash/libtrash-3.2-r1.ebuild,v 1.1 2013/02/25 21:22:46 pinkbyte Exp $
 
 EAPI=5
 

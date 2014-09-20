@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/nspr/nspr-4.10.7.ebuild,v 1.1 2014/09/03 16:10:05 polynomial-c Exp $
 
 EAPI=5
 WANT_AUTOCONF="2.5"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/MARC-XML/MARC-XML-1.000.300.ebuild,v 1.1 2014/01/23 17:15:46 zlogene Exp $
 
 EAPI=5
 

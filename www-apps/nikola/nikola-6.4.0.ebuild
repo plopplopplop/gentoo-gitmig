@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/nikola/nikola-6.4.0.ebuild,v 1.1 2014/03/21 10:13:50 yngwin Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 ) # 3_3 needs PyRSS2Gen update

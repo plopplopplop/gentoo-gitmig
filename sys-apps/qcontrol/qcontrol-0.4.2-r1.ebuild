@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/qcontrol/qcontrol-0.4.2-r1.ebuild,v 1.1 2011/04/02 19:28:53 armin76 Exp $
 
 inherit eutils toolchain-funcs
 

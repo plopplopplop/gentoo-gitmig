@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/xiphos/xiphos-3.1.5.ebuild,v 1.7 2014/01/06 02:01:51 creffett Exp $
 
 # TODO: waf-utils.eclass ?
 

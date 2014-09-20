@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/dtdparser/dtdparser-1.21-r2.ebuild,v 1.1 2014/09/06 15:35:47 ercpe Exp $
 
 EAPI=5
 

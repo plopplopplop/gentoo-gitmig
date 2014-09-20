@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/spamassassin/spamassassin-3.3.2-r5.ebuild,v 1.2 2014/09/12 20:01:51 jer Exp $
 
 EAPI=5
 

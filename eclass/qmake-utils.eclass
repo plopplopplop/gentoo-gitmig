@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/qmake-utils.eclass,v 1.3 2014/07/28 21:19:52 pesa Exp $
 
 # @ECLASS: qmake-utils.eclass
 # @MAINTAINER:

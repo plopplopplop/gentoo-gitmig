@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libgusb/libgusb-0.1.6.ebuild,v 1.7 2014/07/24 17:36:06 ssuominen Exp $
 
 EAPI=5
 VALA_MIN_API_VERSION="0.16"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/cogl/cogl-1.16.2.ebuild,v 1.5 2014/03/09 12:02:08 pacho Exp $
 
 EAPI="5"
 CLUTTER_LA_PUNT="yes"

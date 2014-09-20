@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/crcmod/crcmod-1.7-r1.ebuild,v 1.3 2014/02/24 22:33:41 vapier Exp $
 
 # For the 2.x versions of Python, these versions have been tested: 2.4 2.5 2.6 2.7
 # For the 3.x versions of Python, these versions have been tested: 3.1

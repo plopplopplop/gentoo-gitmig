@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-base/gconf/gconf-3.2.6-r2.ebuild,v 1.9 2014/06/20 14:45:02 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="yes"

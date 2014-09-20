@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/mg/mg-20140414.ebuild,v 1.8 2014/08/29 06:27:37 ulm Exp $
 
 EAPI=5
 

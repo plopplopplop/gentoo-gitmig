@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/xinetd/xinetd-2.3.14-r1.ebuild,v 1.10 2012/08/26 18:31:58 flameeyes Exp $
 
 EAPI="2"
 

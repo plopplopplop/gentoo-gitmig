@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# $Id$
+# $Id: happydoc-3.1-setup.py,v 1.1 2009/02/25 20:59:36 neurogeek Exp $
 #
 # Time-stamp: <02/02/05 10:00:12 dhellmann>
 #
@@ -34,8 +34,8 @@ __rcs_info__ = {
     #
     #  Creation Information
     #
-    'module_name'  : '$RCSfile$',
-    'rcs_id'       : '$Id$',
+    'module_name'  : '$RCSfile: happydoc-3.1-setup.py,v $',
+    'rcs_id'       : '$Id: happydoc-3.1-setup.py,v 1.1 2009/02/25 20:59:36 neurogeek Exp $',
     'creator'      : 'Doug Hellmann <doug@hellfly.net>',
     'project'      : 'HappyDoc',
     'created'      : 'Sat, 03-Feb-2001 12:51:26 EST',
@@ -43,9 +43,9 @@ __rcs_info__ = {
     #
     #  Current Information
     #
-    'author'       : '$Author$',
-    'version'      : '$Revision$',
-    'date'         : '$Date$',
+    'author'       : '$Author: neurogeek $',
+    'version'      : '$Revision: 1.1 $',
+    'date'         : '$Date: 2009/02/25 20:59:36 $',
 }
 try:
     __version__ = __rcs_info__['version'].split(' ')[1]
@@ -101,7 +101,7 @@ LONG_DESCRIPTION = """
 """
 
 
-def cvsProductVersion(cvsVersionString='$Name$'):
+def cvsProductVersion(cvsVersionString='$Name:  $'):
     """Function to return the version number of the program.
 
     The value is taken from the CVS tag, assuming the tag has the form:

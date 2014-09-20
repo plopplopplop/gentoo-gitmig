@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/bottle/bottle-0.11.7.ebuild,v 1.9 2014/07/06 17:43:42 maekke Exp $
 
 EAPI=5
 

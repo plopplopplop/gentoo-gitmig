@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/testtools/testtools-0.9.15.ebuild,v 1.9 2012/07/28 13:03:04 blueness Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

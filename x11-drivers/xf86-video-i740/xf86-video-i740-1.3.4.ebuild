@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-video-i740/xf86-video-i740-1.3.4.ebuild,v 1.4 2012/12/28 11:15:52 ago Exp $
 
 EAPI=4
 inherit xorg-2

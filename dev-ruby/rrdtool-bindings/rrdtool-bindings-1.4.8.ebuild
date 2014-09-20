@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rrdtool-bindings/rrdtool-bindings-1.4.8.ebuild,v 1.12 2014/09/14 07:29:02 ago Exp $
 
 EAPI="5"
 

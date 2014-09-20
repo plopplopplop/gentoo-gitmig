@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/xf86driproto/xf86driproto-2.1.1-r1.ebuild,v 1.10 2014/06/08 09:16:26 ago Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-geosciences/seawater/seawater-3.3.2.ebuild,v 1.1 2014/04/22 13:41:52 hasufell Exp $
 
 EAPI=5
 

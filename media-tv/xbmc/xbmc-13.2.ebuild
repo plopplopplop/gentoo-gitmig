@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-tv/xbmc/xbmc-13.2.ebuild,v 1.1 2014/08/21 15:14:10 vapier Exp $
 
 EAPI="5"
 

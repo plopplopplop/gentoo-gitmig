@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/dockmanager/dockmanager-0.1.0.ebuild,v 1.6 2013/04/09 18:25:19 ago Exp $
 
 EAPI=3
 PYTHON_DEPEND="2"

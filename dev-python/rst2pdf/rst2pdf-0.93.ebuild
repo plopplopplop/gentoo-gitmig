@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/rst2pdf/rst2pdf-0.93.ebuild,v 1.2 2013/06/09 17:29:44 floppym Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

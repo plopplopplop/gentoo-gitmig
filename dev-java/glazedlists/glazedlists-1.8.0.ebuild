@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/glazedlists/glazedlists-1.8.0.ebuild,v 1.3 2014/03/21 14:21:25 nicolasbock Exp $
 
 EAPI="5"
 JAVA_PKG_IUSE="doc source"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/introspection/introspection-0.0.3.ebuild,v 1.7 2014/08/12 18:37:20 blueness Exp $
 
 EAPI=5
 

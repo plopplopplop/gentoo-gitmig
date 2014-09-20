@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-misc/kscreen/kscreen-1.0.2.1.ebuild,v 1.5 2014/07/16 12:35:45 kensington Exp $
 
 EAPI=5
 

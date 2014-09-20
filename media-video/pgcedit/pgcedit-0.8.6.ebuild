@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/pgcedit/pgcedit-0.8.6.ebuild,v 1.2 2013/11/01 20:26:36 ulm Exp $
 
 EAPI="4"
 

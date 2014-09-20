@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/bignum/bignum-0.300.0-r1.ebuild,v 1.1 2014/07/26 12:41:47 dilfridge Exp $
 
 EAPI=5
 

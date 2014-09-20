@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/mausezahn/mausezahn-0.40.ebuild,v 1.2 2012/11/10 09:10:22 pinkbyte Exp $
 
 EAPI=4
 

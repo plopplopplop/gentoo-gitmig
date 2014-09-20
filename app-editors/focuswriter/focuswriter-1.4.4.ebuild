@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/focuswriter/focuswriter-1.4.4.ebuild,v 1.1 2014/02/04 13:43:40 hasufell Exp $
 
 EAPI=5
 PLOCALES="ca cs da de el en es es_MX fi fr he hu id it ja nl pl pt pt_BR ro ru

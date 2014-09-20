@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/gtkatlantic/gtkatlantic-0.4.3.ebuild,v 1.5 2013/12/24 12:46:04 ago Exp $
 
 EAPI=5
 inherit autotools eutils gnome2-utils games

@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/ltxml/ltxml-1.2.6.ebuild,v 1.5 2008/01/02 10:56:32 armin76 Exp $
 
 S="${WORKDIR}/${P}/XML"
 DESCRIPTION="Integrated set of XML tools and a developers tool-kit with C API"

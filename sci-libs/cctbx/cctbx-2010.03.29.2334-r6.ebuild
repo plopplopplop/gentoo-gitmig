@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/cctbx/cctbx-2010.03.29.2334-r6.ebuild,v 1.9 2013/03/17 14:46:03 jlec Exp $
 
 EAPI="3"
 

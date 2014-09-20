@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/m17n-contrib/m17n-contrib-1.1.9.ebuild,v 1.2 2012/12/03 07:32:46 naota Exp $
 
 DESCRIPTION="Contribution database for the m17n library"
 HOMEPAGE="https://savannah.nongnu.org/projects/m17n"

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/speech-tools/speech-tools-2.1-r1.ebuild,v 1.10 2012/12/28 18:24:29 ulm Exp $
 
 EAPI="2"
 

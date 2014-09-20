@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libvpx/libvpx-1.1.0.ebuild,v 1.30 2014/02/20 01:03:34 floppym Exp $
 
 EAPI=4
 inherit multilib toolchain-funcs base flag-o-matic

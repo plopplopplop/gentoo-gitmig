@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-boot/syslinux/syslinux-5.10.ebuild,v 1.2 2013/09/23 11:56:54 jlec Exp $
 
 EAPI=4
 

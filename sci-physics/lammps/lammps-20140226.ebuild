@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-physics/lammps/lammps-20140226.ebuild,v 1.1 2014/03/01 13:21:04 nicolasbock Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/nimbus/nimbus-0.1.7-r1.ebuild,v 1.1 2012/06/03 23:00:37 ssuominen Exp $
 
 EAPI=4
 AUTOTOOLS_AUTO_DEPEND=no

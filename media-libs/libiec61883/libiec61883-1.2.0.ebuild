@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libiec61883/libiec61883-1.2.0.ebuild,v 1.10 2013/07/21 15:58:38 ago Exp $
 
 EAPI=4
 inherit autotools eutils unpacker

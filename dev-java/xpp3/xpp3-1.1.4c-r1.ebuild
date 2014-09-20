@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/xpp3/xpp3-1.1.4c-r1.ebuild,v 1.16 2014/08/10 20:28:10 slyfox Exp $
 
 JAVA_PKG_IUSE="doc source"
 

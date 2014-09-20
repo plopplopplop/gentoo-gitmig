@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/agendav/agendav-1.2.6.2.ebuild,v 1.2 2014/04/27 07:32:53 grobian Exp $
 
 EAPI="5"
 

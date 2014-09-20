@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/zsh-lovers/zsh-lovers-0.9.0.ebuild,v 1.8 2014/06/09 16:59:17 zlogene Exp $
 
 EAPI=5
 

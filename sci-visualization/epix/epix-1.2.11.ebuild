@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-visualization/epix/epix-1.2.11.ebuild,v 1.1 2013/07/16 16:42:15 bicatali Exp $
 
 EAPI=5
 

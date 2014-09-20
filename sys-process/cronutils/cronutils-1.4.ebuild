@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/cronutils/cronutils-1.4.ebuild,v 1.1 2013/06/11 14:23:27 polynomial-c Exp $
 
 EAPI=4
 

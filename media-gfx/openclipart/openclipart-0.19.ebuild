@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/openclipart/openclipart-0.19.ebuild,v 1.4 2009/07/19 13:27:23 nixnut Exp $
 
 EAPI="2"
 

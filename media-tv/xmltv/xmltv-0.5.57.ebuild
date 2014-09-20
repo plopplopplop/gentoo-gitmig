@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-tv/xmltv/xmltv-0.5.57.ebuild,v 1.1 2013/10/28 14:00:38 pinkbyte Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-pinentry/eselect-pinentry-0.4.ebuild,v 1.18 2014/01/20 20:20:54 vapier Exp $
 
 EAPI=5
 

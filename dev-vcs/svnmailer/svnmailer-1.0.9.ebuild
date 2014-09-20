@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/svnmailer/svnmailer-1.0.9.ebuild,v 1.1 2011/11/22 17:48:11 xarthisius Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

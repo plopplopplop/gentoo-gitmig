@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/ocamlduce/ocamlduce-3.12.1.0.ebuild,v 1.1 2011/07/07 20:34:43 aballier Exp $
 
 EAPI="2"
 

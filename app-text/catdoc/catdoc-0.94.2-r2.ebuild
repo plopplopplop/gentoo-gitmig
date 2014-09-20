@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/catdoc/catdoc-0.94.2-r2.ebuild,v 1.3 2010/09/15 11:22:35 grobian Exp $
 
 EAPI=3
 WANT_AUTOMAKE=none

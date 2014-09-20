@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/checkpolicy/checkpolicy-2.3.ebuild,v 1.2 2014/07/30 11:57:19 swift Exp $
 
 EAPI="5"
 

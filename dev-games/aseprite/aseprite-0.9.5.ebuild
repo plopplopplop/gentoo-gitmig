@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/aseprite/aseprite-0.9.5.ebuild,v 1.4 2013/07/18 20:48:51 creffett Exp $
 
 EAPI=5
 

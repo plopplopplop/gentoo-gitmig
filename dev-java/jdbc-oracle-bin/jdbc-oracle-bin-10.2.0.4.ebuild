@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jdbc-oracle-bin/jdbc-oracle-bin-10.2.0.4.ebuild,v 1.2 2011/12/28 16:36:46 sera Exp $
 
 inherit java-pkg-2
 

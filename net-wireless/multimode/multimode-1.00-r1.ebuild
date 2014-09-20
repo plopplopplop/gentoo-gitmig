@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/multimode/multimode-1.00-r1.ebuild,v 1.2 2014/03/03 18:01:49 zerochaos Exp $
 
 EAPI=5
 PYTHON_COMPAT="python2_7"

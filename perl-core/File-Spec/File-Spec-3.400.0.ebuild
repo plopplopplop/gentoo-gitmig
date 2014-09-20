@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/File-Spec/File-Spec-3.400.0.ebuild,v 1.15 2014/01/19 20:30:49 vapier Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-forensics/ovaldi/ovaldi-5.10.1.4.ebuild,v 1.2 2014/03/01 22:12:04 mgorny Exp $
 
 EAPI=5
 

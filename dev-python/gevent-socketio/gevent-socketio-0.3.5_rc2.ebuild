@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/gevent-socketio/gevent-socketio-0.3.5_rc2.ebuild,v 1.2 2014/06/27 07:03:59 jlec Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2:2.5"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/talloc/talloc-2.0.8.ebuild,v 1.14 2014/06/10 00:12:36 vapier Exp $
 
 EAPI=3
 PYTHON_DEPEND="python? 2:2.6"

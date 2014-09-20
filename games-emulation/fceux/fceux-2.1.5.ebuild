@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/fceux/fceux-2.1.5.ebuild,v 1.4 2012/10/26 07:31:49 tupone Exp $
 
 EAPI=4
 inherit eutils scons-utils games

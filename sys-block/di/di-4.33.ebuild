@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-block/di/di-4.33.ebuild,v 1.1 2013/01/06 21:26:32 vapier Exp $
 
 EAPI=4
 inherit eutils toolchain-funcs

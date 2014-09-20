@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/wally/wally-2.4.5.ebuild,v 1.1 2014/08/06 11:36:51 jer Exp $
 
 EAPI=5
 KDE_REQUIRED="optional"

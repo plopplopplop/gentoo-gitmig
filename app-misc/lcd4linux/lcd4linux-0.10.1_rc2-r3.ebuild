@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/lcd4linux/lcd4linux-0.10.1_rc2-r3.ebuild,v 1.1 2013/12/30 11:10:49 pacho Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_{6,7} )

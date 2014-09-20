@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/django/django-1.4.15.ebuild,v 1.3 2014/09/13 17:24:49 ago Exp $
 
 EAPI=5
 

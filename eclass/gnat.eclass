@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/gnat.eclass,v 1.42 2012/06/02 19:16:31 zmedico Exp $
 #
 # Author: George Shapovalov <george@gentoo.org>
 # Belongs to: ada herd <ada@gentoo.org>

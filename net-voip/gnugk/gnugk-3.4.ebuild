@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-voip/gnugk/gnugk-3.4.ebuild,v 1.1 2013/10/01 15:21:03 chithanh Exp $
 
 EAPI="5"
 

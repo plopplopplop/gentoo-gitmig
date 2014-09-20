@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/gorg/gorg-0.7.1.ebuild,v 1.3 2014/05/07 19:04:51 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/snap-server/snap-server-0.9.3.4.ebuild,v 1.1 2013/11/14 09:50:00 slyfox Exp $
 
 EAPI=5
 

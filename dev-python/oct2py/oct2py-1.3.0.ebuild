@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/oct2py/oct2py-1.3.0.ebuild,v 1.3 2014/08/14 23:31:25 blueness Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/leveldb/leveldb-1.17.ebuild,v 1.3 2014/08/23 02:04:29 floppym Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/ec2-api-tools/ec2-api-tools-1.6.0.0.ebuild,v 1.1 2012/07/29 12:59:43 lxnay Exp $
 
 inherit versionator
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/adjtimex/adjtimex-1.20-r3.ebuild,v 1.2 2010/03/25 19:30:25 robbat2 Exp $
 
 inherit fixheadtails eutils
 

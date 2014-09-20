@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libcss/libcss-0.1.2.ebuild,v 1.9 2013/06/17 17:10:34 xmw Exp $
 
 EAPI=5
 

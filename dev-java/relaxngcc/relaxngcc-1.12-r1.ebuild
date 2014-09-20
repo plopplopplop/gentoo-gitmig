@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/relaxngcc/relaxngcc-1.12-r1.ebuild,v 1.4 2009/07/19 13:44:28 nixnut Exp $
 
 EAPI="2"
 JAVA_PKG_IUSE="doc examples source"

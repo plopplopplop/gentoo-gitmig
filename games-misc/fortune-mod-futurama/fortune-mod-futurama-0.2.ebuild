@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-futurama/fortune-mod-futurama-0.2.ebuild,v 1.16 2013/01/12 08:51:25 ulm Exp $
 
 DESCRIPTION="Quotes from the TV-Series -Futurama-"
 HOMEPAGE="http://www.netmeister.org/misc.html"

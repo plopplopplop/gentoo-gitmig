@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/xinetd/xinetd-2.3.14.ebuild,v 1.16 2011/04/16 19:16:41 ulm Exp $
 
 inherit eutils
 

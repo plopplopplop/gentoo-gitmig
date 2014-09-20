@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/netbeans-ide/netbeans-ide-7.1.2-r1.ebuild,v 1.1 2012/09/14 20:17:36 fordfrog Exp $
 
 EAPI="4"
 WANT_ANT_TASKS="ant-nodeps"

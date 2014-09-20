@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/figlet/figlet-2.2.5.ebuild,v 1.3 2014/09/14 09:11:17 maekke Exp $
 
 EAPI=5
 inherit eutils bash-completion-r1 toolchain-funcs

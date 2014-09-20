@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/grantlee/grantlee-0.3.0.ebuild,v 1.7 2013/04/02 20:56:08 ago Exp $
 
 EAPI=4
 

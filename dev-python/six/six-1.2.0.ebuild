@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/six/six-1.2.0.ebuild,v 1.3 2012/10/06 01:26:56 blueness Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

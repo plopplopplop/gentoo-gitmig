@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/fakeweb/fakeweb-1.3.0-r1.ebuild,v 1.3 2014/04/19 07:37:27 graaff Exp $
 
 EAPI=5
 

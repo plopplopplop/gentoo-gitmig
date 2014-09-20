@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/evms/evms-2.5.5-r13.ebuild,v 1.5 2013/04/09 10:09:30 ssuominen Exp $
 
 EAPI=4
 

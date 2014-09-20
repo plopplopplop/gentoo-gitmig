@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/git-cola/git-cola-2.0.5-r1.ebuild,v 1.1 2014/08/10 07:13:51 dev-zero Exp $
 
 EAPI=5
 

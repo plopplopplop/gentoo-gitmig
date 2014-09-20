@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-client/squirrelmail/squirrelmail-1.4.23_pre20121024.ebuild,v 1.1 2012/10/24 13:10:53 eras Exp $
 
 EAPI=4
 inherit webapp eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-tao/fortune-mod-tao-1.ebuild,v 1.16 2010/12/11 16:29:00 grobian Exp $
 
 MY_PN=${PN/mod-/}
 DESCRIPTION="set of fortunes based on the Tao-Teh-Ching"

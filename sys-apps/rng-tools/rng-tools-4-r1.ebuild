@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/rng-tools/rng-tools-4-r1.ebuild,v 1.1 2012/11/11 06:24:22 vapier Exp $
 
 EAPI="4"
 

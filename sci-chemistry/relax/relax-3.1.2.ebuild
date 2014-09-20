@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/relax/relax-3.1.2.ebuild,v 1.1 2014/01/14 11:58:39 jlec Exp $
 
 EAPI=5
 

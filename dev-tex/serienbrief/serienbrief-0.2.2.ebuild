@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/serienbrief/serienbrief-0.2.2.ebuild,v 1.1 2010/06/11 11:35:09 aballier Exp $
 
 DESCRIPTION="Easy creation of form letters written in LaTeX"
 HOMEPAGE="http://nasauber.de/opensource/serienbrief/"

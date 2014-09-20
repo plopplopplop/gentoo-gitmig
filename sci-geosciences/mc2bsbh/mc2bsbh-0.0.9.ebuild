@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-geosciences/mc2bsbh/mc2bsbh-0.0.9.ebuild,v 1.1 2011/06/23 11:32:57 mschiff Exp $
 
 EAPI=4
 

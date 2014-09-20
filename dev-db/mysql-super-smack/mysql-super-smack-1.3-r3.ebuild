@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/mysql-super-smack/mysql-super-smack-1.3-r3.ebuild,v 1.2 2014/08/10 20:01:30 slyfox Exp $
 
 EAPI=5
 WANT_AUTOMAKE="1.13"

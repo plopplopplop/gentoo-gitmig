@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/mednafen/mednafen-0.9.32.ebuild,v 1.2 2014/05/15 16:37:57 ulm Exp $
 
 EAPI=5
 inherit autotools eutils games

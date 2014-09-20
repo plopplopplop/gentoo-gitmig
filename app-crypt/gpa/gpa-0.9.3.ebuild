@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/gpa/gpa-0.9.3.ebuild,v 1.7 2013/01/12 22:16:07 alonbl Exp $
 
 EAPI=4
 

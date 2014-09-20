@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/fftw/fftw-3.3.4.ebuild,v 1.5 2014/09/02 15:09:29 dev-zero Exp $
 
 EAPI=5
 

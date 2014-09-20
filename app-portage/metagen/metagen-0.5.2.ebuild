@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/metagen/metagen-0.5.2.ebuild,v 1.6 2010/08/09 23:20:08 jer Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

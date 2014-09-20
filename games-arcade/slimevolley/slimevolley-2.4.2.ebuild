@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/slimevolley/slimevolley-2.4.2.ebuild,v 1.5 2014/05/15 16:32:53 ulm Exp $
 
 EAPI=2
 inherit cmake-utils eutils games

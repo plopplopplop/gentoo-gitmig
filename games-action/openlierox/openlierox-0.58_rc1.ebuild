@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/openlierox/openlierox-0.58_rc1.ebuild,v 1.4 2012/03/03 01:28:03 sping Exp $
 
 EAPI="2"
 

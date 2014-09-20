@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/joystick/joystick-1.4.4.ebuild,v 1.5 2013/06/30 21:09:53 ago Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs

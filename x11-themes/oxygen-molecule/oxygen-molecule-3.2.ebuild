@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/oxygen-molecule/oxygen-molecule-3.2.ebuild,v 1.3 2010/06/12 08:32:27 phajdan.jr Exp $
 
 MY_PN=Oxygen-Molecule
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-backup/pdumpfs/pdumpfs-1.3-r1.ebuild,v 1.7 2010/04/03 04:36:58 matsuu Exp $
 
 DESCRIPTION="a daily backup system similar to Plan9's dumpfs"
 HOMEPAGE="http://0xcc.net/pdumpfs/"

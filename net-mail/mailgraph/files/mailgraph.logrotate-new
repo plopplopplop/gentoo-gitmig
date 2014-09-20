@@ -1,4 +1,4 @@
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/mailgraph/files/mailgraph.logrotate-new,v 1.1 2007/04/01 19:30:00 ticho Exp $
 # logrotate config for mailgraph log
 
 /var/log/mailgraph/mailgraph.log {

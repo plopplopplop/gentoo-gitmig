@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/lp_solve/lp_solve-5.5.2.0.ebuild,v 1.3 2012/07/09 17:20:49 bicatali Exp $
 
 EAPI=4
 

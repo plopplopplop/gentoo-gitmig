@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/supybot-plugins/supybot-plugins-20060723-r2.ebuild,v 1.3 2010/11/04 12:48:54 maekke Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

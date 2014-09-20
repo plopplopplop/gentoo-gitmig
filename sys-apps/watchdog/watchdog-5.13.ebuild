@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/watchdog/watchdog-5.13.ebuild,v 1.1 2013/02/08 08:18:45 vapier Exp $
 
 EAPI="4"
 

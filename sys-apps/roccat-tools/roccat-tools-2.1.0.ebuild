@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/roccat-tools/roccat-tools-2.1.0.ebuild,v 1.1 2014/09/06 08:21:54 hwoarang Exp $
 
 EAPI=5
 

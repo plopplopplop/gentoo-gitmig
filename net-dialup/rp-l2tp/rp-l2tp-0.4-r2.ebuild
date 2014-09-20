@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/rp-l2tp/rp-l2tp-0.4-r2.ebuild,v 1.3 2012/02/16 19:01:28 phajdan.jr Exp $
 
 inherit eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-kids/tuxmathscrabble/tuxmathscrabble-7.4.ebuild,v 1.4 2011/03/04 12:58:07 ranger Exp $
 
 EAPI=2
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/unscd/unscd-0.39.ebuild,v 1.2 2010/02/15 23:41:31 vapier Exp $
 
 DESCRIPTION="simple & stable nscd replacement"
 HOMEPAGE="http://busybox.net/~vda/unscd/README"

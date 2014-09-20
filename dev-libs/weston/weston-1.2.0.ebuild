@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/weston/weston-1.2.0.ebuild,v 1.2 2013/07/14 20:56:05 chithanh Exp $
 
 EAPI=5
 

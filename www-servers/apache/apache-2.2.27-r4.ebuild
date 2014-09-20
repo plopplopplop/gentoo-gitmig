@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/apache/apache-2.2.27-r4.ebuild,v 1.11 2014/08/10 20:08:18 slyfox Exp $
 
 EAPI=5
 

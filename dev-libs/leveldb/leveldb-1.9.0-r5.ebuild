@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/leveldb/leveldb-1.9.0-r5.ebuild,v 1.5 2014/08/11 22:10:39 blueness Exp $
 
 EAPI=4
 

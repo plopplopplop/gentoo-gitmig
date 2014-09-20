@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/yaffs-utils/yaffs-utils-9999.ebuild,v 1.4 2011/09/21 08:16:12 mgorny Exp $
 
 EAPI="2"
 

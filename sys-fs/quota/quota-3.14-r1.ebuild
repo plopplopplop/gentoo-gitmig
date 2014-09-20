@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/quota/quota-3.14-r1.ebuild,v 1.10 2011/02/06 11:03:20 leio Exp $
 
 inherit eutils flag-o-matic
 

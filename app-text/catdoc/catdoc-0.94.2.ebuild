@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/catdoc/catdoc-0.94.2.ebuild,v 1.3 2008/08/17 17:21:31 maekke Exp $
 
 DESCRIPTION="A convertor for Microsoft Word, Excel and RTF Files to text"
 HOMEPAGE="http://www.wagner.pp.ru/~vitus/software/catdoc/"

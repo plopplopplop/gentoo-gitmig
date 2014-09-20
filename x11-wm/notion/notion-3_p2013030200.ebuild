@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/notion/notion-3_p2013030200.ebuild,v 1.4 2014/05/25 13:01:33 jer Exp $
 
 EAPI=5
 

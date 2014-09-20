@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/impressive/impressive-0.10.3-r2.ebuild,v 1.5 2014/03/04 20:23:37 ago Exp $
 
 EAPI=5
 

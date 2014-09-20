@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/abiword/abiword-3.0.0-r1.ebuild,v 1.9 2014/03/01 22:15:16 mgorny Exp $
 
 EAPI=5
 GCONF_DEBUG="yes"

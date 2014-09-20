@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/killproc/killproc-2.13.ebuild,v 1.12 2014/08/01 10:44:59 armin76 Exp $
 
 EAPI="2"
 

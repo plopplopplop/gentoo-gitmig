@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/pdnsd/pdnsd-1.2.9a.ebuild,v 1.10 2014/01/18 19:53:50 ago Exp $
 
 EAPI=5
 

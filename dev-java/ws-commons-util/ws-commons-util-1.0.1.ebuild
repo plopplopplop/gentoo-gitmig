@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/ws-commons-util/ws-commons-util-1.0.1.ebuild,v 1.3 2012/05/07 06:18:37 phajdan.jr Exp $
 
 EAPI="1"
 JAVA_PKG_IUSE="source test"

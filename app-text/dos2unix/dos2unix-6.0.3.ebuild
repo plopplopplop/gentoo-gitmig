@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/dos2unix/dos2unix-6.0.3.ebuild,v 1.13 2013/03/15 15:13:01 jer Exp $
 
 EAPI=4
 

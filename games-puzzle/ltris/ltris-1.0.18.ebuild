@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/ltris/ltris-1.0.18.ebuild,v 1.4 2012/03/06 20:39:40 ranger Exp $
 
 EAPI=2
 inherit autotools eutils games

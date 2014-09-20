@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/paramiko/paramiko-1.12.2.ebuild,v 1.3 2014/08/05 11:53:45 armin76 Exp $
 
 EAPI=5
 

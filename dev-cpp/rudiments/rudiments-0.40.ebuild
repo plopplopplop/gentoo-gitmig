@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-cpp/rudiments/rudiments-0.40.ebuild,v 1.1 2013/02/07 10:05:32 dev-zero Exp $
 
 EAPI="5"
 

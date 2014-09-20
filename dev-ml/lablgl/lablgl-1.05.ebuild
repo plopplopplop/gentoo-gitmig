@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/lablgl/lablgl-1.05.ebuild,v 1.10 2014/06/22 13:17:05 ago Exp $
 
 EAPI="5"
 

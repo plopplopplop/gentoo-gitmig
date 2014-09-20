@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-dune/fortune-mod-dune-2.0.1.ebuild,v 1.13 2010/12/12 17:38:00 grobian Exp $
 
 MY_P=${PN}-quotes.${PV}
 DESCRIPTION="Quotes from Frank Herbert's Dune Chronicles"

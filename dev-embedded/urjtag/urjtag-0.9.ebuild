@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-embedded/urjtag/urjtag-0.9.ebuild,v 1.4 2008/10/16 08:57:31 armin76 Exp $
 
 inherit eutils
 

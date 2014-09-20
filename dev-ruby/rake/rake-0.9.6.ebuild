@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rake/rake-0.9.6.ebuild,v 1.13 2014/08/28 02:51:28 mrueg Exp $
 
 EAPI=4
 USE_RUBY="ruby19 ruby20 jruby"

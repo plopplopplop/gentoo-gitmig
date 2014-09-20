@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/unrtf/unrtf-0.20.5.ebuild,v 1.2 2010/01/02 11:44:06 fauli Exp $
 
 inherit eutils
 

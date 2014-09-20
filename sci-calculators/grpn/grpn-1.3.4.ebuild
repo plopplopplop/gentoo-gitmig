@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-calculators/grpn/grpn-1.3.4.ebuild,v 1.2 2012/05/04 06:52:08 jdhore Exp $
 
 EAPI=4
 inherit eutils toolchain-funcs

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/mcollective/mcollective-2.5.3.ebuild,v 1.3 2014/08/09 16:42:14 ago Exp $
 
 EAPI="4"
 

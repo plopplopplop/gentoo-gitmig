@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-plugins/google-talkplugin/google-talkplugin-9999.ebuild,v 1.21 2014/05/23 02:36:47 floppym Exp $
 
 EAPI=5
 

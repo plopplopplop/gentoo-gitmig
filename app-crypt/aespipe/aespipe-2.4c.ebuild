@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/aespipe/aespipe-2.4c.ebuild,v 1.1 2012/12/14 21:59:41 alonbl Exp $
 
 inherit flag-o-matic
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/stomper/stomper-0.2.7.ebuild,v 1.3 2014/03/03 23:48:05 pacho Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.5"

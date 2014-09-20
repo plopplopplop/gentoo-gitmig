@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/mime-types/mime-types-1.25.1.ebuild,v 1.6 2014/08/28 02:50:05 mrueg Exp $
 
 EAPI=5
 

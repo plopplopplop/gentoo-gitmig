@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mate-extra/mate-character-map/mate-character-map-1.6.0.ebuild,v 1.6 2014/07/07 23:47:13 tomwij Exp $
 
 EAPI="5"
 

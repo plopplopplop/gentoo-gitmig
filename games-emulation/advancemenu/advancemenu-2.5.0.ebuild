@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/advancemenu/advancemenu-2.5.0.ebuild,v 1.3 2010/01/22 20:16:11 ranger Exp $
 
 EAPI=2
 inherit eutils games

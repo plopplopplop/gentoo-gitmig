@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/htop/htop-1.0.3.ebuild,v 1.1 2014/05/02 23:05:38 idl0r Exp $
 
 EAPI=5
 

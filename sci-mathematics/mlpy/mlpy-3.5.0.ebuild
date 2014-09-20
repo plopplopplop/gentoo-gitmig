@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/mlpy/mlpy-3.5.0.ebuild,v 1.3 2013/12/11 12:49:15 jlec Exp $
 
 EAPI=5
 

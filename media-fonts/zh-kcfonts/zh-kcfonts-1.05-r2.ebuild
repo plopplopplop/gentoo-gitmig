@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/zh-kcfonts/zh-kcfonts-1.05-r2.ebuild,v 1.10 2007/07/22 07:11:28 dirtyepic Exp $
 
 inherit toolchain-funcs eutils
 

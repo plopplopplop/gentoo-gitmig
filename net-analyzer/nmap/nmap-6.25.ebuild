@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/nmap/nmap-6.25.ebuild,v 1.30 2014/08/28 10:07:45 jer Exp $
 
 EAPI="4"
 

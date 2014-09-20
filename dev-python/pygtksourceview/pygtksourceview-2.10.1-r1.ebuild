@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pygtksourceview/pygtksourceview-2.10.1-r1.ebuild,v 1.11 2014/04/19 17:43:52 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

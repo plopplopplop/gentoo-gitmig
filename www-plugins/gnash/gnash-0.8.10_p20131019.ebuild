@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-plugins/gnash/gnash-0.8.10_p20131019.ebuild,v 1.2 2013/12/04 11:24:48 chithanh Exp $
 
 EAPI=5
 CMAKE_REQUIRED="never"

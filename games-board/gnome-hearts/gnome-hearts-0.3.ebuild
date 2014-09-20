@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/gnome-hearts/gnome-hearts-0.3.ebuild,v 1.6 2012/05/04 04:30:11 jdhore Exp $
 
 EAPI=2
 GCONF_DEBUG=no

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/gdome2/gdome2-0.8.1-r4.ebuild,v 1.10 2013/04/10 08:52:45 pinkbyte Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

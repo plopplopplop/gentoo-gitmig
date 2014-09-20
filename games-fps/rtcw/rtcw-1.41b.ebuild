@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/rtcw/rtcw-1.41b.ebuild,v 1.19 2014/09/07 17:41:03 ulm Exp $
 
 EAPI=2
 inherit eutils unpacker games

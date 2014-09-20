@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/php-docs/php-docs-20100730.ebuild,v 1.1 2010/08/02 17:41:26 mabi Exp $
 
 EAPI="3"
 

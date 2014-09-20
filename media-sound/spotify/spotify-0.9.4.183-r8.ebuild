@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/spotify/spotify-0.9.4.183-r8.ebuild,v 1.1 2014/07/14 04:44:35 prometheanfire Exp $
 
 EAPI=5
 inherit eutils fdo-mime gnome2-utils pax-utils unpacker

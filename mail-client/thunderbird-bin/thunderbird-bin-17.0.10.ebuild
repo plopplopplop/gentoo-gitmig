@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-client/thunderbird-bin/thunderbird-bin-17.0.10.ebuild,v 1.2 2014/08/10 14:29:24 swift Exp $
 
 EAPI="5"
 MOZ_ESR="1"

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/squirrelsh/squirrelsh-1.2.3-r1.ebuild,v 1.1 2010/04/10 17:23:55 ken69267 Exp $
 
 EAPI="2"
 

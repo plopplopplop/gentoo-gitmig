@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/lilv/lilv-0.16.0.ebuild,v 1.1 2013/02/21 10:13:40 aballier Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Emacs-PDE/Emacs-PDE-0.2.16-r1.ebuild,v 1.1 2013/09/04 13:28:08 idella4 Exp $
 
 EAPI=5
 

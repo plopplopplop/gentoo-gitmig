@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/nettle/nettle-2.7.1-r1.ebuild,v 1.5 2014/06/10 00:41:07 vapier Exp $
 
 EAPI=5
 

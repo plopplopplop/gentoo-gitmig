@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/eden/eden-5.3-r1.ebuild,v 1.7 2013/02/19 15:43:19 jlec Exp $
 
 EAPI=4
 

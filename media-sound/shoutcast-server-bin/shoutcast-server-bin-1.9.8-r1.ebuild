@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/shoutcast-server-bin/shoutcast-server-bin-1.9.8-r1.ebuild,v 1.3 2012/06/09 23:16:44 zmedico Exp $
 
 EAPI=2
 inherit eutils user

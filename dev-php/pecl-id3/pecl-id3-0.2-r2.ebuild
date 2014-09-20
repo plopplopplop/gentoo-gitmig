@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-id3/pecl-id3-0.2-r2.ebuild,v 1.3 2014/08/10 21:02:13 slyfox Exp $
 
 EAPI=5
 

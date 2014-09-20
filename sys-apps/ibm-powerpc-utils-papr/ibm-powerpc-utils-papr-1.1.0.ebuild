@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/ibm-powerpc-utils-papr/ibm-powerpc-utils-papr-1.1.0.ebuild,v 1.4 2014/08/10 20:24:00 slyfox Exp $
 
 inherit eutils
 

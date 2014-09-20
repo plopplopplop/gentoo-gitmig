@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/xgamer/xgamer-0.3.0.ebuild,v 1.6 2014/08/09 23:10:57 zlogene Exp $
 
 EAPI=5
 inherit perl-module

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyflakes/pyflakes-0.7.2.ebuild,v 1.7 2013/12/15 15:09:01 mgorny Exp $
 
 EAPI=5
 PYTHON_COMPAT=(python{2_6,2_7,3_{2,3}} )

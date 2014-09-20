@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/ronn/ronn-0.7.3-r2.ebuild,v 1.8 2014/09/09 19:09:48 maekke Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

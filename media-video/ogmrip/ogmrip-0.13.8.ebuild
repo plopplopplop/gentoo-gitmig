@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/ogmrip/ogmrip-0.13.8.ebuild,v 1.1 2012/06/24 18:38:46 hanno Exp $
 
 EAPI=4
 GCONF_DEBUG=no

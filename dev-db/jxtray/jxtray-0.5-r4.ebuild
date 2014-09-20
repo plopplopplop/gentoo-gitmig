@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/jxtray/jxtray-0.5-r4.ebuild,v 1.10 2011/08/07 11:58:24 xarthisius Exp $
 
 EAPI="1"
 inherit java-pkg-2 java-ant-2

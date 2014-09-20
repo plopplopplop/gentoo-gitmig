@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/mocha/mocha-0.12.10.ebuild,v 1.13 2014/08/25 16:13:53 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 jruby ruby20"

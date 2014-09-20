@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lisp/sbcl/sbcl-1.0.55-r1.ebuild,v 1.9 2014/08/05 12:47:08 gienah Exp $
 
 EAPI=3
 inherit multilib eutils flag-o-matic pax-utils

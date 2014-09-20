@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/ac-archive/ac-archive-2007.0205.ebuild,v 1.4 2012/08/08 20:23:37 ranger Exp $
 
 DESCRIPTION="The Autoconf Macro Archive"
 HOMEPAGE="http://ac-archive.sourceforge.net/"

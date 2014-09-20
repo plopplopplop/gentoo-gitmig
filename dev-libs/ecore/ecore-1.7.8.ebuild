@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/ecore/ecore-1.7.8.ebuild,v 1.1 2013/08/06 19:31:02 tommy Exp $
 
 EAPI=2
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/protobuf/protobuf-2.4.0a.ebuild,v 1.10 2014/08/14 00:03:40 jer Exp $
 
 EAPI="3"
 

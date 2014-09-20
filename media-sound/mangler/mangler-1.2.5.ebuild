@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/mangler/mangler-1.2.5.ebuild,v 1.4 2013/03/10 13:38:53 ago Exp $
 
 EAPI=5
 

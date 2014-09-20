@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/logmein-hamachi/logmein-hamachi-2.1.0.119.ebuild,v 1.1 2013/10/12 11:44:39 tomwij Exp $
 
 EAPI=5
 inherit eutils linux-info systemd

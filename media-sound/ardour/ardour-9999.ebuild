@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/ardour/ardour-9999.ebuild,v 1.8 2014/05/17 18:21:28 nativemad Exp $
 
 EAPI=4
 inherit eutils toolchain-funcs flag-o-matic waf-utils

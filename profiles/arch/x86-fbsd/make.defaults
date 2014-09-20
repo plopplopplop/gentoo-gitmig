@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation.
 # Distributed under the terms of the GNU General Public License, v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/arch/x86-fbsd/make.defaults,v 1.7 2014/07/01 07:49:58 mgorny Exp $
 # System-wide defaults for the G/FBSD Portage system
 
 ARCH="x86-fbsd"

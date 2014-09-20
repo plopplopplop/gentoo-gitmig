@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/gsm/gsm-1.0.13.ebuild,v 1.9 2014/08/10 21:06:41 slyfox Exp $
 
 EAPI=2
 inherit eutils flag-o-matic multilib toolchain-funcs versionator

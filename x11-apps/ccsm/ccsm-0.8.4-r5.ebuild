@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/ccsm/ccsm-0.8.4-r5.ebuild,v 1.1 2014/01/23 08:08:38 pinkbyte Exp $
 
 EAPI="5"
 

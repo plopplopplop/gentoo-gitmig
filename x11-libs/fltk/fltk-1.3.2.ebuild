@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/fltk/fltk-1.3.2.ebuild,v 1.13 2014/01/15 09:16:10 ago Exp $
 
 EAPI=4
 

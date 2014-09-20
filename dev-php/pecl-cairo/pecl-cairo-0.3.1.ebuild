@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-cairo/pecl-cairo-0.3.1.ebuild,v 1.3 2012/04/13 19:00:41 ulm Exp $
 
 EAPI="4"
 

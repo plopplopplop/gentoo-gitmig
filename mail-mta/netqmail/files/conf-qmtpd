@@ -1,5 +1,5 @@
 # Configuration file for qmail-qmtpd
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-mta/netqmail/files/conf-qmtpd,v 1.2 2013/05/27 00:45:52 robbat2 Exp $
 
 # For more information on making your servers talk QMTP
 # see http://cr.yp.to/im/mxps.html

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/icm-browser/icm-browser-3.6.1i.ebuild,v 1.3 2014/09/07 15:44:04 ulm Exp $
 
 EAPI="3"
 

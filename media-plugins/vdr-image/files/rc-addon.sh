@@ -1,4 +1,4 @@
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/vdr-image/files/rc-addon.sh,v 1.4 2007/04/17 09:45:24 zzam Exp $
 #
 # rc-addon plugin-startup-skript for vdr-image
 #

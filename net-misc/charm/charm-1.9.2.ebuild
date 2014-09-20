@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/charm/charm-1.9.2.ebuild,v 1.1 2013/04/03 05:30:08 patrick Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

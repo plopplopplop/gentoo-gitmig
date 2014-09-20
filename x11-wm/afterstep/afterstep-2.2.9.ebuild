@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/afterstep/afterstep-2.2.9.ebuild,v 1.20 2011/12/23 07:54:11 ssuominen Exp $
 
 EAPI=4
 

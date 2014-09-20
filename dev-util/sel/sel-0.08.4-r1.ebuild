@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/sel/sel-0.08.4-r1.ebuild,v 1.5 2013/05/25 07:43:57 ago Exp $
 
 EAPI=4
 inherit toolchain-funcs

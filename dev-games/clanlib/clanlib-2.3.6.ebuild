@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/clanlib/clanlib-2.3.6.ebuild,v 1.5 2013/10/28 23:31:47 mr_bones_ Exp $
 
 EAPI=4
 inherit flag-o-matic eutils autotools-utils

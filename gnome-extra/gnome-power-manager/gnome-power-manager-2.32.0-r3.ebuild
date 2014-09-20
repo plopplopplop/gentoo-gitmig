@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gnome-power-manager/gnome-power-manager-2.32.0-r3.ebuild,v 1.8 2014/05/31 22:24:48 ssuominen Exp $
 
 EAPI="4"
 GNOME_TARBALL_SUFFIX="bz2"

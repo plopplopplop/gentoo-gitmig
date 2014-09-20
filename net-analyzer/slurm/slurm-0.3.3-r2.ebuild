@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/slurm/slurm-0.3.3-r2.ebuild,v 1.1 2014/07/17 01:44:55 jer Exp $
 
 EAPI=5
 inherit autotools eutils

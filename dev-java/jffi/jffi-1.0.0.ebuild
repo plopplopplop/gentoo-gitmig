@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jffi/jffi-1.0.0.ebuild,v 1.8 2012/08/25 19:09:47 thev00d00 Exp $
 
 # Probably best to leave the CFLAGS as they are here. See...
 # http://weblogs.java.net/blog/kellyohair/archive/2006/01/compilation_of_1.html

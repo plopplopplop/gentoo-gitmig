@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/twindistress/twindistress-1.1.0.ebuild,v 1.6 2010/10/19 07:48:33 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils games

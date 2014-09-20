@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/mpv/mpv-0.5.1.ebuild,v 1.1 2014/08/27 14:27:47 maksbotan Exp $
 
 EAPI=5
 

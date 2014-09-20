@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/w3lib/w3lib-1.10.0.ebuild,v 1.1 2014/08/28 05:01:48 idella4 Exp $
 
 EAPI=5
 

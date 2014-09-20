@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/ocaml-make/ocaml-make-6.36.0.ebuild,v 1.1 2012/02/19 13:25:36 aballier Exp $
 
 DESCRIPTION="Generic O'Caml Makefile for GNU Make"
 HOMEPAGE="http://www.ocaml.info/home/ocaml_sources.html"

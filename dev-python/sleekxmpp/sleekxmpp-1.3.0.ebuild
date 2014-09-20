@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/sleekxmpp/sleekxmpp-1.3.0.ebuild,v 1.2 2014/06/25 07:43:06 idella4 Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_2,3_3,3_4} pypy )

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/scrub/scrub-2.4.1.ebuild,v 1.4 2012/03/07 08:59:36 dev-zero Exp $
 
 EAPI="3"
 

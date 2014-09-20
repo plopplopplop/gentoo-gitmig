@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/easystroke/easystroke-0.6.0-r1.ebuild,v 1.2 2014/06/05 21:29:36 jer Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs

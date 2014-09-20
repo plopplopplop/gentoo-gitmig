@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/sound-juicer/sound-juicer-3.5.1_pre20130826.ebuild,v 1.5 2014/02/22 22:19:18 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="yes"

@@ -16,7 +16,7 @@ index 7db410b..1960795 100755
 +++ b/initscript/Gentoo/NetworkManager.in
 @@ -3,18 +3,42 @@
  # Distributed under the terms of the GNU General Purpose License v2
- # $Header$
+ # $Header: /var/cvsroot/gentoo-x86/net-misc/networkmanager/files/networkmanager-0.9.2.0-init-provide-net-r1.patch,v 1.2 2012/02/21 23:19:19 tetromino Exp $
  
 +description="NetworkManager daemon. The service is marked as started only \
 +when a network connection is established."

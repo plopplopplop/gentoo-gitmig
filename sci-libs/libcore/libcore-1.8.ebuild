@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/libcore/libcore-1.8.ebuild,v 1.1 2009/02/02 23:01:37 bicatali Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs

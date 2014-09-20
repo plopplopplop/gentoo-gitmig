@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/man-db/man-db-2.6.6.ebuild,v 1.10 2014/07/11 21:55:41 zlogene Exp $
 
 EAPI="4"
 

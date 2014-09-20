@@ -1,6 +1,6 @@
 ## Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/meme/meme-4.8.1-r2.ebuild,v 1.3 2013/03/19 07:11:16 jlec Exp $
 
 EAPI=4
 

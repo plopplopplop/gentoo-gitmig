@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/cucumber/cucumber-1.2.1.ebuild,v 1.11 2014/08/15 17:37:02 armin76 Exp $
 
 EAPI=2
 USE_RUBY="ruby19"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-xemacs/oo-browser/oo-browser-1.04.ebuild,v 1.5 2014/08/10 19:19:06 slyfox Exp $
 
 SLOT="0"
 IUSE=""

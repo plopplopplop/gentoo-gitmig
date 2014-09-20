@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libkgeomap/libkgeomap-3.5.0.ebuild,v 1.5 2014/04/16 15:21:48 dilfridge Exp $
 
 EAPI=5
 

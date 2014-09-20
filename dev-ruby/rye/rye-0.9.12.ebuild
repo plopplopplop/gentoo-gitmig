@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rye/rye-0.9.12.ebuild,v 1.1 2014/05/08 06:02:08 graaff Exp $
 
 EAPI=5
 

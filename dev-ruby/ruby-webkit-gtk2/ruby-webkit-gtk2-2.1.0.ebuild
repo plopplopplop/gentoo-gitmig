@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/ruby-webkit-gtk2/ruby-webkit-gtk2-2.1.0.ebuild,v 1.2 2014/08/17 10:16:25 blueness Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

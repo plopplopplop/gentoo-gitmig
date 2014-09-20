@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apache/mod_auth_tkt/mod_auth_tkt-2.1.0.ebuild,v 1.1 2009/09/17 07:45:27 hollow Exp $
 
 # test suite is completely broken
 RESTRICT="test"

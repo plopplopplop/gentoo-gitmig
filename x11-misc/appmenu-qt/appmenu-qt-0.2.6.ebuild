@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/appmenu-qt/appmenu-qt-0.2.6.ebuild,v 1.3 2013/03/02 23:47:12 hwoarang Exp $
 
 EAPI=4
 

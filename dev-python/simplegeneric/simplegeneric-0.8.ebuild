@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/simplegeneric/simplegeneric-0.8.ebuild,v 1.5 2014/08/14 23:24:34 blueness Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

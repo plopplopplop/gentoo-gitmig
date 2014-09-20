@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/sloccount/sloccount-2.26-r2.ebuild,v 1.7 2013/07/04 12:25:16 ago Exp $
 
 EAPI="4"
 

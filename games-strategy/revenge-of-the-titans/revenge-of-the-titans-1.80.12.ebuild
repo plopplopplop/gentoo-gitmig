@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/revenge-of-the-titans/revenge-of-the-titans-1.80.12.ebuild,v 1.4 2014/04/16 17:22:48 ulm Exp $
 
 EAPI=3
 inherit eutils games java-pkg-2

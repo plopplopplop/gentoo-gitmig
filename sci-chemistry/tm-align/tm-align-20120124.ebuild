@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/tm-align/tm-align-20120124.ebuild,v 1.3 2013/02/05 18:30:14 ulm Exp $
 
 EAPI=4
 

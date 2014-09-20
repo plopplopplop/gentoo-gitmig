@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-misc/kcometen4/kcometen4-1.0.7.ebuild,v 1.9 2013/06/11 16:02:42 kensington Exp $
 
 EAPI=5
 

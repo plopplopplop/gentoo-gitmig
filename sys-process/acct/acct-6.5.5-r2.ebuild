@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/acct/acct-6.5.5-r2.ebuild,v 1.13 2013/08/08 02:01:18 mr_bones_ Exp $
 
 EAPI=3
 inherit eutils autotools

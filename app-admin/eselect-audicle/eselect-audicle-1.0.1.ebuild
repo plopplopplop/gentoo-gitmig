@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-audicle/eselect-audicle-1.0.1.ebuild,v 1.1 2009/11/15 15:16:52 cedk Exp $
 
 DESCRIPTION="Manages the /usr/bin/audicle symlink"
 HOMEPAGE="http://www.gentoo.org/"

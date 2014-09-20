@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/open4/open4-1.3.3.ebuild,v 1.2 2014/04/19 03:25:35 mrueg Exp $
 
 EAPI=5
 # jruby: not compatible with its fork implementation

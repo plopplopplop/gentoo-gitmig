@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/nagios-check_logfiles/nagios-check_logfiles-2.3.2.1.ebuild,v 1.3 2008/12/28 14:23:14 dertobi123 Exp $
 
 inherit eutils
 DESCRIPTION="A nagios plugin for checking logfiles"

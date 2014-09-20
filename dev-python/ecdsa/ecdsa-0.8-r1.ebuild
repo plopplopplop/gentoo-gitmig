@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ecdsa/ecdsa-0.8-r1.ebuild,v 1.1 2013/08/18 13:00:03 blueness Exp $
 
 EAPI=5
 

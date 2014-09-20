@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/datefudge/datefudge-1.14.ebuild,v 1.13 2011/02/22 19:11:12 nixnut Exp $
 
 EAPI=2
 inherit multilib toolchain-funcs

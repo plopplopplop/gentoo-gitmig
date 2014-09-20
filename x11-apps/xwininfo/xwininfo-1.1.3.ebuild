@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xwininfo/xwininfo-1.1.3.ebuild,v 1.10 2014/03/28 01:47:09 jer Exp $
 
 EAPI=5
 

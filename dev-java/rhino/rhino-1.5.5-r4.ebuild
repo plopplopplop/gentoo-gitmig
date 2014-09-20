@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/rhino/rhino-1.5.5-r4.ebuild,v 1.9 2014/08/10 20:22:50 slyfox Exp $
 
 inherit eutils java-pkg-2 java-ant-2
 

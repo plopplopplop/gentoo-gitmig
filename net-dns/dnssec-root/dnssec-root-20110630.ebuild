@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/dnssec-root/dnssec-root-20110630.ebuild,v 1.14 2014/08/21 14:22:35 armin76 Exp $
 
 EAPI=4
 

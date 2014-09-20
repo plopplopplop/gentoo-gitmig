@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jython/jython-2.7_beta2-r1.ebuild,v 1.1 2014/07/25 17:55:38 chutzpah Exp $
 
 EAPI=5
 JAVA_PKG_IUSE="doc examples source"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/s6/s6-1.1.0.ebuild,v 1.1 2013/10/02 23:09:29 williamh Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/grabc/grabc-1.1.ebuild,v 1.11 2010/07/21 14:27:56 ssuominen Exp $
 
 S="${WORKDIR}/${PN}${PV}"
 DESCRIPTION="determine the color string in hex (or RGB components) by clicking on a pixel on the screen"

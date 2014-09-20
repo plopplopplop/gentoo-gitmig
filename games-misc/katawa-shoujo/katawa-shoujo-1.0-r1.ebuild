@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/katawa-shoujo/katawa-shoujo-1.0-r1.ebuild,v 1.2 2013/05/23 14:24:43 pinkbyte Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/openerp/openerp-8.0.20140125.ebuild,v 1.1 2014/01/25 14:16:09 dlan Exp $
 
 EAPI="5"
 

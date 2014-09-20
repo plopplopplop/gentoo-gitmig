@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/perf/perf-3.13.1-r1.ebuild,v 1.3 2014/07/18 20:20:17 hwoarang Exp $
 
 EAPI="5"
 

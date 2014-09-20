@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/padre/padre-0.960.0.ebuild,v 1.1 2012/04/25 16:01:19 tove Exp $
 
 EAPI=4
 

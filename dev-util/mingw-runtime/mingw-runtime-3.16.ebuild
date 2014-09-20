@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/mingw-runtime/mingw-runtime-3.16.ebuild,v 1.2 2010/06/20 04:27:24 vapier Exp $
 
 # This version does not work as the configure script expects the installed
 # cross-compiler to be able to link binaries ... except we haven't provided

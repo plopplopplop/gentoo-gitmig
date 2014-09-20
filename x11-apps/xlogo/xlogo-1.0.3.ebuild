@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xlogo/xlogo-1.0.3.ebuild,v 1.9 2011/08/10 15:00:45 mduft Exp $
 
 EAPI=3
 

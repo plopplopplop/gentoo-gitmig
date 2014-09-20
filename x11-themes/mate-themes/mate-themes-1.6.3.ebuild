@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/mate-themes/mate-themes-1.6.3.ebuild,v 1.2 2014/05/04 14:55:54 ago Exp $
 
 EAPI="5"
 

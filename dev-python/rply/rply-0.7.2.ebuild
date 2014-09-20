@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/rply/rply-0.7.2.ebuild,v 1.1 2014/02/14 08:09:50 patrick Exp $
 
 EAPI=5
 

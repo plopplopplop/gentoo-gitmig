@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/memcache-client/memcache-client-1.8.5.ebuild,v 1.18 2014/08/05 16:00:42 mrueg Exp $
 
 EAPI="2"
 USE_RUBY="ruby19 jruby"

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/urw-fonts/urw-fonts-2.4.6.ebuild,v 1.13 2010/10/01 01:17:16 dirtyepic Exp $
 
 # At some point URW++ released fonts under GPL license. After that they were took
 # and improved by Valek Filippov and this work was somehow related with AFPL...

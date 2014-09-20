@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/python-single-r1.eclass,v 1.26 2014/05/26 16:13:35 mgorny Exp $
 
 # @ECLASS: python-single-r1
 # @MAINTAINER:

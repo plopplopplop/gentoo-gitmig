@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/kwave/kwave-0.8.12.ebuild,v 1.1 2014/08/19 18:36:22 johu Exp $
 
 EAPI=5
 

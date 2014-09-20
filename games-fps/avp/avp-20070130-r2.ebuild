@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/avp/avp-20070130-r2.ebuild,v 1.2 2014/07/03 20:29:50 axs Exp $
 
 EAPI=5
 inherit eutils games

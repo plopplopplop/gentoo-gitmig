@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/cheese/cheese-2.32.0.ebuild,v 1.17 2014/07/24 18:53:20 ssuominen Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

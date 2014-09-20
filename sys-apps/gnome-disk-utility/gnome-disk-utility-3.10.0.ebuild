@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/gnome-disk-utility/gnome-disk-utility-3.10.0.ebuild,v 1.5 2014/03/29 21:53:43 tetromino Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/daphne/daphne-1.0.ebuild,v 1.7 2011/09/21 10:44:04 tupone Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs games

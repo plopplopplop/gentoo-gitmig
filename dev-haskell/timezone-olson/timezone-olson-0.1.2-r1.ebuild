@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/timezone-olson/timezone-olson-0.1.2-r1.ebuild,v 1.1 2012/12/23 19:58:49 slyfox Exp $
 
 EAPI=5
 

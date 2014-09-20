@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/yasm/yasm-9999.ebuild,v 1.7 2014/05/09 22:44:31 vapier Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

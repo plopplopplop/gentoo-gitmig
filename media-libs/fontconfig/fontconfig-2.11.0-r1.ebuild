@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/fontconfig/fontconfig-2.11.0-r1.ebuild,v 1.2 2014/06/10 00:44:36 vapier Exp $
 
 EAPI=5
 AUTOTOOLS_AUTORECONF=yes

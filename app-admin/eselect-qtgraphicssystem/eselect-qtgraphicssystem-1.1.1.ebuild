@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-qtgraphicssystem/eselect-qtgraphicssystem-1.1.1.ebuild,v 1.12 2013/04/20 09:22:07 hwoarang Exp $
 
 EAPI=4
 

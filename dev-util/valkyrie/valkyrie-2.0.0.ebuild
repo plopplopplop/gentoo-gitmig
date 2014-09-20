@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/valkyrie/valkyrie-2.0.0.ebuild,v 1.3 2013/03/03 11:33:01 xarthisius Exp $
 
 EAPI=3
 

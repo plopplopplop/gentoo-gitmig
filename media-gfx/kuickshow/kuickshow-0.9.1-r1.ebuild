@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/kuickshow/kuickshow-0.9.1-r1.ebuild,v 1.4 2013/01/11 21:12:58 dilfridge Exp $
 
 EAPI=4
 

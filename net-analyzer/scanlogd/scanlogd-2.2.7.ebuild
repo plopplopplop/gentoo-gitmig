@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/scanlogd/scanlogd-2.2.7.ebuild,v 1.2 2014/06/14 09:48:49 phajdan.jr Exp $
 
 EAPI=5
 inherit eutils savedconfig toolchain-funcs user

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/muine/muine-0.8.11-r2.ebuild,v 1.9 2013/10/12 12:13:32 pacho Exp $
 
 EAPI=2
 

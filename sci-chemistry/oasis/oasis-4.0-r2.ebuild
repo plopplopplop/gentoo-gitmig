@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/oasis/oasis-4.0-r2.ebuild,v 1.13 2012/10/19 10:04:45 jlec Exp $
 
 EAPI=3
 

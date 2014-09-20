@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/python-any-r1.eclass,v 1.17 2014/04/08 16:05:30 mgorny Exp $
 
 # @ECLASS: python-any-r1
 # @MAINTAINER:

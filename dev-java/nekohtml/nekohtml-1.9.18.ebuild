@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/nekohtml/nekohtml-1.9.18.ebuild,v 1.3 2014/08/14 17:09:19 phajdan.jr Exp $
 
 EAPI="5"
 

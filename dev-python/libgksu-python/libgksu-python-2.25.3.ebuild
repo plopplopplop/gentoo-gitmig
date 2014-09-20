@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/libgksu-python/libgksu-python-2.25.3.ebuild,v 1.9 2012/08/13 09:32:35 tetromino Exp $
 
 EAPI="2"
 # The 'gksu' and 'gksuui' bindings are not supported. We don't have =libgksu-1*

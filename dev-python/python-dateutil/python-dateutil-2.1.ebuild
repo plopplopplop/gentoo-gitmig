@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-dateutil/python-dateutil-2.1.ebuild,v 1.7 2012/12/17 17:53:41 ago Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

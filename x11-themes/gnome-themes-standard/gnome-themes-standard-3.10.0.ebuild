@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/gnome-themes-standard/gnome-themes-standard-3.10.0.ebuild,v 1.12 2014/05/05 02:11:13 tetromino Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

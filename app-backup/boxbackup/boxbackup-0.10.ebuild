@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-backup/boxbackup/boxbackup-0.10.ebuild,v 1.16 2012/05/24 04:36:57 vapier Exp $
 
 inherit eutils autotools user
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/twelf/twelf-1.7.1.ebuild,v 1.5 2014/08/10 20:24:19 slyfox Exp $
 
 EAPI="5"
 

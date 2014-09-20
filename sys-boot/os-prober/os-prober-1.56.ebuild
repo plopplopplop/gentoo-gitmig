@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-boot/os-prober/os-prober-1.56.ebuild,v 1.1 2012/10/14 19:10:30 abcd Exp $
 
 EAPI=4
 

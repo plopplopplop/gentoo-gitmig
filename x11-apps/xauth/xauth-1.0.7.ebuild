@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xauth/xauth-1.0.7.ebuild,v 1.10 2013/02/22 19:24:56 zmedico Exp $
 
 EAPI=4
 

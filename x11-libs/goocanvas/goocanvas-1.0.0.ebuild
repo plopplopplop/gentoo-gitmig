@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/goocanvas/goocanvas-1.0.0.ebuild,v 1.12 2013/08/12 04:06:56 tetromino Exp $
 
 EAPI="3"
 

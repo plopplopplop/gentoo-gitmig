@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libflatarray/libflatarray-0.1.1.ebuild,v 1.1 2014/07/22 12:02:13 slis Exp $
 
 EAPI=5
 

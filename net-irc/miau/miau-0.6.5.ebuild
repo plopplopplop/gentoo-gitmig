@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/miau/miau-0.6.5.ebuild,v 1.2 2007/12/13 21:34:15 armin76 Exp $
 
 inherit eutils
 

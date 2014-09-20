@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/asc/asc-2.6.0.0.ebuild,v 1.1 2014/06/04 21:15:32 mr_bones_ Exp $
 
 EAPI=5
 WX_GTK_VER=2.8

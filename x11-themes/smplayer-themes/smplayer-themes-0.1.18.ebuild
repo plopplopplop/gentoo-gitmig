@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/smplayer-themes/smplayer-themes-0.1.18.ebuild,v 1.6 2009/04/13 21:32:20 ranger Exp $
 
 DESCRIPTION="Icon themes for smplayer"
 HOMEPAGE="http://smplayer.sourceforge.net/"

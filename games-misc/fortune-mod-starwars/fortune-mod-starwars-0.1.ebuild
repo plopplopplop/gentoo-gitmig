@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-starwars/fortune-mod-starwars-0.1.ebuild,v 1.15 2010/12/12 09:27:19 grobian Exp $
 
 MY_P=${PN/-mod/}
 DESCRIPTION="Quotes from StarWars, The Empire Strikes Back, and Return of the Jedi"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/django-recaptcha/django-recaptcha-1.0.ebuild,v 1.2 2014/05/10 23:43:59 patrick Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/gmtp/gmtp-1.3.4.ebuild,v 1.1 2012/11/15 00:21:04 vapier Exp $
 
 EAPI=4
 inherit gnome2-utils toolchain-funcs

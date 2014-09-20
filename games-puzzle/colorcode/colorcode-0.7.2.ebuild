@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/colorcode/colorcode-0.7.2.ebuild,v 1.4 2013/03/02 21:18:24 hwoarang Exp $
 
 EAPI=2
 inherit eutils qt4-r2 games

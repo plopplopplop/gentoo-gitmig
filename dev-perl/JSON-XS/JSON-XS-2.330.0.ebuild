@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/JSON-XS/JSON-XS-2.330.0.ebuild,v 1.3 2013/01/13 13:42:07 maekke Exp $
 
 EAPI=4
 

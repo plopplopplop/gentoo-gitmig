@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/billiard/billiard-3.3.0.17.ebuild,v 1.1 2014/05/02 07:01:53 idella4 Exp $
 
 EAPI=5
 

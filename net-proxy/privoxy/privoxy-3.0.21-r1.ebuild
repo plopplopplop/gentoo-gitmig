@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/privoxy/privoxy-3.0.21-r1.ebuild,v 1.3 2013/10/17 20:52:50 maekke Exp $
 
 EAPI="4"
 

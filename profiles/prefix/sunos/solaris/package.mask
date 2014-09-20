@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/prefix/sunos/solaris/package.mask,v 1.39 2014/01/14 20:03:52 grobian Exp $
 
 
 # Fabian Groffen <grobian@gentoo.org> (14 Jan 2014)

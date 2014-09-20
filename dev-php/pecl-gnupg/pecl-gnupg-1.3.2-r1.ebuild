@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-gnupg/pecl-gnupg-1.3.2-r1.ebuild,v 1.3 2013/03/05 11:14:33 olemarkus Exp $
 
 EAPI="5"
 

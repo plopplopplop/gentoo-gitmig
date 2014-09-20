@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/scli/scli-0.4.0-r1.ebuild,v 1.5 2014/07/16 23:21:17 jer Exp $
 
 EAPI=5
 inherit autotools eutils flag-o-matic

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-dicts/gnuvd/gnuvd-1.0.11.ebuild,v 1.2 2014/08/10 02:33:08 patrick Exp $
 
 EAPI=4
 

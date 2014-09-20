@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/haddock/haddock-2.6.1.ebuild,v 1.16 2013/02/10 14:26:06 slyfox Exp $
 
 CABAL_FEATURES="bin lib"
 # don't enable profiling as the 'ghc' package is not built with profiling

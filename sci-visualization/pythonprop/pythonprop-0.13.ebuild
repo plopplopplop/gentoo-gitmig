@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-visualization/pythonprop/pythonprop-0.13.ebuild,v 1.1 2013/11/30 10:13:31 tomjbe Exp $
 
 EAPI="4"
 PYTHON_COMPAT=( python2_7 )

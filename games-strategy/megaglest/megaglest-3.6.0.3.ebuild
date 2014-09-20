@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/megaglest/megaglest-3.6.0.3.ebuild,v 1.10 2014/05/15 17:05:54 ulm Exp $
 
 EAPI=4
 VIRTUALX_REQUIRED="manual"

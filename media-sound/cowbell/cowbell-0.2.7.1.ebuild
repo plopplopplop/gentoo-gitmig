@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/cowbell/cowbell-0.2.7.1.ebuild,v 1.11 2012/05/21 23:29:39 vapier Exp $
 
 EAPI=2
 

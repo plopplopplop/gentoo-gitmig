@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/id3/id3-0.15.ebuild,v 1.7 2007/10/09 14:10:55 corsair Exp $
 
 inherit toolchain-funcs
 

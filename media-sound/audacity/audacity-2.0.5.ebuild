@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/audacity/audacity-2.0.5.ebuild,v 1.1 2013/11/09 13:38:10 polynomial-c Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/hibernate/hibernate-3.1.3-r3.ebuild,v 1.3 2014/08/10 20:14:40 slyfox Exp $
 
 EAPI="2"
 WANT_ANT_TASKS="ant-antlr ant-swing ant-junit"

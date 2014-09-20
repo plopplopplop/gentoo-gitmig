@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/bcpkix/bcpkix-1.50.ebuild,v 1.1 2014/02/06 13:59:03 tomwij Exp $
 
 EAPI="5"
 

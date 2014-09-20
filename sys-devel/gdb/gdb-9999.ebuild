@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/gdb/gdb-9999.ebuild,v 1.29 2014/08/04 01:30:06 vapier Exp $
 
 EAPI="4"
 PYTHON_COMPAT=( python{2_7,3_3,3_4} )

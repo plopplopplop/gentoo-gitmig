@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/gst-plugins-meta/gst-plugins-meta-1.0-r1.ebuild,v 1.18 2013/03/03 12:52:27 ago Exp $
 
 EAPI="5"
 

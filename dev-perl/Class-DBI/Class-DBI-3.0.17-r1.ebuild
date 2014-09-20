@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Class-DBI/Class-DBI-3.0.17-r1.ebuild,v 1.2 2013/12/15 10:59:53 zlogene Exp $
 
 EAPI=5
 

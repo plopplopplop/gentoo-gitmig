@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-server/bf1942-lnxded/bf1942-lnxded-1.61.ebuild,v 1.9 2014/04/30 19:25:04 ulm Exp $
 
 inherit eutils unpacker games
 

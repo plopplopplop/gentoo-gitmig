@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/DirectFB/DirectFB-1.4.9-r1.ebuild,v 1.7 2012/01/27 20:11:51 tupone Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs

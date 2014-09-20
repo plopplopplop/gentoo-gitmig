@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/maelstrom/maelstrom-3.0.6-r2.ebuild,v 1.6 2014/07/18 14:23:05 klausman Exp $
 
 EAPI=5
 inherit autotools eutils games

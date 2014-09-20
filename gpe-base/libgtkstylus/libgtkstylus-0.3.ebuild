@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/libgtkstylus/libgtkstylus-0.3.ebuild,v 1.1 2009/03/01 01:03:37 solar Exp $
 
 GPE_TARBALL_SUFFIX="bz2"
 GPE_MIRROR="http://gpe.linuxtogo.org/download/source"

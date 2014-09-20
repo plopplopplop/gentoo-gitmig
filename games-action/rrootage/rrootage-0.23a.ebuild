@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/rrootage/rrootage-0.23a.ebuild,v 1.12 2012/07/26 10:38:14 tupone Exp $
 
 EAPI=2
 inherit eutils games

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/toolchain-funcs.eclass,v 1.127 2014/07/11 08:21:58 ulm Exp $
 
 # @ECLASS: toolchain-funcs.eclass
 # @MAINTAINER:

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/rtcwmp-demo/rtcwmp-demo-1.1-r1.ebuild,v 1.1 2014/07/09 22:23:25 axs Exp $
 
 EAPI=5
 inherit eutils unpacker games

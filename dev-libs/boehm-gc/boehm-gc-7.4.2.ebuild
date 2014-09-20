@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/boehm-gc/boehm-gc-7.4.2.ebuild,v 1.1 2014/06/17 06:11:45 patrick Exp $
 
 EAPI=5
 

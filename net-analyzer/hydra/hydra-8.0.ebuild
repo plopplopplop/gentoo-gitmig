@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/hydra/hydra-8.0.ebuild,v 1.5 2014/09/09 18:58:11 nimiux Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs

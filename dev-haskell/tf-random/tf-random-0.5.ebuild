@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/tf-random/tf-random-0.5.ebuild,v 1.1 2014/07/02 12:31:10 gienah Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/blaze-markup/blaze-markup-0.5.1.5.ebuild,v 1.3 2013/11/24 19:32:56 ago Exp $
 
 EAPI=5
 

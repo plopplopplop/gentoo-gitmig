@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Test-Most/Test-Most-0.250.0.ebuild,v 1.5 2012/04/14 15:16:49 maekke Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/wavpack/wavpack-4.70.0.ebuild,v 1.11 2014/06/18 20:29:37 mgorny Exp $
 
 EAPI=5
 AUTOTOOLS_PRUNE_LIBTOOL_FILES=all

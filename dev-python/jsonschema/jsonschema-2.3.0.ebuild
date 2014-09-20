@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/jsonschema/jsonschema-2.3.0.ebuild,v 1.5 2014/07/06 12:42:33 mgorny Exp $
 
 EAPI=5
 PYTHON_COMPAT=(python{2_6,2_7,3_{2,3,4}} pypy pypy2_0)

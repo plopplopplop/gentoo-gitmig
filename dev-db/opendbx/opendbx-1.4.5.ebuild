@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/opendbx/opendbx-1.4.5.ebuild,v 1.6 2012/11/25 14:27:49 swegener Exp $
 
 EAPI="2"
 

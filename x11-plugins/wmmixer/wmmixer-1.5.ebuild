@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/wmmixer/wmmixer-1.5.ebuild,v 1.1 2008/12/22 22:51:03 ssuominen Exp $
 
 inherit eutils toolchain-funcs
 

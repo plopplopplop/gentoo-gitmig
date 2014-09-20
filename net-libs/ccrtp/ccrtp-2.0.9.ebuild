@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/ccrtp/ccrtp-2.0.9.ebuild,v 1.1 2014/09/13 14:43:41 mgorny Exp $
 
 EAPI=5
 inherit eutils multilib

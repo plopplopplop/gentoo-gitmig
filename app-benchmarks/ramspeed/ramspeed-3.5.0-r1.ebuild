@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/ramspeed/ramspeed-3.5.0-r1.ebuild,v 1.3 2012/12/01 18:20:27 blueness Exp $
 
 EAPI="4"
 inherit flag-o-matic toolchain-funcs

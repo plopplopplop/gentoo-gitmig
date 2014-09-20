@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/telepathy-mission-control/telepathy-mission-control-5.14.1.ebuild,v 1.14 2014/06/20 14:45:24 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

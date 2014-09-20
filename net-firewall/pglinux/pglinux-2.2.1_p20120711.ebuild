@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-firewall/pglinux/pglinux-2.2.1_p20120711.ebuild,v 1.4 2013/03/02 22:50:17 hwoarang Exp $
 
 EAPI=4
 

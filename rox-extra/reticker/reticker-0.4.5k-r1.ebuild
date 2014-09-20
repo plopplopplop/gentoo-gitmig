@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/reticker/reticker-0.4.5k-r1.ebuild,v 1.3 2007/11/16 15:23:47 drac Exp $
 
 ROX_LIB_VER="1.9.13"
 inherit rox multilib

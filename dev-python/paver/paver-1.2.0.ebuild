@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/paver/paver-1.2.0.ebuild,v 1.7 2014/08/21 12:40:12 armin76 Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7,3_2,3_3} pypy pypy2_0 )

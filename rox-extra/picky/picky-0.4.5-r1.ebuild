@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/picky/picky-0.4.5-r1.ebuild,v 1.4 2007/11/16 15:26:49 drac Exp $
 
 ROX_LIB_VER=1.9.12
 inherit rox

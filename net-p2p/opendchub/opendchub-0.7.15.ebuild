@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/opendchub/opendchub-0.7.15.ebuild,v 1.3 2007/01/22 15:03:05 armin76 Exp $
 
 inherit eutils
 

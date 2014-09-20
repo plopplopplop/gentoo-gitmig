@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/perl-app.eclass,v 1.13 2013/12/29 21:39:51 dilfridge Exp $
 
 # Author: Michael Cummings <mcummings@gentoo.org>
 # Maintained by the Perl herd <perl@gentoo.org>

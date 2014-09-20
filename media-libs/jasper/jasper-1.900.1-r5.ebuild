@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/jasper/jasper-1.900.1-r5.ebuild,v 1.10 2013/08/28 14:51:42 kensington Exp $
 
 EAPI=3
 

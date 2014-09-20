@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/descent2-data/descent2-data-1.0.ebuild,v 1.9 2012/01/16 19:03:03 ulm Exp $
 
 inherit eutils cdrom games
 

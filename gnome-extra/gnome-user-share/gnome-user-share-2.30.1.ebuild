@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gnome-user-share/gnome-user-share-2.30.1.ebuild,v 1.10 2012/05/06 05:39:00 tetromino Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/phrap/phrap-1.080812.ebuild,v 1.4 2013/02/17 10:28:37 jlec Exp $
 
 DESCRIPTION="Phrap, swat, cross_match: Shotgun assembly and alignment utilities"
 HOMEPAGE="http://www.phrap.org/"

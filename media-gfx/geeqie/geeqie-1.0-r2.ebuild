@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/geeqie/geeqie-1.0-r2.ebuild,v 1.7 2012/06/07 23:08:29 voyageur Exp $
 
 EAPI=4
 inherit autotools eutils

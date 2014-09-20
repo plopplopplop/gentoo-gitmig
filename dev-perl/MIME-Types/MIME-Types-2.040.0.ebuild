@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/MIME-Types/MIME-Types-2.040.0.ebuild,v 1.1 2014/02/23 16:39:17 zlogene Exp $
 
 EAPI=5
 

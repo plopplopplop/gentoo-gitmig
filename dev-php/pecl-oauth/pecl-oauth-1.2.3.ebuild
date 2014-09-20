@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-oauth/pecl-oauth-1.2.3.ebuild,v 1.1 2013/03/28 12:15:30 olemarkus Exp $
 
 EAPI="5"
 PHP_EXT_NAME="oauth"

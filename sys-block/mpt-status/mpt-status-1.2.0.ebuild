@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-block/mpt-status/mpt-status-1.2.0.ebuild,v 1.7 2014/08/10 20:22:11 slyfox Exp $
 
 inherit eutils
 

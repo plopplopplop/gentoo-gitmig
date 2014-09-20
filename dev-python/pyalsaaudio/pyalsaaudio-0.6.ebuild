@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyalsaaudio/pyalsaaudio-0.6.ebuild,v 1.6 2013/01/08 21:57:11 vapier Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

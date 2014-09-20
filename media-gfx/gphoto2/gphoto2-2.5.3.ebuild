@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/gphoto2/gphoto2-2.5.3.ebuild,v 1.11 2014/05/17 15:31:35 ago Exp $
 
 EAPI="5"
 inherit autotools

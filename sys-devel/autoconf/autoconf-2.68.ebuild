@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/autoconf/autoconf-2.68.ebuild,v 1.13 2014/01/17 04:23:13 vapier Exp $
 
 EAPI="2"
 

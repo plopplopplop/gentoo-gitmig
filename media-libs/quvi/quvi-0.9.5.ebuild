@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/quvi/quvi-0.9.5.ebuild,v 1.3 2014/02/23 16:31:32 pacho Exp $
 
 EAPI=5
 AUTOTOOLS_AUTORECONF=1

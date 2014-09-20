@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/ris-linux/ris-linux-0.4.ebuild,v 1.2 2011/08/09 19:17:52 maksbotan Exp $
 
 EAPI=3
 

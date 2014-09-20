@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/imaging/imaging-1.1.7-r1.ebuild,v 1.13 2013/05/28 22:47:40 floppym Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

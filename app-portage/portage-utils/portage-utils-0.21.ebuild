@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/portage-utils/portage-utils-0.21.ebuild,v 1.5 2013/04/30 04:23:55 vapier Exp $
 
 EAPI="3"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/tripwire/tripwire-2.4.2.2.ebuild,v 1.7 2013/09/03 15:01:36 nimiux Exp $
 
 EAPI=5
 

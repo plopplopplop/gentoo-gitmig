@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/s390-tools/s390-tools-1.13.0.ebuild,v 1.4 2013/11/06 02:37:00 patrick Exp $
 
 EAPI="2"
 

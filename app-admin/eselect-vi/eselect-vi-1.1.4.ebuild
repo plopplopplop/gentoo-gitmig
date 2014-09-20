@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-vi/eselect-vi-1.1.4.ebuild,v 1.13 2011/02/06 05:13:22 leio Exp $
 
 DESCRIPTION="Manages the /usr/bin/vi symlink"
 HOMEPAGE="http://www.gentoo.org/"

@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/4stattack/4stattack-2.1.4.ebuild,v 1.9 2007/03/15 14:07:57 nyhm Exp $
 
 inherit eutils games
 

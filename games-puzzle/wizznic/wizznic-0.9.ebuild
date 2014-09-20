@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/wizznic/wizznic-0.9.ebuild,v 1.5 2014/05/15 16:54:28 ulm Exp $
 
 EAPI=2
 inherit eutils games

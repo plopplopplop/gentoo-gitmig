@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/libcmatrix/libcmatrix-3.11.0.ebuild,v 1.7 2013/05/20 16:28:04 jlec Exp $
 
 EAPI=5
 

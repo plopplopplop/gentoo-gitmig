@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/httpcomponents-client/httpcomponents-client-4.3.1-r1.ebuild,v 1.1 2013/12/01 16:08:26 ercpe Exp $
 
 EAPI="5"
 

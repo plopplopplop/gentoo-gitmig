@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/espeak/espeak-1.48.04.ebuild,v 1.1 2014/06/12 09:35:23 teiresias Exp $
 
 EAPI=5
 

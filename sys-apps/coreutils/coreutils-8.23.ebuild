@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/coreutils/coreutils-8.23.ebuild,v 1.1 2014/07/28 09:44:48 vapier Exp $
 
 # To generate the man pages, unpack the upstream tarball and run:
 # ./configure --enable-install-program=arch,coreutils

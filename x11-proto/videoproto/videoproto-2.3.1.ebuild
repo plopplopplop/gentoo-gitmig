@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/videoproto/videoproto-2.3.1.ebuild,v 1.10 2012/05/09 01:04:16 aballier Exp $
 
 EAPI=3
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libggimisc/libggimisc-2.2.2.ebuild,v 1.3 2009/09/14 21:28:11 maekke Exp $
 
 DESCRIPTION="Library for General Graphics Interface"
 HOMEPAGE="http://www.ggi-project.org"

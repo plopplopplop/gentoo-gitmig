@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libXaw/libXaw-1.0.11-r1.ebuild,v 1.13 2013/02/22 19:27:03 zmedico Exp $
 
 EAPI=4
 

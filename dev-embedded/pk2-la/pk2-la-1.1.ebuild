@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-embedded/pk2-la/pk2-la-1.1.ebuild,v 1.1 2010/03/07 02:38:48 josejx Exp $
 
 DESCRIPTION="Logic Analyzer and I/O Probe for the Microchip PICkit2"
 HOMEPAGE="http://sourceforge.net/projects/pk2-la"

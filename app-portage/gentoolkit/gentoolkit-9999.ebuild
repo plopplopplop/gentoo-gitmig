@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/gentoolkit/gentoolkit-9999.ebuild,v 1.35 2014/07/06 12:35:20 mgorny Exp $
 
 EAPI="5"
 

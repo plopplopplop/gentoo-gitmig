@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/php-pear-r1.eclass,v 1.32 2013/11/25 23:22:57 mabi Exp $
 
 # @ECLASS: php-pear-r1.eclass
 # @MAINTAINER:

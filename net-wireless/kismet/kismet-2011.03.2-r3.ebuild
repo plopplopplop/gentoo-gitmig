@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/kismet/kismet-2011.03.2-r3.ebuild,v 1.10 2013/12/06 17:55:58 swift Exp $
 
 EAPI=4
 

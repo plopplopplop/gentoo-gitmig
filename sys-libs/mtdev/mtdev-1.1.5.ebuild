@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/mtdev/mtdev-1.1.5.ebuild,v 1.1 2014/05/23 15:45:55 chithanh Exp $
 
 EAPI=5
 

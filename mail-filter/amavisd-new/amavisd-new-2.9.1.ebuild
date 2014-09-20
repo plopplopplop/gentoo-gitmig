@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/amavisd-new/amavisd-new-2.9.1.ebuild,v 1.3 2014/08/25 12:32:29 armin76 Exp $
 
 EAPI=5
 inherit eutils systemd user

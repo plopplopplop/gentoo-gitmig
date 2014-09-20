@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/xcb-util-keysyms/xcb-util-keysyms-0.3.8.ebuild,v 1.10 2012/04/26 22:24:35 aballier Exp $
 
 EAPI=4
 

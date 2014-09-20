@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-mobilephone/pysms/pysms-0.9.4.ebuild,v 1.4 2011/06/11 14:34:47 jer Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/higan-ananke/higan-ananke-092.ebuild,v 1.3 2013/08/28 11:13:56 ago Exp $
 
 EAPI=5
 

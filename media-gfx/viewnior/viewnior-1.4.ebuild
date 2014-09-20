@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/viewnior/viewnior-1.4.ebuild,v 1.1 2014/05/08 04:46:40 wired Exp $
 
 EAPI="5"
 inherit fdo-mime gnome2-utils autotools

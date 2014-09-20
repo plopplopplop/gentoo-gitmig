@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/rubygems/rubygems-5.ebuild,v 1.1 2011/10/21 07:05:42 graaff Exp $
 
 EAPI=2
 USE_RUBY="rbx"

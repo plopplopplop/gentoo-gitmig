@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-HTML_Template_IT/PEAR-HTML_Template_IT-1.2.1.ebuild,v 1.11 2010/02/16 04:41:36 beandog Exp $
 
 inherit php-pear-r1
 

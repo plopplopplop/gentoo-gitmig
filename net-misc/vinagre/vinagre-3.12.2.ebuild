@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/vinagre/vinagre-3.12.2.ebuild,v 1.5 2014/09/07 13:33:37 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

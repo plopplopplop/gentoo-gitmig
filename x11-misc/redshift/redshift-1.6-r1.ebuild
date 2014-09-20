@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/redshift/redshift-1.6-r1.ebuild,v 1.1 2011/05/04 06:33:06 xarthisius Exp $
 
 EAPI=3
 

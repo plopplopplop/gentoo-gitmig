@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/ptlib/ptlib-2.10.10.ebuild,v 1.11 2014/08/04 18:46:43 armin76 Exp $
 
 EAPI="5"
 

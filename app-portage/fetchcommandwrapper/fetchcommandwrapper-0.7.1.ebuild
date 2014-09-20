@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/fetchcommandwrapper/fetchcommandwrapper-0.7.1.ebuild,v 1.1 2010/10/27 20:42:52 sping Exp $
 
 EAPI="2"
 

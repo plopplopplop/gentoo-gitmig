@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/ccache/ccache-2.4-r8.ebuild,v 1.2 2010/12/16 20:42:34 robbat2 Exp $
 
 WANT_AUTOMAKE=none # not using automake
 

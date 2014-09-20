@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/mongochem/mongochem-0.7.0.ebuild,v 1.1 2014/02/03 12:14:00 jlec Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/movit/movit-1.1.ebuild,v 1.1 2014/04/15 03:59:29 patrick Exp $
 
 EAPI=5
 

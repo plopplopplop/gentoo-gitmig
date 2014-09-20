@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/webob/webob-1.2.3.ebuild,v 1.11 2013/04/02 13:19:36 ago Exp $
 
 EAPI=4
 

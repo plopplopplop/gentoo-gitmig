@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/markupsafe/markupsafe-0.12.ebuild,v 1.11 2013/05/28 07:44:44 idella4 Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

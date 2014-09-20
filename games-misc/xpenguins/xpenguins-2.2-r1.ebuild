@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/xpenguins/xpenguins-2.2-r1.ebuild,v 1.5 2007/03/10 09:06:35 nyhm Exp $
 
 inherit games
 

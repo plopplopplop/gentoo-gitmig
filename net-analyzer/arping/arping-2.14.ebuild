@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/arping/arping-2.14.ebuild,v 1.1 2014/06/30 04:37:50 jer Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/gupnp/gupnp-0.20.12.ebuild,v 1.1 2014/05/31 15:38:07 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

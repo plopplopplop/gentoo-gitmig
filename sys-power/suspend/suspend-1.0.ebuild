@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-power/suspend/suspend-1.0.ebuild,v 1.9 2014/03/01 22:15:50 mgorny Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/lightyears/lightyears-1.4.ebuild,v 1.3 2012/01/21 16:11:10 phajdan.jr Exp $
 
 EAPI=3
 PYTHON_DEPEND="2"

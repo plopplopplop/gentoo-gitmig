@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/gdb/gdb-7.2.50.20101117.4.15.ebuild,v 1.3 2013/02/09 04:38:58 vapier Exp $
 
 EAPI="3"
 

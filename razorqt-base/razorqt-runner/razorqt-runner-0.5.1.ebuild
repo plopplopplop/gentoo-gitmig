@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/razorqt-base/razorqt-runner/razorqt-runner-0.5.1.ebuild,v 1.6 2013/03/02 23:14:21 hwoarang Exp $
 
 EAPI=4
 inherit cmake-utils

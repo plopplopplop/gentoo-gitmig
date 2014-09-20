@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/arch/sparc/make.defaults,v 1.5 2011/03/18 22:09:09 vapier Exp $
 
 ARCH="sparc"
 ACCEPT_KEYWORDS="${ARCH}"

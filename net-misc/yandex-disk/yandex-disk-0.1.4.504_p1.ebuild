@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/yandex-disk/yandex-disk-0.1.4.504_p1.ebuild,v 1.1 2014/06/24 07:52:42 pinkbyte Exp $
 
 EAPI=5
 

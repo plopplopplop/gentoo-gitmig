@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/pppconfig/pppconfig-2.3.21.ebuild,v 1.1 2014/05/26 13:33:22 jer Exp $
 
 EAPI=5
 

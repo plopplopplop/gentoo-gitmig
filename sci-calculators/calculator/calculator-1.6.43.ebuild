@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-calculators/calculator/calculator-1.6.43.ebuild,v 1.1 2011/08/06 21:33:45 bicatali Exp $
 
 EAPI=4
 

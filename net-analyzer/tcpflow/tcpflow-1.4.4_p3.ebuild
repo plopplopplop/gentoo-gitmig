@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/tcpflow/tcpflow-1.4.4_p3.ebuild,v 1.2 2014/08/26 22:25:39 blueness Exp $
 
 EAPI=5
 inherit autotools eutils

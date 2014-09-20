@@ -6,7 +6,7 @@
 #
 # Licensed under the GNU General Public License, v2
 #
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/java-utils-2.eclass,v 1.156 2014/04/09 21:55:12 radhermit Exp $
 
 # @ECLASS: java-utils-2.eclass
 # @MAINTAINER:

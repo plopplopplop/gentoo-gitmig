@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-boot/yaboot/yaboot-1.3.16.ebuild,v 1.5 2011/05/22 07:48:57 josejx Exp $
 
 inherit eutils toolchain-funcs
 

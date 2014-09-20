@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/mgetty/mgetty-1.1.37-r1.ebuild,v 1.7 2014/08/09 12:03:57 ago Exp $
 
 EAPI=5
 inherit eutils flag-o-matic toolchain-funcs user

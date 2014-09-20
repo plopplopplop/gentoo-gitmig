@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/lxde-base/lxde-common/lxde-common-0.5.5-r3.ebuild,v 1.2 2013/02/23 02:20:39 zmedico Exp $
 
 EAPI="4"
 

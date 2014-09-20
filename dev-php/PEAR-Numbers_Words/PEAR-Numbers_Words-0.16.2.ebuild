@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-Numbers_Words/PEAR-Numbers_Words-0.16.2.ebuild,v 1.7 2014/08/10 20:54:05 slyfox Exp $
 
 inherit php-pear-r1
 

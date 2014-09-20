@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/doomsday/doomsday-1.9.0_beta69.ebuild,v 1.7 2011/10/15 14:08:01 xarthisius Exp $
 
 EAPI=2
 inherit cmake-utils games

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/jabber-base/jabber-base-0.00.ebuild,v 1.12 2014/01/08 06:41:06 vapier Exp $
 
 inherit eutils user
 

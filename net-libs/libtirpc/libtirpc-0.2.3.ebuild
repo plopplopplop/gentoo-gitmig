@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libtirpc/libtirpc-0.2.3.ebuild,v 1.2 2014/01/18 04:52:01 vapier Exp $
 
 EAPI="4"
 

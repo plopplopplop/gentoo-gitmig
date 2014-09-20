@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/virtuoso.eclass,v 1.15 2014/03/07 03:27:47 creffett Exp $
 
 # @ECLASS: virtuoso.eclass
 # @MAINTAINER:

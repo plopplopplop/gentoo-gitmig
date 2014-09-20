@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/gfceux/gfceux-2.1.1-r1.ebuild,v 1.4 2013/02/14 12:09:02 ago Exp $
 
 EAPI=5
 

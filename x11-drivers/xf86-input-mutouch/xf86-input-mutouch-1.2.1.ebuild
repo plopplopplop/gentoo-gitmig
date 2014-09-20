@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-input-mutouch/xf86-input-mutouch-1.2.1.ebuild,v 1.10 2009/12/15 19:27:26 ranger Exp $
 
 # Must be before x-modular eclass is inherited
 #SNAPSHOT="yes"

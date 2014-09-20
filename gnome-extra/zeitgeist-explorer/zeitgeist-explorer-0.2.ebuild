@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/zeitgeist-explorer/zeitgeist-explorer-0.2.ebuild,v 1.3 2013/12/08 19:01:55 pacho Exp $
 
 EAPI=5
 

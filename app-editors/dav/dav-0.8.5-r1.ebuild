@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/dav/dav-0.8.5-r1.ebuild,v 1.5 2012/05/09 14:33:11 ago Exp $
 
 EAPI="3"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-nds/jxplorer/jxplorer-3.2.ebuild,v 1.7 2014/08/10 20:53:09 slyfox Exp $
 
 JAVA_PKG_IUSE="doc source"
 

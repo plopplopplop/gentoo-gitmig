@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/ieee-oui/ieee-oui-0.ebuild,v 1.2 2013/04/12 02:37:55 zerochaos Exp $
 
 EAPI=4
 

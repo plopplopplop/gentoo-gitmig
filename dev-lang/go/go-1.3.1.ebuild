@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/go/go-1.3.1.ebuild,v 1.2 2014/08/28 11:20:50 mgorny Exp $
 
 EAPI=5
 

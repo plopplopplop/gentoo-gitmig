@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/essays1743/essays1743-1.203.1.ebuild,v 1.5 2012/02/01 17:38:00 ranger Exp $
 
 inherit versionator font
 

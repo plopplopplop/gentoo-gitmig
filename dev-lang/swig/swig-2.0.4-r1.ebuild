@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/swig/swig-2.0.4-r1.ebuild,v 1.11 2012/12/13 21:01:02 radhermit Exp $
 
 EAPI=3
 

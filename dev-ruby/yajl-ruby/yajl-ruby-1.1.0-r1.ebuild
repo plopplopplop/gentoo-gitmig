@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/yajl-ruby/yajl-ruby-1.1.0-r1.ebuild,v 1.6 2014/08/30 10:26:32 mrueg Exp $
 
 EAPI=5
 

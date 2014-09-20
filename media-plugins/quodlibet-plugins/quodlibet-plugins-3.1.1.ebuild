@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/quodlibet-plugins/quodlibet-plugins-3.1.1.ebuild,v 1.1 2014/05/11 18:26:59 ssuominen Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 )

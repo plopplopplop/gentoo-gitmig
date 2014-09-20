@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/rox-tail/rox-tail-2.1.4.ebuild,v 1.5 2009/11/28 10:58:18 swegener Exp $
 
 ROX_CLIB_VER="2.1.8"
 inherit rox

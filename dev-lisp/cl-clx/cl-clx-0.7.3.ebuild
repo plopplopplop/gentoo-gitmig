@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lisp/cl-clx/cl-clx-0.7.3.ebuild,v 1.7 2014/08/10 20:41:12 slyfox Exp $
 
 inherit common-lisp eutils
 

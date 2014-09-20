@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-ftp/ftp/ftp-0.17.23.0.2.1.ebuild,v 1.2 2012/09/29 16:41:57 ulm Exp $
 
 EAPI="2"
 

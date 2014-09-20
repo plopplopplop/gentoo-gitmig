@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-input-keyboard/xf86-input-keyboard-1.6.2.ebuild,v 1.12 2013/03/07 12:28:02 heroxbd Exp $
 
 EAPI=4
 inherit xorg-2

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/brainworkshop/brainworkshop-4.8.1.ebuild,v 1.4 2011/03/04 12:26:13 tomka Exp $
 
 EAPI=2
 inherit eutils games

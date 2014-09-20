@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/muffin/muffin-1.8.2-r1.ebuild,v 1.3 2013/12/08 19:55:37 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

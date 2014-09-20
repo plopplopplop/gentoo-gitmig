@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/Ice/Ice-3.5.1.ebuild,v 1.10 2014/09/06 16:45:15 zerochaos Exp $
 
 EAPI=5
 

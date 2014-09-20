@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/tomcat/tomcat-6.0.37.ebuild,v 1.6 2014/01/08 06:09:20 vapier Exp $
 
 EAPI=4
 

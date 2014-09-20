@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/etqw-demo/etqw-demo-2.0_p1.ebuild,v 1.5 2013/03/29 16:08:35 hasufell Exp $
 
 inherit unpacker eutils versionator games
 

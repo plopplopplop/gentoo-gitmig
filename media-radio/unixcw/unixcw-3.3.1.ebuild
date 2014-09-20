@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-radio/unixcw/unixcw-3.3.1.ebuild,v 1.2 2014/08/10 21:04:02 slyfox Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/scikits/scikits-0.1.ebuild,v 1.5 2013/02/06 15:43:16 jlec Exp $
 
 EAPI=4
 

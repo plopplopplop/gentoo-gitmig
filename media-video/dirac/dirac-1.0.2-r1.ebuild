@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/dirac/dirac-1.0.2-r1.ebuild,v 1.2 2013/10/14 18:16:32 mgorny Exp $
 
 EAPI=5
 inherit autotools eutils multilib-minimal

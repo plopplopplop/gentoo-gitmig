@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/wesnoth/wesnoth-1.10.7.ebuild,v 1.7 2013/12/24 12:47:50 ago Exp $
 
 EAPI=5
 inherit cmake-utils eutils multilib toolchain-funcs flag-o-matic games

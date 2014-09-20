@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/pcsc-lite/pcsc-lite-1.8.10.ebuild,v 1.3 2014/07/30 19:32:21 ssuominen Exp $
 
 EAPI="4"
 

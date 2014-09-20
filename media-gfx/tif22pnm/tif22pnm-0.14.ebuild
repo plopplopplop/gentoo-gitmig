@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/tif22pnm/tif22pnm-0.14.ebuild,v 1.1 2012/03/02 17:47:54 ssuominen Exp $
 
 EAPI=4
 inherit autotools eutils

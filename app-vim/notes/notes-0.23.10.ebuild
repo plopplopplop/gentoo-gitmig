@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/notes/notes-0.23.10.ebuild,v 1.1 2014/06/26 06:10:34 radhermit Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 )

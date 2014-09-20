@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/atanks/atanks-5.9.ebuild,v 1.1 2014/04/23 21:11:10 mr_bones_ Exp $
 
 EAPI=5
 inherit eutils gnome2-utils games

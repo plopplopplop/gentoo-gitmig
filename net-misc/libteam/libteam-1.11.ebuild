@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/libteam/libteam-1.11.ebuild,v 1.1 2014/06/30 12:20:19 maksbotan Exp $
 
 EAPI=5
 

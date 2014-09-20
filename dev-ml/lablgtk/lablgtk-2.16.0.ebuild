@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/lablgtk/lablgtk-2.16.0.ebuild,v 1.9 2013/06/02 15:35:03 ulm Exp $
 
 EAPI=5
 

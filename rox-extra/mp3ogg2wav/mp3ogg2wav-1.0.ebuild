@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/mp3ogg2wav/mp3ogg2wav-1.0.ebuild,v 1.8 2014/08/10 20:33:41 slyfox Exp $
 
 ROX_LIB_VER=1.9.13
 inherit rox

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/mamory/mamory-0.2.25.ebuild,v 1.4 2012/04/25 16:25:16 jlec Exp $
 
 inherit autotools games
 

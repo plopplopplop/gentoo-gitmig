@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/wmmldonkey/wmmldonkey-0.003.ebuild,v 1.7 2012/02/15 09:51:41 voyageur Exp $
 
 DESCRIPTION="wmmsg is a dockapp to show the up and downloadrate from your mldonkey"
 HOMEPAGE="http://dockapps.windowmaker.org/file.php/id/174"

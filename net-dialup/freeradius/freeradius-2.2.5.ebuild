@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/freeradius/freeradius-2.2.5.ebuild,v 1.5 2014/05/18 10:16:24 ago Exp $
 
 EAPI=5
 

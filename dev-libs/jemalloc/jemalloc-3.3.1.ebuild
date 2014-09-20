@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/jemalloc/jemalloc-3.3.1.ebuild,v 1.6 2013/07/29 12:28:53 grobian Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/transfig/transfig-3.2.5e.ebuild,v 1.1 2014/06/08 19:49:07 pva Exp $
 
 EAPI="4"
 inherit toolchain-funcs eutils flag-o-matic multilib

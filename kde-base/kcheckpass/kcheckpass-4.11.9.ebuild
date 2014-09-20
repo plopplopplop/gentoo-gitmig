@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-base/kcheckpass/kcheckpass-4.11.9.ebuild,v 1.6 2014/08/05 18:17:08 mrueg Exp $
 
 EAPI=5
 

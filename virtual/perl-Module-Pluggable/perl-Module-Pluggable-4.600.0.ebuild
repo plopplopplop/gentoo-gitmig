@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Module-Pluggable/perl-Module-Pluggable-4.600.0.ebuild,v 1.12 2014/01/20 20:54:36 vapier Exp $
 
 DESCRIPTION="Virtual for ${PN#perl-}"
 HOMEPAGE=""

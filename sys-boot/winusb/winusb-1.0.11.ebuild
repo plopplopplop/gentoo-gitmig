@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-boot/winusb/winusb-1.0.11.ebuild,v 1.1 2014/05/11 14:29:45 yac Exp $
 
 EAPI=5
 

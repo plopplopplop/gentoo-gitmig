@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/avahi/avahi-0.6.31-r5.ebuild,v 1.9 2014/08/30 18:45:02 blueness Exp $
 
 EAPI="5"
 

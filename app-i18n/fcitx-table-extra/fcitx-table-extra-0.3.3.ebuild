@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/fcitx-table-extra/fcitx-table-extra-0.3.3.ebuild,v 1.4 2013/08/03 14:49:04 ago Exp $
 
 EAPI=5
 inherit cmake-utils gnome2-utils

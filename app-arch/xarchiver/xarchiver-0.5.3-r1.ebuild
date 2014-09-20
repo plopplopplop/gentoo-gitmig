@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/xarchiver/xarchiver-0.5.3-r1.ebuild,v 1.1 2014/05/12 03:51:01 ssuominen Exp $
 
 EAPI=5
 inherit xfconf

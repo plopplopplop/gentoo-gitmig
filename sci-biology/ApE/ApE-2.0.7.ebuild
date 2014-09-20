@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/ApE/ApE-2.0.7.ebuild,v 1.2 2012/04/25 08:38:13 je_fro Exp $
 
 EAPI=2
 inherit eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/gpac/gpac-0.4.5-r4.ebuild,v 1.15 2014/08/10 20:59:27 slyfox Exp $
 
 inherit eutils wxwidgets flag-o-matic multilib toolchain-funcs
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/waf-utils.eclass,v 1.19 2014/04/16 11:33:18 hasufell Exp $
 
 # @ECLASS: waf-utils.eclass
 # @MAINTAINER:

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/amtterm/amtterm-1.3.ebuild,v 1.2 2012/10/16 20:21:25 ryao Exp $
 
 EAPI="3"
 

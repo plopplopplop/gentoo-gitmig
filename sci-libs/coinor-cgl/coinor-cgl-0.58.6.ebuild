@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/coinor-cgl/coinor-cgl-0.58.6.ebuild,v 1.2 2014/02/04 10:32:35 jlec Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/tinycss/tinycss-0.2.ebuild,v 1.2 2012/06/07 16:54:04 ssuominen Exp $
 
 EAPI=4
 

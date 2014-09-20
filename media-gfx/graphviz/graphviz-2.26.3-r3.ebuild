@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/graphviz/graphviz-2.26.3-r3.ebuild,v 1.13 2014/02/06 12:19:14 kensington Exp $
 
 EAPI=3
 PYTHON_DEPEND="python? 2"

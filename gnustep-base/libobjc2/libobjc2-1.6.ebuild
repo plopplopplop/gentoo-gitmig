@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnustep-base/libobjc2/libobjc2-1.6.ebuild,v 1.3 2012/02/20 10:10:43 voyageur Exp $
 
 EAPI=4
 inherit multilib

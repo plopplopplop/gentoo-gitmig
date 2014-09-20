@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/netio/netio-1.32.ebuild,v 1.3 2014/08/10 20:59:14 slyfox Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs

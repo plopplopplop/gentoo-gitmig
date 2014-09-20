@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/sslsniff/sslsniff-0.6.ebuild,v 1.3 2012/12/07 15:32:35 zerochaos Exp $
 
 EAPI=2
 inherit autotools eutils

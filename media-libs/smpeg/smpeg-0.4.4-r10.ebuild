@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/smpeg/smpeg-0.4.4-r10.ebuild,v 1.3 2014/09/04 07:04:35 tupone Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs autotools flag-o-matic multilib-minimal

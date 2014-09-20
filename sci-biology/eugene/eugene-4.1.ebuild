@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/eugene/eugene-4.1.ebuild,v 1.1 2013/03/09 19:24:45 jlec Exp $
 
 EAPI=5
 

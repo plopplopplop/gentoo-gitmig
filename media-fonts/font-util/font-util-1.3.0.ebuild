@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/font-util/font-util-1.3.0.ebuild,v 1.12 2014/01/18 12:20:57 vapier Exp $
 
 EAPI=4
 inherit xorg-2

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-embedded/msp430-gcc/msp430-gcc-4.6.3_p20120406.ebuild,v 1.1 2012/04/28 10:07:52 radhermit Exp $
 
 EAPI="4"
 

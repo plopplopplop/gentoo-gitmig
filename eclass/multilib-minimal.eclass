@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/multilib-minimal.eclass,v 1.9 2014/05/02 16:16:37 mgorny Exp $
 
 # @ECLASS: multilib-minimal.eclass
 # @MAINTAINER:

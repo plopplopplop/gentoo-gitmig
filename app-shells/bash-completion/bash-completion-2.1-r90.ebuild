@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/bash-completion/bash-completion-2.1-r90.ebuild,v 1.1 2014/08/27 17:31:12 mgorny Exp $
 
 EAPI=5
 

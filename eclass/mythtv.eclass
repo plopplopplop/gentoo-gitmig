@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/mythtv.eclass,v 1.21 2011/08/22 04:46:32 vapier Exp $
 
 # @ECLASS: mythtv.eclass
 # @MAINTAINER:

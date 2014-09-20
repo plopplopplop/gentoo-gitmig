@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-xemacs/sgml/sgml-1.11.ebuild,v 1.5 2014/08/10 19:30:07 slyfox Exp $
 
 SLOT="0"
 IUSE=""

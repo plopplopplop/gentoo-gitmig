@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libfpx/libfpx-1.2.0.9.ebuild,v 1.23 2013/01/19 11:22:05 ulm Exp $
 
 ### uncomment the right variables depending on if we have a patchlevel or not
 #MY_P=${PN}-${PV%.*}-${PV#*.*.*.}

@@ -1,7 +1,7 @@
 #!/bin/sh
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/autoconf-wrapper/files/ac-wrapper-8.sh,v 1.2 2010/03/07 15:01:09 vapier Exp $
 
 # Based on the ac-wrapper.pl script provided by MandrakeSoft
 # Rewritten in bash by Gregorio Guidi

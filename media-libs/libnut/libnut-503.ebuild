@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libnut/libnut-503.ebuild,v 1.3 2009/07/31 21:31:54 chainsaw Exp $
 
 inherit flag-o-matic
 

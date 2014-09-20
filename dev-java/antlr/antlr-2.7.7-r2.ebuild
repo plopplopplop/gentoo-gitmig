@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/antlr/antlr-2.7.7-r2.ebuild,v 1.9 2014/01/03 15:43:07 ulm Exp $
 
 EAPI="3"
 PYTHON_DEPEND="python? 2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-leechcraft/leechcraft-meta/leechcraft-meta-9999.ebuild,v 1.11 2014/07/28 18:40:02 maksbotan Exp $
 
 EAPI="5"
 

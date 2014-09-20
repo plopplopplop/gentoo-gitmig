@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/bitlbee/bitlbee-3.0.5-r1.ebuild,v 1.10 2014/06/05 10:04:32 mrueg Exp $
 
 EAPI="4"
 PYTHON_DEPEND="skype? 2:2.5"

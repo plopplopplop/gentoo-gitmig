@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-infiniband/libibmad/libibmad-1.3.11.ebuild,v 1.1 2014/04/16 08:22:24 alexxy Exp $
 
 EAPI="5"
 

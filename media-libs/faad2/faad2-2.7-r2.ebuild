@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/faad2/faad2-2.7-r2.ebuild,v 1.11 2013/04/25 19:15:13 radhermit Exp $
 
 EAPI=3
 inherit autotools eutils

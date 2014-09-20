@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/torrent/torrent-0.8.2.ebuild,v 1.6 2009/08/10 21:23:49 mr_bones_ Exp $
 
 EAPI=2
 inherit games

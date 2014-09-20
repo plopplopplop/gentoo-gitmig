@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/elliptics-eblob/elliptics-eblob-0.18.0.ebuild,v 1.2 2013/08/15 03:34:26 patrick Exp $
 
 EAPI=5
 PYTHON_COMPAT="python2_7"

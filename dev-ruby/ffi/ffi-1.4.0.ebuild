@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/ffi/ffi-1.4.0.ebuild,v 1.13 2014/07/21 13:57:46 klausman Exp $
 
 EAPI=5
 

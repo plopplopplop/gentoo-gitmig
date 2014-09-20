@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pycairo/pycairo-1.10.0-r3.ebuild,v 1.14 2013/01/06 09:29:29 ago Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2:2.6 3:3.1"

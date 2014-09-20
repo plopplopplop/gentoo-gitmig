@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/gsim/gsim-21.0.ebuild,v 1.1 2013/03/06 14:26:39 jlec Exp $
 
 EAPI=5
 

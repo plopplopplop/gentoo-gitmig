@@ -1,6 +1,6 @@
 # Copyright 1999-2005 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/mpgtx/mpgtx-1.3.1.ebuild,v 1.6 2007/02/28 22:17:33 genstef Exp $
 
 inherit eutils toolchain-funcs
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/ghc-paths/ghc-paths-0.1.0.9.ebuild,v 1.7 2013/04/25 18:48:37 ago Exp $
 
 EAPI=5
 

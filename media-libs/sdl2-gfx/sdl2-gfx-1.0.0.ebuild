@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/sdl2-gfx/sdl2-gfx-1.0.0.ebuild,v 1.1 2013/11/22 21:17:26 hasufell Exp $
 
 EAPI=5
 inherit eutils

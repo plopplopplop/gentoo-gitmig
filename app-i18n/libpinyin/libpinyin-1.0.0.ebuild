@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/libpinyin/libpinyin-1.0.0.ebuild,v 1.3 2014/08/12 08:15:41 nativemad Exp $
 
 EAPI=5
 inherit autotools eutils

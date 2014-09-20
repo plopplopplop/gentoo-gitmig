@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/ktp-desktop-applets/ktp-desktop-applets-0.8.1.ebuild,v 1.1 2014/04/26 01:17:17 johu Exp $
 
 EAPI=5
 

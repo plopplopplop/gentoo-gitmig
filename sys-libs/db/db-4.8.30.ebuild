@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/db/db-4.8.30.ebuild,v 1.19 2014/01/18 04:14:32 vapier Exp $
 
 EAPI=4
 

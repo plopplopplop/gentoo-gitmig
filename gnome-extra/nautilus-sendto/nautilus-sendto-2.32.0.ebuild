@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/nautilus-sendto/nautilus-sendto-2.32.0.ebuild,v 1.8 2013/01/13 15:53:49 eva Exp $
 
 EAPI="3"
 GCONF_DEBUG="yes"

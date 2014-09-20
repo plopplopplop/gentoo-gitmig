@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/socket++/socket++-1.12.12-r1.ebuild,v 1.10 2013/09/07 08:35:52 pacho Exp $
 
 inherit autotools eutils
 

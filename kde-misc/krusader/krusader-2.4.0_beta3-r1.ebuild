@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-misc/krusader/krusader-2.4.0_beta3-r1.ebuild,v 1.2 2014/04/24 15:02:24 johu Exp $
 
 EAPI=5
 

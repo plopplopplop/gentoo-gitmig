@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/tortoisehg/tortoisehg-3.0.2.ebuild,v 1.2 2014/08/02 02:02:03 polynomial-c Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

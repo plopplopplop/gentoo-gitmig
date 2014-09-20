@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/qingy/qingy-1.0.0-r2.ebuild,v 1.1 2014/07/19 14:09:13 pacho Exp $
 
 EAPI=5
 inherit autotools elisp-common eutils pam systemd

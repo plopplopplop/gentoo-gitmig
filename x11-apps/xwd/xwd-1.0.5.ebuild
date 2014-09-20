@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xwd/xwd-1.0.5.ebuild,v 1.11 2012/08/26 17:09:46 armin76 Exp $
 
 EAPI=4
 

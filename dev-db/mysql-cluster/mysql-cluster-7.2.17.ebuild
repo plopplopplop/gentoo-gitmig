@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/mysql-cluster/mysql-cluster-7.2.17.ebuild,v 1.2 2014/08/13 20:53:43 grknight Exp $
 
 EAPI=4
 MY_EXTRAS_VER="none"

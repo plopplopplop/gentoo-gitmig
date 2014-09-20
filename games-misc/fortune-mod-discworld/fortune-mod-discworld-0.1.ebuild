@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-discworld/fortune-mod-discworld-0.1.ebuild,v 1.6 2010/12/12 17:48:51 grobian Exp $
 
 MY_P=${PN/-mod/}
 DESCRIPTION="Quotes from Discworld novels"

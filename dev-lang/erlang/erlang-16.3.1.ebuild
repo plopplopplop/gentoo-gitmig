@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/erlang/erlang-16.3.1.ebuild,v 1.3 2014/07/19 18:18:09 klausman Exp $
 
 EAPI=4
 WX_GTK_VER="2.8"

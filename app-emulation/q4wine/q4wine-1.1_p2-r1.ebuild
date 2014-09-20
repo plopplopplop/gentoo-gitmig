@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/q4wine/q4wine-1.1_p2-r1.ebuild,v 1.3 2014/06/23 10:02:57 pinkbyte Exp $
 
 EAPI=5
 

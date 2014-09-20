@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/debugedit/debugedit-4.4.6.ebuild,v 1.5 2006/10/03 21:40:38 wolf31o2 Exp $
 
 inherit toolchain-funcs
 

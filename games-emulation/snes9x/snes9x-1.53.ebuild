@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/snes9x/snes9x-1.53.ebuild,v 1.12 2013/04/06 20:32:18 ulm Exp $
 
 EAPI=2
 inherit autotools eutils flag-o-matic multilib gnome2-utils games

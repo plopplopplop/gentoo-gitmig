@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/webapp.eclass,v 1.72 2012/07/18 14:59:29 blueness Exp $
 
 # @ECLASS: webapp.eclass
 # @MAINTAINER:

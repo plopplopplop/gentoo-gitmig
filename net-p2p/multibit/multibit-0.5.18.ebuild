@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/multibit/multibit-0.5.18.ebuild,v 1.1 2014/05/26 21:24:06 blueness Exp $
 
 EAPI=5
 

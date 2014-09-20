@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/xbattleai/xbattleai-1.2.2-r1.ebuild,v 1.3 2009/10/25 15:26:20 maekke Exp $
 
 EAPI=2
 inherit eutils games

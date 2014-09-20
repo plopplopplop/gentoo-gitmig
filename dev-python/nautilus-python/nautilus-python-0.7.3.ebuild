@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/nautilus-python/nautilus-python-0.7.3.ebuild,v 1.6 2012/01/21 15:51:34 klausman Exp $
 
 EAPI="3"
 

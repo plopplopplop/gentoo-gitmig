@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-mesa/eselect-mesa-0.0.9.ebuild,v 1.9 2011/05/27 00:47:20 chithanh Exp $
 
 EAPI=3
 

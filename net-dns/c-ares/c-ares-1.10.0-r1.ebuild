@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/c-ares/c-ares-1.10.0-r1.ebuild,v 1.3 2014/09/14 22:36:36 jer Exp $
 
 EAPI=5
 

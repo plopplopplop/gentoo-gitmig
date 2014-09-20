@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/bashburn/bashburn-3.0.1.ebuild,v 1.5 2010/10/14 19:17:55 ranger Exp $
 
 EAPI=2
 MY_P=BashBurn-${PV}

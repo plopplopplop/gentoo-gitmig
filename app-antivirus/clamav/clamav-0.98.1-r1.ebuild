@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-antivirus/clamav/clamav-0.98.1-r1.ebuild,v 1.1 2014/04/13 11:28:54 pacho Exp $
 
 EAPI=5
 

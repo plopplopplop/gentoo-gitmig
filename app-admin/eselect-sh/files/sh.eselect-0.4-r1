@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Id$
+# $Id: sh.eselect-0.4-r1,v 1.1 2014/02/12 18:11:37 mgorny Exp $
 
 DESCRIPTION="Manage /bin/sh (POSIX shell) implementations"
 MAINTAINER="mgorny@gentoo.org"

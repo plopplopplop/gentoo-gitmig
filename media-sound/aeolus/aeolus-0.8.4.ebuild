@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/aeolus/aeolus-0.8.4.ebuild,v 1.1 2010/04/12 09:05:51 aballier Exp $
 
 inherit versionator toolchain-funcs multilib
 

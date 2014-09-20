@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Moo/Moo-1.0.8.ebuild,v 1.1 2013/02/10 08:55:00 tove Exp $
 
 EAPI=5
 

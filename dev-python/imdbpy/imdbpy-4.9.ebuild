@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/imdbpy/imdbpy-4.9.ebuild,v 1.1 2012/11/03 16:32:23 idella4 Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

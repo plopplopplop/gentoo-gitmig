@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libxcb/libxcb-1.10.ebuild,v 1.16 2014/09/03 10:28:30 floppym Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/tinc/tinc-1.0.23.ebuild,v 1.1 2013/10/19 15:58:57 blueness Exp $
 
 EAPI="5"
 inherit systemd

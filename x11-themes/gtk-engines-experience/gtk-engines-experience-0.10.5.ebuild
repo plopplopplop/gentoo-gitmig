@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/gtk-engines-experience/gtk-engines-experience-0.10.5.ebuild,v 1.4 2013/04/01 18:26:03 ago Exp $
 
 EAPI=4
 inherit autotools eutils

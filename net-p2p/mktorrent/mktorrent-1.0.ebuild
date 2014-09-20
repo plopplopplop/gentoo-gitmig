@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/mktorrent/mktorrent-1.0.ebuild,v 1.6 2011/05/20 12:11:37 jlec Exp $
 
 EAPI=1
 inherit toolchain-funcs

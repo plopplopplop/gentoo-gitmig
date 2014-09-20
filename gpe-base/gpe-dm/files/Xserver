@@ -3,7 +3,7 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # Angelo Arrifano <miknix@gentoo.org>
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/gpe-dm/files/Xserver,v 1.2 2009/07/04 01:34:27 miknix Exp $
 
 ############################################################################
 # NOTE: If you are using Xorg, you should edit /etc/X11/xorg.conf instead. #

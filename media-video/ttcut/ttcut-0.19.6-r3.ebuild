@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/ttcut/ttcut-0.19.6-r3.ebuild,v 1.8 2014/03/01 22:43:38 billie Exp $
 
 EAPI=5
 

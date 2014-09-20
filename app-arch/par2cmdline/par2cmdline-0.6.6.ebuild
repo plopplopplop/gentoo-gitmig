@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/par2cmdline/par2cmdline-0.6.6.ebuild,v 1.1 2014/04/29 09:05:37 radhermit Exp $
 
 EAPI=5
 inherit autotools

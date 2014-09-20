@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/jd/jd-2.7.5_p101228.ebuild,v 1.3 2012/05/03 06:01:03 jdhore Exp $
 
 EAPI=3
 inherit eutils autotools

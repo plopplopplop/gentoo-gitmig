@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/sssd/sssd-1.12.0.ebuild,v 1.1 2014/07/12 13:11:00 hwoarang Exp $
 
 EAPI=5
 

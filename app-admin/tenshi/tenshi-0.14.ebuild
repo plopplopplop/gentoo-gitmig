@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/tenshi/tenshi-0.14.ebuild,v 1.1 2012/06/07 21:01:35 xmw Exp $
 
 EAPI=4
 inherit eutils user

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emacs/grep-edit/grep-edit-2.9.ebuild,v 1.1 2009/01/14 20:33:16 ulm Exp $
 
 inherit elisp
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/octave-epstk/octave-epstk-2.4.ebuild,v 1.1 2012/06/06 21:36:59 bicatali Exp $
 
 EAPI=4
 inherit eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/openvz-sources/openvz-sources-2.6.32.93.4.ebuild,v 1.1 2014/08/17 16:07:40 maksbotan Exp $
 
 EAPI="5"
 

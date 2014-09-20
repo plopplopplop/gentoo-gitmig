@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/razorqt-base/razorqt-notifications/razorqt-notifications-0.5.1.ebuild,v 1.5 2013/01/20 19:08:42 ago Exp $
 
 EAPI=4
 inherit cmake-utils

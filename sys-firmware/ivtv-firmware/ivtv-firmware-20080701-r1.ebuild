@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-firmware/ivtv-firmware/ivtv-firmware-20080701-r1.ebuild,v 1.2 2013/03/16 13:29:37 ssuominen Exp $
 
 EAPI=5
 

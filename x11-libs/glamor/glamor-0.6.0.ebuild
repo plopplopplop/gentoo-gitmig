@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/glamor/glamor-0.6.0.ebuild,v 1.11 2014/07/21 08:41:25 chithanh Exp $
 
 EAPI=5
 

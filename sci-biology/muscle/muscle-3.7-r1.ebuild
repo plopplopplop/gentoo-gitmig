@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/muscle/muscle-3.7-r1.ebuild,v 1.5 2010/07/20 11:54:30 josejx Exp $
 
 EAPI="3"
 

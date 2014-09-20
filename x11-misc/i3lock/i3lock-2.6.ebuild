@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/i3lock/i3lock-2.6.ebuild,v 1.1 2014/07/18 19:33:46 xarthisius Exp $
 
 EAPI=5
 

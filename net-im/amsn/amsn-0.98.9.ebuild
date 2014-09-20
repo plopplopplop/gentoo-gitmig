@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/amsn/amsn-0.98.9.ebuild,v 1.8 2014/04/26 06:31:08 pacho Exp $
 
 EAPI=4
 inherit autotools eutils fdo-mime gnome2-utils toolchain-funcs

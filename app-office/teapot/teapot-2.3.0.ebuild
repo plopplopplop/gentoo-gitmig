@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/teapot/teapot-2.3.0.ebuild,v 1.2 2014/08/21 07:30:49 jer Exp $
 
 EAPI=5
 inherit cmake-utils flag-o-matic

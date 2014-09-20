@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/odeskteam/odeskteam-3.10.5.ebuild,v 1.1 2014/02/19 01:41:57 titanofold Exp $
 
 EAPI=5
 

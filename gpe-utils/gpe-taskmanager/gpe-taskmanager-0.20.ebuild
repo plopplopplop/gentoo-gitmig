@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-utils/gpe-taskmanager/gpe-taskmanager-0.20.ebuild,v 1.1 2009/04/05 01:19:38 miknix Exp $
 
 inherit eutils gpe
 

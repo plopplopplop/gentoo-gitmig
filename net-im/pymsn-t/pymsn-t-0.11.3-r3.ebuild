@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/pymsn-t/pymsn-t-0.11.3-r3.ebuild,v 1.6 2014/08/05 18:34:17 mrueg Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

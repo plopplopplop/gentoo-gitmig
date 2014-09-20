@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/squidguard/squidguard-1.4-r4.ebuild,v 1.11 2014/08/10 20:35:44 slyfox Exp $
 
 EAPI=2
 WANT_AUTOMAKE=none

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/towbowl-tactics/towbowl-tactics-0.5.ebuild,v 1.12 2014/05/15 16:25:48 ulm Exp $
 
 EAPI=2
 inherit eutils games

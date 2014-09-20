@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/emul-linux-x86.eclass,v 1.24 2014/05/09 07:13:47 mgorny Exp $
 
 #
 # Original Author: Mike Doty <kingtaco@gentoo.org>

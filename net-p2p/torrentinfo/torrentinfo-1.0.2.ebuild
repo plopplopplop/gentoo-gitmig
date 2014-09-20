@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/torrentinfo/torrentinfo-1.0.2.ebuild,v 1.6 2010/10/10 19:07:07 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.6"

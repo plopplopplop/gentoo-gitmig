@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/crack-attack/crack-attack-1.1.14-r1.ebuild,v 1.10 2012/05/04 04:22:29 jdhore Exp $
 
 EAPI=2
 inherit eutils games

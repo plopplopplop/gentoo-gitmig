@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-base/gvfs/gvfs-1.20.3.ebuild,v 1.1 2014/09/05 09:57:24 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

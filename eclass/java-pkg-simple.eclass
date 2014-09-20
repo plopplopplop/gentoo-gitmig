@@ -4,7 +4,7 @@
 #
 # Licensed under the GNU General Public License, v2
 #
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/java-pkg-simple.eclass,v 1.3 2011/12/27 17:55:12 fauli Exp $
 
 inherit java-utils-2
 

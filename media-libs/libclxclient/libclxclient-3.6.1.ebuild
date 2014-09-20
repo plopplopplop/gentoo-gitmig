@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libclxclient/libclxclient-3.6.1.ebuild,v 1.2 2008/10/07 23:04:44 flameeyes Exp $
 
 inherit eutils multilib toolchain-funcs
 

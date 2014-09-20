@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/openvas-manager/openvas-manager-5.0.2.ebuild,v 1.1 2014/06/19 13:37:23 hanno Exp $
 
 EAPI=5
 

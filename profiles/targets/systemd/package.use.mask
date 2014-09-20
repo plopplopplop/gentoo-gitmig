@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/targets/systemd/package.use.mask,v 1.5 2014/07/25 20:05:24 ssuominen Exp $
 
 # Pacho Ramos <pacho@gentoo.org> (29 May 2014)
 # upower support is not needed on setups running systemd, also

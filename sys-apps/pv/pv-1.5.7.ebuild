@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/pv/pv-1.5.7.ebuild,v 1.1 2014/08/27 08:44:26 jer Exp $
 
 EAPI=5
 inherit toolchain-funcs

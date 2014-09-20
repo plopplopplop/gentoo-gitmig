@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/atril/atril-1.8.0.ebuild,v 1.5 2014/07/02 09:45:37 pacho Exp $
 
 EAPI="5"
 

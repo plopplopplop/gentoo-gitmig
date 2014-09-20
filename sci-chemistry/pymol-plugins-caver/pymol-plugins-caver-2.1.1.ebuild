@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/pymol-plugins-caver/pymol-plugins-caver-2.1.1.ebuild,v 1.1 2011/03/18 10:22:58 jlec Exp $
 
 EAPI="3"
 

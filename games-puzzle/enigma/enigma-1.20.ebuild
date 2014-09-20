@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/enigma/enigma-1.20.ebuild,v 1.2 2013/05/08 19:44:45 mr_bones_ Exp $
 
 EAPI=5
 inherit autotools eutils gnome2-utils games

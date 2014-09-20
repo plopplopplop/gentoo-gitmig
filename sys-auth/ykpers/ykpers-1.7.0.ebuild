@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/ykpers/ykpers-1.7.0.ebuild,v 1.1 2012/06/24 10:32:57 flameeyes Exp $
 
 EAPI=4
 

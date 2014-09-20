@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/f-spot/f-spot-0.8.2.ebuild,v 1.10 2013/10/12 12:11:28 pacho Exp $
 
 EAPI="2"
 

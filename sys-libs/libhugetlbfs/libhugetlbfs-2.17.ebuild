@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libhugetlbfs/libhugetlbfs-2.17.ebuild,v 1.1 2013/11/10 03:36:05 radhermit Exp $
 
 EAPI="4"
 

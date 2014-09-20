@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/Encode/Encode-2.470.0-r1.ebuild,v 1.1 2014/07/26 13:27:48 dilfridge Exp $
 
 EAPI=5
 

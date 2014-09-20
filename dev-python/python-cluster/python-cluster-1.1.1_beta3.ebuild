@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-cluster/python-cluster-1.1.1_beta3.ebuild,v 1.3 2011/04/19 09:37:11 tomka Exp $
 
 EAPI=3
 

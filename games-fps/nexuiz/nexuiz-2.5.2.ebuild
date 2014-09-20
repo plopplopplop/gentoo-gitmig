@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/nexuiz/nexuiz-2.5.2.ebuild,v 1.7 2013/11/21 20:05:21 mr_bones_ Exp $
 
 EAPI=5
 inherit eutils games

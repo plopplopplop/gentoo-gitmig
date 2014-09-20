@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libspe2/libspe2-2.3.0_p135.ebuild,v 1.2 2012/09/14 22:44:47 ago Exp $
 inherit eutils
 
 MY_P=${P/_p/.}

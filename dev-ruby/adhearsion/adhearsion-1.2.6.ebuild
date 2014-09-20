@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/adhearsion/adhearsion-1.2.6.ebuild,v 1.2 2013/08/12 02:20:41 patrick Exp $
 
 EAPI=4
 USE_RUBY="ruby19"

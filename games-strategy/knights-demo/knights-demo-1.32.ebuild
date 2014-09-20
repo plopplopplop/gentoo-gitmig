@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/knights-demo/knights-demo-1.32.ebuild,v 1.3 2012/02/05 06:24:05 vapier Exp $
 
 inherit eutils unpacker games
 

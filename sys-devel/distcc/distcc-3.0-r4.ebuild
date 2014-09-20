@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/distcc/distcc-3.0-r4.ebuild,v 1.17 2014/05/16 19:53:04 jer Exp $
 
 EAPI=5
 inherit eutils fdo-mime flag-o-matic multilib toolchain-funcs user

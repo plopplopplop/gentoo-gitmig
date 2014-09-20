@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/mdsplib/mdsplib-0.11.ebuild,v 1.6 2009/08/06 10:34:42 ssuominen Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs

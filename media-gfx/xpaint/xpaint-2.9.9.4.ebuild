@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/xpaint/xpaint-2.9.9.4.ebuild,v 1.5 2013/12/24 12:58:20 ago Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/hs-bibutils/hs-bibutils-4.17.ebuild,v 1.1 2013/04/02 12:47:38 gienah Exp $
 
 EAPI=5
 

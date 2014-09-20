@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/gnome-subtitles/gnome-subtitles-1.1.ebuild,v 1.7 2012/05/05 08:58:58 jdhore Exp $
 
 EAPI=2
 inherit mono gnome2

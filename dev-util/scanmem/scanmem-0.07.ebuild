@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/scanmem/scanmem-0.07.ebuild,v 1.3 2011/11/22 21:26:55 radhermit Exp $
 
 EAPI=4
 

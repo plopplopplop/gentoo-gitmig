@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libnatpmp/libnatpmp-20131126.ebuild,v 1.1 2013/11/27 14:54:07 blueness Exp $
 
 EAPI="5"
 inherit eutils toolchain-funcs multilib

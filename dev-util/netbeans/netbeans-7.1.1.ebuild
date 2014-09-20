@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/netbeans/netbeans-7.1.1.ebuild,v 1.3 2012/05/07 06:34:05 phajdan.jr Exp $
 
 EAPI="4"
 inherit eutils java-pkg-2 java-ant-2

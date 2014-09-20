@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/wop/wop-0.4.3-r1.ebuild,v 1.6 2009/01/27 14:42:16 tupone Exp $
 
 inherit eutils toolchain-funcs games
 

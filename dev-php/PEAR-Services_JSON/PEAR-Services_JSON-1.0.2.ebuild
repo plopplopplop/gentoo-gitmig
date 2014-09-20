@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-Services_JSON/PEAR-Services_JSON-1.0.2.ebuild,v 1.1 2010/03/23 16:55:28 beandog Exp $
 
 inherit php-pear-r1
 

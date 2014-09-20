@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/qgo/qgo-1.5.4_p20100322.ebuild,v 1.9 2013/03/02 21:13:33 hwoarang Exp $
 
 EAPI=2
 inherit eutils qt4-r2 games

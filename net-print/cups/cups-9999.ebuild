@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-print/cups/cups-9999.ebuild,v 1.63 2014/09/07 20:48:21 dilfridge Exp $
 
 EAPI=5
 

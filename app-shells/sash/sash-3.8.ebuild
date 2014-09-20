@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/sash/sash-3.8.ebuild,v 1.1 2014/06/09 06:03:17 patrick Exp $
 
 EAPI=4
 

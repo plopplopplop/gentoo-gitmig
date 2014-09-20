@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-opencl/eselect-opencl-1.1.0-r3.ebuild,v 1.1 2014/07/14 02:52:20 patrick Exp $
 
 EAPI=4
 

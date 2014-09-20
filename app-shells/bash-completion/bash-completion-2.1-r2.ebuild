@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/bash-completion/bash-completion-2.1-r2.ebuild,v 1.3 2014/09/10 09:31:23 jer Exp $
 
 EAPI=5
 inherit bash-completion-r1 prefix toolchain-funcs

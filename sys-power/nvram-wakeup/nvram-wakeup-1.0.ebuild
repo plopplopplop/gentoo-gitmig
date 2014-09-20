@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-power/nvram-wakeup/nvram-wakeup-1.0.ebuild,v 1.4 2012/05/24 05:48:22 vapier Exp $
 
 inherit flag-o-matic eutils
 

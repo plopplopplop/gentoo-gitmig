@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/unreal-tournament-goty/unreal-tournament-goty-451.ebuild,v 1.19 2014/05/01 13:58:53 ulm Exp $
 
 inherit eutils unpacker cdrom games
 

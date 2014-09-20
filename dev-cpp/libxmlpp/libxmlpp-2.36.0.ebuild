@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-cpp/libxmlpp/libxmlpp-2.36.0.ebuild,v 1.10 2014/06/22 18:43:47 maekke Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

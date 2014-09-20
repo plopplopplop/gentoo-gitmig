@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/ppmd/ppmd-9.1_p16.ebuild,v 1.2 2013/03/13 22:06:59 tomwij Exp $
 
 EAPI="3"
 

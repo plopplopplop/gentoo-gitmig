@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/yapps/yapps-2.1.1.ebuild,v 1.2 2010/06/30 02:28:13 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

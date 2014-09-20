@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libnftnl/libnftnl-1.0.0-r2.ebuild,v 1.2 2014/02/01 20:09:06 steev Exp $
 
 EAPI=5
 

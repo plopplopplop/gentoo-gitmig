@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/cdecl/cdecl-2.5-r2.ebuild,v 1.5 2011/11/06 17:12:02 armin76 Exp $
 
 inherit eutils toolchain-funcs
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/pnglite/pnglite-0.1.17.ebuild,v 1.4 2011/09/27 10:47:08 ssuominen Exp $
 
 EAPI="2"
 

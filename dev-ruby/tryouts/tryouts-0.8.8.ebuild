@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/tryouts/tryouts-0.8.8.ebuild,v 1.6 2014/04/24 16:31:29 mrueg Exp $
 
 EAPI=5
 

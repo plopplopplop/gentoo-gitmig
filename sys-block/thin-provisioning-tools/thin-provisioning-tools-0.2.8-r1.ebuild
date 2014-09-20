@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-block/thin-provisioning-tools/thin-provisioning-tools-0.2.8-r1.ebuild,v 1.10 2014/08/10 20:22:49 slyfox Exp $
 
 EAPI=5
 inherit autotools

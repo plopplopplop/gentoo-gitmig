@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/smpeg/smpeg-0.4.4-r9.ebuild,v 1.16 2013/07/24 03:21:27 ottxor Exp $
 
 EAPI=4
 inherit eutils toolchain-funcs autotools flag-o-matic

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Any-Moose/Any-Moose-0.200.0.ebuild,v 1.5 2013/04/02 11:22:09 ago Exp $
 
 EAPI=5
 

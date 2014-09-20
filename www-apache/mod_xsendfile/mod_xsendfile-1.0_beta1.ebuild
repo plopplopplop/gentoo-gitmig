@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apache/mod_xsendfile/mod_xsendfile-1.0_beta1.ebuild,v 1.2 2012/09/08 18:34:18 qnikst Exp $
 
 EAPI="4"
 

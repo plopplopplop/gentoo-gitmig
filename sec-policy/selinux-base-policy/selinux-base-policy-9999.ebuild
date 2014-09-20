@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sec-policy/selinux-base-policy/selinux-base-policy-9999.ebuild,v 1.14 2014/08/30 20:20:47 swift Exp $
 EAPI="5"
 
 inherit eutils

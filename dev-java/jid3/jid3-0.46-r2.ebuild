@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jid3/jid3-0.46-r2.ebuild,v 1.1 2014/02/19 13:55:59 tomwij Exp $
 
 EAPI="5"
 

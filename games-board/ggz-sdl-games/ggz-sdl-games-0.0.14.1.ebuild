@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/ggz-sdl-games/ggz-sdl-games-0.0.14.1.ebuild,v 1.7 2013/06/29 17:14:37 mr_bones_ Exp $
 
 EAPI=2
 inherit games-ggz

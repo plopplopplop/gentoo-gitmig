@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnustep-apps/stepulator/stepulator-1.0-r2.ebuild,v 1.4 2008/03/08 13:47:46 coldwind Exp $
 
 inherit gnustep-2
 

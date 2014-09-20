@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/qt-gstreamer/qt-gstreamer-1.2.0.ebuild,v 1.2 2014/08/10 21:11:33 slyfox Exp $
 
 EAPI=5
 

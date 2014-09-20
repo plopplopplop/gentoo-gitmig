@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/sam2p/sam2p-0.48.ebuild,v 1.2 2011/06/13 20:57:39 mattst88 Exp $
 
 EAPI=2
 inherit autotools eutils toolchain-funcs

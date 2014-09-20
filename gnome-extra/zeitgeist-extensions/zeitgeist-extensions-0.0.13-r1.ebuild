@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/zeitgeist-extensions/zeitgeist-extensions-0.0.13-r1.ebuild,v 1.12 2013/12/08 19:02:26 pacho Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-cdr/k3b/k3b-2.0.2_p20140225.ebuild,v 1.1 2014/02/25 16:53:57 creffett Exp $
 
 EAPI=5
 

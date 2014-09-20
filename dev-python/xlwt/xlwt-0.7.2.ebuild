@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/xlwt/xlwt-0.7.2.ebuild,v 1.6 2010/10/30 21:31:46 arfrever Exp $
 
 EAPI="2"
 PYTHON_DEPEND="2"

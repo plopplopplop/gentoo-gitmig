@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libselinux/libselinux-2.2.2-r5.ebuild,v 1.4 2014/07/14 15:35:53 swift Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python2_7 python3_2 python3_3 )

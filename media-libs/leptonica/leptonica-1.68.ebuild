@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/leptonica/leptonica-1.68.ebuild,v 1.10 2014/08/21 11:33:58 armin76 Exp $
 
 EAPI=4
 

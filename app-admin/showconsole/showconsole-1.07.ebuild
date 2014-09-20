@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/showconsole/showconsole-1.07.ebuild,v 1.13 2012/05/31 02:42:49 zmedico Exp $
 
 inherit eutils multilib toolchain-funcs
 

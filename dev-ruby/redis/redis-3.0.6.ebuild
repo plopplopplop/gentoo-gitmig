@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/redis/redis-3.0.6.ebuild,v 1.1 2014/01/21 19:05:09 graaff Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

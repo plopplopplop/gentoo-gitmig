@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/phylip/phylip-3.67.ebuild,v 1.6 2008/06/29 08:24:01 tove Exp $
 
 inherit toolchain-funcs
 

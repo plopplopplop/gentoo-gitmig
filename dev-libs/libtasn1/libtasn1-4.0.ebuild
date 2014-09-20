@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libtasn1/libtasn1-4.0.ebuild,v 1.2 2014/08/10 19:16:07 grobian Exp $
 
 EAPI=5
 

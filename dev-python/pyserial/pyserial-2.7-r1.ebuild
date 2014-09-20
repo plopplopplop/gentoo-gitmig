@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyserial/pyserial-2.7-r1.ebuild,v 1.3 2014/06/26 01:28:59 chutzpah Exp $
 
 EAPI=5
 PYTHON_COMPAT=(python{2_{6,7},3_{2,3,4}} pypy{,2_0})

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/gnome-python-common-r1.eclass,v 1.1 2014/05/26 17:20:14 mgorny Exp $
 
 # @ECLASS: gnome-python-common-r1
 # @MAINTAINER:

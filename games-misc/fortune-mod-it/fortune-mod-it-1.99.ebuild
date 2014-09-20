@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-it/fortune-mod-it-1.99.ebuild,v 1.10 2010/12/12 17:06:40 grobian Exp $
 
 DESCRIPTION="Database of the Italian cookies for the fortune program"
 HOMEPAGE="http://www.fortune-it.net/"

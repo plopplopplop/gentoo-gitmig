@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/scala/scala-2.10.2.ebuild,v 1.3 2014/02/12 13:46:58 gienah Exp $
 
 EAPI="5"
 JAVA_PKG_IUSE="doc examples source"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-cpp/cairomm/cairomm-1.10.0.ebuild,v 1.9 2013/09/29 11:05:31 pacho Exp $
 
 EAPI=5
 GCONF_DEBUG="no"

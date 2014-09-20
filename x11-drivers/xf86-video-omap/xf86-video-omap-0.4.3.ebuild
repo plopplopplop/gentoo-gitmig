@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-video-omap/xf86-video-omap-0.4.3.ebuild,v 1.1 2013/01/14 13:41:29 chithanh Exp $
 
 EAPI=4
 XORG_DRI=always

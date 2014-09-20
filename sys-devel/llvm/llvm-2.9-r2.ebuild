@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/llvm/llvm-2.9-r2.ebuild,v 1.12 2013/06/10 22:26:20 voyageur Exp $
 
 EAPI="4"
 inherit eutils flag-o-matic multilib toolchain-funcs pax-utils

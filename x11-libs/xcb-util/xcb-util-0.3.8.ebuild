@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/xcb-util/xcb-util-0.3.8.ebuild,v 1.9 2012/04/26 22:25:07 aballier Exp $
 
 EAPI=4
 

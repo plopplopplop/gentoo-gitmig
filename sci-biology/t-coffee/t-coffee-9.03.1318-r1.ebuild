@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/t-coffee/t-coffee-9.03.1318-r1.ebuild,v 1.2 2013/02/03 15:14:39 ago Exp $
 
 EAPI=5
 

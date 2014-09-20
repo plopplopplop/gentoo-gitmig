@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/lbdb/lbdb-0.39.ebuild,v 1.1 2014/06/20 07:49:18 radhermit Exp $
 
 EAPI=5
 

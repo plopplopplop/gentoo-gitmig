@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/elinks/elinks-0.12_pre6.ebuild,v 1.11 2014/05/31 04:14:40 axs Exp $
 
 EAPI=4
 inherit eutils autotools flag-o-matic

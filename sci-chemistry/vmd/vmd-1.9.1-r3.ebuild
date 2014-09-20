@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/vmd/vmd-1.9.1-r3.ebuild,v 1.1 2014/08/21 12:18:02 jlec Exp $
 
 EAPI=5
 

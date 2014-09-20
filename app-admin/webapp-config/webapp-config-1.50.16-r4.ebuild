@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/webapp-config/webapp-config-1.50.16-r4.ebuild,v 1.10 2012/07/15 17:17:09 armin76 Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

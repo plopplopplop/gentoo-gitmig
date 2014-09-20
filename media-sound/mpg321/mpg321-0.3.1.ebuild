@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/mpg321/mpg321-0.3.1.ebuild,v 1.8 2012/12/30 14:16:40 ago Exp $
 
 EAPI=4
 inherit autotools eutils

@@ -43,7 +43,7 @@ index af3adf6..0cdb458 100755
 +++ b/easel/devkit/sqc
 @@ -205,12 +205,11 @@
  # SRE, Tue Aug  6 11:16:39 2002
- # SVN $Id$
+ # SVN $Id: sqc 1796 2007-01-03 22:36:44Z eddys $
  
 -require "getopts.pl";
 -require "importenv.pl";
@@ -74,7 +74,7 @@ index 9c77791..024ed34
 @@ -16,9 +16,9 @@
  #
  # SRE, Thu Mar  1 19:22:57 2007 (Janelia)
- # SVN $Id$
+ # SVN $Id: coverage_report.pl 231 2008-03-25 14:43:57Z eddys $
 -require  "getopts.pl";
 +use Getopt::Std;
  $have_sloccount = 1;
@@ -89,7 +89,7 @@ index 757854d..a9a8902 100755
 +++ b/easel/testsuite/driver_report.pl
 @@ -25,8 +25,8 @@
  # SRE, Fri Mar  2 10:01:44 2007 (Janelia)
- # SVN $Id$
+ # SVN $Id: driver_report.pl 326 2009-02-28 15:49:07Z eddys $
  
 -require  "getopts.pl";
 -&Getopts('c');
@@ -107,7 +107,7 @@ index 186a392..07026a0
 @@ -10,8 +10,8 @@
  #
  # SRE, Fri Mar  2 08:37:48 2007 [Janelia]
- # SVN $Id$
+ # SVN $Id: valgrind_report.pl 231 2008-03-25 14:43:57Z eddys $
 -require  "getopts.pl";
 -&Getopts('c');
 +use Getopt::Std;

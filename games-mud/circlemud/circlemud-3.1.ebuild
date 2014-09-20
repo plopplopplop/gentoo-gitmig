@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-mud/circlemud/circlemud-3.1.ebuild,v 1.13 2010/10/12 02:07:55 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils games

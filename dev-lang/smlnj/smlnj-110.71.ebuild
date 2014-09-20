@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/smlnj/smlnj-110.71.ebuild,v 1.2 2010/06/29 12:13:03 ssuominen Exp $
 
 EAPI=2
 

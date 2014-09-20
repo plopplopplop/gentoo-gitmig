@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-server/bf1942-desertcombat/bf1942-desertcombat-0.7_beta1.ebuild,v 1.7 2014/04/30 19:31:12 ulm Exp $
 
 inherit unpacker games
 

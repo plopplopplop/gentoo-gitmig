@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pysnmp-apps/pysnmp-apps-0.2.11a.ebuild,v 1.1 2010/12/23 16:04:12 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/splashutils/splashutils-1.5.4.4-r1.ebuild,v 1.11 2014/08/28 16:51:10 ssuominen Exp $
 
 EAPI="2"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/m4/m4-1.4.16.ebuild,v 1.14 2014/01/18 03:10:56 vapier Exp $
 
 EAPI="3"
 

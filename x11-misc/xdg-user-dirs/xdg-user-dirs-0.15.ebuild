@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/xdg-user-dirs/xdg-user-dirs-0.15.ebuild,v 1.12 2014/03/15 19:47:38 ssuominen Exp $
 
 EAPI=5
 inherit autotools eutils

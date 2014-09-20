@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/moosefs/moosefs-1.6.27.ebuild,v 1.2 2014/01/08 06:01:36 vapier Exp $
 
 EAPI="5"
 

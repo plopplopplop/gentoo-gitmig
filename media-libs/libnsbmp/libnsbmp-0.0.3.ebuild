@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libnsbmp/libnsbmp-0.0.3.ebuild,v 1.3 2013/02/27 09:03:03 xmw Exp $
 
 EAPI=5
 

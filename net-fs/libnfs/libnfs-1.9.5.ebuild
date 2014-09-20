@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-fs/libnfs/libnfs-1.9.5.ebuild,v 1.3 2014/08/20 10:44:36 ago Exp $
 
 EAPI="5"
 

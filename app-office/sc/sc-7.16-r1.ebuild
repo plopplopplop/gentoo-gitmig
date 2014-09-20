@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/sc/sc-7.16-r1.ebuild,v 1.8 2014/08/10 18:17:32 slyfox Exp $
 
 inherit eutils multilib toolchain-funcs
 

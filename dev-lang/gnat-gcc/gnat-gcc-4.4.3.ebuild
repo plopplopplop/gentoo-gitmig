@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/gnat-gcc/gnat-gcc-4.4.3.ebuild,v 1.4 2014/08/05 11:42:10 armin76 Exp $
 
 # Need to let configure know where to find stddef.h
 #EXTRA_CONFGCC="${WORKDIR}/usr/lib/include/"

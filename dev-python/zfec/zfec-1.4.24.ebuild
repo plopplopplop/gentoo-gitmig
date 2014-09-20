@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/zfec/zfec-1.4.24.ebuild,v 1.4 2014/08/14 16:35:13 phajdan.jr Exp $
 
 EAPI=5
 

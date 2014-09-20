@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/mygui/mygui-3.2.1.ebuild,v 1.1 2014/08/24 18:01:18 hasufell Exp $
 
 EAPI=5
 CMAKE_REMOVE_MODULES="yes"

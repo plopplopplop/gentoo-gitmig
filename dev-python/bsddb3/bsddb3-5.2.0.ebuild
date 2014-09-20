@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/bsddb3/bsddb3-5.2.0.ebuild,v 1.7 2012/07/29 17:15:19 armin76 Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2 3:3.1"

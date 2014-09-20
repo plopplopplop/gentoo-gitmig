@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/liblqr/liblqr-0.4.1.ebuild,v 1.18 2013/11/15 11:30:48 pinkbyte Exp $
 
 EAPI="2"
 

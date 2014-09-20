@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-norbert-tretkowski/fortune-mod-norbert-tretkowski-20030120.ebuild,v 1.9 2010/12/12 16:36:37 grobian Exp $
 
 MY_P=fortune-mod-norbert.tretkowski-${PV}
 DESCRIPTION="Quotes from Norbert Tretkowski"

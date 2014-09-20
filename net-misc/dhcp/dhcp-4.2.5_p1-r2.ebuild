@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/dhcp/dhcp-4.2.5_p1-r2.ebuild,v 1.8 2014/07/05 15:55:30 zlogene Exp $
 
 EAPI="4"
 

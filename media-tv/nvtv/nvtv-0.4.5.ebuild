@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-tv/nvtv/nvtv-0.4.5.ebuild,v 1.13 2011/03/24 06:53:01 ssuominen Exp $
 
 EAPI=1
 

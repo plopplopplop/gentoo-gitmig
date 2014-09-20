@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/firefox/firefox-32.0.ebuild,v 1.2 2014/09/05 16:23:25 axs Exp $
 
 EAPI="5"
 VIRTUALX_REQUIRED="pgo"

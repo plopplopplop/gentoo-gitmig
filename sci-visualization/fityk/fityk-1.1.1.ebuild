@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-visualization/fityk/fityk-1.1.1.ebuild,v 1.1 2012/02/27 06:07:42 bicatali Exp $
 
 EAPI="4"
 

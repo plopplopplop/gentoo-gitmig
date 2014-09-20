@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/urwid/urwid-0.9.9.1.ebuild,v 1.7 2014/08/10 21:24:44 slyfox Exp $
 
 EAPI="2"
 SUPPORT_PYTHON_ABIS="1"

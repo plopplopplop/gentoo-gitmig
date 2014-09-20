@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-power/cpufrequtils/cpufrequtils-008-r1.ebuild,v 1.11 2013/02/18 09:31:44 zmedico Exp $
 
 EAPI=4
 

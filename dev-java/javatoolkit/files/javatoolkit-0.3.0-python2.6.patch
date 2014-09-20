@@ -8,5 +8,5 @@ diff -uNr py.orig/maven-helper.py py/maven-helper.py
 -from javatoolkit.maven import MavenPom
 +from javatoolkit.maven.MavenPom import MavenPom
  
- __version__ = "$Revision$"[11:-2]
+ __version__ = "$Revision: 1.1 $"[11:-2]
  

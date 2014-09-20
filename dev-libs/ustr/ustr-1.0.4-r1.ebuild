@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/ustr/ustr-1.0.4-r1.ebuild,v 1.4 2011/02/12 09:51:09 hwoarang Exp $
 
 EAPI="2"
 

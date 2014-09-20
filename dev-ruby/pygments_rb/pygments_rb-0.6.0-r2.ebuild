@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/pygments_rb/pygments_rb-0.6.0-r2.ebuild,v 1.1 2014/09/10 12:15:02 mrueg Exp $
 
 EAPI=5
 

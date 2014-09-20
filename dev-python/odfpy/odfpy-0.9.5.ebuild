@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/odfpy/odfpy-0.9.5.ebuild,v 1.1 2013/01/11 06:46:27 patrick Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

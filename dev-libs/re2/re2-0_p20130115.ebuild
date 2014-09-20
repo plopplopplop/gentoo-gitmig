@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/re2/re2-0_p20130115.ebuild,v 1.3 2013/04/04 20:16:33 ago Exp $
 
 EAPI=4
 

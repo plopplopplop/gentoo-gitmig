@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/propka/propka-3.1_p140511.ebuild,v 1.3 2014/06/30 04:42:45 floppym Exp $
 
 EAPI=5
 

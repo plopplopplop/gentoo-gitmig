@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/at-spi/at-spi-1.32.0-r2.ebuild,v 1.11 2014/04/19 17:44:14 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

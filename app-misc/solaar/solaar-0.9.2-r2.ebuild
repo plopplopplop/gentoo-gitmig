@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/solaar/solaar-0.9.2-r2.ebuild,v 1.2 2014/06/12 18:21:55 mrueg Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_2,3_3} )

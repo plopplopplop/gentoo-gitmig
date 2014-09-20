@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emacs/imaxima/imaxima-1.0-r3.ebuild,v 1.3 2014/09/11 15:09:36 ulm Exp $
 
 EAPI=5
 

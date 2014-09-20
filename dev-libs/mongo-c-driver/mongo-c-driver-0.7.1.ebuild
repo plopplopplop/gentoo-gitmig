@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/mongo-c-driver/mongo-c-driver-0.7.1.ebuild,v 1.4 2014/06/14 09:57:35 phajdan.jr Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

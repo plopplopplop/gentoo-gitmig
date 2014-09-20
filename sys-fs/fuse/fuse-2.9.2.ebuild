@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/fuse/fuse-2.9.2.ebuild,v 1.15 2014/08/10 20:19:38 slyfox Exp $
 
 EAPI=5
 inherit eutils libtool linux-info udev toolchain-funcs

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gnome-system-monitor/gnome-system-monitor-3.10.2.ebuild,v 1.6 2014/03/29 22:05:41 tetromino Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

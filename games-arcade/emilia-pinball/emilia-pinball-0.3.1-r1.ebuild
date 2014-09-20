@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/emilia-pinball/emilia-pinball-0.3.1-r1.ebuild,v 1.8 2012/12/18 19:59:10 mr_bones_ Exp $
 
 EAPI=2
 inherit autotools eutils games

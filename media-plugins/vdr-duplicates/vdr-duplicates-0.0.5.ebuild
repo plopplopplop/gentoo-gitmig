@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/vdr-duplicates/vdr-duplicates-0.0.5.ebuild,v 1.1 2012/12/22 19:01:07 hd_brummy Exp $
 
 EAPI="5"
 

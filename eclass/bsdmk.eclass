@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/bsdmk.eclass,v 1.12 2013/08/09 16:26:59 aballier Exp $
 
 # @ECLASS: bsdmk.eclass
 # @MAINTAINER:

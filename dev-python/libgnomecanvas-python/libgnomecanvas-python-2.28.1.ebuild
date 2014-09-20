@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/libgnomecanvas-python/libgnomecanvas-python-2.28.1.ebuild,v 1.11 2012/02/24 08:37:23 patrick Exp $
 
 EAPI="1"
 GCONF_DEBUG="no"

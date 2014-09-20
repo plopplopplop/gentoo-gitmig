@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/tecnoballz/tecnoballz-0.92.ebuild,v 1.8 2012/08/03 16:09:38 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils autotools games

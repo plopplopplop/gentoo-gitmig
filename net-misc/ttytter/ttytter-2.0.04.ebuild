@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/ttytter/ttytter-2.0.04.ebuild,v 1.1 2012/10/30 21:55:19 hwoarang Exp $
 
 EAPI="2"
 

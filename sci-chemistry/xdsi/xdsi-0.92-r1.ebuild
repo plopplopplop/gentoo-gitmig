@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/xdsi/xdsi-0.92-r1.ebuild,v 1.3 2013/05/20 17:09:13 jlec Exp $
 
 EAPI=4
 

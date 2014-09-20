@@ -12,4 +12,4 @@ https://bugs.gentoo.org/show_bug.cgi?id=252378
 +#define _PLC_H_ /* asterisk/plc.h conflicts with spandsp/plc.h */
  #include "asterisk.h"
  
- ASTERISK_FILE_VERSION(__FILE__, "$Revision$")
+ ASTERISK_FILE_VERSION(__FILE__, "$Revision: 1.1 $")

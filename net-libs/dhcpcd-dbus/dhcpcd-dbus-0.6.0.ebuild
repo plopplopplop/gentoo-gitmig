@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/dhcpcd-dbus/dhcpcd-dbus-0.6.0.ebuild,v 1.3 2012/05/28 00:13:18 mr_bones_ Exp $
 
 EAPI=4
 

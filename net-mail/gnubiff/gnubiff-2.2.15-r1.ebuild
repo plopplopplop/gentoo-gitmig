@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/gnubiff/gnubiff-2.2.15-r1.ebuild,v 1.3 2014/06/17 08:45:12 pacho Exp $
 
 EAPI=4
 inherit autotools eutils

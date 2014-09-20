@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/asterisk-g729/asterisk-g729-1.8.4.3.1.5-r2.ebuild,v 1.3 2013/01/14 12:49:00 chainsaw Exp $
 
 EAPI="4"
 

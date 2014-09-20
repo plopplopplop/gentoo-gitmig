@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/pmw/pmw-1.ebuild,v 1.4 2014/04/19 17:53:25 mgorny Exp $
 
 EAPI=5
 

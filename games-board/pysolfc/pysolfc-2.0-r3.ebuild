@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/pysolfc/pysolfc-2.0-r3.ebuild,v 1.3 2014/07/08 16:48:48 nimiux Exp $
 
 EAPI=5
 

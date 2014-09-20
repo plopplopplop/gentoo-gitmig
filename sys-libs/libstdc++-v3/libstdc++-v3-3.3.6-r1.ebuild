@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libstdc++-v3/libstdc++-v3-3.3.6-r1.ebuild,v 1.13 2014/06/26 08:24:44 mgorny Exp $
 
 inherit eutils flag-o-matic libtool multilib
 

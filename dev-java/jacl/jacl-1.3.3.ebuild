@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jacl/jacl-1.3.3.ebuild,v 1.11 2014/08/10 20:15:43 slyfox Exp $
 
 inherit base java-pkg-2
 

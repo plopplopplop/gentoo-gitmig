@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jsr93/jsr93-1.0.ebuild,v 1.1 2007/05/01 19:44:48 nelchael Exp $
 
 JAVA_PKG_IUSE="source"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/dahdi/dahdi-2.8.0.1.ebuild,v 1.5 2014/08/10 20:43:50 slyfox Exp $
 
 EAPI=5
 

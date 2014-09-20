@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/pgtap/pgtap-0.93.0.ebuild,v 1.2 2013/05/01 10:32:11 ago Exp $
 
 EAPI=5
 inherit eutils

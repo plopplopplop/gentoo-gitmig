@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/gif2png/gif2png-2.5.9.ebuild,v 1.1 2014/06/20 06:40:32 radhermit Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-server/etqw-ded/etqw-ded-1.5.ebuild,v 1.3 2011/12/14 17:31:07 vapier Exp $
 
 inherit games
 

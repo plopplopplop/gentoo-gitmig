@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-nntp/suck/suck-4.3.2.ebuild,v 1.2 2007/04/18 21:53:43 philantrop Exp $
 
 DESCRIPTION="Grab news from a remote NNTP server and feed them to another"
 HOMEPAGE="http://home.comcast.net/~bobyetman/"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/im-ja/im-ja-1.5-r2.ebuild,v 1.10 2013/10/09 02:04:16 naota Exp $
 
 EAPI="3"
 inherit autotools gnome2 gnome2-utils eutils multilib

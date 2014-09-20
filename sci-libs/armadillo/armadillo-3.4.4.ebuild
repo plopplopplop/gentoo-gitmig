@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/armadillo/armadillo-3.4.4.ebuild,v 1.7 2013/04/10 06:04:30 jlec Exp $
 
 EAPI=4
 

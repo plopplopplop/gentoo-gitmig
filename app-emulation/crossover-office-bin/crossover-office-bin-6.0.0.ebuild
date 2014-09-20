@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/crossover-office-bin/crossover-office-bin-6.0.0.ebuild,v 1.6 2012/05/10 02:13:15 tetromino Exp $
 
 inherit unpacker
 

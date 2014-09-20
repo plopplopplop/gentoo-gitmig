@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/rng-tools/rng-tools-4-r6.ebuild,v 1.2 2013/12/16 14:44:30 swift Exp $
 
 EAPI="4"
 

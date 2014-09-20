@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/spl/spl-0.6.0_rc13-r2.ebuild,v 1.6 2013/04/17 13:26:26 ryao Exp $
 
 EAPI="4"
 AUTOTOOLS_AUTORECONF="1"

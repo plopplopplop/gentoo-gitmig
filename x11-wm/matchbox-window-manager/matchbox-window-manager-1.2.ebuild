@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/matchbox-window-manager/matchbox-window-manager-1.2.ebuild,v 1.10 2012/06/04 00:25:35 xmw Exp $
 
 inherit eutils versionator gnome2
 

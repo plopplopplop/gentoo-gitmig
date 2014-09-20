@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/simplesettings/simplesettings-0.5.ebuild,v 1.6 2013/02/09 13:50:45 iksaif Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

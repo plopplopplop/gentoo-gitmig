@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/ode/ode-0.11.1.ebuild,v 1.7 2010/09/20 03:47:35 mr_bones_ Exp $
 
 EAPI=2
 DESCRIPTION="Open Dynamics Engine SDK"

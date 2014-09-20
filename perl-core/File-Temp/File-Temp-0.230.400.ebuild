@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/File-Temp/File-Temp-0.230.400.ebuild,v 1.8 2014/08/05 17:48:21 zlogene Exp $
 
 EAPI=5
 

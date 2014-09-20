@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/py2neo/py2neo-1.5.1.ebuild,v 1.1 2013/08/31 15:28:53 ercpe Exp $
 
 EAPI=5
 

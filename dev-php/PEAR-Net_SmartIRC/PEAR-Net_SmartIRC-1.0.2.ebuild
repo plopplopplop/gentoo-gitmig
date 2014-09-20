@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-Net_SmartIRC/PEAR-Net_SmartIRC-1.0.2.ebuild,v 1.9 2013/08/07 13:28:08 ago Exp $
 
 inherit php-pear-r1
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-engines/scummvm-tools/scummvm-tools-1.7.0.ebuild,v 1.1 2014/07/23 04:55:59 mr_bones_ Exp $
 
 EAPI=5
 WX_GTK_VER=2.8

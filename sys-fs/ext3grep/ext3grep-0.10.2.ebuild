@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/ext3grep/ext3grep-0.10.2.ebuild,v 1.4 2012/11/03 10:03:44 ssuominen Exp $
 
 EAPI=4
 inherit eutils

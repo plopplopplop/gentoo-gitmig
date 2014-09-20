@@ -158,7 +158,7 @@ diff -ur --new-file e2fsprogs-1.41.3/lib/ext2fs/mint_io.c e2fsprogs-1.41.3-mint/
 +++ e2fsprogs-1.41.3-mint/lib/ext2fs/mint_io.c	2009-01-23 10:49:51.000000000 +0000
 @@ -0,0 +1,858 @@
 +/*
-+ * $Id$
++ * $Id: e2fsprogs-1.41-mint.patch,v 1.1 2010/11/19 18:49:02 jlec Exp $
 + * 
 + * This file belongs to FreeMiNT. It's not in the original MiNT 1.12
 + * distribution. See the file CHANGES for a detailed log of changes.

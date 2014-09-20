@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libchewing/libchewing-0.3.3.ebuild,v 1.6 2012/10/04 22:35:30 naota Exp $
 
 EAPI=3
 

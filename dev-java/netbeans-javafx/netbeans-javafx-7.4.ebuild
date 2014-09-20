@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/netbeans-javafx/netbeans-javafx-7.4.ebuild,v 1.1 2013/10/16 09:48:52 fordfrog Exp $
 
 EAPI="4"
 inherit eutils java-pkg-2 java-ant-2

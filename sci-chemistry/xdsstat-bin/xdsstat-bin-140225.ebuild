@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/xdsstat-bin/xdsstat-bin-140225.ebuild,v 1.1 2014/02/25 07:25:57 jlec Exp $
 
 EAPI=5
 

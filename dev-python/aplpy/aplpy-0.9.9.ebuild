@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/aplpy/aplpy-0.9.9.ebuild,v 1.2 2013/06/18 16:13:56 bicatali Exp $
 
 EAPI=5
 

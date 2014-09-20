@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libsndfile/libsndfile-1.0.25-r1.ebuild,v 1.15 2014/08/13 09:34:59 ago Exp $
 
 EAPI=5
 

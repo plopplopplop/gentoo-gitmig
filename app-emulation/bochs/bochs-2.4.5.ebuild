@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/bochs/bochs-2.4.5.ebuild,v 1.1 2010/09/04 09:22:32 lu_zero Exp $
 
 inherit eutils wxwidgets
 

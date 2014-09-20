@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libXau/libXau-1.0.7.ebuild,v 1.11 2014/04/15 19:26:38 vapier Exp $
 
 EAPI=4
 inherit xorg-2

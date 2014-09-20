@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/tcl3d/tcl3d-0.4.0.ebuild,v 1.1 2009/05/10 13:17:04 mescalinum Exp $
 
 EAPI="2"
 

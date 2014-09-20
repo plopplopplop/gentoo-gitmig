@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-firmware/seabios/seabios-1.7.3.ebuild,v 1.6 2014/04/30 21:17:26 vapier Exp $
 
 EAPI=5
 

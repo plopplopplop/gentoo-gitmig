@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pygraphviz/pygraphviz-1.2.ebuild,v 1.2 2013/12/29 08:44:31 xarthisius Exp $
 
 EAPI=5
 

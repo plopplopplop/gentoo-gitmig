@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/openvas-scanner/openvas-scanner-3.4.0.ebuild,v 1.2 2013/09/15 09:36:49 maekke Exp $
 
 EAPI=5
 

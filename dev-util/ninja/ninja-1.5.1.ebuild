@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/ninja/ninja-1.5.1.ebuild,v 1.3 2014/09/03 17:16:53 ottxor Exp $
 
 EAPI=5
 

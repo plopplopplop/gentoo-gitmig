@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/jay/jay-1.1.1-r2.ebuild,v 1.8 2012/12/02 22:44:22 ulm Exp $
 
 EAPI=4
 inherit mono java-pkg-opt-2 toolchain-funcs

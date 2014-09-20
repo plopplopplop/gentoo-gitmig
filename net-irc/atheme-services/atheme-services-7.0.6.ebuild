@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/atheme-services/atheme-services-7.0.6.ebuild,v 1.1 2013/10/31 01:25:56 jdhore Exp $
 
 EAPI=4
 

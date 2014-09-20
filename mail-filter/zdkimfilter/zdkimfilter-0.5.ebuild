@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/zdkimfilter/zdkimfilter-0.5.ebuild,v 1.2 2011/02/27 00:32:53 dragonheart Exp $
 
 EAPI=2
 DESCRIPTION="DKIM filter for Courier-MTA"

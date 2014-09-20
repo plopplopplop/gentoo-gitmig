@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/little-inferno/little-inferno-20130509.ebuild,v 1.3 2013/08/18 00:27:50 hasufell Exp $
 
 EAPI=5
 

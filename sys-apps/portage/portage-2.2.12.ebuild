@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/portage/portage-2.2.12.ebuild,v 1.1 2014/08/12 19:54:39 dolsen Exp $
 
 # Require EAPI 2 since we now require at least python-2.6 (for python 3
 # syntax support) which also requires EAPI 2.

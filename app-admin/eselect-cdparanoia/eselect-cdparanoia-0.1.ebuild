@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-cdparanoia/eselect-cdparanoia-0.1.ebuild,v 1.13 2014/01/28 14:01:40 ago Exp $
 
 EAPI=5
 

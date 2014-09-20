@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/purple-plugin_pack/purple-plugin_pack-2.7.0-r1.ebuild,v 1.1 2013/08/03 23:02:35 mrueg Exp $
 
 EAPI=5
 

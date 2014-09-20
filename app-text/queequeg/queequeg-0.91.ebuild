@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/queequeg/queequeg-0.91.ebuild,v 1.11 2014/08/10 18:30:54 slyfox Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

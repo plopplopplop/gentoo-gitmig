@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/fuse-python/fuse-python-0.2.1.ebuild,v 1.4 2012/02/22 07:26:26 patrick Exp $
 
 EAPI="2"
 SUPPORT_PYTHON_ABIS="1"

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/swfdec-gnome/swfdec-gnome-2.30.1.ebuild,v 1.8 2011/03/23 08:31:08 nirbheek Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/mu/mu-0.9.9.6.ebuild,v 1.1 2014/06/29 13:18:11 tomka Exp $
 
 EAPI=5
 

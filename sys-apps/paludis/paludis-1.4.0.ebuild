@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/paludis/paludis-1.4.0.ebuild,v 1.2 2013/05/19 18:33:14 jdhore Exp $
 
 inherit bash-completion-r1 eutils user
 

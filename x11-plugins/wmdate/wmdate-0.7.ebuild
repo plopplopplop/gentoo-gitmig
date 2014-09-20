@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/wmdate/wmdate-0.7.ebuild,v 1.13 2012/12/14 10:43:17 voyageur Exp $
 
 inherit eutils toolchain-funcs
 

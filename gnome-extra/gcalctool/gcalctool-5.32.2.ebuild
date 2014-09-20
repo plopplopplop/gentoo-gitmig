@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gcalctool/gcalctool-5.32.2.ebuild,v 1.10 2013/05/14 20:51:53 pacho Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

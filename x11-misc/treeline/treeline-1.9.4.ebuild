@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/treeline/treeline-1.9.4.ebuild,v 1.2 2014/08/10 20:04:08 slyfox Exp $
 
 EAPI=5
 

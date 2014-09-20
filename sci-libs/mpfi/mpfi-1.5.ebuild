@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/mpfi/mpfi-1.5.ebuild,v 1.1 2011/12/17 03:19:53 bicatali Exp $
 
 EAPI="4"
 

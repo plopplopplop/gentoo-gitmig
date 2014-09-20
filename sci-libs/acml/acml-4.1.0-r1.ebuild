@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/acml/acml-4.1.0-r1.ebuild,v 1.10 2012/10/16 20:48:56 jlec Exp $
 
 EAPI=1
 

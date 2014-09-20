@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/vcscommand/vcscommand-1.99.45.ebuild,v 1.5 2012/02/01 20:58:30 ranger Exp $
 
 EAPI=4
 

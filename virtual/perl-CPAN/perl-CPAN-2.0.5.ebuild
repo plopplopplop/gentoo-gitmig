@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-CPAN/perl-CPAN-2.0.5.ebuild,v 1.2 2014/07/18 17:57:13 dilfridge Exp $
 
 EAPI=5
 

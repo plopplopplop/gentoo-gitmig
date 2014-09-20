@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-block/thin-provisioning-tools/thin-provisioning-tools-0.3.2-r1.ebuild,v 1.4 2014/08/24 13:44:21 jer Exp $
 
 EAPI=5
 inherit autotools eutils

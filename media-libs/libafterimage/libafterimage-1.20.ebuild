@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libafterimage/libafterimage-1.20.ebuild,v 1.15 2013/10/29 16:48:05 bicatali Exp $
 
 EAPI=5
 inherit eutils autotools

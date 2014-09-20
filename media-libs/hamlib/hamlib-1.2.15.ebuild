@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/hamlib/hamlib-1.2.15.ebuild,v 1.6 2012/11/11 17:34:40 tomjbe Exp $
 
 EAPI="3"
 PYTHON_DEPEND="python? 2"

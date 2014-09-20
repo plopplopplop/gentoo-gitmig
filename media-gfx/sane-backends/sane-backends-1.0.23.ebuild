@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/sane-backends/sane-backends-1.0.23.ebuild,v 1.17 2013/05/08 19:35:31 vapier Exp $
 
 EAPI="5"
 

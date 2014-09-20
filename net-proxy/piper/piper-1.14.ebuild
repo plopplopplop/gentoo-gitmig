@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/piper/piper-1.14.ebuild,v 1.1 2006/11/12 02:00:29 robbat2 Exp $
 
 inherit flag-o-matic toolchain-funcs
 

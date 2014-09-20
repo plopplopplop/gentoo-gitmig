@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/efax-gtk/efax-gtk-3.2.9.ebuild,v 1.7 2012/05/05 04:53:50 jdhore Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/prettytable/prettytable-0.7.1-r1.ebuild,v 1.2 2014/03/19 18:23:28 bicatali Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7,3_2,3_3} )

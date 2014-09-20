@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/mygpoclient/mygpoclient-1.7.ebuild,v 1.1 2013/02/22 05:57:48 patrick Exp $
 
 EAPI=3
 

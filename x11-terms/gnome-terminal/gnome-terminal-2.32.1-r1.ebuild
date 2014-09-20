@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-terms/gnome-terminal/gnome-terminal-2.32.1-r1.ebuild,v 1.12 2014/01/02 23:58:54 tetromino Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

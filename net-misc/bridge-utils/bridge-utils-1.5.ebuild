@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/bridge-utils/bridge-utils-1.5.ebuild,v 1.12 2013/09/14 07:42:52 ago Exp $
 
 EAPI="5"
 

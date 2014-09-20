@@ -1,6 +1,6 @@
 # Copyright 2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/execline/execline-1.2.3.ebuild,v 1.1 2013/10/02 22:59:32 williamh Exp $
 
 EAPI=5
 

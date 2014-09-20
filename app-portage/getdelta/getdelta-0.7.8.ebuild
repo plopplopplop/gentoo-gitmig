@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/getdelta/getdelta-0.7.8.ebuild,v 1.3 2010/03/31 13:12:08 idl0r Exp $
 
 DESCRIPTION="dynamic deltup client"
 HOMEPAGE="http://linux01.gwdg.de/~nlissne/"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/leechcraft.eclass,v 1.16 2014/08/03 17:08:27 maksbotan Exp $
 #
 # @ECLASS: leechcraft.eclass
 # @MAINTAINER:

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/playonlinux/playonlinux-4.1.1-r1.ebuild,v 1.1 2012/07/14 18:22:55 hwoarang Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

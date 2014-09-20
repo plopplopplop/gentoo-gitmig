@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/sexplib/sexplib-109.20.00.ebuild,v 1.1 2013/05/24 15:14:33 aballier Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emacs/slime/slime-2.0_p20101103.ebuild,v 1.4 2014/07/11 08:44:28 patrick Exp $
 
 EAPI=3
 

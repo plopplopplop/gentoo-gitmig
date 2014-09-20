@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/ncompress/ncompress-4.2.4.4.ebuild,v 1.9 2014/01/18 01:43:31 vapier Exp $
 
 EAPI=4
 

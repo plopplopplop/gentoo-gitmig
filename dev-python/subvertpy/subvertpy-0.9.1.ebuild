@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/subvertpy/subvertpy-0.9.1.ebuild,v 1.5 2014/07/06 12:49:55 mgorny Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

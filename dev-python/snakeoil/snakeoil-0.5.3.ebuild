@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/snakeoil/snakeoil-0.5.3.ebuild,v 1.2 2014/08/10 21:22:41 slyfox Exp $
 
 EAPI=4
 PYTHON_COMPAT=( python{2_6,2_7,3_2,3_3} )

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/gtkspell-python/gtkspell-python-2.25.3.ebuild,v 1.11 2013/04/26 02:58:00 patrick Exp $
 
 EAPI="2"
 G_PY_PN="gnome-python-extras"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-File-Temp/perl-File-Temp-0.220.0-r3.ebuild,v 1.1 2014/07/06 19:41:13 dilfridge Exp $
 
 EAPI=5
 

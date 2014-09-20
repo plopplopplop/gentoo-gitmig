@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/adzapper/adzapper-20110915-r1.ebuild,v 1.1 2012/08/10 14:11:59 jer Exp $
 
 EAPI=4
 

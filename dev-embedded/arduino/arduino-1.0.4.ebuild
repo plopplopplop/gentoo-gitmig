@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-embedded/arduino/arduino-1.0.4.ebuild,v 1.1 2013/04/03 20:18:11 miknix Exp $
 
 EAPI=4
 JAVA_PKG_IUSE="doc examples"

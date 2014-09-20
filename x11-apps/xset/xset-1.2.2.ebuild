@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xset/xset-1.2.2.ebuild,v 1.10 2012/05/06 00:35:21 aballier Exp $
 
 EAPI=4
 

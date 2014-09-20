@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/xfce-extra/xfce4-composite-editor/xfce4-composite-editor-0.ebuild,v 1.1 2012/12/11 12:07:42 ssuominen Exp $
 
 EAPI=5
 inherit xfconf

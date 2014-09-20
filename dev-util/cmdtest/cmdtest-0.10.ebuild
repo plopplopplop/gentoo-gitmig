@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/cmdtest/cmdtest-0.10.ebuild,v 1.1 2013/11/10 10:32:06 mschiff Exp $
 
 EAPI=5
 

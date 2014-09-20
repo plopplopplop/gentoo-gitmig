@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xrandr/xrandr-1.3.5.ebuild,v 1.9 2013/02/23 02:18:05 zmedico Exp $
 
 EAPI=4
 

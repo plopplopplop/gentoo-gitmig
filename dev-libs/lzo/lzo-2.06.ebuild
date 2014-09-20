@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/lzo/lzo-2.06.ebuild,v 1.16 2014/01/18 01:50:39 vapier Exp $
 
 EAPI=4
 

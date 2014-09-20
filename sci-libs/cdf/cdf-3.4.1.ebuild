@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/cdf/cdf-3.4.1.ebuild,v 1.2 2012/11/12 02:47:14 bicatali Exp $
 
 EAPI=4
 inherit eutils toolchain-funcs multilib versionator java-pkg-opt-2

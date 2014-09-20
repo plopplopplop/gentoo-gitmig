@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/sparse/sparse-0.4.2.ebuild,v 1.10 2010/12/09 16:33:23 vapier Exp $
 
 EAPI="2"
 

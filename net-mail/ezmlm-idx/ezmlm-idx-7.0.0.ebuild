@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/ezmlm-idx/ezmlm-idx-7.0.0.ebuild,v 1.4 2010/06/17 20:53:45 patrick Exp $
 
 inherit qmail
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/pasang-emas/pasang-emas-3.1.0.ebuild,v 1.5 2014/07/20 16:00:34 tupone Exp $
 
 EAPI=4
 inherit eutils games

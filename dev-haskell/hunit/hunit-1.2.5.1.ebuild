@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/hunit/hunit-1.2.5.1.ebuild,v 1.8 2012/12/30 15:01:35 ago Exp $
 
 EAPI=4
 

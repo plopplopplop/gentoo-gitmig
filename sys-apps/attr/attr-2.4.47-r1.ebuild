@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/attr/attr-2.4.47-r1.ebuild,v 1.15 2014/07/13 20:30:00 tgall Exp $
 
 EAPI="4"
 

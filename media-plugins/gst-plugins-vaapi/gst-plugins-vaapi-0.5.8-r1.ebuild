@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/gst-plugins-vaapi/gst-plugins-vaapi-0.5.8-r1.ebuild,v 1.5 2014/07/26 09:00:41 ssuominen Exp $
 
 EAPI="5"
 inherit eutils multilib-minimal

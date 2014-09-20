@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/dcc/dcc-1.3.135.ebuild,v 1.1 2011/01/25 04:21:27 robbat2 Exp $
 
 inherit flag-o-matic toolchain-funcs
 

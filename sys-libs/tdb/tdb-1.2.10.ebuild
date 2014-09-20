@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/tdb/tdb-1.2.10.ebuild,v 1.8 2013/08/07 12:29:07 polynomial-c Exp $
 
 EAPI=3
 PYTHON_DEPEND="python? 2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-cpp/ctemplate/ctemplate-2.2_p129.ebuild,v 1.1 2014/02/18 12:14:42 pinkbyte Exp $
 
 EAPI="5"
 

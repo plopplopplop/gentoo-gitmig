@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/xfig/xfig-3.2.5c.ebuild,v 1.2 2014/08/10 21:16:30 slyfox Exp $
 
 EAPI=5
 

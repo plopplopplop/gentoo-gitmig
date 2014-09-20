@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/compositeproto/compositeproto-0.4.2-r1.ebuild,v 1.10 2013/10/08 05:09:18 ago Exp $
 
 EAPI=5
 

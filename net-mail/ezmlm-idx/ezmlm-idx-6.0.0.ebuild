@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/ezmlm-idx/ezmlm-idx-6.0.0.ebuild,v 1.10 2013/03/30 14:52:04 ulm Exp $
 
 EZMLM_P=ezmlm-0.53
 

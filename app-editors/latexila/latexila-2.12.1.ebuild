@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/latexila/latexila-2.12.1.ebuild,v 1.3 2014/07/23 15:13:15 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/ddclient/ddclient-3.8.1-r4.ebuild,v 1.8 2012/06/14 02:02:30 zmedico Exp $
 
 EAPI="4"
 

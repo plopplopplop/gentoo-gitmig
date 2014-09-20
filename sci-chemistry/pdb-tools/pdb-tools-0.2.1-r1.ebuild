@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/pdb-tools/pdb-tools-0.2.1-r1.ebuild,v 1.6 2014/03/31 21:17:11 mgorny Exp $
 
 EAPI=5
 

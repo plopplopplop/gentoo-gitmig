@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-sports/ski/ski-6.8.ebuild,v 1.1 2014/05/22 06:36:54 mr_bones_ Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

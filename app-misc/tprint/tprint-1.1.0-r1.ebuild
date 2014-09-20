@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/tprint/tprint-1.1.0-r1.ebuild,v 1.1 2010/09/28 19:41:29 jer Exp $
 
 EAPI="2"
 

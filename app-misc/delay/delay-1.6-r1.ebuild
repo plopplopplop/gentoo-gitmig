@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/delay/delay-1.6-r1.ebuild,v 1.7 2012/03/18 19:11:17 armin76 Exp $
 
 EAPI=4
 

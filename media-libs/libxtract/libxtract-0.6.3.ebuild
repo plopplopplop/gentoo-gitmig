@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libxtract/libxtract-0.6.3.ebuild,v 1.5 2013/04/04 08:31:12 aballier Exp $
 
 EAPI=5
 

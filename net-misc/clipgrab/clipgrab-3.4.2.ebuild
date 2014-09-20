@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/clipgrab/clipgrab-3.4.2.ebuild,v 1.1 2014/06/05 22:36:10 xmw Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/xf86rushproto/xf86rushproto-1.1.2.ebuild,v 1.20 2012/09/06 04:26:20 vapier Exp $
 
 # Must be before x-modular eclass is inherited
 #SNAPSHOT="yes"

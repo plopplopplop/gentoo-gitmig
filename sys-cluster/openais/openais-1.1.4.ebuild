@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/openais/openais-1.1.4.ebuild,v 1.7 2012/05/04 07:20:30 jdhore Exp $
 
 EAPI="2"
 

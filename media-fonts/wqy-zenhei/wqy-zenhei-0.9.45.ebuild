@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/wqy-zenhei/wqy-zenhei-0.9.45.ebuild,v 1.2 2013/02/05 00:53:54 heroxbd Exp $
 
 EAPI="3"
 

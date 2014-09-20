@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/colorschemes/colorschemes-20130124.ebuild,v 1.11 2014/04/20 10:22:30 ulm Exp $
 
 EAPI=5
 

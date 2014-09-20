@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/pyshp/pyshp-9999.ebuild,v 1.1 2014/03/03 14:28:42 slis Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_7,3_2,3_3} )

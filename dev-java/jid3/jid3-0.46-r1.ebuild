@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jid3/jid3-0.46-r1.ebuild,v 1.3 2008/06/12 18:35:32 opfer Exp $
 
 JAVA_PKG_IUSE="doc source test"
 # To make sure the javadoc patch doesn't break things

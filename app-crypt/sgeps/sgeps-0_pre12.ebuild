@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/sgeps/sgeps-0_pre12.ebuild,v 1.1 2010/07/22 20:36:10 flameeyes Exp $
 
 EAPI=2
 

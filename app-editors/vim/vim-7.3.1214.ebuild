@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/vim/vim-7.3.1214.ebuild,v 1.3 2014/06/06 06:05:47 vapier Exp $
 
 EAPI=5
 VIM_VERSION="7.3"

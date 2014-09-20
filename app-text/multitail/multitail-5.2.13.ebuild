@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/multitail/multitail-5.2.13.ebuild,v 1.9 2014/08/13 09:36:45 ago Exp $
 
 EAPI=5
 

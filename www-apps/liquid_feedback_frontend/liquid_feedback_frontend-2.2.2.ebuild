@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/liquid_feedback_frontend/liquid_feedback_frontend-2.2.2.ebuild,v 1.2 2014/06/24 18:41:24 tupone Exp $
 
 EAPI=4
 

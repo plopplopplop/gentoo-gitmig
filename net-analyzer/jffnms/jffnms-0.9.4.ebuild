@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/jffnms/jffnms-0.9.4.ebuild,v 1.3 2014/08/10 20:58:34 slyfox Exp $
 
 EAPI=5
 inherit user

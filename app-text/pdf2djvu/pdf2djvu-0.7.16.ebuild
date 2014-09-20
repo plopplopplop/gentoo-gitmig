@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/pdf2djvu/pdf2djvu-0.7.16.ebuild,v 1.2 2013/03/17 13:22:13 ssuominen Exp $
 
 EAPI=5
 inherit toolchain-funcs

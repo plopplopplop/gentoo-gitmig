@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/curb/curb-0.8.4.ebuild,v 1.1 2013/07/14 06:55:32 graaff Exp $
 
 EAPI=5
 # No longer compatible with ruby 1.8

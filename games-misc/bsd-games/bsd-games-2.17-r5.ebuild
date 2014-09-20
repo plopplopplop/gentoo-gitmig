@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/bsd-games/bsd-games-2.17-r5.ebuild,v 1.6 2013/11/12 17:49:40 zlogene Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs games

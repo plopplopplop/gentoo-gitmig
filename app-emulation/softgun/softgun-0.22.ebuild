@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/softgun/softgun-0.22.ebuild,v 1.1 2013/04/30 03:24:33 vapier Exp $
 
 EAPI="4"
 

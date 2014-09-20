@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-mta/netqmail/netqmail-1.05-r4.ebuild,v 1.30 2012/11/06 11:17:40 eras Exp $
 
 inherit eutils toolchain-funcs fixheadtails flag-o-matic user
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/cvscommand/cvscommand-1.65.ebuild,v 1.10 2010/06/19 00:41:09 abcd Exp $
 
 inherit vim-plugin
 

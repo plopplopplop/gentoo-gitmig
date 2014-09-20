@@ -1,6 +1,6 @@
 # Copyright 2008-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/arch/mips/make.defaults,v 1.13 2014/07/01 14:34:52 mgorny Exp $
 
 # 2006/08/18 - Donnie Berkholz <dberkholz@gentoo.org>
 # Defaults for video drivers

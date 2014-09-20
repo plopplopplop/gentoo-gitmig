@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/buildbot-slave/buildbot-slave-0.8.8-r1.ebuild,v 1.5 2014/02/24 01:46:07 phajdan.jr Exp $
 
 EAPI="5"
 PYTHON_DEPEND="2"

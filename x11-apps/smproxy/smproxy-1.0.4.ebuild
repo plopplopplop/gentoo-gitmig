@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/smproxy/smproxy-1.0.4.ebuild,v 1.10 2011/02/14 23:40:56 xarthisius Exp $
 
 EAPI=3
 

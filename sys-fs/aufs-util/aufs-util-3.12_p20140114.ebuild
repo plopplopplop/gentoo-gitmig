@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/aufs-util/aufs-util-3.12_p20140114.ebuild,v 1.2 2014/05/24 09:49:28 hwoarang Exp $
 
 EAPI=5
 

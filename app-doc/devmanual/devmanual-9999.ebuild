@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/devmanual/devmanual-9999.ebuild,v 1.9 2013/11/12 18:36:02 hwoarang Exp $
 
 EAPI=5
 

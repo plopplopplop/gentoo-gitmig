@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-dicts/kasumi/kasumi-2.5.ebuild,v 1.5 2012/05/03 02:18:37 jdhore Exp $
 
 EAPI="1"
 

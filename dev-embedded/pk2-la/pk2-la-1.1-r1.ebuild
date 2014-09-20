@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-embedded/pk2-la/pk2-la-1.1-r1.ebuild,v 1.1 2012/04/29 16:49:04 josejx Exp $
 
 EAPI="2"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-libevent/pecl-libevent-0.0.4.ebuild,v 1.1 2012/02/09 17:25:47 olemarkus Exp $
 
 EAPI=4
 PHP_EXT_NAME="libevent"

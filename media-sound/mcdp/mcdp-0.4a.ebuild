@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/mcdp/mcdp-0.4a.ebuild,v 1.6 2012/03/19 19:05:17 armin76 Exp $
 
 inherit eutils toolchain-funcs
 

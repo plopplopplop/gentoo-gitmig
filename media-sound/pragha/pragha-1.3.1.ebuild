@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/pragha/pragha-1.3.1.ebuild,v 1.1 2014/08/20 12:08:58 ssuominen Exp $
 
 EAPI=5
 inherit xfconf # autotools

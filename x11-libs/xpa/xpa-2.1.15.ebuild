@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/xpa/xpa-2.1.15.ebuild,v 1.1 2013/10/28 17:31:23 bicatali Exp $
 
 EAPI=5
 

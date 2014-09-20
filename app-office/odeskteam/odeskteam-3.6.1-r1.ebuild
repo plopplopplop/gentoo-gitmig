@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/odeskteam/odeskteam-3.6.1-r1.ebuild,v 1.3 2013/10/01 21:13:22 pesa Exp $
 
 EAPI=4
 

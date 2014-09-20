@@ -1,6 +1,6 @@
 # Copyright 1999-2005 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/xboxgw/xboxgw-1.082.ebuild,v 1.5 2007/12/05 04:12:52 mr_bones_ Exp $
 
 XBOXGW_P="${PN}-1.08-2"
 HMLIBS_P="hmlibs-1.07-2"

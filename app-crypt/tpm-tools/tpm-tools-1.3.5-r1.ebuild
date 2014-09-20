@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/tpm-tools/tpm-tools-1.3.5-r1.ebuild,v 1.5 2014/08/03 15:25:02 tgall Exp $
 
 EAPI=4
 inherit autotools eutils flag-o-matic

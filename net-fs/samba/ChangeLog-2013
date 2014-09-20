@@ -1,6 +1,6 @@
 # ChangeLog for net-fs/samba
 # Copyright 1999-2014 Gentoo Foundation; Distributed under the GPL v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-fs/samba/ChangeLog-2013,v 1.1 2014/01/01 17:00:29 dilfridge Exp $
 
   23 Dec 2013; Agostino Sarubbo <ago@gentoo.org> samba-3.6.22.ebuild:
   Stable for alpha, wrt bug #493664

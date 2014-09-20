@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libcap-ng/libcap-ng-0.7.4.ebuild,v 1.1 2014/04/30 18:40:31 radhermit Exp $
 
 EAPI=5
 

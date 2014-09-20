@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/monodevelop/monodevelop-3.0.2-r1.ebuild,v 1.5 2013/10/12 12:09:05 pacho Exp $
 
 EAPI=4
 inherit fdo-mime gnome2-utils mono versionator eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/portaudio/portaudio-19_pre20140130.ebuild,v 1.10 2014/08/08 21:24:56 ago Exp $
 
 EAPI=5
 AUTOTOOLS_PRUNE_LIBTOOL_FILES=all

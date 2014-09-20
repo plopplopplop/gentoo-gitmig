@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/fondu/fondu-20040925.ebuild,v 1.3 2009/09/23 15:08:59 ssuominen Exp $
 
 DESCRIPTION="Utilities for converting between and manipulating mac fonts and unix fonts"
 HOMEPAGE="http://fondu.sourceforge.net/"

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/khmer/khmer-5.0-r1.ebuild,v 1.3 2010/10/25 12:03:16 fauli Exp $
 
 inherit font
 

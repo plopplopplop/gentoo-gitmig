@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/htpdate/files/htpdate.init,v 1.4 2011/10/09 16:19:16 vapier Exp $
 
 depend() {
 	need net

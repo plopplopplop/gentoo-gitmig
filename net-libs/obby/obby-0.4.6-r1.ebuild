@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/obby/obby-0.4.6-r1.ebuild,v 1.6 2010/07/20 15:10:11 jer Exp $
 
 DESCRIPTION="Library for collaborative text editing"
 HOMEPAGE="http://gobby.0x539.de/"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/epiphany/epiphany-3.12.0.ebuild,v 1.2 2014/07/18 05:11:15 leio Exp $
 
 EAPI="5"
 GCONF_DEBUG="yes"

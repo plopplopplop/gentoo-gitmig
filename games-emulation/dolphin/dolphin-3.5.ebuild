@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-emulation/dolphin/dolphin-3.5.ebuild,v 1.11 2014/02/17 01:49:47 twitch153 Exp $
 
 EAPI=5
 

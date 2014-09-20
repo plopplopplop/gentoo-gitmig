@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/hardened/linux/amd64/package.use,v 1.5 2014/07/08 22:25:25 zorry Exp $
 
 # Magnus Granberg <zorry@gentoo.org> (06 Mar 2011)
 # We will have pic enable on older package but not

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/http_parser_rb/http_parser_rb-0.6.0.ebuild,v 1.3 2014/08/15 14:29:37 blueness Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20 ruby21"

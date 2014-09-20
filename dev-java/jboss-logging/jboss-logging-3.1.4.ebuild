@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jboss-logging/jboss-logging-3.1.4.ebuild,v 1.1 2014/05/10 12:34:44 tomwij Exp $
 
 EAPI="5"
 

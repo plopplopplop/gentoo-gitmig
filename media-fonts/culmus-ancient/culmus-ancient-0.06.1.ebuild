@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/culmus-ancient/culmus-ancient-0.06.1.ebuild,v 1.3 2010/05/21 04:54:25 ken69267 Exp $
 
 inherit font versionator
 

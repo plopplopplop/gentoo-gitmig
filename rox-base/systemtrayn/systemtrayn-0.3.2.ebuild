@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-base/systemtrayn/systemtrayn-0.3.2.ebuild,v 1.4 2008/09/01 09:37:27 armin76 Exp $
 
 ROX_CLIB_VER=2.1.7
 inherit rox versionator

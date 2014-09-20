@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-mobilephone/bitpim/bitpim-1.0.6-r2.ebuild,v 1.1 2014/06/19 16:53:51 creffett Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/knocker/knocker-0.7.1-r3.ebuild,v 1.1 2014/07/12 19:06:20 jer Exp $
 
 EAPI=5
 

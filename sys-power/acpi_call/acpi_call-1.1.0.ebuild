@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-power/acpi_call/acpi_call-1.1.0.ebuild,v 1.1 2013/07/18 14:14:47 ottxor Exp $
 
 EAPI=5
 

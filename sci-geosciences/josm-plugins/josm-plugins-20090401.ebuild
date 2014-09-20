@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-geosciences/josm-plugins/josm-plugins-20090401.ebuild,v 1.1 2009/04/01 12:28:17 hanno Exp $
 
 DESCRIPTION="Set of plugins for josm"
 HOMEPAGE="http://josm.openstreetmap.de/"

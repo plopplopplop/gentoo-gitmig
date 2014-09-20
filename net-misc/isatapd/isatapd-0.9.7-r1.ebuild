@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/isatapd/isatapd-0.9.7-r1.ebuild,v 1.1 2014/03/30 10:09:14 pacho Exp $
 
 EAPI=5
 inherit linux-info systemd

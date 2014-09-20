@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/concentration/concentration-1.2-r1.ebuild,v 1.5 2014/05/15 16:50:04 ulm Exp $
 
 EAPI=2
 inherit eutils games

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/cegui/cegui-0.6.2b.ebuild,v 1.12 2012/05/03 06:35:30 jdhore Exp $
 
 EAPI=2
 inherit autotools eutils

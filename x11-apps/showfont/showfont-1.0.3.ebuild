@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/showfont/showfont-1.0.3.ebuild,v 1.7 2011/02/14 14:54:18 xarthisius Exp $
 
 EAPI=3
 

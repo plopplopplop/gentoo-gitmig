@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/scientificpython/scientificpython-2.9.1.ebuild,v 1.11 2012/02/23 04:54:38 patrick Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

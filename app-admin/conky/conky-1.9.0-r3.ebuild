@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/conky/conky-1.9.0-r3.ebuild,v 1.10 2014/03/24 15:12:42 ago Exp $
 
 EAPI=5
 

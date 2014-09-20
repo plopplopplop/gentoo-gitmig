@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/faraday/faraday-0.8.8.ebuild,v 1.3 2014/08/15 14:03:56 blueness Exp $
 
 EAPI=5
 

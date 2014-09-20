@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pybluez/pybluez-0.18.ebuild,v 1.5 2010/07/18 12:37:21 nixnut Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

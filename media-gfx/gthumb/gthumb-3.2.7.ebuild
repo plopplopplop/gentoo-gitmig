@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/gthumb/gthumb-3.2.7.ebuild,v 1.3 2014/05/04 12:10:59 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="yes"

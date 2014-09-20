@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/xine-ui/xine-ui-0.99.8.ebuild,v 1.2 2014/09/01 16:45:35 mgorny Exp $
 
 EAPI=5
 inherit eutils fdo-mime gnome2-utils

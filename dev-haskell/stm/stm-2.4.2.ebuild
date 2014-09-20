@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/stm/stm-2.4.2.ebuild,v 1.7 2013/09/09 20:13:37 slyfox Exp $
 
 EAPI=5
 

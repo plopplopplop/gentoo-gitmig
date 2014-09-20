@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/translate-toolkit/translate-toolkit-1.10.0.ebuild,v 1.3 2013/05/20 08:43:05 ago Exp $
 
 EAPI=3
 

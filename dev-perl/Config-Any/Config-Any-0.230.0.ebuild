@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Config-Any/Config-Any-0.230.0.ebuild,v 1.4 2013/09/08 10:28:16 pinkbyte Exp $
 
 EAPI=4
 

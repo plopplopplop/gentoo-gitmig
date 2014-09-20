@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/adzapper/adzapper-20080508.ebuild,v 1.7 2009/04/20 20:19:49 maekke Exp $
 
 MY_P=${P/zapper/zap}
 

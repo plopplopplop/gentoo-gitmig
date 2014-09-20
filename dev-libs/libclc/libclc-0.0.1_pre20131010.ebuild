@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libclc/libclc-0.0.1_pre20131010.ebuild,v 1.3 2014/04/06 10:10:38 ago Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

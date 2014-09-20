@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/configparser/configparser-3.2.0.3.ebuild,v 1.1 2013/02/02 10:50:34 yngwin Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 ) # 2_6 possible with extra deps

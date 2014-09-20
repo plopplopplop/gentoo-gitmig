@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/oxygen-fonts/oxygen-fonts-0_p20120917.ebuild,v 1.1 2012/09/18 07:22:02 johu Exp $
 
 EAPI=4
 

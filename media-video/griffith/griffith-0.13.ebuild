@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/griffith/griffith-0.13.ebuild,v 1.5 2013/06/09 18:42:42 floppym Exp $
 
 EAPI="4"
 

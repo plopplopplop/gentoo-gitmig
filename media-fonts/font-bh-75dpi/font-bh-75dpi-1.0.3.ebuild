@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/font-bh-75dpi/font-bh-75dpi-1.0.3.ebuild,v 1.10 2014/09/14 17:28:16 chithanh Exp $
 
 EAPI=3
 inherit xorg-2

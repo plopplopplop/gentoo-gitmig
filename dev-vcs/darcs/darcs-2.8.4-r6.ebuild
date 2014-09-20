@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/darcs/darcs-2.8.4-r6.ebuild,v 1.2 2014/07/12 06:08:02 slyfox Exp $
 
 EAPI=5
 

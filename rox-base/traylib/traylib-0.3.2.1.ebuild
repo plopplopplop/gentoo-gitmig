@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-base/traylib/traylib-0.3.2.1.ebuild,v 1.9 2014/08/10 20:33:07 slyfox Exp $
 
 PYTHON_DEPEND="2:2.5"
 inherit python eutils multilib

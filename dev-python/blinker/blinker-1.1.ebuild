@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/blinker/blinker-1.1.ebuild,v 1.2 2014/08/11 22:14:47 blueness Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

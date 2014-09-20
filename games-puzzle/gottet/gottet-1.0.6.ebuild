@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/gottet/gottet-1.0.6.ebuild,v 1.1 2014/05/18 19:36:54 tupone Exp $
 
 EAPI=5
 

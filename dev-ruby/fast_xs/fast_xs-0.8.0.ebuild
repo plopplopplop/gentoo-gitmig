@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/fast_xs/fast_xs-0.8.0.ebuild,v 1.18 2014/08/05 16:00:30 mrueg Exp $
 
 EAPI=4
 

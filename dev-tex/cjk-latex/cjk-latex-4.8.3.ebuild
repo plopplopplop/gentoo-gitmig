@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/cjk-latex/cjk-latex-4.8.3.ebuild,v 1.13 2013/07/06 00:54:04 aballier Exp $
 
 EAPI=4
 

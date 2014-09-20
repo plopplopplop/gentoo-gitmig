@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/libsparse/libsparse-4.4.4.1.ebuild,v 1.2 2014/07/30 16:34:14 jauhien Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/routes/routes-1.13.ebuild,v 1.3 2014/08/10 21:21:16 slyfox Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/icmpdn/icmpdn-0.4.ebuild,v 1.3 2009/01/14 05:35:27 vapier Exp $
 
 inherit eutils flag-o-matic multilib
 

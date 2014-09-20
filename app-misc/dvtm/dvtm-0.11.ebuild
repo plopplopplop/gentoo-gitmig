@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/dvtm/dvtm-0.11.ebuild,v 1.1 2014/05/23 13:40:11 chithanh Exp $
 
 EAPI=5
 

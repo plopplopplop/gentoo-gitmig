@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/ccolamd/ccolamd-2.8.0.ebuild,v 1.4 2014/03/04 19:45:44 vincent Exp $
 
 EAPI=5
 

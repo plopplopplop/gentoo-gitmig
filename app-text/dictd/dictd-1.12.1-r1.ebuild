@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/dictd/dictd-1.12.1-r1.ebuild,v 1.8 2014/01/18 20:03:11 ago Exp $
 
 EAPI=5
 inherit eutils readme.gentoo systemd user

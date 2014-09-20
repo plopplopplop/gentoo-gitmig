@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/libsvm/libsvm-2.90-r1.ebuild,v 1.5 2010/04/18 17:37:00 nixnut Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

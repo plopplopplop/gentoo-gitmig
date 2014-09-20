@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/gorky17-demo/gorky17-demo-1.0.1.0.1-r1.ebuild,v 1.3 2014/08/29 18:01:42 mr_bones_ Exp $
 
 EAPI=5
 inherit eutils unpacker versionator games

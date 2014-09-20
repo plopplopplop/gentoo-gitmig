@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/galaxyhack/galaxyhack-1.74.ebuild,v 1.6 2014/08/10 21:20:51 slyfox Exp $
 
 EAPI=4
 inherit eutils flag-o-matic games

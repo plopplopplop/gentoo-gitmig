@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/spice/spice-3.5.5-r1.ebuild,v 1.5 2011/09/08 14:20:46 ulm Exp $
 
 inherit eutils flag-o-matic multilib
 

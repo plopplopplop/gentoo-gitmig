@@ -3,7 +3,7 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License, v2 or later
 # Author Vlastimil Babka <caster@gentoo.org>
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/ant-tasks.eclass,v 1.16 2013/10/05 12:07:01 caster Exp $
 
 # @ECLASS: ant-tasks.eclass
 # @MAINTAINER:

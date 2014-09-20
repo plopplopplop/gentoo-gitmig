@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/ohai/ohai-6.22.0.ebuild,v 1.1 2014/05/06 06:05:05 graaff Exp $
 
 EAPI=5
 USE_RUBY="ruby19"

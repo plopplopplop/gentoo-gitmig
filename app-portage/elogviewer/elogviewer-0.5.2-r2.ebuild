@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/elogviewer/elogviewer-0.5.2-r2.ebuild,v 1.6 2011/09/24 17:36:05 zmedico Exp $
 
 PYTHON_DEPEND=2
 

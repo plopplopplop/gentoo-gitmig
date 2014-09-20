@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/typespeed/typespeed-0.6.5.ebuild,v 1.6 2012/05/24 01:44:43 vapier Exp $
 
 EAPI=2
 inherit autotools games

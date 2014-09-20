@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libf2c/libf2c-20110801-r3.ebuild,v 1.5 2013/06/25 12:48:23 ago Exp $
 
 EAPI=4
 

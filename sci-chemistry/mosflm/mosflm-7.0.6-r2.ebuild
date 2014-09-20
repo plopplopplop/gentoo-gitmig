@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/mosflm/mosflm-7.0.6-r2.ebuild,v 1.13 2013/05/05 13:15:00 jlec Exp $
 
 EAPI="3"
 

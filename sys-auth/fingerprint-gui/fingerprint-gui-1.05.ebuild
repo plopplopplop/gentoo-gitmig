@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/fingerprint-gui/fingerprint-gui-1.05.ebuild,v 1.1 2013/07/07 09:36:09 maksbotan Exp $
 
 EAPI=4
 

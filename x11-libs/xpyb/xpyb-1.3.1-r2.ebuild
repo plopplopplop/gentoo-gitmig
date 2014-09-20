@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/xpyb/xpyb-1.3.1-r2.ebuild,v 1.12 2013/11/28 18:10:48 chithanh Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/percona-toolkit/percona-toolkit-2.2.7.ebuild,v 1.1 2014/05/22 20:43:01 idl0r Exp $
 
 EAPI=5
 

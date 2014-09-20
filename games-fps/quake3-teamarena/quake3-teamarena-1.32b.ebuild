@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake3-teamarena/quake3-teamarena-1.32b.ebuild,v 1.12 2014/08/12 12:00:40 vapier Exp $
 
 CDROM_OPTIONAL="yes"
 inherit eutils unpacker cdrom games

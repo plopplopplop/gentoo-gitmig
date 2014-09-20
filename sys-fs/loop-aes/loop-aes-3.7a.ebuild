@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/loop-aes/loop-aes-3.7a.ebuild,v 1.5 2014/08/10 20:19:48 slyfox Exp $
 
 EAPI="3"
 

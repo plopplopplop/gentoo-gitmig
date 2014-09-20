@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/warzone2100/warzone2100-3.1.0.ebuild,v 1.5 2013/08/29 17:38:16 mr_bones_ Exp $
 
 EAPI=5
 inherit autotools toolchain-funcs eutils versionator gnome2-utils games

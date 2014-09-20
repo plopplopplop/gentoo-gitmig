@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/mixlib-log/mixlib-log-1.4.1-r1.ebuild,v 1.1 2014/07/22 06:22:27 graaff Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

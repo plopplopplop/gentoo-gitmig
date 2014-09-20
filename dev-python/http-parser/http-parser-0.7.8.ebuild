@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/http-parser/http-parser-0.7.8.ebuild,v 1.5 2013/01/21 11:21:51 ago Exp $
 
 EAPI=4
 

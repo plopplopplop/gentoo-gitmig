@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-ftp/bareftp/bareftp-0.3.10.ebuild,v 1.1 2013/08/26 14:06:11 patrick Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/command-t/command-t-1.8.ebuild,v 1.1 2014/04/03 05:44:43 radhermit Exp $
 
 EAPI="5"
 USE_RUBY="ruby19 ruby20"

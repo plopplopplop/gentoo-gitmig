@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/zpaq-extras/zpaq-extras-3.ebuild,v 1.1 2014/06/17 15:22:36 mgorny Exp $
 
 EAPI=5
 inherit toolchain-funcs

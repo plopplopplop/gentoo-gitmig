@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/gnome-speech/gnome-speech-0.4.25-r1.ebuild,v 1.10 2013/02/02 22:18:46 ago Exp $
 
 EAPI="4"
 GNOME_TARBALL_SUFFIX="bz2"

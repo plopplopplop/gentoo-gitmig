@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emacs/pov-mode/pov-mode-3.2.ebuild,v 1.1 2011/08/12 16:24:26 ulm Exp $
 
 EAPI=4
 

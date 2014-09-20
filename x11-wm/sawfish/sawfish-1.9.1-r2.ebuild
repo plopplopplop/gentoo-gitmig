@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/sawfish/sawfish-1.9.1-r2.ebuild,v 1.7 2014/08/01 11:30:47 armin76 Exp $
 
 EAPI=5
 inherit eutils elisp-common

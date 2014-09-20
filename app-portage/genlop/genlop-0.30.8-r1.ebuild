@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/genlop/genlop-0.30.8-r1.ebuild,v 1.10 2010/10/19 11:47:35 leio Exp $
 
 inherit eutils bash-completion
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/schroedinger/schroedinger-1.0.11.ebuild,v 1.9 2013/06/25 12:54:49 ago Exp $
 
 EAPI=4
 inherit eutils autotools

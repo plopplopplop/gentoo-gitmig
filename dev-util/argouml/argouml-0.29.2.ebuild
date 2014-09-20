@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/argouml/argouml-0.29.2.ebuild,v 1.3 2010/02/01 20:07:26 maekke Exp $
 
 inherit java-pkg-2
 

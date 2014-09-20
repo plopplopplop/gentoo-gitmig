@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/sndpeek/sndpeek-1.3-r2.ebuild,v 1.3 2010/09/16 17:17:53 scarabeus Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs

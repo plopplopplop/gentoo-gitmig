@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/prefix/aix/use.mask,v 1.4 2013/02/02 13:12:27 grobian Exp $
 
 # Re-add AIX libc
 -elibc_AIX

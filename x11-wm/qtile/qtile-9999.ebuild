@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/qtile/qtile-9999.ebuild,v 1.8 2014/04/04 08:02:17 radhermit Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

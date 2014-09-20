@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libmpeg3/libmpeg3-1.8.ebuild,v 1.8 2012/09/09 16:07:01 armin76 Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/networkx/networkx-1.8.1.ebuild,v 1.5 2014/02/11 06:21:18 bicatali Exp $
 
 EAPI=5
 

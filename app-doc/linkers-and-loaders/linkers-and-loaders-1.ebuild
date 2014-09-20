@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/linkers-and-loaders/linkers-and-loaders-1.ebuild,v 1.6 2013/04/01 13:03:54 ulm Exp $
 
 DESCRIPTION="the Linkers and Loaders book"
 HOMEPAGE="http://linker.iecc.com/"

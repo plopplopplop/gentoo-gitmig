@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/tpg/tpg-3.2.2-r1.ebuild,v 1.1 2014/03/30 08:29:58 idella4 Exp $
 
 EAPI=5
 # py2.6 doesn't pass tests

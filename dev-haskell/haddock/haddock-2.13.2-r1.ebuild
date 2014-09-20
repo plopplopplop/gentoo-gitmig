@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/haddock/haddock-2.13.2-r1.ebuild,v 1.5 2013/09/22 06:44:28 ago Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-File-Spec/perl-File-Spec-3.470.0.ebuild,v 1.3 2014/09/13 19:35:57 dilfridge Exp $
 
 EAPI=5
 

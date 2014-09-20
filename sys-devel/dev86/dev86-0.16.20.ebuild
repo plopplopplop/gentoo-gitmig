@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/dev86/dev86-0.16.20.ebuild,v 1.2 2014/05/18 17:26:27 vapier Exp $
 
 EAPI="5"
 

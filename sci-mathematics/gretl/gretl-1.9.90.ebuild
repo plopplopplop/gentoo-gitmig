@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/gretl/gretl-1.9.90.ebuild,v 1.1 2014/05/28 17:35:31 bicatali Exp $
 
 EAPI=5
 

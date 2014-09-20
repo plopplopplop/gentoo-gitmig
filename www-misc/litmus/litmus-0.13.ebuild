@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-misc/litmus/litmus-0.13.ebuild,v 1.3 2014/02/10 03:00:12 floppym Exp $
 
 EAPI="5"
 

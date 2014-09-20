@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/scons-utils.eclass,v 1.11 2012/09/27 16:35:42 axs Exp $
 
 # @ECLASS: scons-utils.eclass
 # @MAINTAINER:

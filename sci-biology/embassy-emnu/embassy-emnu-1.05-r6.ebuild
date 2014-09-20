@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/embassy-emnu/embassy-emnu-1.05-r6.ebuild,v 1.4 2011/10/20 08:54:43 xarthisius Exp $
 
 EBOV="6.1.0"
 

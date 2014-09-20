@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/zebedee/zebedee-2.5.3-r1.ebuild,v 1.4 2012/06/28 10:03:38 ago Exp $
 
 EAPI="2"
 

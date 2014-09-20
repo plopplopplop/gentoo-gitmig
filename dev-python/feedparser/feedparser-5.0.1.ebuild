@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/feedparser/feedparser-5.0.1.ebuild,v 1.9 2011/11/16 19:10:07 hwoarang Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

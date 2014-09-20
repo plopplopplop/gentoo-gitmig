@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-utils/gpe-edit/gpe-edit-0.41.ebuild,v 1.6 2009/07/13 23:40:54 miknix Exp $
 
 GPE_TARBALL_SUFFIX="bz2"
 inherit gpe autotools

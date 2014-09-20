@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/rex/rex-0.51.2.ebuild,v 1.1 2014/08/15 03:21:03 patrick Exp $
 
 EAPI=5
 

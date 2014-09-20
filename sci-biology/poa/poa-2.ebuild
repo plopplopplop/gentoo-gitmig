@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/poa/poa-2.ebuild,v 1.2 2008/09/07 11:36:01 markusle Exp $
 
 inherit eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-video-sis/xf86-video-sis-0.10.6.ebuild,v 1.2 2012/07/11 08:57:00 chithanh Exp $
 
 EAPI=4
 XORG_DRI=dri

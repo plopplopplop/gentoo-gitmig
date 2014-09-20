@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/xcircuit/xcircuit-3.6.165.ebuild,v 1.7 2014/08/10 20:28:53 slyfox Exp $
 
 EAPI=2
 inherit autotools eutils multilib

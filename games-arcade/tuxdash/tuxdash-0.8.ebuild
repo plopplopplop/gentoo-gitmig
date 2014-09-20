@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/tuxdash/tuxdash-0.8.ebuild,v 1.8 2010/10/12 04:28:01 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils games

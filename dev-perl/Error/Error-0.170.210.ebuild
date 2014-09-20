@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Error/Error-0.170.210.ebuild,v 1.13 2014/06/06 05:42:09 vapier Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-base/gnome-extra-apps/gnome-extra-apps-3.12.0-r1.ebuild,v 1.1 2014/08/31 14:09:01 pacho Exp $
 
 EAPI="5"
 

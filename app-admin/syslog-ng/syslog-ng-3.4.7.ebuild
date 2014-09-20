@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/syslog-ng/syslog-ng-3.4.7.ebuild,v 1.13 2014/06/10 00:00:00 vapier Exp $
 
 EAPI=5
 inherit eutils multilib systemd

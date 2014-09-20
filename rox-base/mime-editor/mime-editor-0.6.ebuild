@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-base/mime-editor/mime-editor-0.6.ebuild,v 1.6 2013/08/03 07:31:09 ago Exp $
 
 ROX_LIB_VER="2.0.4-r1"
 inherit rox-0install

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jnr-ffi/jnr-ffi-0.7.7.ebuild,v 1.1 2012/09/25 11:04:16 sera Exp $
 
 EAPI="4"
 

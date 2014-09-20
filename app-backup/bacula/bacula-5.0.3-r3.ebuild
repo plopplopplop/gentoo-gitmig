@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-backup/bacula/bacula-5.0.3-r3.ebuild,v 1.20 2013/05/20 14:20:50 jer Exp $
 
 EAPI="5"
 PYTHON_DEPEND="python? 2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libsmf/libsmf-1.3.ebuild,v 1.9 2013/01/11 20:42:26 ago Exp $
 
 EAPI=4
 

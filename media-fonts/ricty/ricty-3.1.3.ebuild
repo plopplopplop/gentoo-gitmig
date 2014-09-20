@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/ricty/ricty-3.1.3.ebuild,v 1.1 2012/01/24 15:44:08 matsuu Exp $
 
 EAPI=3
 inherit font

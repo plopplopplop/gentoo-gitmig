@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/gqrx/gqrx-2.2.0_p20140706.ebuild,v 1.2 2014/07/07 13:06:58 zerochaos Exp $
 
 EAPI=5
 

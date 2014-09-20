@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake1-rally/quake1-rally-1.2.ebuild,v 1.7 2014/05/10 19:53:43 ulm Exp $
 
 inherit eutils games
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/vcscommand/vcscommand-1.99.46.ebuild,v 1.1 2012/08/06 05:40:47 radhermit Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/double-conversion/double-conversion-2.0.1.ebuild,v 1.1 2014/04/02 22:54:52 bicatali Exp $
 
 EAPI=5
 

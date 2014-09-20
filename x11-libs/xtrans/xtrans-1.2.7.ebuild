@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/xtrans/xtrans-1.2.7.ebuild,v 1.10 2013/02/21 17:35:06 zmedico Exp $
 
 EAPI=4
 

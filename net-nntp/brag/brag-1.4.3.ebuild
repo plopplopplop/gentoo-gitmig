@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-nntp/brag/brag-1.4.3.ebuild,v 1.4 2012/03/19 19:12:18 armin76 Exp $
 
 EAPI=4
 

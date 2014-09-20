@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jtidy/jtidy-0_pre20010801-r1.ebuild,v 1.10 2014/08/10 20:20:08 slyfox Exp $
 
 JAVA_PKG_IUSE="doc source"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/pam_yubico/pam_yubico-2.13.ebuild,v 1.2 2013/04/22 14:04:54 zerochaos Exp $
 
 EAPI=5
 inherit eutils autotools

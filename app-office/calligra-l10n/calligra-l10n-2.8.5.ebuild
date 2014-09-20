@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/calligra-l10n/calligra-l10n-2.8.5.ebuild,v 1.1 2014/07/25 19:28:01 johu Exp $
 
 EAPI=5
 

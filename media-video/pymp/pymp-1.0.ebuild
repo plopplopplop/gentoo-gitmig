@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/pymp/pymp-1.0.ebuild,v 1.4 2008/07/30 18:09:18 drac Exp $
 
 inherit eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-gudev/python-gudev-147.2.ebuild,v 1.10 2014/07/24 17:23:28 ssuominen Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.5"

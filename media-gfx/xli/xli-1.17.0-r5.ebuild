@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/xli/xli-1.17.0-r5.ebuild,v 1.3 2014/09/13 11:42:23 maekke Exp $
 
 EAPI="5"
 

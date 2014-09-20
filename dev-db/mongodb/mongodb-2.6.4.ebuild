@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/mongodb/mongodb-2.6.4.ebuild,v 1.1 2014/08/12 05:54:08 ultrabug Exp $
 
 EAPI=5
 SCONS_MIN_VERSION="1.2.0"

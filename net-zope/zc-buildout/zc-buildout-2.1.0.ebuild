@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-zope/zc-buildout/zc-buildout-2.1.0.ebuild,v 1.1 2013/03/26 06:26:24 patrick Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

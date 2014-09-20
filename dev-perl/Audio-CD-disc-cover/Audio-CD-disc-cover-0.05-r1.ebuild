@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Audio-CD-disc-cover/Audio-CD-disc-cover-0.05-r1.ebuild,v 1.2 2014/04/24 17:59:47 zlogene Exp $
 # This appears it should really be entitled Audio-CD
 # There are * QA Notice: errors on building however the HOMEPAGE gives no source repo in which to file
 # prob. not worth the trouble for this little script.

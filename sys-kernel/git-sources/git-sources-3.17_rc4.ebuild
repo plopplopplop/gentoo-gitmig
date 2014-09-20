@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/git-sources/git-sources-3.17_rc4.ebuild,v 1.1 2014/09/09 09:24:35 ago Exp $
 
 EAPI="5"
 UNIPATCH_STRICTORDER="yes"

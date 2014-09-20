@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/gdl/gdl-0.9.4.ebuild,v 1.2 2014/06/27 17:41:30 bicatali Exp $
 
 EAPI=5
 

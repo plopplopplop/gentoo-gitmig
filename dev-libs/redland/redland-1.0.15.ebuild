@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/redland/redland-1.0.15.ebuild,v 1.13 2013/01/06 09:26:22 ago Exp $
 
 EAPI=4
 inherit libtool

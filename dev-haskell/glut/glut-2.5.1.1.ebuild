@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/glut/glut-2.5.1.1.ebuild,v 1.1 2014/07/02 09:58:40 gienah Exp $
 
 EAPI=5
 

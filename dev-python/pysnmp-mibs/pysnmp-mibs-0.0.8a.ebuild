@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pysnmp-mibs/pysnmp-mibs-0.0.8a.ebuild,v 1.2 2010/12/23 16:03:31 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/osgi-compendium/osgi-compendium-4.3.1.ebuild,v 1.2 2013/07/16 12:06:03 tomwij Exp $
 
 EAPI="5"
 

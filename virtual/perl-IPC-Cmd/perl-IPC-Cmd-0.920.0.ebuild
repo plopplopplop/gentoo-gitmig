@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-IPC-Cmd/perl-IPC-Cmd-0.920.0.ebuild,v 1.1 2014/07/08 22:12:06 dilfridge Exp $
 
 EAPI=5
 

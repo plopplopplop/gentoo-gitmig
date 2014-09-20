@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/peg-markdown/peg-markdown-0.4.14.ebuild,v 1.1 2013/02/24 04:26:36 rafaelmartins Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/mobile-broadband-provider-info/mobile-broadband-provider-info-20120614.ebuild,v 1.14 2014/01/15 12:55:38 ago Exp $
 
 EAPI=4
 inherit gnome.org

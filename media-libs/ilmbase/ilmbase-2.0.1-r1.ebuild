@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/ilmbase/ilmbase-2.0.1-r1.ebuild,v 1.1 2013/08/11 15:36:09 aballier Exp $
 
 EAPI=5
 inherit autotools-multilib

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/gweled/gweled-0.9.1-r1.ebuild,v 1.1 2014/06/04 06:39:34 tupone Exp $
 
 EAPI=2
 inherit flag-o-matic autotools games

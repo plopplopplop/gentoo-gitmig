@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-Net_IMAP/PEAR-Net_IMAP-1.1.0_beta1.ebuild,v 1.11 2014/08/10 20:52:28 slyfox Exp $
 
 PEAR_PV="${PV/_/}"
 

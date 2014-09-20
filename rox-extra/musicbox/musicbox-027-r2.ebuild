@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/musicbox/musicbox-027-r2.ebuild,v 1.4 2008/07/14 14:51:41 lack Exp $
 
 ROX_LIB_VER=2.0.0
 inherit rox eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/apg/apg-2.3.0b-r5.ebuild,v 1.10 2012/12/07 19:00:37 ulm Exp $
 
 EAPI="2"
 

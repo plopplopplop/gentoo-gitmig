@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/arm/arm-1.4.5.0.ebuild,v 1.3 2012/06/08 12:12:07 phajdan.jr Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.5"

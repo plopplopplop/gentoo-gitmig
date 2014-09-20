@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/dvipsk/dvipsk-5.991_p20110705-r1.ebuild,v 1.10 2012/05/09 12:47:10 aballier Exp $
 
 EAPI=3
 

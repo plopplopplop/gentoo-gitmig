@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/erubis/erubis-2.7.0-r2.ebuild,v 1.1 2014/04/19 09:08:07 graaff Exp $
 
 EAPI=5
 

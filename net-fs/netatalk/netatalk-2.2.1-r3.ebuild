@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-fs/netatalk/netatalk-2.2.1-r3.ebuild,v 1.13 2014/08/05 11:35:37 armin76 Exp $
 
 EAPI="4"
 

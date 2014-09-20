@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/agda/agda-2.3.0.1.ebuild,v 1.6 2012/09/12 16:10:28 qnikst Exp $
 
 EAPI="4"
 

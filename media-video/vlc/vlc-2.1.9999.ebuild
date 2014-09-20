@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/vlc/vlc-2.1.9999.ebuild,v 1.23 2014/09/10 22:06:30 zerochaos Exp $
 
 EAPI="5"
 

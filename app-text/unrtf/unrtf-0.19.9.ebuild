@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/unrtf/unrtf-0.19.9.ebuild,v 1.2 2009/09/23 16:41:58 patrick Exp $
 
 inherit eutils
 

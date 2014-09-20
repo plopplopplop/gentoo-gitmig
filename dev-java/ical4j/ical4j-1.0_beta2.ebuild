@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/ical4j/ical4j-1.0_beta2.ebuild,v 1.10 2014/07/08 08:12:42 ercpe Exp $
 
 JAVA_PKG_IUSE="doc examples source"
 

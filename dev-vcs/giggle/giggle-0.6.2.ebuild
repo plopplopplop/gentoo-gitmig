@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/giggle/giggle-0.6.2.ebuild,v 1.4 2013/04/13 12:42:01 ikelos Exp $
 
 EAPI="5"
 

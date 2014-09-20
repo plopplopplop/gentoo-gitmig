@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-ExtUtils-ParseXS/perl-ExtUtils-ParseXS-3.220.0.ebuild,v 1.2 2014/01/20 21:01:06 vapier Exp $
 
 DESCRIPTION="Virtual for ${PN#perl-}"
 HOMEPAGE=""

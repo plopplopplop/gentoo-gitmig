@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-kids/memonix/memonix-1.6.ebuild,v 1.6 2014/05/15 16:47:57 ulm Exp $
 
 EAPI=4
 inherit cmake-utils games

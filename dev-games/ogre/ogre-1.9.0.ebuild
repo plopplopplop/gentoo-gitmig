@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/ogre/ogre-1.9.0.ebuild,v 1.3 2014/03/08 23:22:37 hasufell Exp $
 
 EAPI=5
 CMAKE_REMOVE_MODULES="yes"

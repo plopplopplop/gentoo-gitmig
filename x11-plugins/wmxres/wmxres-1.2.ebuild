@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/wmxres/wmxres-1.2.ebuild,v 1.10 2012/07/03 14:15:54 voyageur Exp $
 
 EAPI=4
 inherit eutils multilib toolchain-funcs

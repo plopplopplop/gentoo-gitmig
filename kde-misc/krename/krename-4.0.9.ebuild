@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-misc/krename/krename-4.0.9.ebuild,v 1.9 2014/08/05 16:31:41 mrueg Exp $
 
 EAPI=5
 KDE_LINGUAS="bs cs de el es fr hu it ja lt nl pl pt ru sl sv tr uk zh_CN"

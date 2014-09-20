@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/finchtv/finchtv-1.3.1-r1.ebuild,v 1.5 2012/07/24 12:22:42 jlec Exp $
 
 MY_PV="${PV//./_}"
 MY_P=${PN}_${MY_PV}

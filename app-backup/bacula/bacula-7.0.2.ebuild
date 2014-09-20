@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-backup/bacula/bacula-7.0.2.ebuild,v 1.1 2014/04/10 16:13:10 tomjbe Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/md6sum/md6sum-1.0-r1.ebuild,v 1.3 2012/11/19 22:43:39 tomka Exp $
 
 EAPI="4"
 

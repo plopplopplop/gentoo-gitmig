@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/wiiload/wiiload-0.5.ebuild,v 1.3 2011/04/15 21:49:57 angelos Exp $
 
 inherit toolchain-funcs
 

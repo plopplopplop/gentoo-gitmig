@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-base/kdesu/kdesu-4.12.5.ebuild,v 1.5 2014/05/08 07:32:30 ago Exp $
 
 EAPI=5
 

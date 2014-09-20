@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/pidgin-privacy-please/pidgin-privacy-please-0.7.1.ebuild,v 1.3 2012/08/12 19:13:54 ago Exp $
 
 EAPI=2
 

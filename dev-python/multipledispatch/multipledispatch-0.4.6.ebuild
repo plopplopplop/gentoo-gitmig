@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/multipledispatch/multipledispatch-0.4.6.ebuild,v 1.1 2014/09/01 05:40:31 patrick Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_7,3_2,3_3,3_4} pypy )

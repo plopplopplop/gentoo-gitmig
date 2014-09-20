@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/vdr-plugin-2.eclass,v 1.28 2014/02/08 00:56:30 hd_brummy Exp $
 
 # @ECLASS: vdr-plugin-2.eclass
 # @MAINTAINER:

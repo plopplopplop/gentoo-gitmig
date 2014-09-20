@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/nusmv/nusmv-2.5.4.ebuild,v 1.2 2013/12/28 18:37:44 robbat2 Exp $
 
 inherit eutils flag-o-matic toolchain-funcs
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/ifstat/ifstat-1.1-r2.ebuild,v 1.10 2014/08/10 20:58:00 slyfox Exp $
 
 EAPI=4
 inherit autotools eutils

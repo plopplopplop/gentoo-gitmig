@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-news/snownews/snownews-1.5.12-r1.ebuild,v 1.8 2013/01/11 02:06:25 mr_bones_ Exp $
 
 EAPI=3
 inherit eutils toolchain-funcs

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/org-ruby/org-ruby-0.9.0.ebuild,v 1.1 2014/02/11 06:55:24 graaff Exp $
 
 EAPI=5
 USE_RUBY="ruby19"

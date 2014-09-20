@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-firmware/iwl3160-ucode/iwl3160-ucode-22.1.7.0.ebuild,v 1.1 2014/01/25 03:35:32 gienah Exp $
 
 EAPI=5
 inherit linux-info

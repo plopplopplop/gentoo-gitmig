@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/ndsad/ndsad-1.33-r1.ebuild,v 1.3 2014/08/10 20:58:57 slyfox Exp $
 
 EAPI=5
 inherit autotools eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-tv/nxtvepg/nxtvepg-2.8.1.ebuild,v 1.3 2010/06/24 18:54:54 fauli Exp $
 
 inherit eutils toolchain-funcs
 

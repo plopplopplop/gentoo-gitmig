@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/HTTP-Negotiate/HTTP-Negotiate-6.0.1-r1.ebuild,v 1.6 2014/01/24 09:48:57 zlogene Exp $
 
 EAPI=5
 

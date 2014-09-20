@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/liblognorm/liblognorm-0.3.6-r1.ebuild,v 1.1 2014/03/20 14:19:00 maksbotan Exp $
 
 EAPI=5
 

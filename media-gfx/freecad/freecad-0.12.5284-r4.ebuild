@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/freecad/freecad-0.12.5284-r4.ebuild,v 1.1 2014/04/23 22:49:07 xmw Exp $
 
 EAPI=5
 

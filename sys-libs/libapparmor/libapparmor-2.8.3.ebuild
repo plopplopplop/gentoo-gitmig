@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libapparmor/libapparmor-2.8.3.ebuild,v 1.2 2014/07/14 03:49:09 patrick Exp $
 
 EAPI=5
 

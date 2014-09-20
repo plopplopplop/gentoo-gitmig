@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/classworlds/classworlds-1.0-r3.ebuild,v 1.2 2008/03/22 22:53:18 betelgeuse Exp $
 
 EAPI=1
 

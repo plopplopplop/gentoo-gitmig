@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/smpeg2/smpeg2-2.0.0-r1.ebuild,v 1.1 2013/10/07 15:36:12 hasufell Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs autotools

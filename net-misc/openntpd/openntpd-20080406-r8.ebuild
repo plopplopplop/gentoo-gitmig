@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/openntpd/openntpd-20080406-r8.ebuild,v 1.10 2014/08/02 18:09:25 ago Exp $
 
 EAPI=5
 

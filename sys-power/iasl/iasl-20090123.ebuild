@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-power/iasl/iasl-20090123.ebuild,v 1.9 2014/03/26 14:16:40 polynomial-c Exp $
 
 inherit toolchain-funcs flag-o-matic eutils
 

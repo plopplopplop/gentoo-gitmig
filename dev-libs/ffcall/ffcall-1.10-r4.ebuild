@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/ffcall/ffcall-1.10-r4.ebuild,v 1.1 2014/02/08 13:42:20 pacho Exp $
 
 EAPI=5
 inherit eutils flag-o-matic

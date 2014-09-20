@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-base/rox-session/rox-session-0.30-r4.ebuild,v 1.5 2008/08/31 21:16:22 armin76 Exp $
 
 ROX_LIB_VER="2.0.4-r1"
 ROX_VER="2.7-r1"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-misc/plasma-nm/plasma-nm-0.9.3.4.ebuild,v 1.2 2014/08/17 09:27:44 kensington Exp $
 
 EAPI=5
 

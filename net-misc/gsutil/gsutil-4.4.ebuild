@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/gsutil/gsutil-4.4.ebuild,v 1.1 2014/08/12 05:12:53 vapier Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_6,2_7} )

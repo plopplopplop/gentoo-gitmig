@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/markups/markups-0.2.4.ebuild,v 1.6 2013/08/28 11:17:02 ago Exp $
 
 EAPI="5"
 

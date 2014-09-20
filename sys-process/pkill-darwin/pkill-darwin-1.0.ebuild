@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/pkill-darwin/pkill-darwin-1.0.ebuild,v 1.2 2011/05/18 18:27:47 grobian Exp $
 
 EAPI=3
 

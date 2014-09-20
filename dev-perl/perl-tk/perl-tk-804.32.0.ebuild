@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/perl-tk/perl-tk-804.32.0.ebuild,v 1.10 2014/08/10 17:44:12 ago Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/i7z/i7z-0.27.2.ebuild,v 1.5 2013/03/02 19:12:23 hwoarang Exp $
 
 EAPI=4
 

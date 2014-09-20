@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/acct/acct-6.5.5-r1.ebuild,v 1.2 2011/05/30 11:39:21 jer Exp $
 
 EAPI="2"
 

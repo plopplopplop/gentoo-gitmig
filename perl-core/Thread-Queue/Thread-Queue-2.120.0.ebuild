@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/Thread-Queue/Thread-Queue-2.120.0.ebuild,v 1.2 2014/07/25 13:41:52 zlogene Exp $
 
 EAPI=5
 

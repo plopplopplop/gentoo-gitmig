@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/alsa-plugins/alsa-plugins-1.0.28.ebuild,v 1.2 2014/09/04 18:45:46 jer Exp $
 
 EAPI=5
 inherit autotools eutils flag-o-matic multilib multilib-minimal

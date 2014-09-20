@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/mongoose/mongoose-5.3.ebuild,v 1.1 2014/06/06 04:22:17 zmedico Exp $
 
 EAPI=5
 inherit toolchain-funcs

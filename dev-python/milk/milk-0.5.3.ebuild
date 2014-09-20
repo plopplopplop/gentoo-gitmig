@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/milk/milk-0.5.3.ebuild,v 1.2 2013/07/20 09:08:59 idella4 Exp $
 
 EAPI=5
 

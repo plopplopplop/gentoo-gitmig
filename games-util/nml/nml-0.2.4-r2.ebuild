@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/nml/nml-0.2.4-r2.ebuild,v 1.6 2013/12/13 15:27:00 hasufell Exp $
 
 EAPI=5
 

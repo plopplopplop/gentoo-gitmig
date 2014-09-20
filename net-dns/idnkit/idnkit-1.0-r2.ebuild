@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/idnkit/idnkit-1.0-r2.ebuild,v 1.9 2012/03/02 20:58:22 ranger Exp $
 
 EAPI="4"
 

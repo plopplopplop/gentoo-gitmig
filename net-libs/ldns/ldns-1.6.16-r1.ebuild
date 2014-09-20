@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/ldns/ldns-1.6.16-r1.ebuild,v 1.3 2014/07/09 17:03:04 mgorny Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python2_7 )

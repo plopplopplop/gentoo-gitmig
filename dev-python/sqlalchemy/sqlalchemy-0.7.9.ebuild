@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/sqlalchemy/sqlalchemy-0.7.9.ebuild,v 1.14 2014/07/29 10:38:17 jer Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

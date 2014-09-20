@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/hprofile/hprofile-2.0_beta2.ebuild,v 1.3 2007/04/28 17:07:55 swegener Exp $
 
 DESCRIPTION="Utility to manage hardware, network, power or other profiles"
 HOMEPAGE="http://hprofile.sourceforge.net/"

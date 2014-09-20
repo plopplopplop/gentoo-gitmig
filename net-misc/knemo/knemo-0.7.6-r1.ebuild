@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/knemo/knemo-0.7.6-r1.ebuild,v 1.2 2014/04/27 23:48:36 johu Exp $
 
 EAPI=5
 

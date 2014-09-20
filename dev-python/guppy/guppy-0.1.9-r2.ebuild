@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/guppy/guppy-0.1.9-r2.ebuild,v 1.3 2012/11/07 12:23:30 idella4 Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

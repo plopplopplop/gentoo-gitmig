@@ -1,5 +1,5 @@
 # for cronie
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/cronie/files/cronie-1.2-crontab,v 1.2 2009/05/12 09:10:59 bangert Exp $
 
 # Global variables
 SHELL=/bin/bash

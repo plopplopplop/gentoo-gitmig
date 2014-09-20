@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/crossover-office-pro-bin/crossover-office-pro-bin-9.1.0.ebuild,v 1.6 2013/08/01 20:48:54 ssuominen Exp $
 
 EAPI="3"
 

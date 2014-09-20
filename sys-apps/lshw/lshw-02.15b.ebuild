@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/lshw/lshw-02.15b.ebuild,v 1.15 2012/05/04 09:17:30 jdhore Exp $
 
 EAPI=3
 inherit flag-o-matic eutils toolchain-funcs

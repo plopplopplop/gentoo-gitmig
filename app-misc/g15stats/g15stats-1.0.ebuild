@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/g15stats/g15stats-1.0.ebuild,v 1.5 2012/05/03 19:41:35 jdhore Exp $
 
 DESCRIPTION="CPU, memory, swap, network stats for G15 Keyboard"
 HOMEPAGE="http://g15daemon.sourceforge.net/"

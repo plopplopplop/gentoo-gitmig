@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/sysbench/sysbench-0.4.10.ebuild,v 1.4 2011/08/27 08:54:27 patrick Exp $
 
 DESCRIPTION="System performance benchmark"
 HOMEPAGE="http://sysbench.sourceforge.net/"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/doomsday/doomsday-1.10.2-r1.ebuild,v 1.1 2014/09/01 07:58:26 mgorny Exp $
 
 # TODO: fmod support broken (deng_fmod)
 

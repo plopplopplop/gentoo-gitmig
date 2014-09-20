@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/xalan-c/xalan-c-1.10.0.ebuild,v 1.15 2012/04/24 10:02:07 mgorny Exp $
 
 inherit toolchain-funcs eutils flag-o-matic multilib
 

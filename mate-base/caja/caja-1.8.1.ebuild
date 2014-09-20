@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mate-base/caja/caja-1.8.1.ebuild,v 1.5 2014/07/07 23:45:03 tomwij Exp $
 
 EAPI="5"
 

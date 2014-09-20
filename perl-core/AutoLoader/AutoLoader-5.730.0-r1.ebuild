@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/perl-core/AutoLoader/AutoLoader-5.730.0-r1.ebuild,v 1.1 2014/07/24 17:14:54 dilfridge Exp $
 
 EAPI=5
 

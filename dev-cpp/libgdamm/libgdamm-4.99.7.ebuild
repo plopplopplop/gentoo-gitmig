@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-cpp/libgdamm/libgdamm-4.99.7.ebuild,v 1.3 2013/12/08 17:53:01 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

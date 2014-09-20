@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/ldns-utils/ldns-utils-1.6.16.ebuild,v 1.6 2014/08/21 14:24:51 armin76 Exp $
 
 EAPI="3"
 inherit eutils

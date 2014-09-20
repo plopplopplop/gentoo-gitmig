@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/rex-client/rex-client-9999.ebuild,v 1.3 2014/04/11 09:21:35 patrick Exp $
 
 EAPI="4"
 

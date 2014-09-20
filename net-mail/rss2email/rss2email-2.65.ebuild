@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/rss2email/rss2email-2.65.ebuild,v 1.4 2011/04/05 05:50:28 ulm Exp $
 
 EAPI=2
 

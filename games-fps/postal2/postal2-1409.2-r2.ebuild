@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/postal2/postal2-1409.2-r2.ebuild,v 1.2 2014/07/08 17:33:22 axs Exp $
 
 EAPI=5
 inherit eutils unpacker cdrom multilib games

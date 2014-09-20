@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/scikits_timeseries/scikits_timeseries-0.91.3-r1.ebuild,v 1.2 2013/08/12 22:19:01 bicatali Exp $
 
 EAPI=5
 

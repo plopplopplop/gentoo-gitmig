@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/sun-j2me-bin/sun-j2me-bin-2.2-r3.ebuild,v 1.8 2009/11/25 09:55:53 maekke Exp $
 
 inherit java-pkg-2
 

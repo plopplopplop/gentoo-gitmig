@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/awesome_nested_set/awesome_nested_set-2.1.6.ebuild,v 1.1 2014/04/18 18:13:18 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/higlayout/higlayout-1.0-r2.ebuild,v 1.1 2014/09/06 16:45:00 ercpe Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/dont-starve/dont-starve-1.ebuild,v 1.2 2013/12/01 23:08:40 hasufell Exp $
 
 EAPI=5
 

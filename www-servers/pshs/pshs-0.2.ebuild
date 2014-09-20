@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/pshs/pshs-0.2.ebuild,v 1.1 2011/11/16 21:55:56 mgorny Exp $
 
 EAPI=4
 inherit autotools-utils

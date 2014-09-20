@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/gr-osmosdr/gr-osmosdr-0.0.2-r1.ebuild,v 1.1 2013/09/16 16:03:12 zerochaos Exp $
 
 EAPI=5
 PYTHON_DEPEND="python? 2"

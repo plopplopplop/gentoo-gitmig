@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/enum/enum-1.0.1.ebuild,v 1.1 2010/10/25 22:45:59 sping Exp $
 
 EAPI="2"
 

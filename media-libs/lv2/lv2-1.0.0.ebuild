@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/lv2/lv2-1.0.0.ebuild,v 1.3 2012/05/22 15:37:39 johu Exp $
 
 EAPI=4
 

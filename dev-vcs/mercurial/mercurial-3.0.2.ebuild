@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/mercurial/mercurial-3.0.2.ebuild,v 1.2 2014/07/08 10:26:59 haubi Exp $
 
 EAPI=5
 

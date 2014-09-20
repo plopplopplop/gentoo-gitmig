@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libmix/libmix-2.05-r7.ebuild,v 1.1 2014/07/05 15:58:15 jer Exp $
 
 EAPI=5
 inherit autotools base multilib toolchain-funcs

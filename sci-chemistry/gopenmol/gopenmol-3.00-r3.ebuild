@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/gopenmol/gopenmol-3.00-r3.ebuild,v 1.1 2013/07/04 15:51:59 jlec Exp $
 
 EAPI=5
 

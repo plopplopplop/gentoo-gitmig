@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-nntp/inn/inn-2.5.4.ebuild,v 1.1 2014/06/09 06:21:42 patrick Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_{6,7} )

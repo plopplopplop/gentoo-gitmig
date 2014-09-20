@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/gconf-python/gconf-python-2.28.1.ebuild,v 1.12 2014/01/16 15:57:36 blueness Exp $
 
 EAPI="1"
 GCONF_DEBUG="no"

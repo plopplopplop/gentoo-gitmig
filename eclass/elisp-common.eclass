@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/elisp-common.eclass,v 1.90 2014/06/11 09:13:36 ulm Exp $
 #
 # @ECLASS: elisp-common.eclass
 # @MAINTAINER:

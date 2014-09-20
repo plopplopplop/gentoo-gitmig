@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnustep-apps/systempreferences/systempreferences-1.1.0.ebuild,v 1.3 2011/12/15 19:20:37 ago Exp $
 
 inherit gnustep-2
 

@@ -1,9 +1,9 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libsemanage/libsemanage-2.3-r3.ebuild,v 1.2 2014/09/16 23:07:40 dolsen Exp $
 
 EAPI="5"
-PYTHON_COMPAT=( python2_7 python3_2 python3_3 )
+PYTHON_COMPAT=( python2_7 python3_2 python3_3 python3_4 )
 
 inherit multilib python-r1 toolchain-funcs eutils multilib-minimal
 

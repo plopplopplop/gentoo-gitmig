@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/ammeter/ammeter-0.2.9-r1.ebuild,v 1.1 2014/05/27 07:42:17 graaff Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/shrimp/shrimp-2.2.3.ebuild,v 1.7 2013/09/05 19:44:46 mgorny Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/mouseemu/mouseemu-0.14.ebuild,v 1.2 2007/04/29 18:28:45 tove Exp $
 
 inherit eutils
 

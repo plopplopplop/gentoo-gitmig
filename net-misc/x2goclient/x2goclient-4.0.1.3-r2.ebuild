@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/x2goclient/x2goclient-4.0.1.3-r2.ebuild,v 1.1 2014/04/07 15:25:47 voyageur Exp $
 
 EAPI=5
 inherit eutils nsplugins qt4-r2

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/elvis/elvis-2.2.0-r3.ebuild,v 1.13 2012/09/09 17:10:12 armin76 Exp $
 
 inherit eutils versionator
 

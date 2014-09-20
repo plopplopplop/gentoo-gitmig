@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/sqlitebrowser/sqlitebrowser-2.0_beta1-r2.ebuild,v 1.4 2013/03/02 20:43:31 hwoarang Exp $
 
 EAPI=4
 inherit eutils qt4-r2

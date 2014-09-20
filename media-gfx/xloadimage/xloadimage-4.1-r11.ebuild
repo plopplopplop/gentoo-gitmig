@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/xloadimage/xloadimage-4.1-r11.ebuild,v 1.12 2012/01/22 20:16:27 ssuominen Exp $
 
 EAPI=2
 inherit autotools eutils flag-o-matic toolchain-funcs

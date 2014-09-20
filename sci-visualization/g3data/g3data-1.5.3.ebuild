@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-visualization/g3data/g3data-1.5.3.ebuild,v 1.6 2012/05/04 08:07:00 jdhore Exp $
 
 EAPI=2
 inherit eutils

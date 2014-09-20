@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/arista/arista-0.9.7.ebuild,v 1.2 2014/04/26 08:25:40 pacho Exp $
 
 EAPI="5"
 

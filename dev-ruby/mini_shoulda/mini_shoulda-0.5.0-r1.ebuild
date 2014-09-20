@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/mini_shoulda/mini_shoulda-0.5.0-r1.ebuild,v 1.3 2014/08/05 16:00:43 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20 jruby"

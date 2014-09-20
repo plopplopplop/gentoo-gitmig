@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-server/halflife-steam/files/hlds.rc,v 1.2 2011/10/05 09:14:03 mr_bones_ Exp $
 
 PID_PATH="/var/run"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/simon/simon-0.4.0.ebuild,v 1.5 2013/06/27 18:20:38 ago Exp $
 
 # KEEP KDE ECLASSES OUT OF HERE
 

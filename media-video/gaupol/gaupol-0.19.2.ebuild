@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/gaupol/gaupol-0.19.2.ebuild,v 1.1 2012/04/23 04:31:10 patrick Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.6"

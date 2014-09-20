@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-tv/mythtv-status/mythtv-status-0.10.1.ebuild,v 1.2 2012/06/24 00:15:31 cardoe Exp $
 
 EAPI=4
 

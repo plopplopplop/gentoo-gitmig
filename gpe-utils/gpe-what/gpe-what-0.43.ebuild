@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-utils/gpe-what/gpe-what-0.43.ebuild,v 1.3 2014/08/10 21:17:41 slyfox Exp $
 
 GPE_TARBALL_SUFFIX="bz2"
 GPE_MIRROR="http://gpe.linuxtogo.org/download/source"

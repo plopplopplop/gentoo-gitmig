@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/biojava/biojava-1.6.ebuild,v 1.1 2009/01/25 19:33:17 weaver Exp $
 
 # TODO:
 # -Fix javadoc generation OutOfMemoryError

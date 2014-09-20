@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/xmonad-log-applet/xmonad-log-applet-2.0.0-r300.ebuild,v 1.2 2014/02/28 14:30:11 ssuominen Exp $
 
 EAPI=4
 

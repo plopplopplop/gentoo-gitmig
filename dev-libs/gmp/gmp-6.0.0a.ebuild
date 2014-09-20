@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/gmp/gmp-6.0.0a.ebuild,v 1.2 2014/05/08 20:01:45 vapier Exp $
 
 EAPI="4"
 

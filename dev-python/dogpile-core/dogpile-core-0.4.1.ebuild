@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/dogpile-core/dogpile-core-0.4.1.ebuild,v 1.1 2013/10/22 04:21:03 prometheanfire Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 python3_2 python3_3 )

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-mogilefs/pecl-mogilefs-0.9.1.ebuild,v 1.1 2012/01/15 17:00:26 olemarkus Exp $
 
 EAPI="4"
 PHP_EXT_NAME="mogilefs"

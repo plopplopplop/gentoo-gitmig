@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libdvdread/libdvdread-9999.ebuild,v 1.7 2014/08/04 16:52:01 polynomial-c Exp $
 
 EAPI=5
 

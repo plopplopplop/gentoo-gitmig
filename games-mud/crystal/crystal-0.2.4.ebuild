@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-mud/crystal/crystal-0.2.4.ebuild,v 1.5 2013/06/16 23:40:08 tristan Exp $
 
 EAPI=2
 inherit autotools eutils games

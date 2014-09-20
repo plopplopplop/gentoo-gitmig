@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/punc/punc-1.5.ebuild,v 1.9 2013/02/27 15:04:35 jlec Exp $
 
 EAPI=4
 

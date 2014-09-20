@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/icecast/icecast-2.3.3-r3.ebuild,v 1.1 2013/11/26 19:51:40 hwoarang Exp $
 
 EAPI=4
 inherit eutils autotools systemd user

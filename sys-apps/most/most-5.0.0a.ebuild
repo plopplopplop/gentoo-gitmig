@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/most/most-5.0.0a.ebuild,v 1.13 2014/01/14 18:47:42 grobian Exp $
 
 EAPI=4
 

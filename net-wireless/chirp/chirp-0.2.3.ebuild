@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/chirp/chirp-0.2.3.ebuild,v 1.3 2012/11/30 17:20:08 zerochaos Exp $
 
 EAPI=4
 PYTHON_DEPEND="2:2.6"

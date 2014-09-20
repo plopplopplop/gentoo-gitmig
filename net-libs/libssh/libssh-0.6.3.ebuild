@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libssh/libssh-0.6.3.ebuild,v 1.7 2014/07/07 23:36:56 jer Exp $
 
 EAPI=5
 

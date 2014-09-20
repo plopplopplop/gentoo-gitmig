@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyftpdlib/pyftpdlib-0.7.0.ebuild,v 1.13 2013/07/22 11:54:52 mgorny Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

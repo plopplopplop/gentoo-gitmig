@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/amsn-skins/amsn-skins-20061125.ebuild,v 1.12 2014/04/26 06:30:49 pacho Exp $
 
 S=${WORKDIR}
 DESCRIPTION="Collection of AMSN themes"

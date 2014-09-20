@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/nip2/nip2-7.26.3.ebuild,v 1.4 2011/10/23 11:50:16 maekke Exp $
 
 EAPI=2
 inherit eutils autotools fdo-mime gnome2-utils versionator

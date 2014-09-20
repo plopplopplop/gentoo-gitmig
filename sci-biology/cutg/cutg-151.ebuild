@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/cutg/cutg-151.ebuild,v 1.11 2011/08/09 15:36:16 xarthisius Exp $
 
 DESCRIPTION="Codon usage tables calculated from GenBank"
 HOMEPAGE="http://www.kazusa.or.jp/codon/"

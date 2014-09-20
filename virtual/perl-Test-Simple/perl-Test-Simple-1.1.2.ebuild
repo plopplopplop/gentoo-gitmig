@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Test-Simple/perl-Test-Simple-1.1.2.ebuild,v 1.2 2014/07/21 19:41:05 dilfridge Exp $
 
 EAPI=5
 

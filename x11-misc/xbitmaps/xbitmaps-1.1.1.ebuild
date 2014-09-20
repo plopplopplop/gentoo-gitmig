@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/xbitmaps/xbitmaps-1.1.1.ebuild,v 1.12 2013/10/21 13:56:54 grobian Exp $
 
 EAPI=3
 

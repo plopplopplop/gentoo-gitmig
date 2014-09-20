@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/irsim/irsim-9.7.79.ebuild,v 1.2 2013/02/02 01:18:32 mr_bones_ Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/links/links-2.8-r1.ebuild,v 1.10 2014/01/12 13:16:09 ago Exp $
 
 EAPI=5
 inherit autotools eutils fdo-mime

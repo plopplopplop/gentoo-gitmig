@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/xfce-extra/xfce4-mixer/xfce4-mixer-4.11.0.ebuild,v 1.1 2014/04/11 12:30:31 ssuominen Exp $
 
 EAPI=5
 inherit xfconf

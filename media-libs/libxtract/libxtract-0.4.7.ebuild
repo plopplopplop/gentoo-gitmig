@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libxtract/libxtract-0.4.7.ebuild,v 1.7 2013/04/04 08:28:52 aballier Exp $
 
 DESCRIPTION="A simple, portable, lightweight library of audio feature extraction functions"
 HOMEPAGE="http://github.com/jamiebullock/LibXtract"

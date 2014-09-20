@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/bzr-xmloutput/bzr-xmloutput-0.8.8.ebuild,v 1.4 2012/09/30 18:38:45 armin76 Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/imcom/imcom-1.34.ebuild,v 1.2 2014/05/05 17:31:30 lordvan Exp $
 
 EAPI=4
 

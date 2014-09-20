@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/ext4magic/ext4magic-0.3.1-r1.ebuild,v 1.3 2013/02/17 17:36:46 ago Exp $
 
 EAPI=5
 

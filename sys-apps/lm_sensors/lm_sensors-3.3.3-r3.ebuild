@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/lm_sensors/lm_sensors-3.3.3-r3.ebuild,v 1.6 2013/11/24 08:24:52 pacho Exp $
 
 EAPI=5
 

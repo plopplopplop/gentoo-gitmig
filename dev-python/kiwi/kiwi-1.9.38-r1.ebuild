@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/kiwi/kiwi-1.9.38-r1.ebuild,v 1.1 2013/07/05 04:44:09 idella4 Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

@@ -2,7 +2,7 @@
 +++ b/src/bwmon.c
 @@ -36,7 +36,7 @@
  			"by Kimmo Nupponen (kimmoon@users.sourceforge.net)\n"
- 			"$Date$\n\n"
+ 			"$Date: 2014/07/10 19:51:24 $\n\n"
  			"usage: %s [-b] [-h] [-a] [-m] [-u seconds]\n"
 -			"\t-a Print bandwidth utiliasation in Kbytes rather than Kbits. The default\n"
 +			"\t-b Print bandwidth utilisation in KBytes rather than Kbits. The default\n"

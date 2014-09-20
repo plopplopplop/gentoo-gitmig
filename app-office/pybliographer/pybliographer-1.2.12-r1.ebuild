@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/pybliographer/pybliographer-1.2.12-r1.ebuild,v 1.4 2011/01/27 15:11:22 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.6"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/lttng-ust/lttng-ust-2.4.1.ebuild,v 1.1 2014/05/16 08:10:16 dlan Exp $
 
 EAPI=5
 

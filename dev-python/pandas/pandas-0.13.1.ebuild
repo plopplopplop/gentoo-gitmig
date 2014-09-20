@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pandas/pandas-0.13.1.ebuild,v 1.2 2014/06/24 00:37:17 idella4 Exp $
 
 EAPI=5
 

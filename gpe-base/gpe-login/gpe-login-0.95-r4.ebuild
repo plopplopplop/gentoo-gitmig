@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/gpe-login/gpe-login-0.95-r4.ebuild,v 1.2 2013/05/06 05:03:40 patrick Exp $
 
 GPE_TARBALL_SUFFIX="bz2"
 inherit gpe eutils autotools

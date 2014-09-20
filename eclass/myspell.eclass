@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/myspell.eclass,v 1.9 2014/01/05 11:39:48 pacho Exp $
 
 # Author: Kevin F. Quinn <kevquinn@gentoo.org>
 # Packages: app-dicts/myspell-*

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/gunocide2ex/gunocide2ex-1.0.ebuild,v 1.15 2012/02/05 06:20:50 vapier Exp $
 
 EAPI=2
 inherit eutils unpacker toolchain-funcs games

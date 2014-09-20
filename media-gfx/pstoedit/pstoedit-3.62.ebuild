@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/pstoedit/pstoedit-3.62.ebuild,v 1.3 2013/05/19 17:21:36 aballier Exp $
 
 EAPI=5
 

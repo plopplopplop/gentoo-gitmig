@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/eclipse-ecj/eclipse-ecj-3.3.0-r3.ebuild,v 1.10 2011/12/31 14:25:23 sera Exp $
 
 inherit eutils java-pkg-2
 

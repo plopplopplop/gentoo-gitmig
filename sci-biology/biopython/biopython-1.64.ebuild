@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/biopython/biopython-1.64.ebuild,v 1.1 2014/06/03 06:54:27 jlec Exp $
 
 EAPI=5
 

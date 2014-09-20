@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-geosciences/tappy/tappy-0.9.0.ebuild,v 1.1 2013/02/10 22:13:59 hasufell Exp $
 
 EAPI=5
 

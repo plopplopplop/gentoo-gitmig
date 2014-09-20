@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/casuarius/casuarius-1.1.ebuild,v 1.1 2013/05/14 14:46:15 idella4 Exp $
 
 EAPI=5
 

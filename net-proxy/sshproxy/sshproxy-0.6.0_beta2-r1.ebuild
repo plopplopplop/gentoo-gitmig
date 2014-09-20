@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/sshproxy/sshproxy-0.6.0_beta2-r1.ebuild,v 1.6 2014/01/08 06:24:17 vapier Exp $
 
 EAPI="5"
 PYTHON_DEPEND="2"

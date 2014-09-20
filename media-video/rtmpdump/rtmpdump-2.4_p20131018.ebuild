@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/rtmpdump/rtmpdump-2.4_p20131018.ebuild,v 1.9 2014/07/04 19:29:19 jer Exp $
 
 EAPI="4"
 

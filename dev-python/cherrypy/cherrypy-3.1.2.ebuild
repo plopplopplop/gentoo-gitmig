@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/cherrypy/cherrypy-3.1.2.ebuild,v 1.8 2010/11/14 21:06:25 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

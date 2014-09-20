@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/shash/shash-0.2.6-r2.ebuild,v 1.1 2014/08/27 13:37:25 mgorny Exp $
 
 EAPI=5
 

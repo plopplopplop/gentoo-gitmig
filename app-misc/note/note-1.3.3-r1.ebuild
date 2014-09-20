@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/note/note-1.3.3-r1.ebuild,v 1.4 2013/12/24 12:55:08 ago Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/tinyxml/tinyxml-2.6.2-r2.ebuild,v 1.6 2012/07/29 16:09:01 armin76 Exp $
 
 EAPI=4
 inherit flag-o-matic toolchain-funcs eutils multilib

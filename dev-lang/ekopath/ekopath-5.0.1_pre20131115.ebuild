@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/ekopath/ekopath-5.0.1_pre20131115.ebuild,v 1.2 2014/05/22 17:33:22 bicatali Exp $
 
 EAPI=5
 

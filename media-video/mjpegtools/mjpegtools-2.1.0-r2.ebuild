@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/mjpegtools/mjpegtools-2.1.0-r2.ebuild,v 1.4 2014/09/13 23:48:31 billie Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-video-voodoo/xf86-video-voodoo-1.2.4.ebuild,v 1.6 2010/10/21 01:14:11 ranger Exp $
 
 EAPI=3
 inherit xorg-2

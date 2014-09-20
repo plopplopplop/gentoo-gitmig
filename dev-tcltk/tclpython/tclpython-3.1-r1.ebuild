@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/tclpython/tclpython-3.1-r1.ebuild,v 1.6 2011/04/12 17:12:04 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

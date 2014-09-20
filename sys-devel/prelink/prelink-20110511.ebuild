@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/prelink/prelink-20110511.ebuild,v 1.7 2012/07/20 17:31:19 vapier Exp $
 
 EAPI="4"
 

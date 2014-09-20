@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/watchdog/watchdog-0.8.1.ebuild,v 1.1 2014/07/28 17:53:35 hasufell Exp $
 
 EAPI=5
 

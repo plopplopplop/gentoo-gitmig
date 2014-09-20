@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/tuxkart/tuxkart-0.4.0.ebuild,v 1.5 2006/12/01 19:56:48 wolf31o2 Exp $
 
 inherit games
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/qserve/qserve-0.2.7.ebuild,v 1.1 2012/05/18 11:39:35 xarthisius Exp $
 
 EAPI=4
 

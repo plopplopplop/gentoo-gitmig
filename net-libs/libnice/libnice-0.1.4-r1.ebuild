@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libnice/libnice-0.1.4-r1.ebuild,v 1.3 2014/06/24 22:16:20 mgorny Exp $
 
 EAPI=5
 inherit eutils multilib-minimal

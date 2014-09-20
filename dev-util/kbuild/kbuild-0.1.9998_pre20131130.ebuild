@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/kbuild/kbuild-0.1.9998_pre20131130.ebuild,v 1.1 2013/11/30 17:51:39 polynomial-c Exp $
 
 EAPI=4
 

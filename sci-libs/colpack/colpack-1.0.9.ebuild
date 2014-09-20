@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/colpack/colpack-1.0.9.ebuild,v 1.1 2014/04/05 23:19:57 bicatali Exp $
 
 EAPI=5
 

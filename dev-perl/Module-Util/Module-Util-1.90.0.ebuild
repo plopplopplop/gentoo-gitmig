@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Module-Util/Module-Util-1.90.0.ebuild,v 1.1 2013/01/16 20:10:25 tove Exp $
 
 EAPI=5
 

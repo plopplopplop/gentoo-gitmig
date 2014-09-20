@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/disqus-python/disqus-python-0.4.2.ebuild,v 1.2 2014/07/04 11:35:42 idella4 Exp $
 
 EAPI=5
 

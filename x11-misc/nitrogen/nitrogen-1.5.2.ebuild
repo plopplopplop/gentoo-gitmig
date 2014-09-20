@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/nitrogen/nitrogen-1.5.2.ebuild,v 1.5 2014/01/26 10:56:54 ago Exp $
 
 EAPI=4
 inherit autotools eutils

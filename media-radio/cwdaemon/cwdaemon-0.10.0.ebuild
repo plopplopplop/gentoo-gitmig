@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-radio/cwdaemon/cwdaemon-0.10.0.ebuild,v 1.1 2014/02/02 13:32:21 tomjbe Exp $
 
 EAPI=4
 

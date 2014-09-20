@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/paxtest/paxtest-0.9.9-r2.ebuild,v 1.1 2011/04/23 13:54:18 blueness Exp $
 
 EAPI="2"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-cblas/eselect-cblas-0.1.ebuild,v 1.23 2012/05/12 20:09:36 aballier Exp $
 
 DESCRIPTION="C-language BLAS module for eselect"
 HOMEPAGE="http://www.gentoo.org/proj/en/eselect/"

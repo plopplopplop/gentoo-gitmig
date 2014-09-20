@@ -1,6 +1,6 @@
 --- a/unix/configure.ac
 +++ b/unix/configure.ac
-@@ -4,7 +4,7 @@ AC_REVISION([$Revision$])
+@@ -4,7 +4,7 @@ AC_REVISION([$Revision: 1.1 $])
  
  AC_CONFIG_SRCDIR([unix.cpp])
  

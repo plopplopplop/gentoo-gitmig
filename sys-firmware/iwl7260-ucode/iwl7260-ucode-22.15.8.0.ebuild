@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-firmware/iwl7260-ucode/iwl7260-ucode-22.15.8.0.ebuild,v 1.4 2014/06/16 14:07:54 gienah Exp $
 
 EAPI=5
 inherit linux-info

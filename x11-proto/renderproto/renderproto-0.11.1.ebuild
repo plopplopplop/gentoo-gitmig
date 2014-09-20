@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/renderproto/renderproto-0.11.1.ebuild,v 1.10 2013/02/21 17:53:15 zmedico Exp $
 
 EAPI=3
 

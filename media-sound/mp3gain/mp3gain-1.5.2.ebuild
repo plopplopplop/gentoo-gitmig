@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/mp3gain/mp3gain-1.5.2.ebuild,v 1.1 2010/07/25 09:09:02 ssuominen Exp $
 
 EAPI=2
 inherit toolchain-funcs

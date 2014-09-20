@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/iproute2/iproute2-9999.ebuild,v 1.24 2014/01/18 05:37:49 vapier Exp $
 
 EAPI="4"
 

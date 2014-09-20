@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/metalog/metalog-3.ebuild,v 1.11 2013/09/05 05:59:57 vapier Exp $
 
 EAPI="3"
 

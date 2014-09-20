@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/tclxml/tclxml-2.4.ebuild,v 1.20 2014/08/10 21:26:19 slyfox Exp $
 
 DESCRIPTION="Pure Tcl implementation of an XML parser"
 HOMEPAGE="http://tclxml.sourceforge.net/"

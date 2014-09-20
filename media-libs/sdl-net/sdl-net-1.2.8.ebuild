@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/sdl-net/sdl-net-1.2.8.ebuild,v 1.8 2012/04/01 11:12:13 armin76 Exp $
 
 EAPI=2
 MY_P=${P/sdl-/SDL_}

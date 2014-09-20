@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/smplayer/smplayer-14.3.0.ebuild,v 1.4 2014/04/28 18:11:01 grobian Exp $
 
 EAPI=5
 PLOCALES="ar_SY bg ca cs da de el_GR en_US es et eu fi fr gl he_IL hr hu it ja

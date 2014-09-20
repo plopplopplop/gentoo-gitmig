@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyquery/pyquery-1.2.1-r1.ebuild,v 1.1 2013/02/15 19:20:18 mgorny Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/docutils/docutils-0.9.1-r1.ebuild,v 1.17 2013/09/05 18:46:32 mgorny Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_6,2_7,3_2} )

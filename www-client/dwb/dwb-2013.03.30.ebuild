@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/dwb/dwb-2013.03.30.ebuild,v 1.3 2014/07/06 13:23:12 mgorny Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 2010-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/bitcoind/bitcoind-0.8.6-r1.ebuild,v 1.1 2014/02/21 14:22:42 blueness Exp $
 
 EAPI="4"
 

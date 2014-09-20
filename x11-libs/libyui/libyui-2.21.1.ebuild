@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libyui/libyui-2.21.1.ebuild,v 1.3 2012/07/30 18:14:12 miska Exp $
 
 EAPI=4
 

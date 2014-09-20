@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-news/yarssr/yarssr-0.2.2-r1.ebuild,v 1.2 2008/10/25 21:35:49 pvdabeel Exp $
 
 inherit eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-radio/dxcc/dxcc-20080225-r1.ebuild,v 1.1 2014/08/07 06:58:25 tomjbe Exp $
 
 EAPI=5
 inherit eutils

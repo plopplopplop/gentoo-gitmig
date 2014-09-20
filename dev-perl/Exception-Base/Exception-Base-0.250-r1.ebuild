@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Exception-Base/Exception-Base-0.250-r1.ebuild,v 1.1 2013/09/12 15:15:06 idella4 Exp $
 
 EAPI=5
 

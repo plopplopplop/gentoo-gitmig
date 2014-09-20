@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/icedtea-web/icedtea-web-1.4.1.ebuild,v 1.3 2013/11/11 07:05:55 caster Exp $
 # Build written by Andrew John Hughes (ahughes@redhat.com)
 
 EAPI="5"

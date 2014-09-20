@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/corosync/files/corosync.initd,v 1.2 2010/11/17 07:07:03 xarthisius Exp $
 
 depend() {
 	need net

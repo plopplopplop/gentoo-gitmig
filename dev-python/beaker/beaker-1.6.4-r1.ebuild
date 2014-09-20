@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/beaker/beaker-1.6.4-r1.ebuild,v 1.11 2014/06/18 16:00:38 klausman Exp $
 
 EAPI=5
 

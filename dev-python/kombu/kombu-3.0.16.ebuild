@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/kombu/kombu-3.0.16.ebuild,v 1.1 2014/06/01 14:40:08 idella4 Exp $
 
 EAPI=5
 

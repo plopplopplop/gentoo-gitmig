@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/dcraw/dcraw-9.19.ebuild,v 1.1 2013/11/23 23:27:50 radhermit Exp $
 
 EAPI=5
 inherit eutils readme.gentoo toolchain-funcs

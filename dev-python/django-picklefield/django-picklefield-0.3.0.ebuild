@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/django-picklefield/django-picklefield-0.3.0.ebuild,v 1.2 2013/05/24 16:11:09 idella4 Exp $
 
 EAPI="5"
 

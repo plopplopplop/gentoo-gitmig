@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/ranpwd/ranpwd-1.1.ebuild,v 1.7 2010/04/15 21:15:48 idl0r Exp $
 
 EAPI=3
 

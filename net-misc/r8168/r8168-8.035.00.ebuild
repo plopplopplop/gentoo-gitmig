@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/r8168/r8168-8.035.00.ebuild,v 1.1 2013/01/12 14:48:24 joker Exp $
 
 EAPI=4
 

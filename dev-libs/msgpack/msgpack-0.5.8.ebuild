@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/msgpack/msgpack-0.5.8.ebuild,v 1.3 2014/06/18 19:15:40 mgorny Exp $
 
 EAPI="5"
 AUTOTOOLS_AUTORECONF=1

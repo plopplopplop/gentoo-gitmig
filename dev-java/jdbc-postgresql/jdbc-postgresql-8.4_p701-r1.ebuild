@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jdbc-postgresql/jdbc-postgresql-8.4_p701-r1.ebuild,v 1.8 2013/09/19 20:20:44 titanofold Exp $
 
 EAPI="2"
 JAVA_PKG_IUSE="doc source"

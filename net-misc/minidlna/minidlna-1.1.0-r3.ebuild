@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/minidlna/minidlna-1.1.0-r3.ebuild,v 1.1 2013/09/05 20:25:35 xmw Exp $
 
 EAPI=4
 

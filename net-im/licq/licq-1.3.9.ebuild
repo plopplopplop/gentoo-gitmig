@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-im/licq/licq-1.3.9.ebuild,v 1.5 2014/08/05 18:34:05 mrueg Exp $
 
 EAPI=2
 CMAKE_USE_DIR="${S}/plugins/qt4-gui"

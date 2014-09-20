@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/flite/flite-1.4-r3.ebuild,v 1.1 2014/02/12 21:21:11 teiresias Exp $
 
 EAPI=4
 inherit autotools eutils

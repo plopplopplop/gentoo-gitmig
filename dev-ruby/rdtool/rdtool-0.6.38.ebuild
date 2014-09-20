@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rdtool/rdtool-0.6.38.ebuild,v 1.10 2014/04/05 23:00:31 mrueg Exp $
 
 EAPI=4
 USE_RUBY="ruby19 jruby"

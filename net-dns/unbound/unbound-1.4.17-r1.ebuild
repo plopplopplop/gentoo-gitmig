@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/unbound/unbound-1.4.17-r1.ebuild,v 1.2 2012/11/07 03:02:01 jer Exp $
 
 EAPI="4"
 PYTHON_DEPEND="python? 2"

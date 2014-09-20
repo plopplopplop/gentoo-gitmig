@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-filter/procmail-lib/procmail-lib-20081108.ebuild,v 1.7 2012/04/23 17:36:29 mgorny Exp $
 
 MY_PV="2008.1108"
 

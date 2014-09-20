@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/apt-mirror/apt-mirror-1.0.ebuild,v 1.5 2008/05/11 13:40:55 maekke Exp $
 
 JAVA_PKG_IUSE="source"
 

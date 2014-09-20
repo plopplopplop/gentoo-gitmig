@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/gimmix/gimmix-0.5.7.2.ebuild,v 1.1 2014/04/07 09:15:18 angelos Exp $
 
 EAPI=4
 inherit autotools eutils

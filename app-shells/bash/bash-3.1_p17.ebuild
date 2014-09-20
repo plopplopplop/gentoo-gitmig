@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/bash/bash-3.1_p17.ebuild,v 1.26 2014/01/18 02:25:19 vapier Exp $
 
 EAPI="4"
 

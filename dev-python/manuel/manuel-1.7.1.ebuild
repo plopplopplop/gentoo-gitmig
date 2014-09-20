@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/manuel/manuel-1.7.1.ebuild,v 1.7 2014/08/10 21:13:40 slyfox Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_{6,7} python{3_2,3_3} pypy pypy2_0 )

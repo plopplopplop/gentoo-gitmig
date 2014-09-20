@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/bakefile/bakefile-0.2.9.ebuild,v 1.1 2013/02/05 02:23:59 dirtyepic Exp $
 
 EAPI=2
 

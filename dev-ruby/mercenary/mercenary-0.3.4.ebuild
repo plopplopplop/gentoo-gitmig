@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/mercenary/mercenary-0.3.4.ebuild,v 1.1 2014/07/20 17:20:43 mrueg Exp $
 
 EAPI=5
 

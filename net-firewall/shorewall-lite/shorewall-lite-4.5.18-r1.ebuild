@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-firewall/shorewall-lite/shorewall-lite-4.5.18-r1.ebuild,v 1.9 2014/06/12 14:20:53 tomwij Exp $
 
 EAPI="5"
 

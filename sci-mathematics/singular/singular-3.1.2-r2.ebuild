@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/singular/singular-3.1.2-r2.ebuild,v 1.10 2011/04/17 11:45:14 tomka Exp $
 
 EAPI="3"
 WANT_AUTOCONF="2.1" # Upstream ticket 240 -> wontfix

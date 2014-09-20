@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/ical4j/ical4j-1.0_beta2-r1.ebuild,v 1.2 2014/07/14 14:37:55 ercpe Exp $
 
 EAPI="5"
 

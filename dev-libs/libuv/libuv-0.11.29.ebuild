@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libuv/libuv-0.11.29.ebuild,v 1.2 2014/08/29 01:33:49 blueness Exp $
 
 EAPI=5
 

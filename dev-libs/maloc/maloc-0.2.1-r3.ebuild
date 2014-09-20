@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/maloc/maloc-0.2.1-r3.ebuild,v 1.4 2010/10/31 14:23:12 jlec Exp $
 
 EAPI="3"
 

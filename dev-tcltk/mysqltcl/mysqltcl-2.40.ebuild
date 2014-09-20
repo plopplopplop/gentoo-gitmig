@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/mysqltcl/mysqltcl-2.40.ebuild,v 1.9 2013/01/04 15:49:51 ulm Exp $
 
 DESCRIPTION="TCL MySQL Interface"
 HOMEPAGE="http://www.xdobry.de/mysqltcl/"

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/vdrsymbols-ttf/vdrsymbols-ttf-20080905.ebuild,v 1.3 2009/09/07 19:36:17 dirtyepic Exp $
 
 S=${WORKDIR}/vdrsymbols
 

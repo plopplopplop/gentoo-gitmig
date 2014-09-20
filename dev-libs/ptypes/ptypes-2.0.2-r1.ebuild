@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/ptypes/ptypes-2.0.2-r1.ebuild,v 1.6 2014/08/10 20:39:04 slyfox Exp $
 
 inherit eutils toolchain-funcs
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/wstx/wstx-3.2.9.ebuild,v 1.1 2013/07/09 15:34:03 tomwij Exp $
 
 EAPI="5"
 

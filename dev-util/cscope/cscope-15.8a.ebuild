@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/cscope/cscope-15.8a.ebuild,v 1.9 2014/01/25 10:24:50 ulm Exp $
 
 EAPI=4
 

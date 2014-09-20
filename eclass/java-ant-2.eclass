@@ -14,7 +14,7 @@
 #
 # Licensed under the GNU General Public License, v2
 #
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/java-ant-2.eclass,v 1.58 2014/03/31 16:48:51 mgorny Exp $
 
 # @ECLASS: java-ant-2.eclass
 # @MAINTAINER:

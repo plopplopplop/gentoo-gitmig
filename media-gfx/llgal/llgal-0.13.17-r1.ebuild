@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/llgal/llgal-0.13.17-r1.ebuild,v 1.2 2014/07/27 17:07:21 ssuominen Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/ioping/ioping-0.7.ebuild,v 1.1 2013/07/16 13:39:50 jlec Exp $
 
 EAPI=5
 

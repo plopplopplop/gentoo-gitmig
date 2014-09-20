@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/java-virtuals-2.eclass,v 1.9 2012/07/18 19:13:23 sera Exp $
 
 # @ECLASS: java-virtuals-2.eclass
 # @MAINTAINER:

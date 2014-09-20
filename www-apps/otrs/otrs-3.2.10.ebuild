@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/otrs/otrs-3.2.10.ebuild,v 1.1 2013/09/04 07:19:38 patrick Exp $
 
 EAPI=2
 

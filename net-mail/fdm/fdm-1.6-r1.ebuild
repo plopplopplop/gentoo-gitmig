@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/fdm/fdm-1.6-r1.ebuild,v 1.4 2013/06/26 14:37:35 xmw Exp $
 
 EAPI=2
 

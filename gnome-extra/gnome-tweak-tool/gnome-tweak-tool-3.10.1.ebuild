@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gnome-tweak-tool/gnome-tweak-tool-3.10.1.ebuild,v 1.7 2014/05/01 02:15:00 tetromino Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

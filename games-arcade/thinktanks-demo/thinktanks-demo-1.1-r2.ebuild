@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/thinktanks-demo/thinktanks-demo-1.1-r2.ebuild,v 1.1 2014/06/27 14:29:45 axs Exp $
 
 EAPI=5
 inherit unpacker games

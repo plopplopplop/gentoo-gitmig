@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/omniORB/omniORB-4.1.4-r1.ebuild,v 1.7 2012/02/05 01:53:54 floppym Exp $
 
 EAPI="3"
 

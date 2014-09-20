@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/djview/djview-4.8.ebuild,v 1.12 2013/10/01 21:16:50 pesa Exp $
 
 EAPI=4
 

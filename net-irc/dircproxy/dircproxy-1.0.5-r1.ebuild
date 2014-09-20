@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/dircproxy/dircproxy-1.0.5-r1.ebuild,v 1.6 2009/03/08 03:10:26 dragonheart Exp $
 
 inherit eutils
 

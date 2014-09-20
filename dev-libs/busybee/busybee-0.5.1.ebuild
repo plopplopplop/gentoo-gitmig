@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/busybee/busybee-0.5.1.ebuild,v 1.1 2014/08/25 05:58:37 patrick Exp $
 EAPI=4
 
 DESCRIPTION="A messaging abstraction on top of TCP sockets used in HyperDex"

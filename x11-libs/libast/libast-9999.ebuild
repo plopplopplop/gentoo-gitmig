@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libast/libast-9999.ebuild,v 1.11 2010/11/26 05:22:15 vapier Exp $
 
 #ECVS_SERVER="cvs.sourceforge.net:/cvsroot/enlightenment"
 ECVS_SERVER="anoncvs.enlightenment.org:/var/cvs/e"

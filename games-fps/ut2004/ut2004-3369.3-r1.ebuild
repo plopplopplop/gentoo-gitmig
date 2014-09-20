@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/ut2004/ut2004-3369.3-r1.ebuild,v 1.2 2011/12/14 17:28:54 vapier Exp $
 
 EAPI=2
 inherit eutils multilib games

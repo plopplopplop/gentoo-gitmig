@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-video-cyrix/xf86-video-cyrix-1.1.0.ebuild,v 1.7 2009/03/13 15:31:47 armin76 Exp $
 
 # Must be before x-modular eclass is inherited
 #SNAPSHOT="yes"

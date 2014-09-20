@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/asm/asm-4.0.ebuild,v 1.3 2013/07/28 09:30:03 grobian Exp $
 
 MY_P="${PN}-${PV/rc/RC}"
 JAVA_PKG_IUSE="doc source"

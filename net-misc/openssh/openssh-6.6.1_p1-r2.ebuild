@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/openssh/openssh-6.6.1_p1-r2.ebuild,v 1.1 2014/08/04 19:57:18 polynomial-c Exp $
 
 EAPI="4"
 inherit eutils user flag-o-matic multilib autotools pam systemd versionator

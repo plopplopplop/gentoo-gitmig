@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/pystopwatch/pystopwatch-2012.02.17.84795.ebuild,v 1.1 2012/05/05 12:23:16 xmw Exp $
 
 EAPI=4
 

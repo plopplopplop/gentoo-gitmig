@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-firewall/sanewall/sanewall-1.1.4.ebuild,v 1.1 2013/07/07 19:50:24 radhermit Exp $
 
 EAPI=5
 

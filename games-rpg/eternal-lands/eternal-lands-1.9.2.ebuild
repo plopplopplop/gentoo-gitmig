@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/eternal-lands/eternal-lands-1.9.2.ebuild,v 1.1 2011/06/18 18:26:02 rich0 Exp $
 
 EAPI=2
 inherit eutils flag-o-matic games

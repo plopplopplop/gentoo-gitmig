@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/headius-options/headius-options-1.1.ebuild,v 1.1 2014/05/03 19:22:31 tomwij Exp $
 
 EAPI="5"
 

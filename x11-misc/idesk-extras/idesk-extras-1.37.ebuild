@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/idesk-extras/idesk-extras-1.37.ebuild,v 1.3 2012/06/20 19:04:15 ago Exp $
 
 EAPI=4
 

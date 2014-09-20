@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/ccp4i/ccp4i-6.1.3-r3.ebuild,v 1.8 2014/01/06 15:05:37 jlec Exp $
 
 EAPI=3
 

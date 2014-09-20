@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/cinnamon-settings-daemon/cinnamon-settings-daemon-2.2.4.ebuild,v 1.4 2014/07/24 17:49:26 ssuominen Exp $
 
 EAPI="5"
 GCONF_DEBUG="yes"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/webalizer/webalizer-2.21.02.ebuild,v 1.14 2014/06/30 00:46:02 blueness Exp $
 
 # uses webapp.eclass to create directories with right permissions
 # probably slight overkill but works well

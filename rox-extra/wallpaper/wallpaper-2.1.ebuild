@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/wallpaper/wallpaper-2.1.ebuild,v 1.6 2007/11/16 14:52:05 drac Exp $
 
 ROX_LIB_VER=1.9.8
 inherit rox

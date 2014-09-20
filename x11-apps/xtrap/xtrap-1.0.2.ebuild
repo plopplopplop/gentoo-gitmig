@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/xtrap/xtrap-1.0.2.ebuild,v 1.9 2010/01/17 22:56:14 jer Exp $
 
 # Must be before x-modular eclass is inherited
 #SNAPSHOT="yes"

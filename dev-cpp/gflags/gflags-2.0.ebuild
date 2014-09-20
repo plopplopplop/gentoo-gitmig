@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-cpp/gflags/gflags-2.0.ebuild,v 1.7 2013/10/19 00:18:21 vapier Exp $
 
 EAPI="3"
 

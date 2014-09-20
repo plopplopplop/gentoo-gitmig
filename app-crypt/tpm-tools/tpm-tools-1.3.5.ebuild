@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/tpm-tools/tpm-tools-1.3.5.ebuild,v 1.4 2011/03/31 22:19:40 flameeyes Exp $
 
 EAPI="2"
 inherit autotools

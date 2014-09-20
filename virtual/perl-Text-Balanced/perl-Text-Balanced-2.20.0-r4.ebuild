@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Text-Balanced/perl-Text-Balanced-2.20.0-r4.ebuild,v 1.1 2014/07/13 18:28:35 dilfridge Exp $
 
 EAPI=5
 

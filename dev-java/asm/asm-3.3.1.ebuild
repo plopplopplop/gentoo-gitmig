@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/asm/asm-3.3.1.ebuild,v 1.7 2014/01/19 10:16:22 ago Exp $
 
 WANT_ANT_TASKS="ant-owanttask"
 JAVA_PKG_IUSE="doc source"

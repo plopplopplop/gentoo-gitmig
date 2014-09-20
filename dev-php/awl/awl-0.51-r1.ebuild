@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/awl/awl-0.51-r1.ebuild,v 1.1 2012/03/22 00:20:11 patrick Exp $
 
 EAPI=2
 

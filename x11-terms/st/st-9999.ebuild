@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-terms/st/st-9999.ebuild,v 1.12 2014/01/06 21:17:53 jer Exp $
 
 EAPI=5
 inherit eutils git-r3 multilib savedconfig toolchain-funcs

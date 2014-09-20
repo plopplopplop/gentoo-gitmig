@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyptlib/pyptlib-0.0.6.ebuild,v 1.2 2014/07/30 14:47:33 blueness Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python2_7 )

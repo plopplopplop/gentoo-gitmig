@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/util-vserver/util-vserver-0.30.216_pre3038-r1.ebuild,v 1.1 2014/07/29 04:41:02 patrick Exp $
 
 EAPI=4
 

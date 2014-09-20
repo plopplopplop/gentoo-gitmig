@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/ogmtools/ogmtools-1.5.ebuild,v 1.8 2009/06/01 16:19:39 ssuominen Exp $
 
 inherit eutils
 

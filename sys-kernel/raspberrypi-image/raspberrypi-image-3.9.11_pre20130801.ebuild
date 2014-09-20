@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/raspberrypi-image/raspberrypi-image-3.9.11_pre20130801.ebuild,v 1.1 2013/08/01 20:23:11 xmw Exp $
 
 EAPI=5
 

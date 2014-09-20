@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2013 Gentoo Foundation, Inc.
 # Distributed under the terms of the GNU General Public License, v2 or later
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-block/open-iscsi/files/iscsid-init.d,v 1.8 2013/10/20 20:19:52 idl0r Exp $
 
 command="/usr/sbin/iscsid"
 command_args="${OPTS}"

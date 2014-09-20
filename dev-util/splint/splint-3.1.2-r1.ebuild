@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/splint/splint-3.1.2-r1.ebuild,v 1.3 2014/07/01 18:50:30 jer Exp $
 
 EAPI=5
 inherit autotools

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/libspectre/libspectre-0.2.7.ebuild,v 1.6 2012/12/01 19:47:58 armin76 Exp $
 
 EAPI=4
 inherit autotools eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/hexalate/hexalate-1.0.3.ebuild,v 1.1 2014/05/21 06:37:05 tupone Exp $
 
 EAPI=5
 

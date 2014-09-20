@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/commons-httpclient/commons-httpclient-2.0.2-r1.ebuild,v 1.13 2011/12/19 12:33:32 sera Exp $
 
 JAVA_PKG_IUSE="doc source"
 

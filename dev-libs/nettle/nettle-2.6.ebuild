@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/nettle/nettle-2.6.ebuild,v 1.15 2013/03/15 15:25:17 jer Exp $
 
 EAPI="5"
 

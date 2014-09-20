@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-drivers/xf86-video-virtualbox/xf86-video-virtualbox-4.2.26.ebuild,v 1.1 2014/07/18 13:52:43 polynomial-c Exp $
 
 EAPI=5
 

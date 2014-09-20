@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyode/pyode-1.2.0_p20100322.ebuild,v 1.5 2011/04/14 20:33:21 ranger Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/genkernel/genkernel-3.4.51.ebuild,v 1.1 2014/07/15 07:36:57 robbat2 Exp $
 
 # genkernel-9999        -> latest Git branch "master"
 # genkernel-VERSION     -> normal genkernel release

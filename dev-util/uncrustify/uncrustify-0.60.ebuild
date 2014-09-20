@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/uncrustify/uncrustify-0.60.ebuild,v 1.1 2013/05/18 17:48:58 grobian Exp $
 
 EAPI="3"
 

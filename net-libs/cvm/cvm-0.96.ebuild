@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/cvm/cvm-0.96.ebuild,v 1.3 2010/06/29 21:39:43 ssuominen Exp $
 
 inherit toolchain-funcs eutils
 

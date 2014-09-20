@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/makeself/makeself-2.2.0.ebuild,v 1.1 2014/02/18 06:18:50 vapier Exp $
 
 EAPI="4"
 

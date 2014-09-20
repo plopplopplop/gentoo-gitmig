@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/python.eclass,v 1.169 2014/02/06 05:34:07 vapier Exp $
 
 # @ECLASS: python.eclass
 # @MAINTAINER:

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/redmine/redmine-2.4.5.ebuild,v 1.1 2014/06/01 18:11:37 pva Exp $
 
 EAPI="5"
 USE_RUBY="ruby18 ruby19"

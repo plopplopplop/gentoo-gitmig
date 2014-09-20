@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/crypto-cipher-tests/crypto-cipher-tests-0.0.11-r1.ebuild,v 1.1 2014/07/02 15:51:00 gienah Exp $
 
 EAPI=5
 

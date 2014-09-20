@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/mysql/mysql-5.6-r1.ebuild,v 1.1 2014/08/14 14:26:59 grknight Exp $
 
 EAPI="5"
 

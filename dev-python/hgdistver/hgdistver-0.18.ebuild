@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/hgdistver/hgdistver-0.18.ebuild,v 1.2 2014/07/03 13:08:38 klausman Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_3,3_4} pypy )

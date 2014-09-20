@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/coriander/coriander-2.0.0.ebuild,v 1.3 2012/05/05 08:58:55 jdhore Exp $
 
 inherit eutils
 

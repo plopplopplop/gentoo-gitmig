@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/gringotts/gringotts-1.2.10.ebuild,v 1.7 2012/05/03 18:16:38 jdhore Exp $
 
 EAPI="2"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/llvm/llvm-3.2.ebuild,v 1.9 2013/09/05 19:08:49 mgorny Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/unifdef/unifdef-2.8.ebuild,v 1.1 2013/05/09 07:53:30 radhermit Exp $
 
 EAPI=4
 inherit toolchain-funcs

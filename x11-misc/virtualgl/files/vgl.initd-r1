@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/virtualgl/files/vgl.initd-r1,v 1.2 2012/09/29 09:33:10 pacho Exp $
 
 # TODO: description="*" and other OpenRC 0.9+ candies
 

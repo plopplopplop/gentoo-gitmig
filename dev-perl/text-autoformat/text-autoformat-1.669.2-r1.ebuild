@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/text-autoformat/text-autoformat-1.669.2-r1.ebuild,v 1.3 2013/12/28 19:41:34 zlogene Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-base/libgpewidget/libgpewidget-0.117-r1.ebuild,v 1.11 2014/08/10 21:17:51 slyfox Exp $
 
 EAPI=4
 GPE_TARBALL_SUFFIX="bz2"

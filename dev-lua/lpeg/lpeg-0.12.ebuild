@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lua/lpeg/lpeg-0.12.ebuild,v 1.7 2014/06/22 22:40:01 radhermit Exp $
 
 EAPI=5
 

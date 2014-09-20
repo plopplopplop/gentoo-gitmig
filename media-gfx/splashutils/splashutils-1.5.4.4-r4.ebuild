@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/splashutils/splashutils-1.5.4.4-r4.ebuild,v 1.2 2014/08/26 10:22:31 slyfox Exp $
 
 EAPI=5
 inherit autotools eutils multilib toolchain-funcs

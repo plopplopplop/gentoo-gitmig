@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lua/luadbi/luadbi-0.5-r5.ebuild,v 1.3 2014/03/12 05:25:21 phajdan.jr Exp $
 
 EAPI=5
 

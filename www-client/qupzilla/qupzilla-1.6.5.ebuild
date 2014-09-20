@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/qupzilla/qupzilla-1.6.5.ebuild,v 1.1 2014/04/20 09:47:40 yngwin Exp $
 
 EAPI=5
 PLOCALES="ar_SA bg_BG ca_ES cs_CZ de_DE el_GR es_ES es_VE eu_ES fa_IR fr_FR gl_ES he_IL hu_HU id_ID it_IT ja_JP ka_GE lg nl_NL nqo pl_PL pt_BR pt_PT ro_RO ru_RU sk_SK sr_BA@latin sr_BA sr_RS@latin sr_RS sv_SE uk_UA zh_CN zh_TW"

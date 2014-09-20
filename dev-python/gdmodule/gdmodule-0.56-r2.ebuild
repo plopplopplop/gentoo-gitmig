@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/gdmodule/gdmodule-0.56-r2.ebuild,v 1.6 2013/09/03 21:14:16 bicatali Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 )

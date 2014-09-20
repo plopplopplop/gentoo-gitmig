@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/gr-baz/gr-baz-9999.ebuild,v 1.1 2012/09/10 02:30:22 zerochaos Exp $
 
 EAPI=4
 

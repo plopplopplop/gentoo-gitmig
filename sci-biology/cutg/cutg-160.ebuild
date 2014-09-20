@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/cutg/cutg-160.ebuild,v 1.6 2011/08/09 15:36:16 xarthisius Exp $
 
 EAPI="3"
 

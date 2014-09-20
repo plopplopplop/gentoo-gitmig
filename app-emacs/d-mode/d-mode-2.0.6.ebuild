@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emacs/d-mode/d-mode-2.0.6.ebuild,v 1.2 2014/06/07 11:07:52 ulm Exp $
 
 EAPI=5
 

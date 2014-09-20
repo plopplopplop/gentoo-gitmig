@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-xemacs/egg-its/egg-its-1.27.ebuild,v 1.4 2014/08/10 18:56:56 slyfox Exp $
 
 SLOT="0"
 IUSE=""

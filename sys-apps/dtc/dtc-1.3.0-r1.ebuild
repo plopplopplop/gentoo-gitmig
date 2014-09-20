@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/dtc/dtc-1.3.0-r1.ebuild,v 1.2 2013/04/08 22:09:22 vapier Exp $
 
 EAPI="4"
 MY_P="${PN}-v${PV}"

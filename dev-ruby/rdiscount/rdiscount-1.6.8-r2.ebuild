@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rdiscount/rdiscount-1.6.8-r2.ebuild,v 1.5 2014/09/09 19:10:20 maekke Exp $
 
 EAPI=5
 

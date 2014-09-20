@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-kernel/rt-sources/rt-sources-3.14.12_p9.ebuild,v 1.1 2014/08/22 11:38:12 psomas Exp $
 
 EAPI="5"
 ETYPE="sources"

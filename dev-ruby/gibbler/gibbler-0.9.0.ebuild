@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/gibbler/gibbler-0.9.0.ebuild,v 1.2 2014/04/24 17:33:26 mrueg Exp $
 
 EAPI=5
 

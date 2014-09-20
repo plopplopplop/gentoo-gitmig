@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pymtp/pymtp-0.0.6.ebuild,v 1.1 2014/06/03 02:18:49 idella4 Exp $
 
 EAPI=5
 

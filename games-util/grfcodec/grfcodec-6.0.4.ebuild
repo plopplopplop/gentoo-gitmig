@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/grfcodec/grfcodec-6.0.4.ebuild,v 1.1 2014/06/13 07:43:35 mr_bones_ Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/epplets/epplets-0.10.ebuild,v 1.7 2012/05/05 05:12:03 jdhore Exp $
 
 DESCRIPTION="Base files for Enlightenment epplets and some epplets"
 HOMEPAGE="http://www.enlightenment.org/"

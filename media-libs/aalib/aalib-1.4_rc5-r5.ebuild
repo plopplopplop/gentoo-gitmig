@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/aalib/aalib-1.4_rc5-r5.ebuild,v 1.1 2013/05/05 14:42:47 slyfox Exp $
 
 EAPI=4
 

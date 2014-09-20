@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/ibus-anthy/ibus-anthy-1.2.0.20100115.ebuild,v 1.6 2012/05/03 19:24:29 jdhore Exp $
 
 EAPI=3
 

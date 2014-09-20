@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/blas-reference/blas-reference-20070226-r2.ebuild,v 1.15 2014/03/04 19:55:24 vincent Exp $
 
 EAPI=3
 

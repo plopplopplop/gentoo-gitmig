@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/mixlib-cli/mixlib-cli-1.3.0-r1.ebuild,v 1.2 2014/05/26 05:33:13 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20 jruby"

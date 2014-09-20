@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/specto/specto-0.3.1.ebuild,v 1.6 2011/01/12 14:23:24 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

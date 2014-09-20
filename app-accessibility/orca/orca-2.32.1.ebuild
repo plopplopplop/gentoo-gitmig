@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/orca/orca-2.32.1.ebuild,v 1.11 2012/12/16 07:53:08 tetromino Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

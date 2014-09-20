@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/inotifyx/inotifyx-0.2.0.ebuild,v 1.2 2012/02/22 02:17:53 patrick Exp $
 
 EAPI="2"
 SUPPORT_PYTHON_ABIS="1"

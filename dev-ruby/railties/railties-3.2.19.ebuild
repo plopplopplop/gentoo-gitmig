@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/railties/railties-3.2.19.ebuild,v 1.3 2014/08/12 21:41:28 blueness Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/extras/extras-0.0.3.ebuild,v 1.20 2014/07/19 19:47:49 klausman Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_2,3_3,3_4} pypy pypy2_0 )

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/xymtex/xymtex-5.00.ebuild,v 1.3 2010/10/27 14:32:21 hwoarang Exp $
 
 EAPI=3
 

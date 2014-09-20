@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/pqiv/pqiv-2.2.ebuild,v 1.1 2014/06/20 08:37:41 radhermit Exp $
 
 EAPI=5
 inherit linux-info toolchain-funcs

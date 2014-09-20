@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/rt/rt-4.2.4.ebuild,v 1.5 2014/07/23 00:07:38 dilfridge Exp $
 
 EAPI=5
 

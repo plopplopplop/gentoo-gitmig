@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/specimen/specimen-0.5.2_rc3.ebuild,v 1.7 2012/05/05 08:52:46 mgorny Exp $
 
 EAPI=1
 inherit eutils

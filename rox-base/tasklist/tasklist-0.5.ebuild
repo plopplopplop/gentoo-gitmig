@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-base/tasklist/tasklist-0.5.ebuild,v 1.6 2011/03/21 22:34:15 nirbheek Exp $
 
 EAPI="1"
 ROX_CLIB_VER=2.1.10

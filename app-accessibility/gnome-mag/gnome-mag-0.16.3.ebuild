@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/gnome-mag/gnome-mag-0.16.3.ebuild,v 1.9 2013/02/02 22:18:25 ago Exp $
 
 EAPI="3"
 GCONF_DEBUG="yes"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/gtk-engines-qtcurve/gtk-engines-qtcurve-1.8.16.ebuild,v 1.7 2013/04/13 07:42:15 ago Exp $
 
 EAPI=4
 inherit cmake-utils

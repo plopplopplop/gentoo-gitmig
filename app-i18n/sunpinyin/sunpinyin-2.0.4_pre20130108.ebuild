@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/sunpinyin/sunpinyin-2.0.4_pre20130108.ebuild,v 1.3 2014/03/08 12:05:30 pacho Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 )

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/allegro/allegro-4.4.2-r1.ebuild,v 1.9 2014/02/02 11:49:29 pinkbyte Exp $
 
 EAPI=5
 CMAKE_IN_SOURCE_BUILD=1

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/mtr/mtr-9999.ebuild,v 1.4 2014/01/26 10:38:45 jer Exp $
 
 EAPI=5
 inherit eutils autotools flag-o-matic git-r3

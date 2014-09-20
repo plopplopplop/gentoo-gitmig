@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/readline/readline-6.3_p8-r1.ebuild,v 1.1 2014/08/30 08:20:50 polynomial-c Exp $
 
 EAPI=4
 

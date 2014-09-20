@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/async_core/async_core-109.35.00.ebuild,v 1.1 2013/08/01 14:24:18 aballier Exp $
 
 EAPI="5"
 

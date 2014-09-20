@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/uniconvw/uniconvw-1.1.5.ebuild,v 1.5 2010/08/08 17:53:44 jlec Exp $
 
 EAPI="2"
 

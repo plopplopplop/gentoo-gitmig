@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/iputils/iputils-20121221-r1.ebuild,v 1.6 2014/04/29 19:22:34 vapier Exp $
 
 # For released versions, we precompile the man/html pages and store
 # them in a tarball on our mirrors.  This avoids ugly issues while

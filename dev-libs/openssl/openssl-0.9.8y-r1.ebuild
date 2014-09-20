@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/openssl/openssl-0.9.8y-r1.ebuild,v 1.3 2014/06/18 19:18:41 mgorny Exp $
 
 # this ebuild is only for the libcrypto.so.0.9.8 and libssl.so.0.9.8 SONAME for ABI compat
 

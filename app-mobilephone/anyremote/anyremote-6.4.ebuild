@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-mobilephone/anyremote/anyremote-6.4.ebuild,v 1.1 2014/05/11 13:24:28 mrueg Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-misc/quadkonsole/quadkonsole-0.4.4.ebuild,v 1.3 2014/03/21 19:00:24 johu Exp $
 
 EAPI=5
 

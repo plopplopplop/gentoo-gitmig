@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/shelx/shelx-20140326.ebuild,v 1.1 2014/05/19 09:17:29 jlec Exp $
 
 EAPI=5
 

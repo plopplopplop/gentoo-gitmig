@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-XSLoader/perl-XSLoader-0.160.0-r1.ebuild,v 1.1 2014/07/15 18:30:50 dilfridge Exp $
 
 EAPI=5
 

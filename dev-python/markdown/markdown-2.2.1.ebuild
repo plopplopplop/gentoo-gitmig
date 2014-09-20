@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/markdown/markdown-2.2.1.ebuild,v 1.1 2013/01/11 08:01:42 patrick Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2:2.6 3:3.1"

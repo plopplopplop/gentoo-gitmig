@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/lsw/lsw-0.2-r1.ebuild,v 1.3 2011/10/09 13:36:34 hwoarang Exp $
 
 EAPI="4"
 

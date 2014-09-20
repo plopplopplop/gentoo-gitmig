@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pycxx/pycxx-6.2.3-r3.ebuild,v 1.5 2012/04/04 21:14:26 jdhore Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

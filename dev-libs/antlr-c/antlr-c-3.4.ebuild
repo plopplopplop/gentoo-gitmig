@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/antlr-c/antlr-c-3.4.ebuild,v 1.1 2013/03/28 05:04:43 pinkbyte Exp $
 
 EAPI="5"
 

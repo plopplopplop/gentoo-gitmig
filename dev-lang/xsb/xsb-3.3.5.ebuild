@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/xsb/xsb-3.3.5.ebuild,v 1.3 2012/08/11 12:47:17 maekke Exp $
 
 EAPI=2
 

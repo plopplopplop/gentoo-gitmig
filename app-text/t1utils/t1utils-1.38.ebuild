@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/t1utils/t1utils-1.38.ebuild,v 1.1 2014/03/09 12:13:04 aballier Exp $
 
 IUSE=""
 

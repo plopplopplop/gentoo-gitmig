@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/rune/rune-1.07-r2.ebuild,v 1.12 2014/09/07 09:14:12 ulm Exp $
 
 EAPI=2
 inherit eutils cdrom games

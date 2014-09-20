@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/retroshare/retroshare-0.5.5b.ebuild,v 1.1 2013/11/17 13:06:54 hasufell Exp $
 
 EAPI=5
 

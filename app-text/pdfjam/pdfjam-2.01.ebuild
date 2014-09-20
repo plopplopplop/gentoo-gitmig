@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/pdfjam/pdfjam-2.01.ebuild,v 1.1 2010/04/13 10:24:42 aballier Exp $
 
 DESCRIPTION="pdfnup, pdfjoin and pdf90"
 HOMEPAGE="http://www.warwick.ac.uk/go/pdfjam"

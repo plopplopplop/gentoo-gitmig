@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/latex-beamer/latex-beamer-3.30.ebuild,v 1.1 2013/10/17 07:29:58 radhermit Exp $
 
 EAPI=5
 

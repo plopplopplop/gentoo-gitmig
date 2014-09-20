@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/java-virtuals/servlet-api/servlet-api-2.2.ebuild,v 1.16 2012/10/04 17:40:04 sera Exp $
 
 EAPI=1
 

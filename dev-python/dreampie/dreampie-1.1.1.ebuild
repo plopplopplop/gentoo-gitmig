@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/dreampie/dreampie-1.1.1.ebuild,v 1.1 2011/09/10 10:42:25 radhermit Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

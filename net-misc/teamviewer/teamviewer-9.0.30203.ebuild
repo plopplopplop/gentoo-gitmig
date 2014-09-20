@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/teamviewer/teamviewer-9.0.30203.ebuild,v 1.1 2014/07/16 16:14:55 hasufell Exp $
 
 EAPI=5
 

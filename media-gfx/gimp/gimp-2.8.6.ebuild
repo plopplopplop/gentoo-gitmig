@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/gimp/gimp-2.8.6.ebuild,v 1.13 2014/07/24 18:05:29 ssuominen Exp $
 
 EAPI="3"
 PYTHON_DEPEND="python? 2:2.5"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/javax-inject/javax-inject-1-r1.ebuild,v 1.2 2013/05/30 08:59:38 tomwij Exp $
 
 EAPI="5"
 

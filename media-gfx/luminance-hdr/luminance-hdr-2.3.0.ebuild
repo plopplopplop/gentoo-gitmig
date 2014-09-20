@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/luminance-hdr/luminance-hdr-2.3.0.ebuild,v 1.7 2014/08/10 21:15:38 slyfox Exp $
 
 EAPI="4"
 

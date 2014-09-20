@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-roguelike/wrogue/wrogue-0.8.0b.ebuild,v 1.4 2012/10/05 20:37:35 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils games

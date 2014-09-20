@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ml/ocaml-text/ocaml-text-0.6.ebuild,v 1.2 2013/03/02 18:50:31 aballier Exp $
 
 EAPI=5
 

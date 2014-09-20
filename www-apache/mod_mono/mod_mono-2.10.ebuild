@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apache/mod_mono/mod_mono-2.10.ebuild,v 1.6 2014/08/10 20:17:04 slyfox Exp $
 
 EAPI=2
 

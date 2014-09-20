@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/idutils/idutils-4.2.ebuild,v 1.3 2010/12/03 16:42:31 ulm Exp $
 
 inherit eutils elisp-common
 

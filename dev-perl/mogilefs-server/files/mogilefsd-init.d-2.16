@@ -1,5 +1,5 @@
 #!/sbin/runscript
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/mogilefs-server/files/mogilefsd-init.d-2.16,v 1.2 2009/11/04 02:29:23 robbat2 Exp $
 
 NAME="mogilefsd"
 BINARY="/usr/bin/mogilefsd"

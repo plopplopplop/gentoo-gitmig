@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-mobilephone/gammu/gammu-1.28.0.ebuild,v 1.6 2012/05/22 16:06:13 ssuominen Exp $
 
 EAPI="3"
 

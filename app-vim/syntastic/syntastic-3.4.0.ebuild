@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/syntastic/syntastic-3.4.0.ebuild,v 1.1 2014/03/20 04:59:08 radhermit Exp $
 
 EAPI=5
 inherit vim-plugin

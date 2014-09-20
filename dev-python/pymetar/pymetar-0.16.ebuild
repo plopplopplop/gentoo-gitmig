@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pymetar/pymetar-0.16.ebuild,v 1.4 2013/11/06 05:21:10 patrick Exp $
 
 EAPI="2"
 PYTHON_DEPEND="2"

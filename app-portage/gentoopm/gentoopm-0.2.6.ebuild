@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/gentoopm/gentoopm-0.2.6.ebuild,v 1.12 2014/07/06 13:16:23 mgorny Exp $
 
 EAPI=5
 PYTHON_COMPAT=(python2_6 python2_7 python3_2)

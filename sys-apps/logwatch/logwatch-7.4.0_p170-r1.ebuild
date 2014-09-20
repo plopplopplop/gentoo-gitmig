@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/logwatch/logwatch-7.4.0_p170-r1.ebuild,v 1.10 2014/01/26 12:18:39 ago Exp $
 
 EAPI=5
 

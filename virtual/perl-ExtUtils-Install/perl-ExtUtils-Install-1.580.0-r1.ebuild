@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-ExtUtils-Install/perl-ExtUtils-Install-1.580.0-r1.ebuild,v 1.7 2014/08/02 11:56:34 zlogene Exp $
 
 EAPI=5
 

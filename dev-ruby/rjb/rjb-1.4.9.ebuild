@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rjb/rjb-1.4.9.ebuild,v 1.1 2014/04/25 05:36:25 graaff Exp $
 
 EAPI=5
 

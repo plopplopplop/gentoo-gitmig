@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/ddd/ddd-3.3.12-r4.ebuild,v 1.1 2014/04/08 00:48:03 reavertm Exp $
 
 EAPI="4"
 

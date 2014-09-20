@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/sphinx3/sphinx3-0.8.ebuild,v 1.6 2013/10/09 02:03:56 teiresias Exp $
 
 EAPI=3
 PYTHON_DEPEND="python? 2:2.6"

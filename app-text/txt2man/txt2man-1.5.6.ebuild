@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/txt2man/txt2man-1.5.6.ebuild,v 1.7 2014/09/04 18:42:58 jer Exp $
 
 EAPI="4"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/fujaba/fujaba-4.2.0.ebuild,v 1.8 2009/10/12 18:55:23 ssuominen Exp $
 
 MY_PV="${PV//./_}"
 MY_PNB="Fujaba_${PV:0:1}"

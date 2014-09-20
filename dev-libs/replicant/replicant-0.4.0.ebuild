@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/replicant/replicant-0.4.0.ebuild,v 1.1 2014/02/21 03:25:41 patrick Exp $
 EAPI=4
 
 DESCRIPTION="Hyperdex replicant support library"

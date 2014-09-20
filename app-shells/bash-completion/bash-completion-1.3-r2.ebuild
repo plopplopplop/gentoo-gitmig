@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/bash-completion/bash-completion-1.3-r2.ebuild,v 1.15 2014/01/19 10:12:43 vapier Exp $
 
 EAPI=3
 inherit prefix

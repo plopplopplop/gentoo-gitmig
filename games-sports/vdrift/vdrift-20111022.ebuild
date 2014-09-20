@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-sports/vdrift/vdrift-20111022.ebuild,v 1.6 2014/05/15 11:46:29 tupone Exp $
 
 EAPI=2
 inherit eutils scons-utils games

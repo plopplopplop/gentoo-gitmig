@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/haskell-platform/haskell-platform-2012.2.0.0.ebuild,v 1.2 2012/12/29 13:49:31 gienah Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/rtcwsp-demo/rtcwsp-demo-1.1b-r1.ebuild,v 1.1 2014/07/16 19:45:17 axs Exp $
 
 EAPI=5
 inherit eutils unpacker games

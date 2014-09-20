@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/session/session-1.5.ebuild,v 1.1 2012/08/03 22:10:50 radhermit Exp $
 
 EAPI=4
 

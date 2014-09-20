@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-misc/nco/nco-4.3.1.ebuild,v 1.1 2013/05/27 17:28:55 bicatali Exp $
 
 EAPI=5
 inherit eutils flag-o-matic

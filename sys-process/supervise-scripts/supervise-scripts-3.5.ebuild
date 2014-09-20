@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/supervise-scripts/supervise-scripts-3.5.ebuild,v 1.7 2011/01/29 23:14:00 bangert Exp $
 
 inherit eutils fixheadtails toolchain-funcs
 

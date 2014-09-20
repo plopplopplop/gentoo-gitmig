@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-XML_Feed_Parser/PEAR-XML_Feed_Parser-1.0.5.ebuild,v 1.1 2012/09/05 18:43:03 lordvan Exp $
 
 inherit php-pear-r1
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-voip/telepathy-gabble/telepathy-gabble-0.18.2.ebuild,v 1.3 2014/05/04 12:12:21 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/mecab-python/mecab-python-0.98.ebuild,v 1.6 2013/08/03 09:09:07 hattya Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

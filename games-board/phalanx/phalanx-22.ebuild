@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/phalanx/phalanx-22.ebuild,v 1.5 2008/12/05 18:37:50 nyhm Exp $
 
 inherit toolchain-funcs games
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/gejengel/gejengel-0.1.4.ebuild,v 1.8 2011/12/21 12:55:10 aballier Exp $
 
 EAPI=4
 inherit eutils multilib

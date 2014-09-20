@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rspec/rspec-1.3.2.ebuild,v 1.19 2014/05/12 18:18:44 graaff Exp $
 
 EAPI=2
 USE_RUBY="ruby19 jruby"

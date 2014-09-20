@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/hlatex/hlatex-0.991.ebuild,v 1.11 2014/08/10 21:26:16 slyfox Exp $
 
 inherit latex-package
 

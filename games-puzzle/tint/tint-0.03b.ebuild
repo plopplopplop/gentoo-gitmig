@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/tint/tint-0.03b.ebuild,v 1.8 2010/11/08 18:48:17 mr_bones_ Exp $
 
 EAPI=2
 inherit games

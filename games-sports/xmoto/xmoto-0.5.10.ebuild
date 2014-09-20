@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-sports/xmoto/xmoto-0.5.10.ebuild,v 1.4 2012/10/11 07:09:09 blueness Exp $
 
 EAPI=2
 inherit eutils flag-o-matic games

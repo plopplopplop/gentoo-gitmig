@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-physics/hepmc/hepmc-2.06.03.ebuild,v 1.8 2011/06/08 15:15:24 jer Exp $
 
 EAPI=2
 

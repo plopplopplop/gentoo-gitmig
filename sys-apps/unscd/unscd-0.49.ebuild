@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/unscd/unscd-0.49.ebuild,v 1.3 2013/05/21 18:16:28 vapier Exp $
 
 EAPI="4"
 

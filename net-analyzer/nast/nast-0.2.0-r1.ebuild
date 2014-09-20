@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/nast/nast-0.2.0-r1.ebuild,v 1.3 2014/07/13 14:28:50 jer Exp $
 
 EAPI=5
 

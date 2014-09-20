@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/cegui/cegui-0.8.4.ebuild,v 1.1 2014/09/07 07:15:31 mr_bones_ Exp $
 
 EAPI=5
 

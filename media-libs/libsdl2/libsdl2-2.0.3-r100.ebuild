@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libsdl2/libsdl2-2.0.3-r100.ebuild,v 1.3 2014/08/29 10:15:52 nimiux Exp $
 
 # TODO: convert FusionSound #484250
 

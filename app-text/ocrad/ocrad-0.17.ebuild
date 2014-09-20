@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/ocrad/ocrad-0.17.ebuild,v 1.6 2010/01/31 20:43:27 jer Exp $
 
 inherit eutils toolchain-funcs
 

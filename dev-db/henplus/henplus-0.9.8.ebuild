@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/henplus/henplus-0.9.8.ebuild,v 1.4 2014/08/10 19:59:28 slyfox Exp $
 
 EAPI="2"
 JAVA_PKG_IUSE="doc source"

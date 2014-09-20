@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/smartmontools/files/smartd.rc,v 1.10 2013/09/14 10:32:46 hwoarang Exp $
 
 depend() {
     need localmount

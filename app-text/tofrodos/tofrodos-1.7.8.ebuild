@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/tofrodos/tofrodos-1.7.8.ebuild,v 1.3 2009/12/28 12:24:11 jer Exp $
 
 inherit eutils
 

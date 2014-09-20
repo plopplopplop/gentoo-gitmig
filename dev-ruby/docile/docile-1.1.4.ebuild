@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/docile/docile-1.1.4.ebuild,v 1.1 2014/06/12 05:55:50 graaff Exp $
 
 EAPI=5
 

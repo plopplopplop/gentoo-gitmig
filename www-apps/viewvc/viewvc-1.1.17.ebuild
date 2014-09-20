@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/viewvc/viewvc-1.1.17.ebuild,v 1.4 2012/12/25 14:33:47 pacho Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

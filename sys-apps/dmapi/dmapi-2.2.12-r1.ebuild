@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/dmapi/dmapi-2.2.12-r1.ebuild,v 1.1 2014/06/12 19:28:24 mgorny Exp $
 
 EAPI="5"
 

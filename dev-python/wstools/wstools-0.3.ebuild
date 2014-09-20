@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/wstools/wstools-0.3.ebuild,v 1.10 2012/08/02 22:15:36 neurogeek Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

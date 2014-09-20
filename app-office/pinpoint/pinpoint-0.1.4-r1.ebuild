@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/pinpoint/pinpoint-0.1.4-r1.ebuild,v 1.5 2014/03/09 11:54:16 pacho Exp $
 
 EAPI=5
 GCONF_DEBUG="no"

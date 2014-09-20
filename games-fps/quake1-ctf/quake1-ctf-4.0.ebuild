@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake1-ctf/quake1-ctf-4.0.ebuild,v 1.4 2014/05/04 17:50:53 ulm Exp $
 
 inherit eutils games
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/zsh/zsh-5.0.6.ebuild,v 1.1 2014/08/28 20:02:14 radhermit Exp $
 
 EAPI=5
 

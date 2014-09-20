@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-radio/flrig/flrig-1.3.15.ebuild,v 1.1 2014/02/06 17:39:20 tomjbe Exp $
 
 EAPI=5
 

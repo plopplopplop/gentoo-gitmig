@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/meld3/meld3-1.0.0.ebuild,v 1.2 2014/08/10 21:13:49 slyfox Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_3,3_4} pypy )

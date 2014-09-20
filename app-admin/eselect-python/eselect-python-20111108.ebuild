@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-python/eselect-python-20111108.ebuild,v 1.15 2014/01/18 05:30:07 vapier Exp $
 
 # Keep the EAPI low here because everything else depends on it.
 # We want to make upgrading simpler.

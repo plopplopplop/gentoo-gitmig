@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/ucspi-ssl/ucspi-ssl-0.70-r1.ebuild,v 1.18 2014/08/10 20:25:24 slyfox Exp $
 
 inherit eutils fixheadtails qmail
 

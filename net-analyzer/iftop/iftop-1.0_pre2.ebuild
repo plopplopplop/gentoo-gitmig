@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/iftop/iftop-1.0_pre2.ebuild,v 1.14 2014/06/05 11:34:06 jer Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/razorqt-base/razorqt-data/razorqt-data-0.5.1.ebuild,v 1.10 2013/10/01 21:36:41 pesa Exp $
 
 EAPI=4
 inherit cmake-utils

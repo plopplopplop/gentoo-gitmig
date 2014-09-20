@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/xblockout/xblockout-1.1.6.ebuild,v 1.2 2014/05/06 00:47:04 mr_bones_ Exp $
 
 EAPI=5
 inherit autotools flag-o-matic eutils games

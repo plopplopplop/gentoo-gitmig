@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/eject/eject-0.ebuild,v 1.8 2012/06/04 22:32:58 alexxy Exp $
 
 DESCRIPTION="Virtual for the eject command"
 HOMEPAGE=""

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/Savant3/Savant3-3.0.0.ebuild,v 1.3 2014/08/10 20:58:30 slyfox Exp $
 
 inherit php-pear-lib-r1
 

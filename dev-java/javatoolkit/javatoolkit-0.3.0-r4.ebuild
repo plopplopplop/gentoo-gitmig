@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/javatoolkit/javatoolkit-0.3.0-r4.ebuild,v 1.7 2012/02/05 01:25:05 floppym Exp $
 
 EAPI="2"
 PYTHON_DEPEND="2:2.5"

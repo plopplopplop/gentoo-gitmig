@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/bwidget/bwidget-1.9.0.ebuild,v 1.11 2013/06/11 19:17:14 maekke Exp $
 
 EAPI=4
 

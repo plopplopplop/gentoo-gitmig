@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/xml-xmlbeans/xml-xmlbeans-1.0.4_pre20041217-r1.ebuild,v 1.3 2013/07/28 09:41:57 grobian Exp $
 
 EAPI=5
 

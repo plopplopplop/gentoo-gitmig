@@ -1,4 +1,4 @@
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/vdr-vodcatcher/files/rc-addon.sh,v 1.1 2014/06/22 11:05:30 hd_brummy Exp $
 #
 # rc-addon-script for plugin vodcatcher
 #

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/tclxml/tclxml-3.1-r2.ebuild,v 1.9 2014/08/10 21:26:19 slyfox Exp $
 
 inherit autotools eutils toolchain-funcs
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Scalar-List-Utils/perl-Scalar-List-Utils-1.350.0.ebuild,v 1.2 2014/01/19 20:49:01 vapier Exp $
 
 DESCRIPTION="Virtual for ${PN#perl-}"
 HOMEPAGE=""

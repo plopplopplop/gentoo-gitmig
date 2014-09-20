@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/lolcat/lolcat-42.0.99-r1.ebuild,v 1.4 2014/08/14 13:57:55 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/ShipIt/ShipIt-0.600.0.ebuild,v 1.1 2013/02/08 18:53:10 tove Exp $
 
 EAPI=5
 

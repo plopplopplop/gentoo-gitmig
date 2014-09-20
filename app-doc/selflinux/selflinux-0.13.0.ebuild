@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/selflinux/selflinux-0.13.0.ebuild,v 1.5 2012/07/29 16:55:35 armin76 Exp $
 
 MY_P="SelfLinux-${PV}"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/tdb/tdb-1.2.13.ebuild,v 1.1 2014/03/23 20:00:38 polynomial-c Exp $
 
 EAPI=5
 

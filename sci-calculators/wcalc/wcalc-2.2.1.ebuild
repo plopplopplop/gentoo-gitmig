@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-calculators/wcalc/wcalc-2.2.1.ebuild,v 1.7 2012/05/23 13:10:22 xarthisius Exp $
 
 EAPI=4
 

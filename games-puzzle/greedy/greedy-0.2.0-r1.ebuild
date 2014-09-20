@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/greedy/greedy-0.2.0-r1.ebuild,v 1.10 2009/05/31 23:40:39 ranger Exp $
 
 inherit toolchain-funcs games
 

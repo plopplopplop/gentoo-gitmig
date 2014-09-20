@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/mktorrent-borg/mktorrent-borg-0.9.9.ebuild,v 1.1 2008/05/05 15:09:43 armin76 Exp $
 
 inherit eutils toolchain-funcs
 

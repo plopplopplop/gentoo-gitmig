@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/jokosher/jokosher-0.11.5.ebuild,v 1.2 2012/10/25 20:36:08 eva Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

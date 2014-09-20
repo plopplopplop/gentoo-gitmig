@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/wireless-tools/wireless-tools-30_pre9.ebuild,v 1.10 2013/01/26 00:14:12 zerochaos Exp $
 
 EAPI="4"
 

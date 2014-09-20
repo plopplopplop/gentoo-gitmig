@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/timidity-freepats/timidity-freepats-20060219.ebuild,v 1.13 2011/03/16 19:29:01 xarthisius Exp $
 
 EAPI=2
 

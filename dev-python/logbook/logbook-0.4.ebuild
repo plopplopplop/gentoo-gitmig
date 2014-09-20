@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/logbook/logbook-0.4.ebuild,v 1.3 2013/04/05 21:49:42 ago Exp $
 
 EAPI=4
 SUPPORT_PYTHON_ABIS="1"

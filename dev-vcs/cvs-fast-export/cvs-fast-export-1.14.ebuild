@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/cvs-fast-export/cvs-fast-export-1.14.ebuild,v 1.1 2014/08/13 19:29:59 slyfox Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 2006-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/matchbox-panel/matchbox-panel-0.9.2.ebuild,v 1.3 2009/03/14 03:52:35 solar Exp $
 
 inherit versionator
 

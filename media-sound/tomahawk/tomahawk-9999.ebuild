@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/tomahawk/tomahawk-9999.ebuild,v 1.27 2014/07/22 18:37:57 johu Exp $
 
 EAPI=5
 

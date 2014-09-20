@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/unison/unison-2.27.157.ebuild,v 1.2 2012/06/18 15:55:24 heroxbd Exp $
 
 EAPI="2"
 

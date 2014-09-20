@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/aisleriot/aisleriot-3.2.3.2-r1.ebuild,v 1.10 2013/12/08 18:19:46 pacho Exp $
 
 EAPI="4"
 GCONF_DEBUG="yes"

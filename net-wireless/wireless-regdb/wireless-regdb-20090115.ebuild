@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/wireless-regdb/wireless-regdb-20090115.ebuild,v 1.8 2012/11/03 12:21:27 chainsaw Exp $
 
 MY_P="wireless-regdb-${PV:0:4}.${PV:4:2}.${PV:6:2}"
 DESCRIPTION="Binary regulatory database for CRDA"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/gnome-screensaver/gnome-screensaver-3.6.1.ebuild,v 1.10 2014/08/10 21:19:57 slyfox Exp $
 
 EAPI="5"
 GCONF_DEBUG="yes"

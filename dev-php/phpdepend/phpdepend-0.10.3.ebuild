@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/phpdepend/phpdepend-0.10.3.ebuild,v 1.2 2011/04/16 12:55:06 olemarkus Exp $
 
 EAPI="3"
 PHP_PEAR_CHANNEL="${FILESDIR}/channel.xml"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/mwlib-ext/mwlib-ext-0.12.4-r1.ebuild,v 1.2 2014/08/10 21:14:03 slyfox Exp $
 
 EAPI="5"
 

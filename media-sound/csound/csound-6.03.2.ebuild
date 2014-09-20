@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/csound/csound-6.03.2.ebuild,v 1.1 2014/05/28 05:26:59 radhermit Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python2_7 )

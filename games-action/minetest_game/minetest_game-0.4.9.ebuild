@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/minetest_game/minetest_game-0.4.9.ebuild,v 1.3 2014/04/05 11:11:08 ago Exp $
 
 EAPI=5
 inherit vcs-snapshot games

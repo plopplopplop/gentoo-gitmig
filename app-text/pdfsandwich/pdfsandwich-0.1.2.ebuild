@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/pdfsandwich/pdfsandwich-0.1.2.ebuild,v 1.1 2014/07/29 13:19:03 tomka Exp $
 
 EAPI=4
 

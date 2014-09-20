@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/xcb-proto/xcb-proto-1.8-r3.ebuild,v 1.15 2014/05/23 22:43:17 mgorny Exp $
 
 EAPI=5
 

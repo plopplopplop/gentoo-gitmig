@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/tslib/tslib-1.0-r1.ebuild,v 1.12 2010/02/08 20:16:54 solar Exp $
 
 inherit eutils toolchain-funcs autotools
 

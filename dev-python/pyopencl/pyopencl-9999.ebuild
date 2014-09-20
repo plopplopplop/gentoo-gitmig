@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyopencl/pyopencl-9999.ebuild,v 1.14 2012/04/19 07:32:38 xarthisius Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

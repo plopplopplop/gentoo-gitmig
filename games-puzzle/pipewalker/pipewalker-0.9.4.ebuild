@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/pipewalker/pipewalker-0.9.4.ebuild,v 1.4 2012/05/21 19:34:28 ssuominen Exp $
 
 EAPI=2
 inherit eutils flag-o-matic games

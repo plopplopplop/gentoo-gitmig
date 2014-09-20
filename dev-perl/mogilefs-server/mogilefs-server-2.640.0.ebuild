@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/mogilefs-server/mogilefs-server-2.640.0.ebuild,v 1.1 2012/06/29 17:18:03 robbat2 Exp $
 
 EAPI=4
 

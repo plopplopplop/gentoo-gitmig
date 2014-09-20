@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libextractor/libextractor-1.0.1.ebuild,v 1.7 2014/03/31 19:25:04 tomwij Exp $
 
 EAPI=4
 inherit eutils flag-o-matic multilib toolchain-funcs

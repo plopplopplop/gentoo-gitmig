@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/openhpi/openhpi-2.10.1.ebuild,v 1.2 2014/03/12 03:11:06 patrick Exp $
 
 inherit eutils
 

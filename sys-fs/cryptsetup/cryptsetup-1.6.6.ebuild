@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/cryptsetup/cryptsetup-1.6.6.ebuild,v 1.5 2014/09/10 18:05:10 zerochaos Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_3,3_4} )

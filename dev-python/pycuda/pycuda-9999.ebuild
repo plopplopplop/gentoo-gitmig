@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pycuda/pycuda-9999.ebuild,v 1.14 2013/11/23 09:32:46 jlec Exp $
 
 EAPI=5
 

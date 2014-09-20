@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/lyx/lyx-2.1.1.ebuild,v 1.1 2014/07/16 13:44:14 dlan Exp $
 
 EAPI=5
 

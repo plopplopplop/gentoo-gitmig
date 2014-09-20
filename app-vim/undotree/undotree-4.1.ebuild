@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/undotree/undotree-4.1.ebuild,v 1.1 2012/09/09 11:03:15 radhermit Exp $
 
 EAPI=4
 VIM_PLUGIN_VIM_VERSION="7.3"

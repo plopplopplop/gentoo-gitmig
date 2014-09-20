@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/glib-networking/glib-networking-2.38.2.ebuild,v 1.12 2014/04/21 10:30:14 ago Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

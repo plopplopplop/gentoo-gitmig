@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/minfx/minfx-1.0.6.ebuild,v 1.1 2014/05/06 11:44:50 jlec Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/django-debug-toolbar/django-debug-toolbar-1.2.1.ebuild,v 1.1 2014/08/27 08:55:39 maksbotan Exp $
 
 EAPI=5
 

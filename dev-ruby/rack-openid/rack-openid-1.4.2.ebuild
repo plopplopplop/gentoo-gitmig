@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rack-openid/rack-openid-1.4.2.ebuild,v 1.2 2014/08/02 02:00:56 mrueg Exp $
 
 EAPI=5
 

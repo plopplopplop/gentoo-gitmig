@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libofx/libofx-0.9.5.ebuild,v 1.7 2012/09/09 15:44:22 armin76 Exp $
 
 EAPI=4
 

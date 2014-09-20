@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/oprofile/oprofile-0.9.6-r1.ebuild,v 1.7 2011/06/23 21:18:52 jer Exp $
 
 EAPI=4
 inherit eutils linux-info

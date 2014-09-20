@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-servers/ocsigen/ocsigen-1.3.4.ebuild,v 1.4 2014/01/08 06:08:46 vapier Exp $
 
 EAPI=2
 

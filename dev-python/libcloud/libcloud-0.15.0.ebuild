@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/libcloud/libcloud-0.15.0.ebuild,v 1.1 2014/07/14 04:38:55 patrick Exp $
 
 EAPI=5
 

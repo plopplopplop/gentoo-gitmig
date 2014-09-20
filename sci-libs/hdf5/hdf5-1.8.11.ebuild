@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/hdf5/hdf5-1.8.11.ebuild,v 1.1 2013/09/18 10:11:32 xarthisius Exp $
 
 EAPI=5
 

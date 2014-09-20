@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/synergy/synergy-1.4.16_p1969.ebuild,v 1.9 2014/08/09 09:23:42 jer Exp $
 
 EAPI=5
 inherit eutils flag-o-matic gnome2-utils cmake-utils qt4-r2

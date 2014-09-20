@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apache/mod_spdy/mod_spdy-0.9.3.3.ebuild,v 1.6 2014/04/26 22:09:44 vapier Exp $
 
 EAPI=5
 

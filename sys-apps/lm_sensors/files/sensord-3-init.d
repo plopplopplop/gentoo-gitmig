@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/lm_sensors/files/sensord-3-init.d,v 1.1 2009/11/29 13:13:08 bangert Exp $
 
 CONFIG=/etc/sensors3.conf
 

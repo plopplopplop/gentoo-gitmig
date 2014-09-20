@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/audacious/audacious-2.4.4.ebuild,v 1.10 2013/01/06 20:53:19 jdhore Exp $
 
 EAPI=1
 

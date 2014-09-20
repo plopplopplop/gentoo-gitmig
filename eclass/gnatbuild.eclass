@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/gnatbuild.eclass,v 1.61 2014/07/13 16:19:33 ulm Exp $
 #
 # Authors: George Shapovalov <george@gentoo.org>
 #          Steve Arnold <nerdboy@gentoo.org>

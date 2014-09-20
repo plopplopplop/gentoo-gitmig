@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libnfsidmap/libnfsidmap-0.21-r1.ebuild,v 1.13 2012/05/21 19:13:27 xarthisius Exp $
 
 inherit autotools eutils
 

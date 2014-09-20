@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/gabedit/gabedit-2.4.8.ebuild,v 1.1 2014/04/24 12:46:46 jlec Exp $
 
 EAPI=5
 

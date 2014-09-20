@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/netkit-rwho/netkit-rwho-0.17-r4.ebuild,v 1.7 2014/07/18 19:45:52 jer Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs

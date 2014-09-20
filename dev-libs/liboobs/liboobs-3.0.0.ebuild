@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/liboobs/liboobs-3.0.0.ebuild,v 1.8 2014/08/10 20:36:58 slyfox Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

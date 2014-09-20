@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/rpy/rpy-2.4.0.ebuild,v 1.1 2014/06/03 05:42:56 idella4 Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/dwarves/dwarves-1.9.ebuild,v 1.1 2011/10/17 21:53:24 flameeyes Exp $
 
 EAPI=4
 

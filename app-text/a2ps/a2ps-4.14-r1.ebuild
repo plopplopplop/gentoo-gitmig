@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/a2ps/a2ps-4.14-r1.ebuild,v 1.11 2012/04/25 16:19:18 jlec Exp $
 
 inherit eutils autotools elisp-common
 

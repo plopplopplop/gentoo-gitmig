@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-dicts/dictd-vera/dictd-vera-1.21a.ebuild,v 1.6 2014/03/12 10:13:02 ago Exp $
 
 EAPI=5
 

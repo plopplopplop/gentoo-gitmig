@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/gramps/gramps-3.4.5.ebuild,v 1.1 2013/05/22 21:44:09 fauli Exp $
 
 EAPI=3
 

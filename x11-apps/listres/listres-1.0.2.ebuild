@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/listres/listres-1.0.2.ebuild,v 1.7 2010/09/19 19:36:54 armin76 Exp $
 
 # Must be before x-modular eclass is inherited
 #SNAPSHOT="yes"

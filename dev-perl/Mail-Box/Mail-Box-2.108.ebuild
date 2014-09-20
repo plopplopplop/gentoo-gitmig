@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Mail-Box/Mail-Box-2.108.ebuild,v 1.2 2013/12/14 17:26:47 aidecoe Exp $
 
 EAPI=4
 

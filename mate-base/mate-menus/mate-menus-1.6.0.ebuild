@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mate-base/mate-menus/mate-menus-1.6.0.ebuild,v 1.6 2014/05/04 14:53:59 ago Exp $
 
 EAPI="5"
 

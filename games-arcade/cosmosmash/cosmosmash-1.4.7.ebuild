@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/cosmosmash/cosmosmash-1.4.7.ebuild,v 1.1 2013/04/20 07:18:40 mr_bones_ Exp $
 
 EAPI=2
 inherit autotools games

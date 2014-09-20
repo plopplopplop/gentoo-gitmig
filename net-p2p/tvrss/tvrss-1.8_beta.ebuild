@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/tvrss/tvrss-1.8_beta.ebuild,v 1.2 2011/03/28 14:31:15 nirbheek Exp $
 
 EAPI="2"
 

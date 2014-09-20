@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ada/asis-gpl/asis-gpl-4.1.3.2007-r1.ebuild,v 1.4 2014/07/13 16:26:07 ulm Exp $
 
 inherit eutils flag-o-matic gnatbuild
 

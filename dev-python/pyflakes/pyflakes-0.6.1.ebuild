@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyflakes/pyflakes-0.6.1.ebuild,v 1.4 2013/07/03 03:37:06 floppym Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

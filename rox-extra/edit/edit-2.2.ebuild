@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/edit/edit-2.2.ebuild,v 1.4 2014/01/14 15:31:59 ago Exp $
 
 ROX_LIB_VER=1.9.14
 inherit rox

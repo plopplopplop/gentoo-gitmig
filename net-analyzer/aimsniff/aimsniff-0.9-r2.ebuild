@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/aimsniff/aimsniff-0.9-r2.ebuild,v 1.14 2012/09/18 01:33:16 radhermit Exp $
 
 EAPI="2"
 

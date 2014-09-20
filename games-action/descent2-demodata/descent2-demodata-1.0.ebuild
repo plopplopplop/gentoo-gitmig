@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/descent2-demodata/descent2-demodata-1.0.ebuild,v 1.8 2010/02/10 03:44:49 josejx Exp $
 
 inherit eutils games
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/genlop/genlop-0.30.9.ebuild,v 1.1 2013/01/19 03:23:42 fuzzyray Exp $
 
 EAPI="5"
 

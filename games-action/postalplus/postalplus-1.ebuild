@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/postalplus/postalplus-1.ebuild,v 1.5 2012/01/16 19:09:15 ulm Exp $
 
 inherit eutils cdrom games
 

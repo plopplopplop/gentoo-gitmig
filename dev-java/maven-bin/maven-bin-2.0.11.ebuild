@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/maven-bin/maven-bin-2.0.11.ebuild,v 1.6 2012/12/07 22:55:11 fordfrog Exp $
 
 EAPI="2"
 

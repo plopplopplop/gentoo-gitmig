@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/sdl2-net/sdl2-net-2.0.0.ebuild,v 1.1 2013/08/28 21:46:02 hasufell Exp $
 
 EAPI=5
 inherit eutils

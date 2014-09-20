@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation.
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/hardened/linux/musl/x86/make.defaults,v 1.6 2014/07/01 12:37:36 blueness Exp $
 
 ARCH="x86"
 ACCEPT_KEYWORDS="${ARCH}"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-ExtUtils-ParseXS/perl-ExtUtils-ParseXS-3.240.0.ebuild,v 1.2 2014/07/19 16:22:21 dilfridge Exp $
 
 EAPI=5
 

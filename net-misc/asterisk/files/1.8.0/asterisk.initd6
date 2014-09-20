@@ -1,7 +1,7 @@
 #!/sbin/runscript
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/asterisk/files/1.8.0/asterisk.initd6,v 1.1 2013/07/23 09:21:04 chainsaw Exp $
 
 extra_started_commands="forcestop reload"
 

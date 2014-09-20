@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/maruku/maruku-0.7.0.ebuild,v 1.4 2014/06/17 09:58:39 mrueg Exp $
 
 EAPI=5
 

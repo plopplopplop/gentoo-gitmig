@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/unoconv/unoconv-0.6.ebuild,v 1.8 2014/04/17 05:18:54 patrick Exp $
 
 EAPI=3
 

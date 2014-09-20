@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-voip/telepathy-haze/telepathy-haze-0.6.0.ebuild,v 1.9 2014/08/10 20:34:51 slyfox Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2:2.5"

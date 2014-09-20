@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/doxygen/doxygen-1.8.5.ebuild,v 1.14 2014/09/03 17:10:14 ottxor Exp $
 
 EAPI=4
 PYTHON_COMPAT=( python{2_6,2_7} )

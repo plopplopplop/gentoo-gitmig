@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/lua/lua-5.2.3-r1.ebuild,v 1.1 2014/06/12 21:46:47 mgorny Exp $
 
 EAPI=5
 

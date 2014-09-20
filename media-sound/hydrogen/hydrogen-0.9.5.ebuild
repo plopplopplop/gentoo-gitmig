@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/hydrogen/hydrogen-0.9.5.ebuild,v 1.8 2013/03/02 21:55:33 hwoarang Exp $
 
 EAPI=4
 inherit eutils multilib flag-o-matic toolchain-funcs

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/junit/junit-3.8.2-r1.ebuild,v 1.12 2013/02/05 05:50:17 zerochaos Exp $
 
 JAVA_PKG_IUSE="doc source"
 

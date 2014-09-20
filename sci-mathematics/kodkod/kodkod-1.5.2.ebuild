@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-mathematics/kodkod/kodkod-1.5.2.ebuild,v 1.4 2014/06/22 13:52:20 gienah Exp $
 
 EAPI="5"
 

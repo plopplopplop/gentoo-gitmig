@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/openvas/openvas-4.ebuild,v 1.1 2011/10/09 17:40:24 hanno Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libstatgrab/libstatgrab-0.16.ebuild,v 1.6 2014/08/10 20:12:48 slyfox Exp $
 
 DESCRIPTION="a tool to provide access to statistics about the system on which it's run"
 HOMEPAGE="http://www.i-scream.org/libstatgrab/"

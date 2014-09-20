@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tcltk/itcl/itcl-3.4_beta1.ebuild,v 1.8 2011/06/04 18:56:46 armin76 Exp $
 
 EAPI="3"
 

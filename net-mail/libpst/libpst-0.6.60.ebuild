@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/libpst/libpst-0.6.60.ebuild,v 1.1 2013/06/21 03:22:08 patrick Exp $
 
 EAPI=4
 PYTHON_DEPEND="python? 2"

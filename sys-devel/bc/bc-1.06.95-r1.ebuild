@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/bc/bc-1.06.95-r1.ebuild,v 1.6 2014/01/18 03:08:45 vapier Exp $
 
 EAPI="2"
 

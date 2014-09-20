@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/s3cmd/s3cmd-1.5.0_beta1.ebuild,v 1.1 2014/06/30 18:21:08 robbat2 Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

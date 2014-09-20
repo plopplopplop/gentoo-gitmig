@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/ExtUtils-InstallPaths/ExtUtils-InstallPaths-0.10.0.ebuild,v 1.2 2014/07/31 13:10:30 civil Exp $
 EAPI=5
 MODULE_AUTHOR=LEONT
 MODULE_VERSION=0.010

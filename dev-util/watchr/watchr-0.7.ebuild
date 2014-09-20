@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/watchr/watchr-0.7.ebuild,v 1.2 2014/08/14 13:59:15 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19"

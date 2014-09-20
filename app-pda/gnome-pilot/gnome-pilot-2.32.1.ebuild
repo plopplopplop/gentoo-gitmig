@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-pda/gnome-pilot/gnome-pilot-2.32.1.ebuild,v 1.7 2012/05/03 20:20:58 jdhore Exp $
 
 EAPI="3"
 G2CONF_DEBUG="no"

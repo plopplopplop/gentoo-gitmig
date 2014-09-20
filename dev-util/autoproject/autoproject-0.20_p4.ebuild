@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/autoproject/autoproject-0.20_p4.ebuild,v 1.3 2010/01/15 21:16:38 fauli Exp $
 
 inherit eutils
 

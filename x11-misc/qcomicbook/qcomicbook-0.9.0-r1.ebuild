@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/qcomicbook/qcomicbook-0.9.0-r1.ebuild,v 1.1 2014/02/09 13:37:22 pinkbyte Exp $
 
 EAPI=5
 

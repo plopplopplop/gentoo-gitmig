@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-apps/x11perf/x11perf-1.5.3.ebuild,v 1.7 2011/03/05 17:58:52 xarthisius Exp $
 
 EAPI=3
 

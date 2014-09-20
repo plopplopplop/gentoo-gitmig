@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/gcc-config/gcc-config-1.7.3.ebuild,v 1.8 2014/01/18 03:08:29 vapier Exp $
 
 inherit unpacker toolchain-funcs multilib
 

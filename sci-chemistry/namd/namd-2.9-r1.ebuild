@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/namd/namd-2.9-r1.ebuild,v 1.2 2013/11/30 23:28:19 ottxor Exp $
 
 EAPI=5
 

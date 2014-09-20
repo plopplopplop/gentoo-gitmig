@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-firewall/arptables/arptables-0.0.3.3-r1.ebuild,v 1.5 2008/10/13 11:13:26 pva Exp $
 
 inherit versionator eutils
 

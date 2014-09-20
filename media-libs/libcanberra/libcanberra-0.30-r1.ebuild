@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libcanberra/libcanberra-0.30-r1.ebuild,v 1.13 2014/08/22 14:33:17 ssuominen Exp $
 
 EAPI="5"
 

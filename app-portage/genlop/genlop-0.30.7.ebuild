@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/genlop/genlop-0.30.7.ebuild,v 1.12 2010/10/19 11:47:35 leio Exp $
 
 inherit bash-completion
 

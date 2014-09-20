@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/pauker/pauker-1.8.ebuild,v 1.6 2010/02/09 21:23:47 josejx Exp $
 
 EAPI=2
 JAVA_PKG_IUSE="doc source"

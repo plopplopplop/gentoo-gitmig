@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-physics/geant-data/geant-data-4.9.6_p02.ebuild,v 1.2 2013/06/10 17:22:59 bicatali Exp $
 
 EAPI=5
 

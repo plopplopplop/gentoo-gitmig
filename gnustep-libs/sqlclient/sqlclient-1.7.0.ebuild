@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnustep-libs/sqlclient/sqlclient-1.7.0.ebuild,v 1.1 2014/01/30 00:07:03 voyageur Exp $
 
 EAPI=5
 inherit java-pkg-opt-2 gnustep-2

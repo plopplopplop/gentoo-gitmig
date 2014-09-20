@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/angrydd/angrydd-1.0.1.ebuild,v 1.7 2010/09/09 16:43:17 mr_bones_ Exp $
 
 EAPI=2
 PYTHON_DEPEND="2"

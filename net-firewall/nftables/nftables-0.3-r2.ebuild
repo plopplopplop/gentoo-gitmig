@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-firewall/nftables/nftables-0.3-r2.ebuild,v 1.1 2014/08/28 13:25:47 williamh Exp $
 
 EAPI=5
 

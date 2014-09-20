@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/quassel/quassel-0.10.0-r1.ebuild,v 1.3 2014/09/13 15:30:22 johu Exp $
 
 EAPI=5
 

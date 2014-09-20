@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jaxr/jaxr-1.0.6.ebuild,v 1.1 2007/05/01 19:56:51 nelchael Exp $
 
 JAVA_PKG_IUSE="doc source"
 

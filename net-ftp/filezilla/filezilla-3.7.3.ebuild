@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-ftp/filezilla/filezilla-3.7.3.ebuild,v 1.5 2013/09/21 16:18:46 grobian Exp $
 
 EAPI=5
 

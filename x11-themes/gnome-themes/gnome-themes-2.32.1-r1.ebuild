@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-themes/gnome-themes/gnome-themes-2.32.1-r1.ebuild,v 1.7 2012/05/05 04:10:05 jdhore Exp $
 
 EAPI="4"
 GCONF_DEBUG="no"

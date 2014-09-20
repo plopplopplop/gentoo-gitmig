@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/evented-spec/evented-spec-0.9.0.ebuild,v 1.6 2014/08/05 16:01:00 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20 ruby21 jruby"

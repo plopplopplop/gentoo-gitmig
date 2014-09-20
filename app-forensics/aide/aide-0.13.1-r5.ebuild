@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-forensics/aide/aide-0.13.1-r5.ebuild,v 1.7 2013/04/11 13:33:26 swift Exp $
 
 inherit autotools eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/screen-message/screen-message-0.22.ebuild,v 1.1 2014/05/29 16:30:21 sping Exp $
 
 EAPI="2"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/farsight2/farsight2-0.0.31.ebuild,v 1.10 2013/04/10 20:22:08 ago Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

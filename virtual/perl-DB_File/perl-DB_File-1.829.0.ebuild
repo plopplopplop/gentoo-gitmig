@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-DB_File/perl-DB_File-1.829.0.ebuild,v 1.1 2013/08/16 07:03:50 patrick Exp $
 
 EAPI=4
 

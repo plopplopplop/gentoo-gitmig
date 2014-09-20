@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/gentoolkit-dev/gentoolkit-dev-0.2.6.14.ebuild,v 1.11 2010/11/16 15:45:31 idl0r Exp $
 
 EAPI="3"
 PYTHON_DEPEND="*:2.6"

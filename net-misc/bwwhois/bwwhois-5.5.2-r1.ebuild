@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/bwwhois/bwwhois-5.5.2-r1.ebuild,v 1.5 2013/01/13 11:29:10 ago Exp $
 
 EAPI=4
 

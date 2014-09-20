@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/arch/alpha/package.mask,v 1.35 2014/09/01 14:26:52 hasufell Exp $
 
 # Julian Ospald <hasufell@gentoo.org> (01 Sep 2014)
 # Needs either hardmasked >=media-video/libav-10 or

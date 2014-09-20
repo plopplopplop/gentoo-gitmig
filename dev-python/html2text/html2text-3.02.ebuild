@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/html2text/html2text-3.02.ebuild,v 1.4 2014/08/10 21:11:59 slyfox Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

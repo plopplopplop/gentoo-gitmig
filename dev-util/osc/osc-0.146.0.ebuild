@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/osc/osc-0.146.0.ebuild,v 1.2 2014/09/05 07:13:08 scarabeus Exp $
 
 EAPI=5
 

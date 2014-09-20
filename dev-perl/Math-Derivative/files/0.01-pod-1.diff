@@ -3,7 +3,7 @@ Taken from debian
 +++ Derivative.pm
 @@ -1,8 +1,9 @@
  # functions for calculating derivatives of data
- # $Id$
+ # $Id: Derivative.pm,v 1.1 1995/12/26 16:26:59 willijar Exp $
 +
  =head1 NAME
  

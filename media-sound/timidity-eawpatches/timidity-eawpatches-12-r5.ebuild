@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/timidity-eawpatches/timidity-eawpatches-12-r5.ebuild,v 1.14 2012/12/02 15:51:54 ulm Exp $
 
 S=${WORKDIR}/eawpats
 

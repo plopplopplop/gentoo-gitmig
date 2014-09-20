@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/pike/pike-7.8.352-r2.ebuild,v 1.3 2013/09/01 22:11:35 jdhore Exp $
 
 EAPI=4
 

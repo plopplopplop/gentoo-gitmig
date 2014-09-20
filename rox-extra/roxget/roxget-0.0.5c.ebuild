@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/rox-extra/roxget/roxget-0.0.5c.ebuild,v 1.8 2007/11/16 14:57:48 drac Exp $
 
 ROX_LIB_VER=1.9.16
 inherit rox

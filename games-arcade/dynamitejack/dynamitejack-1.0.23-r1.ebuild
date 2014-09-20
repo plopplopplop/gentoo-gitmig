@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-arcade/dynamitejack/dynamitejack-1.0.23-r1.ebuild,v 1.1 2014/06/26 18:43:24 axs Exp $
 
 # TODO: icon
 

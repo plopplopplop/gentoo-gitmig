@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/kdocker/kdocker-4.8-r2.ebuild,v 1.2 2014/06/25 17:35:18 kensington Exp $
 
 EAPI=5
 

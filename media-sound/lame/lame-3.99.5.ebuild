@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/lame/lame-3.99.5.ebuild,v 1.15 2013/03/03 15:08:00 ssuominen Exp $
 
 EAPI=4
 inherit autotools eutils

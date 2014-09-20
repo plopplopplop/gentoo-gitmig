@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/wwwoffle/wwwoffle-2.9h.ebuild,v 1.6 2012/12/29 14:25:48 ago Exp $
 
 EAPI=4
 inherit user

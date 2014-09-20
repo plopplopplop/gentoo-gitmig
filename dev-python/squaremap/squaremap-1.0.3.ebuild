@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/squaremap/squaremap-1.0.3.ebuild,v 1.1 2014/03/05 21:29:56 swegener Exp $
 
 EAPI="5"
 

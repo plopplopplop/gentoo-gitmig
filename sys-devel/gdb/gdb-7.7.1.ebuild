@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/gdb/gdb-7.7.1.ebuild,v 1.2 2014/05/09 07:02:46 grobian Exp $
 
 EAPI="4"
 PYTHON_COMPAT=( python{2_7,3_3,3_4} )

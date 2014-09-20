@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/polygon/polygon-3.0.7.ebuild,v 1.1 2014/08/14 00:08:27 idella4 Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python3_{2,3,4} )

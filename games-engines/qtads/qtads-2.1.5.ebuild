@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-engines/qtads/qtads-2.1.5.ebuild,v 1.7 2014/05/15 16:42:46 ulm Exp $
 
 EAPI=4
 inherit eutils gnome2-utils fdo-mime qt4-r2 games

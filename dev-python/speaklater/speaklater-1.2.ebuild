@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/speaklater/speaklater-1.2.ebuild,v 1.1 2010/12/14 22:24:38 rafaelmartins Exp $
 
 EAPI=3
 SUPPORT_PYTHON_ABIS="1"

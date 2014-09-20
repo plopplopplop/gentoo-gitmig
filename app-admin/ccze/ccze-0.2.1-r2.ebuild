@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/ccze/ccze-0.2.1-r2.ebuild,v 1.8 2012/03/18 15:51:16 armin76 Exp $
 
 inherit fixheadtails autotools eutils toolchain-funcs
 

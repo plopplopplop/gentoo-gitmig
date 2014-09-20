@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-util/etswitch/etswitch-0.1.14.ebuild,v 1.8 2009/11/26 19:48:34 maekke Exp $
 
 EAPI=2
 inherit eutils games

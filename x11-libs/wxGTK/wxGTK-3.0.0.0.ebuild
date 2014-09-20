@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/wxGTK/wxGTK-3.0.0.0.ebuild,v 1.4 2014/05/23 08:21:26 rhill Exp $
 
 EAPI="5"
 

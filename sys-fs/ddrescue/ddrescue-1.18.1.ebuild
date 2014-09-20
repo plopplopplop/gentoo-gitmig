@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/ddrescue/ddrescue-1.18.1.ebuild,v 1.1 2014/06/11 06:31:36 polynomial-c Exp $
 
 EAPI=5
 

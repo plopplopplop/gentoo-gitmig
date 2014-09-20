@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/libbonobo-python/libbonobo-python-2.28.1.ebuild,v 1.10 2011/12/17 18:48:24 tetromino Exp $
 
 EAPI="1"
 GCONF_DEBUG="no"

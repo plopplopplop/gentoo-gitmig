@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/descent3-demo/descent3-demo-1.4.0a.ebuild,v 1.14 2014/06/27 11:11:36 mgorny Exp $
 
 EAPI=4
 

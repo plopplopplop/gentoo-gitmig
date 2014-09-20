@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-base/gdm/gdm-3.10.0.1-r1.ebuild,v 1.7 2014/05/10 19:37:26 pacho Exp $
 
 EAPI="5"
 GNOME2_LA_PUNT="yes"

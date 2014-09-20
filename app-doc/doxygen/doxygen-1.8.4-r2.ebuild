@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-doc/doxygen/doxygen-1.8.4-r2.ebuild,v 1.5 2014/08/01 21:05:15 tgall Exp $
 
 EAPI=4
 

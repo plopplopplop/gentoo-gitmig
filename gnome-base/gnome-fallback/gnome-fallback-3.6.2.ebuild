@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-base/gnome-fallback/gnome-fallback-3.6.2.ebuild,v 1.5 2013/02/02 22:35:08 ago Exp $
 
 EAPI="5"
 

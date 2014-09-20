@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/raxml/raxml-7.2.6.ebuild,v 1.2 2013/02/18 12:20:50 jlec Exp $
 
 EAPI=4
 

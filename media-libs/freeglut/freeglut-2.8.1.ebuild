@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/freeglut/freeglut-2.8.1.ebuild,v 1.10 2013/10/08 05:02:03 ago Exp $
 
 EAPI=5
 inherit eutils libtool

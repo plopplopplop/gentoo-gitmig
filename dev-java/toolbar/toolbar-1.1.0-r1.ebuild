@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/toolbar/toolbar-1.1.0-r1.ebuild,v 1.6 2007/10/24 06:25:45 wltjr Exp $
 
 JAVA_PKG_IUSE="source"
 

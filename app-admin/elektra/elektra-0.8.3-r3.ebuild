@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/elektra/elektra-0.8.3-r3.ebuild,v 1.1 2014/06/22 10:01:43 mgorny Exp $
 
 EAPI=5
 

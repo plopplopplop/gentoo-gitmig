@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/xbomb/xbomb-2.2a.ebuild,v 1.6 2010/09/22 12:21:49 tupone Exp $
 
 EAPI=2
 inherit eutils games

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/hardinfo/hardinfo-0.5.2_pre20120527.ebuild,v 1.6 2012/12/31 14:18:36 hasufell Exp $
 
 EAPI=4
 

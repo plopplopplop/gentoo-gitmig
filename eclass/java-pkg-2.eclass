@@ -5,7 +5,7 @@
 #
 # Licensed under the GNU General Public License, v2
 #
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/java-pkg-2.eclass,v 1.39 2012/07/21 11:57:30 sera Exp $
 
 # @ECLASS: java-pkg-2.eclass
 # @MAINTAINER:

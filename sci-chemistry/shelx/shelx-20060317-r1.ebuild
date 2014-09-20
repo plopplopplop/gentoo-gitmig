@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/shelx/shelx-20060317-r1.ebuild,v 1.11 2012/10/19 10:29:30 jlec Exp $
 
 inherit autotools eutils fortran-2 flag-o-matic toolchain-funcs
 

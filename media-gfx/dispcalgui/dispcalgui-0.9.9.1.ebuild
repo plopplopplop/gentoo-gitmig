@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/dispcalgui/dispcalgui-0.9.9.1.ebuild,v 1.5 2013/05/10 23:31:00 hwoarang Exp $
 
 EAPI="2"
 PYTHON_DEPEND="2"

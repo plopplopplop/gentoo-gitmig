@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/kde-misc/kepas/kepas-0.9.3.ebuild,v 1.2 2014/05/08 10:35:15 johu Exp $
 
 EAPI=5
 

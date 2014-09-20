@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Graphics-ColorNames-WWW/Graphics-ColorNames-WWW-1.130.0.ebuild,v 1.1 2013/03/18 10:07:46 pinkbyte Exp $
 
 EAPI=5
 

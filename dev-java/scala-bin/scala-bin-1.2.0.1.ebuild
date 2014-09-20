@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/scala-bin/scala-bin-1.2.0.1.ebuild,v 1.8 2010/12/15 07:07:47 ali_bush Exp $
 
 inherit java-pkg-2
 

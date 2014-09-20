@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/cacti/cacti-0.8.8b-r2.ebuild,v 1.7 2014/07/15 16:31:34 jer Exp $
 
 EAPI="4"
 

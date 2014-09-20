@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/uclibc/uclibc-0.9.33.2.ebuild,v 1.4 2012/06/09 06:47:12 vapier Exp $
 
 inherit eutils flag-o-matic multilib toolchain-funcs savedconfig
 if [[ ${PV} == "9999" ]] ; then

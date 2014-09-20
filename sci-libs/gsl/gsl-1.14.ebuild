@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/gsl/gsl-1.14.ebuild,v 1.10 2013/02/21 21:36:16 jlec Exp $
 
 EAPI="3"
 

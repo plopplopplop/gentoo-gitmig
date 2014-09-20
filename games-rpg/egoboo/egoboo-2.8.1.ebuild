@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/egoboo/egoboo-2.8.1.ebuild,v 1.6 2012/10/30 11:11:59 ago Exp $
 
 EAPI=2
 inherit eutils games

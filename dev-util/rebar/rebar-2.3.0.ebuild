@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/rebar/rebar-2.3.0.ebuild,v 1.1 2014/05/28 07:09:40 djc Exp $
 
 EAPI=4
 

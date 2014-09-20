@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/PDL/PDL-2.4.11.ebuild,v 1.15 2014/09/01 09:10:18 zlogene Exp $
 
 EAPI=5
 

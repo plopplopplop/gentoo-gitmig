@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/dnspython/dnspython-1.10.0.ebuild,v 1.2 2012/12/01 01:59:06 radhermit Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

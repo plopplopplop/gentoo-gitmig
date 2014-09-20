@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/q4wine/q4wine-1.0-r3.ebuild,v 1.3 2013/06/25 12:48:32 ago Exp $
 
 EAPI="4"
 LANGS="cs de en es fa he it ru uk pl pt af"

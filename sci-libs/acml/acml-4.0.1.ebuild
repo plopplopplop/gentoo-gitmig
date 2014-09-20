@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/acml/acml-4.0.1.ebuild,v 1.10 2012/10/16 20:48:56 jlec Exp $
 
 inherit eutils fortran-2 multilib toolchain-funcs
 

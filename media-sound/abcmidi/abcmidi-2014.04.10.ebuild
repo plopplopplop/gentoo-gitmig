@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/abcmidi/abcmidi-2014.04.10.ebuild,v 1.1 2014/04/15 05:09:05 radhermit Exp $
 
 EAPI=5
 

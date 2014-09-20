@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/timezone-data/timezone-data-2014d.ebuild,v 1.2 2014/07/30 06:33:25 vapier Exp $
 
 EAPI="3"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/fsviewer/fsviewer-0.2.6.ebuild,v 1.5 2014/06/14 10:09:05 phajdan.jr Exp $
 
 EAPI=5
 inherit autotools eutils multilib

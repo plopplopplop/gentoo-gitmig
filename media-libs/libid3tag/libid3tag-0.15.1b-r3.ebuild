@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libid3tag/libid3tag-0.15.1b-r3.ebuild,v 1.1 2013/07/21 21:37:15 ottxor Exp $
 
 EAPI=5
 inherit eutils multilib libtool

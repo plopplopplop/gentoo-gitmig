@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/asymptote/asymptote-2.21.ebuild,v 1.3 2013/02/14 18:42:28 ago Exp $
 
 EAPI=4
 SUPPORT_PYTHON_ABIS=1

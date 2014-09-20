@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/physfs/physfs-2.0.3-r1.ebuild,v 1.1 2013/09/06 19:45:00 axs Exp $
 
 EAPI=5
 inherit cmake-multilib

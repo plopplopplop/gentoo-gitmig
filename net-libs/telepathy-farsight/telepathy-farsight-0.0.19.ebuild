@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/telepathy-farsight/telepathy-farsight-0.0.19.ebuild,v 1.7 2014/04/06 10:47:53 eva Exp $
 
 EAPI="3"
 PYTHON_DEPEND="python? 2:2.6"

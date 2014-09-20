@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/fscript/fscript-1.17-r1.ebuild,v 1.1 2014/09/06 16:33:20 ercpe Exp $
 
 EAPI=5
 

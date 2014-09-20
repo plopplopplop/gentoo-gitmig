@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/spidermonkey/spidermonkey-1.7.0-r3.ebuild,v 1.1 2012/10/23 19:07:07 axs Exp $
 
 EAPI="5"
 

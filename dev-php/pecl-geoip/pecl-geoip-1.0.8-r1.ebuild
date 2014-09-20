@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-geoip/pecl-geoip-1.0.8-r1.ebuild,v 1.3 2012/12/04 10:57:53 ago Exp $
 
 EAPI="4"
 

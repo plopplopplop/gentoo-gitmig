@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/dircproxy/dircproxy-1.1.0-r2.ebuild,v 1.3 2009/03/09 04:22:40 mr_bones_ Exp $
 
 inherit eutils
 

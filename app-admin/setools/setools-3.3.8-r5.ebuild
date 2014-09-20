@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/setools/setools-3.3.8-r5.ebuild,v 1.2 2014/07/30 12:04:04 swift Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python2_7 )

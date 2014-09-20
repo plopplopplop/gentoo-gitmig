@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/ace/ace-5.5-r1.ebuild,v 1.13 2013/02/24 13:25:23 ulm Exp $
 
 inherit eutils multilib toolchain-funcs
 

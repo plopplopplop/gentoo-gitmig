@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/netbeans-javafx/netbeans-javafx-7.1.2.ebuild,v 1.3 2012/05/30 06:15:31 johu Exp $
 
 EAPI="4"
 WANT_ANT_TASKS="ant-nodeps"

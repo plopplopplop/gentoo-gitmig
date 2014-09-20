@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/randrproto/randrproto-1.4.0-r1.ebuild,v 1.11 2014/03/13 19:56:25 ottxor Exp $
 
 EAPI=5
 

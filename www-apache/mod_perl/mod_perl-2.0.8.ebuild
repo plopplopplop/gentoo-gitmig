@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apache/mod_perl/mod_perl-2.0.8.ebuild,v 1.8 2014/08/31 10:51:50 zlogene Exp $
 
 EAPI="5"
 

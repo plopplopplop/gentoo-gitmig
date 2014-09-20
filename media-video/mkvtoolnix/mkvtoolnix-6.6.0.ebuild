@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/mkvtoolnix/mkvtoolnix-6.6.0.ebuild,v 1.4 2014/08/27 12:29:00 ago Exp $
 
 EAPI=5
 inherit eutils multilib toolchain-funcs versionator wxwidgets multiprocessing autotools

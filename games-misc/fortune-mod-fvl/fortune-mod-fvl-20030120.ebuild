@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-fvl/fortune-mod-fvl-20030120.ebuild,v 1.13 2010/12/12 17:20:34 grobian Exp $
 
 DESCRIPTION="Quotes from Felix von Leitner (fefe)"
 HOMEPAGE="http://fortune-mod-fvl.sourceforge.net/"

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-tv/dvbstream/dvbstream-0.5.ebuild,v 1.6 2012/02/15 18:32:24 hd_brummy Exp $
 
 inherit eutils
 

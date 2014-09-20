@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/yard/yard-0.8.7.3.ebuild,v 1.12 2014/08/25 16:00:14 mrueg Exp $
 
 EAPI=5
 

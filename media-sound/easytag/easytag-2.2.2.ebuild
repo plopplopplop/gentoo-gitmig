@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/easytag/easytag-2.2.2.ebuild,v 1.6 2014/07/19 17:27:06 klausman Exp $
 
 EAPI=5
 inherit fdo-mime gnome.org gnome2-utils

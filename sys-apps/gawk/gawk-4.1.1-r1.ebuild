@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/gawk/gawk-4.1.1-r1.ebuild,v 1.1 2014/04/25 18:41:07 polynomial-c Exp $
 
 EAPI="4"
 

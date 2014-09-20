@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-client/novell-groupwise-client/novell-groupwise-client-8.0.2.96933.ebuild,v 1.3 2014/09/07 15:20:29 ulm Exp $
 
 RESTRICT="binchecks fetch mirror strip"
 

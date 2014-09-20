@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/muscle/muscle-3.7.ebuild,v 1.3 2010/06/24 20:47:35 angelos Exp $
 
 inherit toolchain-funcs
 

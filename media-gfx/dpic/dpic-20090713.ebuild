@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/dpic/dpic-20090713.ebuild,v 1.4 2013/04/20 09:14:16 ulm Exp $
 
 inherit toolchain-funcs
 

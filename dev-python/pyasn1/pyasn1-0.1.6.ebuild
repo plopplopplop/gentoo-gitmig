@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyasn1/pyasn1-0.1.6.ebuild,v 1.17 2014/07/29 21:52:25 blueness Exp $
 
 EAPI="5"
 PYTHON_COMPAT=( python{2_6,2_7,3_2} pypy pypy2_0 )

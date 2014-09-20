@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/gccmakedep/gccmakedep-1.0.3.ebuild,v 1.1 2014/06/02 14:00:58 chithanh Exp $
 
 EAPI=5
 inherit xorg-2

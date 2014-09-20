@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/httpd-cgi/httpd-cgi-0.ebuild,v 1.9 2012/03/24 12:28:04 pacho Exp $
 
 DESCRIPTION="Virtual for CGI-enabled webservers"
 HOMEPAGE=""

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake2-icculus/quake2-icculus-0.16.1-r1.ebuild,v 1.29 2014/07/04 08:19:46 mr_bones_ Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs games

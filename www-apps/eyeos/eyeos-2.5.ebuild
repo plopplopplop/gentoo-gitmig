@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/eyeos/eyeos-2.5.ebuild,v 1.1 2011/05/23 08:36:57 voyageur Exp $
 
 EAPI="4"
 inherit depend.php webapp eutils

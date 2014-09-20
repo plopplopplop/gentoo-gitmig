@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dns/bind/bind-9.10.0_p2.ebuild,v 1.3 2014/09/10 20:09:58 idl0r Exp $
 
 # Re dlz/mysql and threads, needs to be verified..
 # MySQL uses thread local storage in its C api. Thus MySQL

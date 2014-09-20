@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/asapm/asapm-3.1.ebuild,v 1.6 2012/11/27 13:46:16 ago Exp $
 
 inherit toolchain-funcs
 

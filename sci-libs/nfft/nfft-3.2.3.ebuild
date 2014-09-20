@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/nfft/nfft-3.2.3.ebuild,v 1.1 2013/05/06 15:24:57 ottxor Exp $
 
 EAPI="5"
 

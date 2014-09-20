@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/imlib/imlib-1.9.15-r3.ebuild,v 1.8 2014/07/10 13:25:35 kensington Exp $
 
 EAPI=2
 inherit autotools eutils

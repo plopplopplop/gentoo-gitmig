@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/qscintilla/qscintilla-2.7.2.ebuild,v 1.10 2013/12/23 15:31:06 ago Exp $
 
 EAPI=5
 

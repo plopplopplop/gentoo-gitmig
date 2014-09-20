@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/ccache/ccache-3.1.9-r2.ebuild,v 1.1 2013/09/28 22:44:47 ottxor Exp $
 
 EAPI="4"
 

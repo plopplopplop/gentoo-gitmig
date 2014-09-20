@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/gedit/gedit-2.30.4.ebuild,v 1.15 2014/02/06 19:08:15 pacho Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

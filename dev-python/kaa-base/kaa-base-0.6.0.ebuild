@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/kaa-base/kaa-base-0.6.0.ebuild,v 1.11 2014/08/10 21:12:38 slyfox Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2:2.5"

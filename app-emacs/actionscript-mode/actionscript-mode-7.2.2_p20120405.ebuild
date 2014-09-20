@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emacs/actionscript-mode/actionscript-mode-7.2.2_p20120405.ebuild,v 1.1 2012/04/23 21:01:07 ulm Exp $
 
 EAPI=4
 

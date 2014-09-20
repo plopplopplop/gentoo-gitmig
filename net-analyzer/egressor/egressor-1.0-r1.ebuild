@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/egressor/egressor-1.0-r1.ebuild,v 1.9 2006/02/15 22:06:45 jokey Exp $
 
 inherit eutils
 

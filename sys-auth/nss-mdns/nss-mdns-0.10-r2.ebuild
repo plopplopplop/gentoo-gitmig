@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/nss-mdns/nss-mdns-0.10-r2.ebuild,v 1.2 2014/06/18 20:45:39 mgorny Exp $
 
 EAPI="5"
 inherit autotools eutils multilib-minimal

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/lib_users/lib_users-0.7.ebuild,v 1.5 2014/06/14 10:28:20 phajdan.jr Exp $
 
 EAPI=5
 

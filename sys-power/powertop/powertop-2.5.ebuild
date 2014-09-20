@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-power/powertop/powertop-2.5.ebuild,v 1.6 2014/03/12 10:18:06 ago Exp $
 
 EAPI="5"
 

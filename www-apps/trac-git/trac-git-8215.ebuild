@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apps/trac-git/trac-git-8215.ebuild,v 1.2 2010/07/05 11:00:44 hollow Exp $
 
 EAPI="2"
 PYTHON_DEPEND="2"

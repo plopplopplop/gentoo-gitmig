@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-fs/openafs-legacy/openafs-legacy-0.1.ebuild,v 1.6 2013/11/06 03:40:22 patrick Exp $
 
 DESCRIPTION="Legacy path symlinks to access FHS-compliant OpenAFS installation"
 HOMEPAGE="http://www.gentoo.org/ http://www.openafs.org/"

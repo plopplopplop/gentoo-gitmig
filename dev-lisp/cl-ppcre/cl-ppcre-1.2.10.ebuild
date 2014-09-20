@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lisp/cl-ppcre/cl-ppcre-1.2.10.ebuild,v 1.2 2014/08/10 20:41:23 slyfox Exp $
 
 inherit common-lisp
 

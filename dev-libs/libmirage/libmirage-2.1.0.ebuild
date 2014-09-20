@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/libmirage/libmirage-2.1.0.ebuild,v 1.4 2013/10/08 16:51:45 tetromino Exp $
 
 EAPI="5"
 

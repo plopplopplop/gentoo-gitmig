@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/radvd/radvd-1.9.8.ebuild,v 1.7 2014/03/24 15:10:18 ago Exp $
 
 EAPI=4
 

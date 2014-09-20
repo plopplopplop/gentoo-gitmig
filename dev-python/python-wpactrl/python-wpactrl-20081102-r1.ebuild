@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/python-wpactrl/python-wpactrl-20081102-r1.ebuild,v 1.5 2014/01/19 10:21:03 ago Exp $
 
 EAPI=5
 

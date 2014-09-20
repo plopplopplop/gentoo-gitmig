@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/scribus/scribus-1.4.4-r1.ebuild,v 1.3 2014/09/08 16:32:37 nimiux Exp $
 
 EAPI=5
 

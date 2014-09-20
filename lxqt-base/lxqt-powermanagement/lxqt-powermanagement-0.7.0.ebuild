@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/lxqt-base/lxqt-powermanagement/lxqt-powermanagement-0.7.0.ebuild,v 1.3 2014/09/12 14:24:39 jauhien Exp $
 
 EAPI=5
 inherit cmake-utils

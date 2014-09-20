@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/savedconfig.eclass,v 1.21 2013/01/28 20:11:14 vapier Exp $
 
 # @ECLASS: savedconfig.eclass
 # @MAINTAINER:

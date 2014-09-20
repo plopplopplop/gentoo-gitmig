@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/sun-jaf/sun-jaf-1.1.1.ebuild,v 1.10 2012/05/12 03:15:04 aballier Exp $
 
 JAVA_PKG_IUSE="doc source"
 

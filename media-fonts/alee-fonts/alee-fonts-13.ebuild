@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/alee-fonts/alee-fonts-13.ebuild,v 1.1 2014/04/08 06:48:01 naota Exp $
 
 inherit font
 

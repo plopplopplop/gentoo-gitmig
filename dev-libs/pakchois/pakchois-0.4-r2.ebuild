@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/pakchois/pakchois-0.4-r2.ebuild,v 1.3 2014/09/13 11:50:39 maekke Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-strategy/freesynd/freesynd-0.7.ebuild,v 1.2 2014/05/15 17:04:02 ulm Exp $
 
 EAPI=5
 

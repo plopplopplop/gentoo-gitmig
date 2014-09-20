@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-geosciences/gmapcatcher/gmapcatcher-0.8.0.4.ebuild,v 1.2 2013/07/25 14:46:26 mrueg Exp $
 
 EAPI=5
 

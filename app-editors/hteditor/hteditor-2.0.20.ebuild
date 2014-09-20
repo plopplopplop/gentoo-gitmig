@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-editors/hteditor/hteditor-2.0.20.ebuild,v 1.7 2012/10/17 03:35:50 phajdan.jr Exp $
 
 EAPI=4
 

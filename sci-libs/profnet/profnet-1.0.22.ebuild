@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/profnet/profnet-1.0.22.ebuild,v 1.1 2013/04/24 14:25:57 jlec Exp $
 
 EAPI=5
 

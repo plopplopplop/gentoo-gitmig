@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/mime-types/mime-types-8.ebuild,v 1.9 2012/04/26 12:16:46 aballier Exp $
 
 DESCRIPTION="Provides /etc/mime.types file"
 HOMEPAGE="http://www.gentoo.org/"

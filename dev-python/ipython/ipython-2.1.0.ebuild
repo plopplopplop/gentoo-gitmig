@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ipython/ipython-2.1.0.ebuild,v 1.5 2014/08/14 23:41:08 blueness Exp $
 
 EAPI=5
 

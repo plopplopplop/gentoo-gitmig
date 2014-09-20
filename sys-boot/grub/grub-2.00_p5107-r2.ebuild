@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-boot/grub/grub-2.00_p5107-r2.ebuild,v 1.8 2014/03/15 03:31:16 floppym Exp $
 
 EAPI=5
 

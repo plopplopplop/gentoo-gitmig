@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/razercfg/razercfg-0.20.ebuild,v 1.1 2013/05/04 20:25:06 joker Exp $
 
 EAPI=4
 

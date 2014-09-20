@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/pg/pg-0.17.1.ebuild,v 1.7 2014/06/18 13:07:53 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

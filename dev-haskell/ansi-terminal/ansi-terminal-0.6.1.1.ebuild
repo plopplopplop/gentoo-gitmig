@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/ansi-terminal/ansi-terminal-0.6.1.1.ebuild,v 1.1 2014/02/21 19:36:43 slyfox Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/pcre++/pcre++-0.9.5.ebuild,v 1.8 2007/04/20 17:10:22 corsair Exp $
 
 IUSE=""
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/source-highlight/source-highlight-3.1.7-r2.ebuild,v 1.11 2014/01/18 11:52:09 vapier Exp $
 
 EAPI="4"
 

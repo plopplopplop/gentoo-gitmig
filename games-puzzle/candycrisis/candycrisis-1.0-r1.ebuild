@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/candycrisis/candycrisis-1.0-r1.ebuild,v 1.3 2009/07/28 15:18:29 nyhm Exp $
 
 inherit eutils games
 

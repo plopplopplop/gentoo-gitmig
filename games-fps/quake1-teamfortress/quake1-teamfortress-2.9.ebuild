@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake1-teamfortress/quake1-teamfortress-2.9.ebuild,v 1.4 2014/04/10 08:05:05 ulm Exp $
 
 inherit eutils games
 

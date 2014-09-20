@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/fish/fish-2.1.0-r3.ebuild,v 1.1 2014/03/03 00:45:14 jer Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/freetts/freetts-1.2.1-r1.ebuild,v 1.6 2011/03/23 17:15:06 cbrannon Exp $
 
 inherit eutils java-pkg-2 java-ant-2
 

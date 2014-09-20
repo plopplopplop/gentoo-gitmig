@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/assimp/assimp-3.1.1.ebuild,v 1.1 2014/06/17 05:23:44 slis Exp $
 
 EAPI=5
 

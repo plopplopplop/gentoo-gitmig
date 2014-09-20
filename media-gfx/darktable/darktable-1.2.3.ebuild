@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/darktable/darktable-1.2.3.ebuild,v 1.3 2014/01/12 11:25:14 maekke Exp $
 
 EAPI=5
 

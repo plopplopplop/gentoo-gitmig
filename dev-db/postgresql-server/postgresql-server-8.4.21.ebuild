@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/postgresql-server/postgresql-server-8.4.21.ebuild,v 1.1 2014/03/20 22:08:37 titanofold Exp $
 
 EAPI="5"
 

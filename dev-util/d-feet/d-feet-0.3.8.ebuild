@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/d-feet/d-feet-0.3.8.ebuild,v 1.6 2014/05/02 08:41:56 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

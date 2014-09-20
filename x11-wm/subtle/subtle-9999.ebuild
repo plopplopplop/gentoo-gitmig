@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/subtle/subtle-9999.ebuild,v 1.5 2012/06/20 19:40:15 radhermit Exp $
 
 EAPI="4"
 USE_RUBY="ruby19"

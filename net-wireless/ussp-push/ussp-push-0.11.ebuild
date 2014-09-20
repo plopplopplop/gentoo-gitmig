@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/ussp-push/ussp-push-0.11.ebuild,v 1.4 2011/12/18 20:01:31 phajdan.jr Exp $
 
 EAPI="2"
 

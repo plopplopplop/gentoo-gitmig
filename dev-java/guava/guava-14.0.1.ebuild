@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/guava/guava-14.0.1.ebuild,v 1.1 2013/03/26 04:21:47 radhermit Exp $
 
 EAPI=5
 JAVA_PKG_IUSE="doc source"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/ppp/ppp-2.4.7.ebuild,v 1.8 2014/08/21 09:46:10 ago Exp $
 
 EAPI=5
 

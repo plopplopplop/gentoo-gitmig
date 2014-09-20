@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/intltool/intltool-0.50.2-r1.ebuild,v 1.14 2014/04/06 15:44:41 vapier Exp $
 
 EAPI=5
 inherit eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/blop/blop-0.2.8.ebuild,v 1.6 2008/12/19 19:53:38 aballier Exp $
 
 inherit multilib
 

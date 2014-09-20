@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/imsettings/imsettings-1.2.8.1.ebuild,v 1.3 2013/03/02 19:27:25 hwoarang Exp $
 
 EAPI=3
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/wmmand/wmmand-1.3.2.ebuild,v 1.2 2010/10/11 08:38:49 s4t4n Exp $
 
 inherit eutils toolchain-funcs
 

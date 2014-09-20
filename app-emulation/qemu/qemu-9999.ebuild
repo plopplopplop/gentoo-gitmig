@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/qemu/qemu-9999.ebuild,v 1.89 2014/09/06 10:15:43 vapier Exp $
 
 EAPI=5
 

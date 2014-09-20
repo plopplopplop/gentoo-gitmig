@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/mplayer2/files/generate-tarball.sh,v 1.1 2012/09/03 16:33:53 scarabeus Exp $
 
 # Orginal author: Nikoli <nikoli@lavabit.com>
 

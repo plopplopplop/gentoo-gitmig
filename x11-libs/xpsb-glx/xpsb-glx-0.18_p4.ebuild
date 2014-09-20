@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/xpsb-glx/xpsb-glx-0.18_p4.ebuild,v 1.1 2009/09/13 20:09:12 patrick Exp $
 
 EAPI="2"
 

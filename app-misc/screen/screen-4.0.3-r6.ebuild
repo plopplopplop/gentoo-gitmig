@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/screen/screen-4.0.3-r6.ebuild,v 1.5 2014/03/10 21:21:35 swegener Exp $
 
 EAPI=4
 

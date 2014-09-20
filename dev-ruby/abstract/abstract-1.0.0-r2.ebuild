@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/abstract/abstract-1.0.0-r2.ebuild,v 1.6 2014/08/20 13:30:22 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20 jruby"

@@ -1,4 +1,4 @@
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/vdr-vdrmanager/files/rc-addon.sh,v 1.5 2012/12/02 08:39:56 hd_brummy Exp $
 #
 # rc-addon plugin-startup-skript for vdr-vdrmanager
 #

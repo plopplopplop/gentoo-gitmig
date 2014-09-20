@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/sed/sed-4.2.ebuild,v 1.13 2014/02/08 13:24:00 vapier Exp $
 
 inherit eutils flag-o-matic toolchain-funcs
 

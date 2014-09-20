@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/xom/xom-1.2.10.ebuild,v 1.7 2014/08/10 20:27:59 slyfox Exp $
 
 EAPI="5"
 

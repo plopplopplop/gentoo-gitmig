@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/vdk/vdk-2.5.1.ebuild,v 1.1 2013/02/02 09:10:27 patrick Exp $
 
 EAPI=5
 inherit eutils toolchain-funcs

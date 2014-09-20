@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/gkrellm-volume/gkrellm-volume-2.1.13-r2.ebuild,v 1.3 2012/06/14 13:21:13 ago Exp $
 
 EAPI="3"
 inherit gkrellm-plugin eutils

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/ninja/ninja-1.5.9_pre14.ebuild,v 1.6 2012/12/30 23:51:12 ottxor Exp $
 
 S=${WORKDIR}/${P/_*/}
 

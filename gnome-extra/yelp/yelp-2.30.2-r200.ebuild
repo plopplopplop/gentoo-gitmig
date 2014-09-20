@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnome-extra/yelp/yelp-2.30.2-r200.ebuild,v 1.11 2014/01/05 07:21:33 tetromino Exp $
 
 # git clone git://git.gnome.org/yelp
 # cd yelp

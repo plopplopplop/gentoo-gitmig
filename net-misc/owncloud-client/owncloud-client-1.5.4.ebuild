@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/owncloud-client/owncloud-client-1.5.4.ebuild,v 1.1 2014/04/22 12:07:19 voyageur Exp $
 
 EAPI=5
 

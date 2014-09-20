@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/arista/arista-0.9.5.ebuild,v 1.9 2013/02/11 19:49:47 pinkbyte Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

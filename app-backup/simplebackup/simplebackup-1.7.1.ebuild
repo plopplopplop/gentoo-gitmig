@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-backup/simplebackup/simplebackup-1.7.1.ebuild,v 1.1 2006/06/02 12:28:54 lisa Exp $
 
 DESCRIPTION="Cross-platform backup program"
 HOMEPAGE="http://migas.kicks-ass.org/index.php?pag=en.myapps&subpag=simplebackup"

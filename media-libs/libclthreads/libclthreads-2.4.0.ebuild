@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libclthreads/libclthreads-2.4.0.ebuild,v 1.1 2008/04/19 12:52:24 aballier Exp $
 
 inherit eutils multilib toolchain-funcs
 

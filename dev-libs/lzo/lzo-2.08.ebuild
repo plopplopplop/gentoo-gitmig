@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/lzo/lzo-2.08.ebuild,v 1.10 2014/07/06 17:46:18 maekke Exp $
 
 EAPI=5
 

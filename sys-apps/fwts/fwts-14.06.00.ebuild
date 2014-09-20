@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/fwts/fwts-14.06.00.ebuild,v 1.1 2014/07/16 00:45:12 mrueg Exp $
 
 EAPI=5
 

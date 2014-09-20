@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/docutils/docutils-0.9.ebuild,v 1.5 2012/10/07 00:44:32 floppym Exp $
 
 EAPI="4"
 PYTHON_DEPEND="*::3.2"

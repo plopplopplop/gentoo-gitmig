@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/haskell-cabal.eclass,v 1.46 2014/06/27 07:26:18 slyfox Exp $
 
 # @ECLASS: haskell-cabal.eclass
 # @MAINTAINER:

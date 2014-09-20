@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/libpciaccess/libpciaccess-0.13.ebuild,v 1.2 2012/03/14 17:52:12 mattst88 Exp $
 
 EAPI=4
 inherit xorg-2

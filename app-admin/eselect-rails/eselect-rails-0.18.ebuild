@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/eselect-rails/eselect-rails-0.18.ebuild,v 1.8 2013/01/15 07:12:01 zerochaos Exp $
 
 DESCRIPTION="Manages Ruby on Rails symlinks"
 HOMEPAGE="http://www.gentoo.org/"

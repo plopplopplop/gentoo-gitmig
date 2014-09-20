@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/hgtools/hgtools-2.0.2.ebuild,v 1.7 2014/03/31 21:08:32 mgorny Exp $
 
 EAPI=5
 # python3.2+: bug #450666 (doctest failure)

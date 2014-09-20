@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/gpe-julia/gpe-julia-0.0.6.ebuild,v 1.2 2009/07/27 15:26:51 miknix Exp $
 
 GPE_TARBALL_SUFFIX="gz"
 GPE_MIRROR="http://gpe.linuxtogo.org/download/source"

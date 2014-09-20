@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/frozen-flask/frozen-flask-0.11-r1.ebuild,v 1.2 2014/08/10 21:11:20 slyfox Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

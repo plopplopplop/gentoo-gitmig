@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libtorrent/libtorrent-0.12.5.ebuild,v 1.9 2014/08/10 20:50:03 slyfox Exp $
 
 inherit base eutils toolchain-funcs flag-o-matic libtool
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/xpp2/xpp2-2.1.10-r1.ebuild,v 1.22 2013/06/27 21:40:45 aballier Exp $
 
 EAPI=1
 JAVA_PKG_IUSE="doc source"

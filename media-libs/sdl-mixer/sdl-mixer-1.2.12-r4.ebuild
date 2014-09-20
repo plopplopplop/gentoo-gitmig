@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/sdl-mixer/sdl-mixer-1.2.12-r4.ebuild,v 1.4 2014/08/08 11:57:01 hasufell Exp $
 
 EAPI=5
 inherit eutils multilib-minimal

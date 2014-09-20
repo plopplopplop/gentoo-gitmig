@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-thomas-ogrisegg/fortune-mod-thomas-ogrisegg-20030120.ebuild,v 1.9 2010/12/11 16:23:18 grobian Exp $
 
 MY_P=fortune-mod-thomas.ogrisegg-${PV}
 DESCRIPTION="Quotes from Thomas Ogrisegg"

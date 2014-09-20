@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/atop/atop-1.27_p3.ebuild,v 1.7 2012/07/28 16:20:40 blueness Exp $
 
 EAPI="3"
 

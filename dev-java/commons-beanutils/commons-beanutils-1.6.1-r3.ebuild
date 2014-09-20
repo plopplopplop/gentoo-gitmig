@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/commons-beanutils/commons-beanutils-1.6.1-r3.ebuild,v 1.15 2011/12/31 12:26:50 sera Exp $
 
 JAVA_PKG_IUSE="doc source"
 

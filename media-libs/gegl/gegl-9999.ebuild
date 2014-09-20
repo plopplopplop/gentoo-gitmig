@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/gegl/gegl-9999.ebuild,v 1.7 2013/05/01 00:46:15 sping Exp $
 
 EAPI=4
 

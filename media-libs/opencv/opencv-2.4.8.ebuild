@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/opencv/opencv-2.4.8.ebuild,v 1.3 2014/01/25 11:01:29 dilfridge Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_{6,7} )

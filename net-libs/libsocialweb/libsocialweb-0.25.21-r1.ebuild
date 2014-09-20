@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/libsocialweb/libsocialweb-0.25.21-r1.ebuild,v 1.5 2014/03/09 12:03:22 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/grilo/grilo-0.2.10.ebuild,v 1.3 2014/05/04 12:11:04 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no" # --enable-debug only changes CFLAGS

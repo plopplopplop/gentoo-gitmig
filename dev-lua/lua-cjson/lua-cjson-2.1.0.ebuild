@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lua/lua-cjson/lua-cjson-2.1.0.ebuild,v 1.2 2013/05/09 04:45:24 radhermit Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/spice/spice-0.12.5-r1.ebuild,v 1.2 2014/08/11 20:57:06 idl0r Exp $
 
 EAPI=5
 

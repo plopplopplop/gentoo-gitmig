@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/taglib-extras/taglib-extras-1.0.1.ebuild,v 1.6 2011/01/18 22:31:26 ranger Exp $
 
 EAPI=2
 inherit cmake-utils

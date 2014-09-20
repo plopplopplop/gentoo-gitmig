@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/atop/atop-1.23.ebuild,v 1.6 2010/03/29 17:51:11 jer Exp $
 
 DESCRIPTION="Resource-specific view of processes"
 HOMEPAGE="http://www.atcomputing.nl/Tools/atop"

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/kpathsea/kpathsea-6.0.1_p20110705.ebuild,v 1.8 2012/04/26 20:44:37 aballier Exp $
 
 EAPI=3
 

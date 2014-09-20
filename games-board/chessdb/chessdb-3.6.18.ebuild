@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/chessdb/chessdb-3.6.18.ebuild,v 1.7 2010/10/18 09:45:08 tupone Exp $
 
 EAPI=2
 inherit toolchain-funcs eutils games

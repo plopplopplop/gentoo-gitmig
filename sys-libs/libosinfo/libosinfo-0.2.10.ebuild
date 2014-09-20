@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libosinfo/libosinfo-0.2.10.ebuild,v 1.3 2014/07/23 15:38:04 ago Exp $
 
 EAPI=5
 VALA_MIN_API_VERSION="0.16"

@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/xlhtml/xlhtml-0.5.ebuild,v 1.15 2008/01/20 16:14:56 grobian Exp $
 
 WANT_AUTOCONF="latest"
 WANT_AUTOMAKE="latest"

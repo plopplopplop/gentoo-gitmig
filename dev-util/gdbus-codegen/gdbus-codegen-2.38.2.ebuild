@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/gdbus-codegen/gdbus-codegen-2.38.2.ebuild,v 1.13 2014/04/21 10:29:02 ago Exp $
 
 EAPI="5"
 GNOME_ORG_MODULE="glib"

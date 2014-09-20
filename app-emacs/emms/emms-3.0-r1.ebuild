@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emacs/emms/emms-3.0-r1.ebuild,v 1.3 2014/06/07 11:16:03 ulm Exp $
 
 EAPI=5
 

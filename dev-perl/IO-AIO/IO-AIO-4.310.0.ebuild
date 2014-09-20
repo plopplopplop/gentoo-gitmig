@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/IO-AIO/IO-AIO-4.310.0.ebuild,v 1.1 2014/06/27 17:27:15 zlogene Exp $
 
 EAPI=5
 

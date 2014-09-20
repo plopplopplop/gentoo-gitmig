@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/gerris/gerris-20120731.ebuild,v 1.3 2013/02/21 22:03:35 jlec Exp $
 
 EAPI=4
 

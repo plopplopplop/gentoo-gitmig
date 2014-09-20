@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/spectrwm/spectrwm-2.2.0.ebuild,v 1.1 2013/03/25 07:27:53 xmw Exp $
 
 EAPI=4
 

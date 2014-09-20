@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/tirc/tirc-0.54_alpha.ebuild,v 1.3 2013/03/30 14:43:52 ulm Exp $
 
 MY_P=${P/_alpha/a}-patched
 

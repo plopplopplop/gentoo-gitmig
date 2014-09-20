@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/flask-login/flask-login-0.2.9.ebuild,v 1.1 2014/01/07 07:11:41 patrick Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_6,2_7} )

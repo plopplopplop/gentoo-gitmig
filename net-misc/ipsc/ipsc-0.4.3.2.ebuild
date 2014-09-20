@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/ipsc/ipsc-0.4.3.2.ebuild,v 1.5 2009/09/23 19:38:10 patrick Exp $
 
 DESCRIPTION="IP Subnet Calculator"
 HOMEPAGE="http://packages.debian.org/unstable/net/ipsc"

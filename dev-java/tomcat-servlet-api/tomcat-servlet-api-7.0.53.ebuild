@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/tomcat-servlet-api/tomcat-servlet-api-7.0.53.ebuild,v 1.1 2014/04/03 07:50:05 fordfrog Exp $
 
 EAPI="5"
 JAVA_PKG_IUSE="source"

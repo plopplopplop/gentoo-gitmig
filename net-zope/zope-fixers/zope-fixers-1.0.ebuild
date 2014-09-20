@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-zope/zope-fixers/zope-fixers-1.0.ebuild,v 1.11 2012/05/08 23:54:21 aballier Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.6 3:3.1"

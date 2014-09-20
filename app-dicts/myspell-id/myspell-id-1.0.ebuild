@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-dicts/myspell-id/myspell-id-1.0.ebuild,v 1.1 2012/07/23 13:58:45 scarabeus Exp $
 
 EAPI=4
 

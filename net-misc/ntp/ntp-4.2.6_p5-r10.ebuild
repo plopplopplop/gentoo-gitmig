@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/ntp/ntp-4.2.6_p5-r10.ebuild,v 1.14 2014/07/01 16:54:26 pacho Exp $
 
 EAPI="4"
 

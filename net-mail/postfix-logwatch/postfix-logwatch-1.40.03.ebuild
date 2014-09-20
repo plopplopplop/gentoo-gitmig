@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/postfix-logwatch/postfix-logwatch-1.40.03.ebuild,v 1.1 2014/09/05 21:31:39 mjo Exp $
 
 EAPI=5
 

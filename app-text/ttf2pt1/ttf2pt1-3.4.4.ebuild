@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/ttf2pt1/ttf2pt1-3.4.4.ebuild,v 1.4 2009/10/10 15:24:52 armin76 Exp $
 
 inherit eutils multilib toolchain-funcs
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/mmtk/mmtk-2.7.9.ebuild,v 1.1 2013/06/16 15:39:09 jlec Exp $
 
 EAPI=5
 

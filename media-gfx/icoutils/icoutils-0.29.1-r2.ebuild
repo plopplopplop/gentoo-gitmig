@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/icoutils/icoutils-0.29.1-r2.ebuild,v 1.5 2012/09/13 12:52:45 ssuominen Exp $
 
 EAPI="2"
 

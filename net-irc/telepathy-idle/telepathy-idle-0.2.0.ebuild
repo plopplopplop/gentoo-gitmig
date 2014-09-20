@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/telepathy-idle/telepathy-idle-0.2.0.ebuild,v 1.4 2014/05/04 12:11:45 pacho Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_{6,7} )

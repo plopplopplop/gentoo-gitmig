@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/mkl/mkl-10.0.5.025.ebuild,v 1.19 2013/07/02 09:00:02 ago Exp $
 
 inherit eutils fortran-2 multilib toolchain-funcs check-reqs
 

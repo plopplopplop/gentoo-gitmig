@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/vendetta-online-bin/vendetta-online-bin-1.8.82.ebuild,v 1.5 2012/02/08 21:34:13 vapier Exp $
 
 EAPI=2
 inherit eutils unpacker games

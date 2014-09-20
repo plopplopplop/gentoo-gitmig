@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/dvisvgm/dvisvgm-1.0.8.ebuild,v 1.13 2012/10/08 17:00:21 radhermit Exp $
 
 EAPI=3
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libsdl/libsdl-1.2.15-r8.ebuild,v 1.2 2014/09/10 09:40:20 jer Exp $
 
 EAPI=5
 inherit autotools flag-o-matic multilib toolchain-funcs eutils multilib-minimal

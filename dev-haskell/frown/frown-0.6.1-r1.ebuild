@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/frown/frown-0.6.1-r1.ebuild,v 1.13 2012/07/13 20:42:04 qnikst Exp $
 
 EAPI="4"
 

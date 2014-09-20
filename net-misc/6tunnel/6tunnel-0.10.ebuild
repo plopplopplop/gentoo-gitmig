@@ -1,6 +1,6 @@
 # Copyright 1999-2006 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/6tunnel/6tunnel-0.10.ebuild,v 1.4 2006/11/27 00:07:29 vapier Exp $
 
 DESCRIPTION="TCP proxy for applications that don't speak IPv6"
 HOMEPAGE="http://toxygen.net/6tunnel"

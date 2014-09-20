@@ -1,6 +1,6 @@
 # ChangeLog for x11-libs/gtk+
 # Copyright 1999-2013 Gentoo Foundation; Distributed under the GPL v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-libs/gtk+/ChangeLog-2012,v 1.1 2013/01/01 13:29:30 dilfridge Exp $
 
   27 Dec 2012; Alexandre Rostovtsev <tetromino@gentoo.org> gtk+-3.6.2.ebuild:
   Drop sparc and amd64-fbsd keywords, needs at-spi2-atk to be keyworded.

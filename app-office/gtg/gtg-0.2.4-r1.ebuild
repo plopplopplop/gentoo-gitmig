@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/gtg/gtg-0.2.4-r1.ebuild,v 1.4 2011/10/23 22:02:52 tetromino Exp $
 
 EAPI="3"
 

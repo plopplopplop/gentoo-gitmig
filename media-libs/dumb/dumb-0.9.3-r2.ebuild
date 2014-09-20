@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/dumb/dumb-0.9.3-r2.ebuild,v 1.6 2014/03/06 10:45:04 ago Exp $
 
 EAPI=5
 inherit eutils multilib-build multilib-minimal

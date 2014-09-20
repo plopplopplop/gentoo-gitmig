@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/php-ext-source-r2.eclass,v 1.33 2013/06/01 18:51:57 robbat2 Exp $
 
 # @ECLASS: php-ext-source-r2.eclass
 # @MAINTAINER:

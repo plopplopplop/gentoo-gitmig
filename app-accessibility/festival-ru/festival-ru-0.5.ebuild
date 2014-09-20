@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/festival-ru/festival-ru-0.5.ebuild,v 1.2 2014/08/06 06:24:38 patrick Exp $
 
 EAPI="2"
 MY_PN=msu_ru_nsh_clunits

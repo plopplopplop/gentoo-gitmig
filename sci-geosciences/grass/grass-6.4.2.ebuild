@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-geosciences/grass/grass-6.4.2.ebuild,v 1.11 2014/01/06 15:37:42 jlec Exp $
 
 EAPI=4
 

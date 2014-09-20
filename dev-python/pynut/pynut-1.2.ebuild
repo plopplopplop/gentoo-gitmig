@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pynut/pynut-1.2.ebuild,v 1.1 2011/12/04 14:04:53 jlec Exp $
 
 EAPI="3"
 

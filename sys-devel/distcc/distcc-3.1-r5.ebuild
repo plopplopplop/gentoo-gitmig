@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-devel/distcc/distcc-3.1-r5.ebuild,v 1.5 2014/05/16 19:53:04 jer Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

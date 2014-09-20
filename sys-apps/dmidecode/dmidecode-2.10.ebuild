@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/dmidecode/dmidecode-2.10.ebuild,v 1.9 2012/07/23 15:00:09 swift Exp $
 
 inherit flag-o-matic toolchain-funcs
 

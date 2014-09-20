@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/lpairs/lpairs-1.0.4.ebuild,v 1.6 2009/04/14 09:50:54 armin76 Exp $
 
 EAPI=2
 inherit eutils games

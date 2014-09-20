@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-rpg/zsxd/zsxd-1.9.0.ebuild,v 1.1 2014/08/24 16:12:08 hasufell Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-HTTP_Client/PEAR-HTTP_Client-1.1.1.ebuild,v 1.8 2014/08/10 20:50:02 slyfox Exp $
 
 inherit php-pear-r1
 

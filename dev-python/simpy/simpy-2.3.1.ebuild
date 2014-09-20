@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/simpy/simpy-2.3.1.ebuild,v 1.1 2012/08/26 09:09:27 jlec Exp $
 
 EAPI=4
 

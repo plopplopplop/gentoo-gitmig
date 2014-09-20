@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/judy/judy-1.0.5.ebuild,v 1.6 2014/08/01 08:24:07 maekke Exp $
 
 EAPI="2"
 

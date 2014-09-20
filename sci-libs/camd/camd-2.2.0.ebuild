@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/camd/camd-2.2.0.ebuild,v 1.15 2011/06/26 11:08:45 jlec Exp $
 
 inherit autotools eutils
 

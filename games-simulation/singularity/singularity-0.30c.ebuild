@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-simulation/singularity/singularity-0.30c.ebuild,v 1.6 2013/06/29 17:00:40 slyfox Exp $
 
 EAPI=2
 inherit eutils games

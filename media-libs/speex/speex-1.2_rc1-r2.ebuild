@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/speex/speex-1.2_rc1-r2.ebuild,v 1.12 2014/08/10 21:12:16 slyfox Exp $
 
 EAPI=5
 inherit autotools eutils flag-o-matic multilib-minimal

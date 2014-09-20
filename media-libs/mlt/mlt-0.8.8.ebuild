@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/mlt/mlt-0.8.8.ebuild,v 1.5 2014/06/22 15:46:01 pacho Exp $
 
 EAPI=4
 PYTHON_DEPEND="python? 2:2.6"

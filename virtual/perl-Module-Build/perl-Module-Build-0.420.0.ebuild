@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Module-Build/perl-Module-Build-0.420.0.ebuild,v 1.1 2014/03/10 12:57:50 civil Exp $
 
 DESCRIPTION="Virtual for ${PN#perl-}"
 HOMEPAGE=""

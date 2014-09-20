@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/arch/m68k/package.use.mask,v 1.15 2013/12/24 01:08:19 dirtyepic Exp $
 
 # Mikle Kolyada <zlogene@gentoo.org> (11 Jul 2013)
 # Tests for dev-perl/Error require >=dev-perl/Test-Pod-Coverage-1.40.0 (bug #351636)

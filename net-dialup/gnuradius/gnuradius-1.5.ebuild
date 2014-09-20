@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-dialup/gnuradius/gnuradius-1.5.ebuild,v 1.6 2010/06/17 21:47:03 patrick Exp $
 
 inherit libtool eutils pam
 

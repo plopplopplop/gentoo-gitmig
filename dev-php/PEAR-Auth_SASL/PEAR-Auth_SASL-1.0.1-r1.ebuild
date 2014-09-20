@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/PEAR-Auth_SASL/PEAR-Auth_SASL-1.0.1-r1.ebuild,v 1.22 2014/01/26 18:27:43 olemarkus Exp $
 
 inherit php-pear-r1
 

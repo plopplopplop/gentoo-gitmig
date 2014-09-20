@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/dep_selector/dep_selector-0.1.1.ebuild,v 1.1 2014/03/26 20:15:19 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

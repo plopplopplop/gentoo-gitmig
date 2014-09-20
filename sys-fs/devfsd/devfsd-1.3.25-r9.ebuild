@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/devfsd/devfsd-1.3.25-r9.ebuild,v 1.5 2011/04/15 21:56:12 ulm Exp $
 
 inherit eutils flag-o-matic toolchain-funcs
 

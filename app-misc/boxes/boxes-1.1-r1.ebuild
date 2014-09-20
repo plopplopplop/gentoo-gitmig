@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/boxes/boxes-1.1-r1.ebuild,v 1.6 2011/02/24 22:24:36 xarthisius Exp $
 
 EAPI="3"
 

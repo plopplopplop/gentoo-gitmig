@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/camorama/camorama-0.19-r2.ebuild,v 1.6 2012/05/05 08:58:53 jdhore Exp $
 
 EAPI=2
 inherit eutils gnome2

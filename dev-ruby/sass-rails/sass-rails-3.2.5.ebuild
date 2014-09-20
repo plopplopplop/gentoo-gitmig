@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/sass-rails/sass-rails-3.2.5.ebuild,v 1.6 2014/04/24 16:47:41 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/brutal-legend/brutal-legend-20130615.ebuild,v 1.3 2014/09/09 14:21:37 hasufell Exp $
 
 # TODO: unbundle libsdl-2
 

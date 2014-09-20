@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-benchmarks/httperf/httperf-0.8.ebuild,v 1.13 2014/08/05 07:59:56 patrick Exp $
 
 WANT_AUTOCONF="2.1"
 

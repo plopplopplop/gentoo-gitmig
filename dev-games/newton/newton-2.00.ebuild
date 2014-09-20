@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/newton/newton-2.00.ebuild,v 1.3 2010/09/17 11:01:42 scarabeus Exp $
 
 inherit eutils multilib
 

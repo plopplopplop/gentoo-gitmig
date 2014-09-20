@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/falcon/falcon-0.9.4.4.ebuild,v 1.1 2009/11/11 18:18:42 vostorga Exp $
 
 MY_P=${P/f/F}
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gnustep-base/gnustep-make/gnustep-make-2.6.3.ebuild,v 1.1 2013/03/08 15:05:46 voyageur Exp $
 
 EAPI=4
 inherit gnustep-base eutils prefix toolchain-funcs

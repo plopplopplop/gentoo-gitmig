@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/libertine-ttf/libertine-ttf-5.1.3.20110615.ebuild,v 1.6 2012/12/08 12:28:57 maekke Exp $
 
 inherit font versionator
 

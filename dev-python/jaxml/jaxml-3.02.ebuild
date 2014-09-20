@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/jaxml/jaxml-3.02.ebuild,v 1.7 2010/10/25 02:51:22 jer Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

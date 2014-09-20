@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-tex/biber/biber-1.9.ebuild,v 1.1 2014/05/29 12:56:31 mrueg Exp $
 
 EAPI=5
 

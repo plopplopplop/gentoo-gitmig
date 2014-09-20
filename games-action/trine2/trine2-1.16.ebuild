@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/trine2/trine2-1.16.ebuild,v 1.8 2014/06/25 13:46:18 mgorny Exp $
 
 EAPI=5
 inherit eutils unpacker gnome2-utils games

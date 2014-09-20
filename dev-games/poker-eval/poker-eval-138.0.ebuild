@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/poker-eval/poker-eval-138.0.ebuild,v 1.4 2010/12/05 18:05:23 armin76 Exp $
 
 EAPI=2
 inherit eutils

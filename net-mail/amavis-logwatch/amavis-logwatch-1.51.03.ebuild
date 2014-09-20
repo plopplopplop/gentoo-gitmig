@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-mail/amavis-logwatch/amavis-logwatch-1.51.03.ebuild,v 1.1 2014/09/05 21:39:21 mjo Exp $
 
 EAPI=5
 

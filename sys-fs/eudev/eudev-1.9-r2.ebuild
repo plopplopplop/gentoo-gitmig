@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/eudev/eudev-1.9-r2.ebuild,v 1.5 2014/08/01 19:54:55 zlogene Exp $
 
 EAPI="5"
 

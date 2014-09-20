@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-video/vcdimager/vcdimager-0.7.23-r1.ebuild,v 1.15 2013/01/01 19:03:46 armin76 Exp $
 
 EAPI=5
 inherit eutils

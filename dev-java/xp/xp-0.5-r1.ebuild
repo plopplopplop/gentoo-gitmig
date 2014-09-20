@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/xp/xp-0.5-r1.ebuild,v 1.7 2012/11/16 09:37:10 ulm Exp $
 
 JAVA_PKG_IUSE="doc source"
 

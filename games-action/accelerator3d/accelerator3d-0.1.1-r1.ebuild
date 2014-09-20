@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/accelerator3d/accelerator3d-0.1.1-r1.ebuild,v 1.4 2012/02/26 14:55:15 tupone Exp $
 
 EAPI=2
 PYTHON_DEPEND="2"

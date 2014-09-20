@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/translationstring/translationstring-1.1.ebuild,v 1.2 2012/02/22 23:12:14 marienz Exp $
 
 EAPI=4
 

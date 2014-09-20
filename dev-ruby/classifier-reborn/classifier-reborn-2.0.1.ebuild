@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/classifier-reborn/classifier-reborn-2.0.1.ebuild,v 1.1 2014/08/16 12:53:52 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20 ruby21"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/basemap/basemap-1.0.7.ebuild,v 1.1 2013/08/26 04:55:43 patrick Exp $
 
 EAPI=4
 PYTHON_DEPEND="2"

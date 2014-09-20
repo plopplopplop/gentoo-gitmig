@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-chucknorris/fortune-mod-chucknorris-0.1.ebuild,v 1.9 2010/12/12 18:20:17 grobian Exp $
 
 DESCRIPTION="Chuck Norris Facts"
 HOMEPAGE="http://www.k-lug.org/~kessler/projects.html"

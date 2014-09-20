@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/pax-utils.eclass,v 1.23 2014/08/30 14:06:04 blueness Exp $
 
 # @ECLASS: pax-utils.eclass
 # @MAINTAINER:

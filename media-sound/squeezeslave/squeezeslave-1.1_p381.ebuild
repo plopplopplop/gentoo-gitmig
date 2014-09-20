@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/squeezeslave/squeezeslave-1.1_p381.ebuild,v 1.1 2012/11/24 12:29:28 radhermit Exp $
 
 EAPI="5"
 

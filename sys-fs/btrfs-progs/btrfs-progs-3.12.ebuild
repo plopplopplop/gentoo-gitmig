@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-fs/btrfs-progs/btrfs-progs-3.12.ebuild,v 1.2 2013/11/30 08:40:40 slyfox Exp $
 
 EAPI=5
 

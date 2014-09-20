@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/pesign/pesign-0.108.ebuild,v 1.3 2014/05/13 02:22:31 patrick Exp $
 
 EAPI="4"
 inherit eutils multilib

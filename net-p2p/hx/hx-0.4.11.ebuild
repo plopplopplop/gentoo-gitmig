@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-p2p/hx/hx-0.4.11.ebuild,v 1.6 2014/08/10 20:36:50 slyfox Exp $
 
 WANT_AUTOCONF="latest"
 WANT_AUTOMAKE="latest"

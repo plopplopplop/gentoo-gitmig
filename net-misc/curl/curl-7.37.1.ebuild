@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/curl/curl-7.37.1.ebuild,v 1.2 2014/09/14 22:37:32 jer Exp $
 
 EAPI="5"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/aqua/aqua-3.2-r2.ebuild,v 1.5 2012/10/19 09:38:53 jlec Exp $
 
 EAPI=4
 

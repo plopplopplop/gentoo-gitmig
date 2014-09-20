@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apache/mod_whatkilledus/mod_whatkilledus-0.0.1-r1.ebuild,v 1.1 2012/06/17 16:24:28 flameeyes Exp $
 
 EAPI=4
 

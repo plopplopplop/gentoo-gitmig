@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/aspectwerkz/aspectwerkz-2.0_rc2-r3.ebuild,v 1.6 2014/08/10 20:08:15 slyfox Exp $
 
 EAPI=1
 # no rewriting required since we patch build.xml to contain target/source

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/linux-info.eclass,v 1.104 2014/06/28 07:54:27 robbat2 Exp $
 
 # @ECLASS: linux-info.eclass
 # @MAINTAINER:

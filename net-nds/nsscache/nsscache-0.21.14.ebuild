@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-nds/nsscache/nsscache-0.21.14.ebuild,v 1.3 2012/02/26 03:22:21 patrick Exp $
 
 EAPI=3
 

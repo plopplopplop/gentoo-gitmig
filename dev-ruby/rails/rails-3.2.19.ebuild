@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/rails/rails-3.2.19.ebuild,v 1.1 2014/07/03 05:39:46 graaff Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-db/vsqlite++/vsqlite++-0.3.12.ebuild,v 1.1 2013/10/19 13:30:00 graaff Exp $
 
 EAPI=5
 AUTOTOOLS_IN_SOURCE_BUILD=1

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pkipplib/pkipplib-0.07.ebuild,v 1.2 2010/12/24 22:28:16 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-admin/rsyslog/rsyslog-7.4.10.ebuild,v 1.2 2014/04/16 16:14:41 maksbotan Exp $
 
 EAPI=5
 AUTOTOOLS_AUTORECONF=yes

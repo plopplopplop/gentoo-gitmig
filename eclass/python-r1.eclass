@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/python-r1.eclass,v 1.76 2014/08/18 08:56:06 mgorny Exp $
 
 # @ECLASS: python-r1
 # @MAINTAINER:

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-misc/fortune-mod-hitchhiker/fortune-mod-hitchhiker-0.1.ebuild,v 1.15 2010/12/12 17:14:07 grobian Exp $
 
 MY_P=${PN/-mod/}
 DESCRIPTION="Quotes from Hitchhikers Guide to the Galaxy"

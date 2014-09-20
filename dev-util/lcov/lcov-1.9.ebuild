@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/lcov/lcov-1.9.ebuild,v 1.4 2012/05/29 20:05:47 ranger Exp $
 
 EAPI="2"
 

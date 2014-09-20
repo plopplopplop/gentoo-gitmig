@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/recode/recode-3.6_p20-r1.ebuild,v 1.1 2014/03/09 08:52:15 aballier Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-util/re2c/re2c-0.13.7.5.ebuild,v 1.2 2014/09/03 17:18:07 ottxor Exp $
 
 EAPI=5
 

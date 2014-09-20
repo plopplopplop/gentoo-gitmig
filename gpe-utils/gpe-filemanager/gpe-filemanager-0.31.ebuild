@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/gpe-utils/gpe-filemanager/gpe-filemanager-0.31.ebuild,v 1.1 2010/02/27 01:15:30 miknix Exp $
 
 GPE_TARBALL_SUFFIX="bz2"
 inherit gpe

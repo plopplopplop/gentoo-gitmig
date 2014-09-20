@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/xdg-user-dirs-gtk/xdg-user-dirs-gtk-0.10.ebuild,v 1.9 2014/08/01 11:18:40 armin76 Exp $
 
 EAPI=5
 inherit gnome.org readme.gentoo

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/netbeans-javadoc/netbeans-javadoc-7.3.ebuild,v 1.1 2013/02/21 15:50:08 fordfrog Exp $
 
 EAPI="4"
 WANT_ANT_TASKS="ant-nodeps"

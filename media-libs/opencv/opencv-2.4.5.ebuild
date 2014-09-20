@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/opencv/opencv-2.4.5.ebuild,v 1.7 2013/09/06 16:39:49 dilfridge Exp $
 
 EAPI=5
 PYTHON_DEPEND="2:2.6"

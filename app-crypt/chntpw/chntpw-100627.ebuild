@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-crypt/chntpw/chntpw-100627.ebuild,v 1.1 2010/07/13 11:01:55 ssuominen Exp $
 
 EAPI=2
 inherit toolchain-funcs

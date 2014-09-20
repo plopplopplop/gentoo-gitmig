@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/electric/electric-9.00.ebuild,v 1.1 2010/12/11 21:41:33 rafaelmartins Exp $
 
 inherit eutils java-pkg-2
 

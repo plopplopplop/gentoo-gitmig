@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/dataenc/dataenc-0.14.0.5-r1.ebuild,v 1.4 2014/04/13 13:10:55 slyfox Exp $
 
 EAPI=5
 

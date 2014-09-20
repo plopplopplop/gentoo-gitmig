@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/iroffer-dinoex/iroffer-dinoex-3.29.ebuild,v 1.3 2013/06/15 21:51:46 zlogene Exp $
 
 EAPI=5
 

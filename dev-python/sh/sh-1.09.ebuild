@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/sh/sh-1.09.ebuild,v 1.2 2014/03/26 15:21:21 jlec Exp $
 
 EAPI=5
 

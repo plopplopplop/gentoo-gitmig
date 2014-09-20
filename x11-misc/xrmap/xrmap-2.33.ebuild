@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/xrmap/xrmap-2.33.ebuild,v 1.4 2010/06/23 12:24:47 hwoarang Exp $
 
 EAPI=2
 inherit eutils

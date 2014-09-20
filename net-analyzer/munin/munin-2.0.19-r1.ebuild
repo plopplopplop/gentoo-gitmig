@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/munin/munin-2.0.19-r1.ebuild,v 1.5 2014/08/03 18:32:34 ago Exp $
 
 EAPI=5
 

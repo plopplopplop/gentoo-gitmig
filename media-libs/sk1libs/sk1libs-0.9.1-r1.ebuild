@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/sk1libs/sk1libs-0.9.1-r1.ebuild,v 1.3 2012/09/11 03:02:14 ottxor Exp $
 
 EAPI="3"
 

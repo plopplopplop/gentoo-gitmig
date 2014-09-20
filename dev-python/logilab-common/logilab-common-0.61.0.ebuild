@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/logilab-common/logilab-common-0.61.0.ebuild,v 1.9 2014/07/06 12:44:25 mgorny Exp $
 
 EAPI=5
 

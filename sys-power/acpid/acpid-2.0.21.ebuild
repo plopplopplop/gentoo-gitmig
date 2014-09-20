@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-power/acpid/acpid-2.0.21.ebuild,v 1.1 2014/01/31 15:51:12 ssuominen Exp $
 
 EAPI=5
 inherit systemd

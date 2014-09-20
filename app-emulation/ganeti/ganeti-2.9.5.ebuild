@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/ganeti/ganeti-2.9.5.ebuild,v 1.2 2014/03/04 00:12:09 chutzpah Exp $
 
 EAPI=5
 PYTHON_COMPAT=(python2_{6,7})

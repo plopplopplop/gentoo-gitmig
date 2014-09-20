@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/subunit/subunit-0.0.10.ebuild,v 1.1 2013/02/22 03:34:54 patrick Exp $
 
 EAPI="3"
 SUPPORT_PYTHON_ABIS="1"

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/imapclient/imapclient-0.11.ebuild,v 1.1 2014/05/31 03:59:35 idella4 Exp $
 
 EAPI=5
 # "Python versions 2.6, 2.7, 3.2 and 3.3 are officially supported" therefore 

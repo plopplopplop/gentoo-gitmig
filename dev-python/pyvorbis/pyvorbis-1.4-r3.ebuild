@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyvorbis/pyvorbis-1.4-r3.ebuild,v 1.10 2012/02/25 13:34:28 patrick Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2"

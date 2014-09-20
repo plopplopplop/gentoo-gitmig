@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/newt/newt-0.52.15.ebuild,v 1.11 2014/08/14 16:51:44 phajdan.jr Exp $
 
 EAPI="5"
 

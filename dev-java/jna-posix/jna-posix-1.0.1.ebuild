@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/jna-posix/jna-posix-1.0.1.ebuild,v 1.6 2011/10/28 08:05:55 xarthisius Exp $
 
 EAPI=2
 JAVA_PKG_IUSE="source test"

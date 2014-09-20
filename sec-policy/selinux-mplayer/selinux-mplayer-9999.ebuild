@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sec-policy/selinux-mplayer/selinux-mplayer-9999.ebuild,v 1.3 2014/08/08 18:49:30 swift Exp $
 EAPI="5"
 
 IUSE="alsa"

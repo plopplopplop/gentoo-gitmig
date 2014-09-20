@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-auth/pam_p11/pam_p11-0.1.5-r1.ebuild,v 1.9 2014/08/08 08:09:21 alonbl Exp $
 
 EAPI=2
 

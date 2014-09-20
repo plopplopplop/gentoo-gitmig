@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-puzzle/pipepanic/pipepanic-0.1.3.ebuild,v 1.5 2010/01/07 15:43:45 josejx Exp $
 
 EAPI=2
 inherit eutils games

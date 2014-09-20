@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/bitchx/bitchx-1.1-r4.ebuild,v 1.6 2011/12/21 19:52:31 binki Exp $
 
 inherit flag-o-matic eutils
 

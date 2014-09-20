@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-fps/quake2-demodata/quake2-demodata-3.14.ebuild,v 1.8 2013/03/29 16:13:55 hasufell Exp $
 
 inherit unpacker eutils versionator games
 

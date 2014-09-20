@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/scim-tables/scim-tables-0.5.13.ebuild,v 1.4 2014/08/03 18:35:12 ago Exp $
 
 inherit autotools base eutils
 

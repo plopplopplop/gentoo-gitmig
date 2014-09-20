@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/freeverb3/freeverb3-2.6.6.ebuild,v 1.1 2012/07/22 22:54:58 sping Exp $
 
 EAPI=2
 inherit multilib versionator

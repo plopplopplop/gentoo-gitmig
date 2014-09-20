@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-ftp/proftpd/proftpd-1.3.5.ebuild,v 1.7 2014/08/13 09:29:27 ago Exp $
 
 EAPI=5
 inherit eutils multilib systemd

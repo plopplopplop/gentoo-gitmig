@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/drqueue/drqueue-9999.ebuild,v 1.6 2012/06/01 02:37:10 zmedico Exp $
 
 EAPI="3"
 PYTHON_DEPEND="python? 2"

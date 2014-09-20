@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/alee-fonts/alee-fonts-12.ebuild,v 1.10 2010/01/01 18:18:32 fauli Exp $
 
 inherit font
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/profiles/prefix/darwin/package.use.mask,v 1.13 2014/01/03 03:26:12 creffett Exp $
 
 
 # Christoph Junghans <ottxor@gentoo.org> (26 Aug 2012)

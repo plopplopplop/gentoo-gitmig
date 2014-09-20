@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-plugins/gst-plugins-smoothstreaming/gst-plugins-smoothstreaming-1.2.4.ebuild,v 1.1 2014/05/31 15:10:05 pacho Exp $
 
 EAPI="5"
 

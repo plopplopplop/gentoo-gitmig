@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/apsw/apsw-3.7.13.1.ebuild,v 1.5 2013/08/28 16:01:09 floppym Exp $
 
 EAPI="4"
 SUPPORT_PYTHON_ABIS="1"

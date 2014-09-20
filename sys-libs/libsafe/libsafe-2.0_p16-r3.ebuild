@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libsafe/libsafe-2.0_p16-r3.ebuild,v 1.1 2013/03/15 13:14:59 pinkbyte Exp $
 
 EAPI=5
 

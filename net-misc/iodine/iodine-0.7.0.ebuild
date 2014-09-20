@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/iodine/iodine-0.7.0.ebuild,v 1.2 2014/07/25 02:50:08 zx2c4 Exp $
 
 EAPI=5
 

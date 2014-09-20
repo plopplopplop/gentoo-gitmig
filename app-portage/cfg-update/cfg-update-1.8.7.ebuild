@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-portage/cfg-update/cfg-update-1.8.7.ebuild,v 1.5 2012/03/18 15:13:25 armin76 Exp $
 
 EAPI=2
 inherit eutils

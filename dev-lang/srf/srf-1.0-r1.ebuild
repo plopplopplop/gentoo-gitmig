@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/srf/srf-1.0-r1.ebuild,v 1.2 2012/11/04 10:28:29 araujo Exp $
 
 EAPI="3"
 

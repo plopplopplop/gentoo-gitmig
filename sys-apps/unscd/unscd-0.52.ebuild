@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/unscd/unscd-0.52.ebuild,v 1.1 2014/09/04 21:54:03 radhermit Exp $
 
 EAPI="4"
 

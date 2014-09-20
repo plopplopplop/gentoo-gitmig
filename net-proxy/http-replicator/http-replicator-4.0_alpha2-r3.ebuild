@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/http-replicator/http-replicator-4.0_alpha2-r3.ebuild,v 1.1 2013/06/10 14:01:46 tomwij Exp $
 
 EAPI="5"
 

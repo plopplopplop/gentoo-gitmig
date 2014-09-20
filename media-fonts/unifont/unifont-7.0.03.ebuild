@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-fonts/unifont/unifont-7.0.03.ebuild,v 1.2 2014/08/29 01:13:28 blueness Exp $
 
 EAPI=5
 

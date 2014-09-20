@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-php/pecl-mongo/pecl-mongo-1.5.1.ebuild,v 1.1 2014/05/03 13:55:14 olemarkus Exp $
 
 EAPI=5
 

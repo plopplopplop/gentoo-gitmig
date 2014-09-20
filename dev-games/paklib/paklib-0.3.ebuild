@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-games/paklib/paklib-0.3.ebuild,v 1.3 2010/09/17 09:04:34 tupone Exp $
 
 inherit toolchain-funcs
 

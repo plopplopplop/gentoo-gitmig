@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-libs/libvisio/libvisio-0.1.0.ebuild,v 1.1 2014/09/14 09:21:44 dilfridge Exp $
 
 EAPI=5
 

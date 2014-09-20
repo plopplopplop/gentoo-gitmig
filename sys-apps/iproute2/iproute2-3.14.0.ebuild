@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/iproute2/iproute2-3.14.0.ebuild,v 1.1 2014/04/13 09:34:58 radhermit Exp $
 
 EAPI="5"
 

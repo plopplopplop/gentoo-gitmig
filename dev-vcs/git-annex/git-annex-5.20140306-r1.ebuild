@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-vcs/git-annex/git-annex-5.20140306-r1.ebuild,v 1.3 2014/03/21 11:30:25 qnikst Exp $
 
 EAPI=5
 

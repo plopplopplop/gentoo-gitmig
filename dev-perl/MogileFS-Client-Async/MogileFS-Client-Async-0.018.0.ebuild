@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/MogileFS-Client-Async/MogileFS-Client-Async-0.018.0.ebuild,v 1.1 2012/02/29 08:54:47 robbat2 Exp $
 
 EAPI=4
 

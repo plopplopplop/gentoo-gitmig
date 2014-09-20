@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/cropgui/cropgui-0.1.1-r3.ebuild,v 1.3 2014/05/25 12:22:07 zlogene Exp $
 
 EAPI="5"
 

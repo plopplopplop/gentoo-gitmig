@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/fish/fish-2.0.0.ebuild,v 1.5 2014/02/11 12:28:14 polynomial-c Exp $
 
 EAPI=5
 

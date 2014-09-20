@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-libs/OpenSRF/OpenSRF-1.2.0.ebuild,v 1.1 2012/11/12 21:01:02 robbat2 Exp $
 
 EAPI=5
 inherit eutils multilib flag-o-matic apache-module autotools perl-module

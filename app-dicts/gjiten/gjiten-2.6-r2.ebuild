@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-dicts/gjiten/gjiten-2.6-r2.ebuild,v 1.2 2014/07/08 00:41:15 naota Exp $
 
 EAPI=2
 inherit autotools eutils gnome2

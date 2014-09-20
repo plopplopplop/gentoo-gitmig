@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/probe/probe-2.13.110909.ebuild,v 1.1 2012/06/06 09:02:39 jlec Exp $
 
 EAPI=4
 

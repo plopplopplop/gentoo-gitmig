@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/tsung/tsung-1.3.3.ebuild,v 1.2 2011/08/25 12:02:38 maksbotan Exp $
 
 EAPI="3"
 

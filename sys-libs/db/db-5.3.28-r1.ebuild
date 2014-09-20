@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/db/db-5.3.28-r1.ebuild,v 1.2 2014/05/20 13:19:07 polynomial-c Exp $
 
 EAPI=5
 inherit eutils db flag-o-matic java-pkg-opt-2 autotools multilib

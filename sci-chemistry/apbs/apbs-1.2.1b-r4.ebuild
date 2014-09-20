@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/apbs/apbs-1.2.1b-r4.ebuild,v 1.17 2013/04/23 14:01:32 jlec Exp $
 
 EAPI="3"
 

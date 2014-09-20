@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/monica/monica-3.7.ebuild,v 1.8 2012/01/05 18:25:34 ssuominen Exp $
 
 EAPI=4
 inherit eutils toolchain-funcs

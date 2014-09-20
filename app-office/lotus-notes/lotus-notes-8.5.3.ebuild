@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-office/lotus-notes/lotus-notes-8.5.3.ebuild,v 1.5 2013/07/31 14:10:38 ulm Exp $
 
 EAPI=5
 

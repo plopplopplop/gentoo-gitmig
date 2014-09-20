@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pygoocanvas/pygoocanvas-0.14.1-r1.ebuild,v 1.6 2013/04/06 09:10:36 pacho Exp $
 
 EAPI="5"
 GCONF_DEBUG="no"

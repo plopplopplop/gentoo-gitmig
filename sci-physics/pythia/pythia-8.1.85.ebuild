@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-physics/pythia/pythia-8.1.85.ebuild,v 1.1 2014/04/03 16:32:02 bicatali Exp $
 
 EAPI=5
 

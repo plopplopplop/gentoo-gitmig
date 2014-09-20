@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-libs/xrootd/xrootd-3.3.4.ebuild,v 1.2 2013/11/20 03:10:18 patrick Exp $
 
 EAPI=5
 

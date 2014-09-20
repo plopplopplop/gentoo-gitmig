@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/htmlc/htmlc-2.21.0.ebuild,v 1.5 2013/01/23 00:50:46 aballier Exp $
 
 EAPI=3
 

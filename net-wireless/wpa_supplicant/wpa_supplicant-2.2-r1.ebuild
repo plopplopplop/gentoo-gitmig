@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/wpa_supplicant/wpa_supplicant-2.2-r1.ebuild,v 1.1 2014/06/13 14:56:17 gurligebis Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/rescan-scsi-bus/rescan-scsi-bus-1.24.ebuild,v 1.11 2012/02/25 06:24:37 robbat2 Exp $
 
 DESCRIPTION="Script to rescan the SCSI bus without rebooting"
 HOMEPAGE="http://www.garloff.de/kurt/linux/"

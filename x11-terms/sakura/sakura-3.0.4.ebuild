@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-terms/sakura/sakura-3.0.4.ebuild,v 1.5 2013/07/09 12:02:22 jer Exp $
 
 EAPI=4
 inherit cmake-utils

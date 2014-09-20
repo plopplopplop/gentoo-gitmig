@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-accessibility/gok/gok-2.30.1.ebuild,v 1.10 2013/02/02 22:19:07 ago Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

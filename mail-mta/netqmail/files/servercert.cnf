@@ -1,4 +1,4 @@
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/mail-mta/netqmail/files/servercert.cnf,v 1.2 2013/05/27 00:45:52 robbat2 Exp $
 # This is the openssl config file to generate keys for qmail
 
 [ req ]

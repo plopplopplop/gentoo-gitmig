@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/lm_sensors/lm_sensors-3.3.1.ebuild,v 1.10 2012/10/18 18:58:50 maekke Exp $
 
 EAPI=3
 inherit eutils linux-info toolchain-funcs multilib

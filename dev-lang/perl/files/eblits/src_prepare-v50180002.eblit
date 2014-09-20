@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/perl/files/eblits/src_prepare-v50180002.eblit,v 1.1 2014/04/30 14:47:53 civil Exp $
 
 src_prepare_update_patchlevel_h() {
 	# Copied and modified from debian:

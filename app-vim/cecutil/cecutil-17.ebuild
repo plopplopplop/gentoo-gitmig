@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/cecutil/cecutil-17.ebuild,v 1.5 2011/01/07 22:13:27 ranger Exp $
 
 VIM_PLUGIN_VIM_VERSION="7.0"
 inherit vim-plugin

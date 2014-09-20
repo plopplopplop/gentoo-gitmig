@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-biology/phylip/phylip-3.69.ebuild,v 1.3 2010/01/01 21:38:17 fauli Exp $
 
 inherit toolchain-funcs
 

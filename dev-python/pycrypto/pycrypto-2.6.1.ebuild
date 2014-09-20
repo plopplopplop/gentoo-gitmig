@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pycrypto/pycrypto-2.6.1.ebuild,v 1.12 2014/04/02 19:22:23 radhermit Exp $
 
 EAPI=5
 

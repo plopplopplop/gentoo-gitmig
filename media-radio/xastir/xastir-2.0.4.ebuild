@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-radio/xastir/xastir-2.0.4.ebuild,v 1.5 2013/05/10 16:27:03 tomjbe Exp $
 
 EAPI=4
 inherit autotools eutils toolchain-funcs

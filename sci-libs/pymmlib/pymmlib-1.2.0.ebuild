@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-libs/pymmlib/pymmlib-1.2.0.ebuild,v 1.2 2012/05/14 13:29:29 jlec Exp $
 
 EAPI=4
 

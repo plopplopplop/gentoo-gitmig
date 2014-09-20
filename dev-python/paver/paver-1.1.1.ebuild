@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/paver/paver-1.1.1.ebuild,v 1.8 2014/08/21 12:40:12 armin76 Exp $
 
 EAPI="4"
 PYTHON_DEPEND="2"

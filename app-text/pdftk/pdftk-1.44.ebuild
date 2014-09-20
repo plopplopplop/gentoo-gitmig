@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/pdftk/pdftk-1.44.ebuild,v 1.5 2012/09/16 20:39:01 chithanh Exp $
 
 EAPI="2"
 

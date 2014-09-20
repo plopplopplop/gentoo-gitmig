@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-proto/xextproto/xextproto-7.2.1.ebuild,v 1.10 2013/02/21 16:36:11 zmedico Exp $
 
 EAPI=4
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-proxy/3proxy/3proxy-0.6-r1.ebuild,v 1.2 2010/05/03 21:08:25 patrick Exp $
 
 EAPI="2"
 

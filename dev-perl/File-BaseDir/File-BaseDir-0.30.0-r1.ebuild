@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/File-BaseDir/File-BaseDir-0.30.0-r1.ebuild,v 1.1 2014/08/21 16:02:03 axs Exp $
 
 EAPI=5
 

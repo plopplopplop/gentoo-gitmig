@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-plugins/wmmon/wmmon-1.2_beta1.ebuild,v 1.1 2012/03/29 11:28:04 voyageur Exp $
 
 EAPI=4
 inherit eutils toolchain-funcs

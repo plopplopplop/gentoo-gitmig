@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-vim/gitv/gitv-1.1.ebuild,v 1.4 2013/12/24 12:44:16 ago Exp $
 
 EAPI="4"
 VIM_PLUGIN_VIM_VERSION="7.2"

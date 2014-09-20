@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-wireless/bcm43xx-fwcutter/bcm43xx-fwcutter-005.ebuild,v 1.5 2010/02/15 20:43:16 ssuominen Exp $
 
 inherit toolchain-funcs
 

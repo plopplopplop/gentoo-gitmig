@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/file/file-5.17.ebuild,v 1.12 2014/07/06 23:25:06 kumba Exp $
 
 EAPI="4"
 PYTHON_COMPAT=( python{2_6,2_7,3_2,3_3} pypy2_0 )

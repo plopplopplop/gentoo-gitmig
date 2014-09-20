@@ -1,6 +1,6 @@
 # Copyright 1999-2011 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/eclipse-ecj/eclipse-ecj-3.5.2.ebuild,v 1.7 2011/10/19 20:09:46 mr_bones_ Exp $
 
 EAPI=2
 

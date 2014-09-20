@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pyfits/pyfits-3.3.ebuild,v 1.2 2014/08/20 04:16:27 idella4 Exp $
 
 EAPI=5
 

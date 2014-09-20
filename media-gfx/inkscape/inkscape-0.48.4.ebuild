@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/inkscape/inkscape-0.48.4.ebuild,v 1.9 2014/05/24 00:07:15 dilfridge Exp $
 
 EAPI=5
 

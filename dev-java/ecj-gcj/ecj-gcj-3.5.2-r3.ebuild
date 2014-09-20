@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-java/ecj-gcj/ecj-gcj-3.5.2-r3.ebuild,v 1.1 2012/12/14 13:08:17 sera Exp $
 
 EAPI=5
 

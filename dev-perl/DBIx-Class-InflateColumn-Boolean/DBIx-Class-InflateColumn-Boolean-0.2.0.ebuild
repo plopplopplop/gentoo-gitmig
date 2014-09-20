@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/DBIx-Class-InflateColumn-Boolean/DBIx-Class-InflateColumn-Boolean-0.2.0.ebuild,v 1.1 2012/11/04 16:05:42 tove Exp $
 
 EAPI=4
 

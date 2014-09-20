@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-analyzer/egressor/egressor-1.0-r2.ebuild,v 1.5 2013/04/23 08:40:09 ago Exp $
 
 EAPI="2"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/strigi/strigi-0.7.8-r1.ebuild,v 1.1 2014/07/13 11:50:06 johu Exp $
 
 EAPI=5
 

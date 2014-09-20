@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/nxserver-freeedition/nxserver-freeedition-3.5.0.11.ebuild,v 1.2 2012/07/12 08:51:13 voyageur Exp $
 
 EAPI=4
 

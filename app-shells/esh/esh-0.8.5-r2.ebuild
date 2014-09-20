@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-shells/esh/esh-0.8.5-r2.ebuild,v 1.4 2012/09/07 13:26:57 johu Exp $
 
 EAPI="2"
 

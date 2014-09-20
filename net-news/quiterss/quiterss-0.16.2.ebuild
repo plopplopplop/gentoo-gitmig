@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-news/quiterss/quiterss-0.16.2.ebuild,v 1.1 2014/09/01 16:26:18 maksbotan Exp $
 
 EAPI=5
 

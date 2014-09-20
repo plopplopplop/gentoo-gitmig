@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/ropemode/ropemode-0.1_rc2.ebuild,v 1.1 2010/10/03 16:39:32 arfrever Exp $
 
 EAPI="3"
 PYTHON_DEPEND="2:2.5"

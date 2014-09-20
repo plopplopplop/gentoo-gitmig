@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-roguelike/moria/moria-5.5.2.ebuild,v 1.12 2010/05/05 20:28:21 mr_bones_ Exp $
 
 EAPI=2
 inherit eutils toolchain-funcs games

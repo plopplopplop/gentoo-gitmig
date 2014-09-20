@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-misc/oneko/oneko-1.2.ebuild,v 1.19 2012/11/16 14:41:39 ulm Exp $
 
 DESCRIPTION="A cat (or dog) which chases the mouse around the screen"
 HOMEPAGE="http://agtoys.sourceforge.net"

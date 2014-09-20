@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/eclass/gnome-python-common.eclass,v 1.17 2012/05/02 18:31:42 jdhore Exp $
 
 # Original Author: Arun Raghavan <ford_prefect@gentoo.org> (based on the
 #		   gnome-python-desktop eclass by Jim Ramsay <lack@gentoo.org>)

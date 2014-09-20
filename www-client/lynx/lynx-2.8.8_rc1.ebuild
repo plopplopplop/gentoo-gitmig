@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-client/lynx/lynx-2.8.8_rc1.ebuild,v 1.12 2014/04/06 15:12:46 vapier Exp $
 
 EAPI=5
 

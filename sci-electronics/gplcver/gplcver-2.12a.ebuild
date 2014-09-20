@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/gplcver/gplcver-2.12a.ebuild,v 1.3 2012/10/22 21:49:21 ago Exp $
 
 MY_PN=gpl-cver
 

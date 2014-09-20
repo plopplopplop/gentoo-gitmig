@@ -1,6 +1,6 @@
 # Copyright 1999-2007 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-boot/gnu-efi/gnu-efi-3.0a-r1.ebuild,v 1.3 2007/03/13 14:18:09 armin76 Exp $
 
 inherit eutils toolchain-funcs
 

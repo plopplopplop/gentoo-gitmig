@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-haskell/happy/happy-1.18.10.ebuild,v 1.9 2013/03/31 10:03:46 ago Exp $
 
 EAPI="4"
 

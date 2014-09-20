@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-misc/livestreamer/livestreamer-1.7.2.ebuild,v 1.3 2014/02/22 08:07:59 ago Exp $
 
 EAPI="5"
 

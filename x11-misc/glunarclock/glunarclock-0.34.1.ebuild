@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/x11-misc/glunarclock/glunarclock-0.34.1.ebuild,v 1.6 2012/05/05 04:53:50 jdhore Exp $
 
 EAPI=2
 GCONF_DEBUG=no

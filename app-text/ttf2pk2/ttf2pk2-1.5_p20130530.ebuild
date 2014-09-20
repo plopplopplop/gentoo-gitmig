@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/ttf2pk2/ttf2pk2-1.5_p20130530.ebuild,v 1.1 2013/06/25 21:30:29 aballier Exp $
 
 EAPI=4
 

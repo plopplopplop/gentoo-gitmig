@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-ruby/acts_as_list/acts_as_list-0.4.0.ebuild,v 1.3 2014/08/05 16:00:59 mrueg Exp $
 
 EAPI=5
 USE_RUBY="ruby19 ruby20"

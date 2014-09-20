@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-cluster/vzctl/vzctl-4.7.2.ebuild,v 1.4 2014/08/14 17:07:31 phajdan.jr Exp $
 
 EAPI="5"
 

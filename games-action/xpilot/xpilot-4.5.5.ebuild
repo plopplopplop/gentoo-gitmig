@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/xpilot/xpilot-4.5.5.ebuild,v 1.3 2010/06/21 20:13:52 maekke Exp $
 
 EAPI=2
 inherit eutils games

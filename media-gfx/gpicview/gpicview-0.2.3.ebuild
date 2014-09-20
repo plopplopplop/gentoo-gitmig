@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-gfx/gpicview/gpicview-0.2.3.ebuild,v 1.6 2013/02/23 02:06:44 zmedico Exp $
 
 EAPI=4
 

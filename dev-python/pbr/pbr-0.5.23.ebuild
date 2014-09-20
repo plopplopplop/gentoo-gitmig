@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/pbr/pbr-0.5.23.ebuild,v 1.5 2014/08/20 20:37:21 blueness Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 )

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/html2text/html2text-2014.4.5-r1.ebuild,v 1.3 2014/08/10 21:11:59 slyfox Exp $
 
 EAPI=5
 PYTHON_COMPAT=( python{2_7,3_{2,3}} pypy pypy2_0 )

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-chemistry/tinker/tinker-6.ebuild,v 1.6 2012/10/19 10:30:49 jlec Exp $
 
 EAPI=2
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/giada/giada-0.6.3.ebuild,v 1.1 2013/04/24 05:43:32 radhermit Exp $
 
 EAPI=5
 

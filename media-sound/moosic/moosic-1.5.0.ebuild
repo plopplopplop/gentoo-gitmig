@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/media-sound/moosic/moosic-1.5.0.ebuild,v 1.8 2009/06/19 19:41:23 ssuominen Exp $
 
 DESCRIPTION="Moosic is a music player that focuses on easy playlist management"
 HOMEPAGE="http://www.nanoo.org/~daniel/moosic/"

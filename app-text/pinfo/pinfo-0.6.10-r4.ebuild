@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-text/pinfo/pinfo-0.6.10-r4.ebuild,v 1.11 2014/06/08 23:21:34 jer Exp $
 
 EAPI=5
 inherit eutils flag-o-matic

@@ -1,6 +1,6 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-arch/cabextract/cabextract-1.3.ebuild,v 1.7 2010/09/28 20:33:31 vapier Exp $
 
 DESCRIPTION="Extracts files from Microsoft .cab files"
 HOMEPAGE="http://www.cabextract.org.uk/"

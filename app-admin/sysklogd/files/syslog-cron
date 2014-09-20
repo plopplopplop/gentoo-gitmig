@@ -8,7 +8,7 @@
 #		stuff
 #
 #		Written by Martin Schulze <joey@debian.org>.
-#		$Id$
+#		$Id: syslog-cron,v 1.6 2007/07/13 10:31:25 uberlord Exp $
 
 cd /var/log
 for LOG in `syslogd-listfiles`

@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-texlive/texlive-basic/texlive-basic-2011-r1.ebuild,v 1.12 2012/10/03 18:08:30 ulm Exp $
 
 EAPI="3"
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/virtual/perl-Socket/perl-Socket-2.13.0.ebuild,v 1.3 2014/08/25 12:22:47 armin76 Exp $
 
 EAPI=5
 

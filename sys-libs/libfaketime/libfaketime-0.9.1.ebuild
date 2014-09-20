@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-libs/libfaketime/libfaketime-0.9.1.ebuild,v 1.3 2013/01/22 17:32:41 ago Exp $
 
 EAPI=5
 

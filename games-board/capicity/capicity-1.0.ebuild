@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-board/capicity/capicity-1.0.ebuild,v 1.1 2014/01/23 19:45:38 ulm Exp $
 
 EAPI=5
 inherit eutils gnome2-utils qmake-utils games

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sci-electronics/espresso-ab/espresso-ab-1.0.ebuild,v 1.3 2009/09/23 20:00:35 patrick Exp $
 
 IUSE=""
 

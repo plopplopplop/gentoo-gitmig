@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-emulation/virt-viewer/virt-viewer-0.6.0.ebuild,v 1.2 2014/06/13 13:51:41 dev-zero Exp $
 
 EAPI=5
 inherit eutils gnome2

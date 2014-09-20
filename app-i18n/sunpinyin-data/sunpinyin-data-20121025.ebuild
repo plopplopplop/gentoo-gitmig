@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/sunpinyin-data/sunpinyin-data-20121025.ebuild,v 1.1 2013/01/30 13:33:55 yngwin Exp $
 
 EAPI=5
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/games-action/hotline-miami/hotline-miami-1.0.9a_p20140221.ebuild,v 1.3 2014/06/25 13:03:31 mgorny Exp $
 
 # TODO: unbundle Qt5
 #		remove emul-linux-x86* deps (bug 484060)

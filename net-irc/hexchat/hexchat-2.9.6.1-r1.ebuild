@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/hexchat/hexchat-2.9.6.1-r1.ebuild,v 1.5 2014/02/24 01:02:10 phajdan.jr Exp $
 
 EAPI=5
 

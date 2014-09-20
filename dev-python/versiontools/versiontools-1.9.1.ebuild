@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/versiontools/versiontools-1.9.1.ebuild,v 1.4 2012/04/28 12:26:19 xarthisius Exp $
 
 EAPI=4
 PYTHON_DEPEND="*"

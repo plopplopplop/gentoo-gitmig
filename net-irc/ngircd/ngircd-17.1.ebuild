@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/net-irc/ngircd/ngircd-17.1.ebuild,v 1.5 2014/03/10 10:58:31 ssuominen Exp $
 
 EAPI=4
 

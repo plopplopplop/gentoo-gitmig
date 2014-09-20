@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-python/gnome-python-base/gnome-python-base-2.28.1.ebuild,v 1.12 2014/01/16 15:56:36 blueness Exp $
 
 EAPI="3"
 GCONF_DEBUG="no"

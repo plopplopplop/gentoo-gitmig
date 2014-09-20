@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/app-i18n/skkfep/skkfep-0.86c.ebuild,v 1.9 2013/02/12 08:43:53 naota Exp $
 
 inherit eutils
 

@@ -1,6 +1,6 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-process/watchpid/watchpid-0.1-r1.ebuild,v 1.3 2009/09/23 21:07:33 patrick Exp $
 
 DESCRIPTION="Watches a process for termination"
 SRC_URI="mirror://gentoo/${PN}_${PV}.tar.gz"

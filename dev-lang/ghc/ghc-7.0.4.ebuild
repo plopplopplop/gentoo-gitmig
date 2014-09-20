@@ -1,6 +1,6 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/ghc/ghc-7.0.4.ebuild,v 1.10 2014/09/07 06:29:23 slyfox Exp $
 
 # Brief explanation of the bootstrap logic:
 #

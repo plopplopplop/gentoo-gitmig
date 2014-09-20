@@ -1,6 +1,6 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/sys-apps/mawk/mawk-1.3.4_p20121129.ebuild,v 1.1 2012/11/30 03:38:42 radhermit Exp $
 
 EAPI="5"
 

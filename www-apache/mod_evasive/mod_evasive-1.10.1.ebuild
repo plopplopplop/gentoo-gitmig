@@ -1,6 +1,6 @@
 # Copyright 1999-2013 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header$
+# $Header: /var/cvsroot/gentoo-x86/www-apache/mod_evasive/mod_evasive-1.10.1.ebuild,v 1.4 2013/01/22 16:16:40 vostorga Exp $
 
 inherit apache-module eutils
 
