@@ -39,6 +39,7 @@ src_prepare() {
 	epatch "${FILESDIR}"/${P}-texi2pod.patch
 	epatch "${FILESDIR}"/${PN}-1.14-gnutls-ssl.patch #479948
 	epatch "${FILESDIR}"/${PN}-1.14-wgetrc.patch #327229
+	epatch "${FILESDIR}"/${PN}-1.14-libressl.patch
 	# We patch the wgetrc sample file which goes into the info page.
 	# Update the info timestamp to avoid regenerating it.
 	touch doc/sample.wgetrc.munged_for_texi_inclusion doc/wget.info

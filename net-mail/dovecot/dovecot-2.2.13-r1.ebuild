@@ -1,9 +1,9 @@
 # Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: /var/cvsroot/gentoo-x86/net-mail/dovecot/dovecot-2.2.13-r1.ebuild,v 1.10 2014/09/02 04:13:27 patrick Exp $
+# $Header: /var/cvsroot/gentoo-x86/net-mail/dovecot/dovecot-2.2.13-r1.ebuild,v 1.3 2014/05/28 12:29:57 pinkbyte Exp $
 
 EAPI=5
-inherit eutils multilib ssl-cert systemd user versionator
+inherit eutils multilib ssl-cert systemd user versionator autotools
 
 MY_P="${P/_/.}"
 major_minor="$(get_version_component_range 1-2)"
@@ -25,7 +25,7 @@ HOMEPAGE="http://www.dovecot.org/"
 
 SLOT="0"
 LICENSE="LGPL-2.1 MIT"
-KEYWORDS="~alpha amd64 arm hppa ~ia64 ppc ppc64 x86"
+KEYWORDS="amd64 ~arm hppa ~ia64 x86"
 
 IUSE_DOVECOT_AUTH="kerberos ldap mysql pam postgres sqlite vpopmail"
 IUSE_DOVECOT_STORAGE="cydir imapc +maildir mbox mdbox pop3c sdbox"
@@ -76,6 +76,11 @@ pkg_setup() {
 
 src_prepare() {
 	epatch "${FILESDIR}/${PN}-10-ssl.patch"
+	epatch "${FILESDIR}/dovecot-sslfix-1.diff"
+	epatch "${FILESDIR}/dovecot-sslfix-2.diff"
+	epatch "${FILESDIR}/dovecot-disable-ssl-compression.diff"
+	epatch "${FILESDIR}/dovecot-ecdh-auto.diff"
+	eautoconf
 }
 
 src_configure() {

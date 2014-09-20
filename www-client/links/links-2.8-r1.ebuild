@@ -57,6 +57,7 @@ REQUIRED_USE="!livecd? ( fbcon? ( gpm ) )
 DOCS=( AUTHORS BRAILLE_HOWTO ChangeLog KEYS NEWS README SITES )
 
 src_prepare() {
+	epatch "${FILESDIR}/links-libressl.diff"
 	epatch "${WORKDIR}"/debian/patches/verify-ssl-certs-510417.diff
 
 	if use unicode; then

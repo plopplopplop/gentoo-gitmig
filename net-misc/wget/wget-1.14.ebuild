@@ -36,7 +36,8 @@ DOCS=( AUTHORS MAILING-LIST NEWS README doc/sample.wgetrc )
 
 src_prepare() {
 	epatch "${FILESDIR}"/${PN}-1.13.4-openssl-pkg-config.patch \
-		"${FILESDIR}"/${P}-texi2pod.patch
+		"${FILESDIR}"/${P}-texi2pod.patch \
+		"${FILESDIR}"/${PN}-1.14-libressl.patch
 	eautoreconf
 }
 

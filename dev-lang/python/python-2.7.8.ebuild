@@ -86,6 +86,8 @@ pkg_setup() {
 }
 
 src_prepare() {
+	epatch "${FILESDIR}/python2-randegd.diff"
+
 	# Ensure that internal copies of expat, libffi and zlib are not used.
 	rm -r Modules/expat || die
 	rm -r Modules/_ctypes/libffi* || die

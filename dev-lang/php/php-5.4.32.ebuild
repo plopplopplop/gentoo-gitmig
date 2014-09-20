@@ -282,6 +282,7 @@ php_set_ini_dir() {
 }
 
 src_prepare() {
+	epatch "${FILESDIR}/php-5.5.14-remove-randegd.diff"
 	# USE=sharedmem (session/mod_mm to be exact) tries to mmap() this path
 	# ([empty session.save_path]/session_mm_[sapi][gid].sem)
 	# there is no easy way to circumvent that, all php calls during

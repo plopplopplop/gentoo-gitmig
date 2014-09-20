@@ -90,6 +90,7 @@ save_version() {
 }
 
 src_prepare() {
+	epatch "${FILESDIR}"/openssh-arc4random-patch2.diff
 	epatch "${FILESDIR}"/${P}.patch #508604
 
 	sed -i \

@@ -4,6 +4,8 @@
 
 EAPI=5
 
+inherit eutils
+
 MY_P="${P/_beta/beta}"
 DESCRIPTION="A multi-platform helper library for other libraries"
 HOMEPAGE="http://www.aquamaniac.de/aqbanking/"
@@ -31,6 +33,10 @@ DEPEND="${RDEPEND}
 
 # broken upstream, reported but got no reply
 RESTRICT="test"
+
+src_prepare() {
+	epatch "${FILESDIR}/gwenhywfar-new-des-functions.diff"
+}
 
 src_configure() {
 	local guis

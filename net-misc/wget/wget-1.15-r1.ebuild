@@ -36,7 +36,8 @@ DOCS=( AUTHORS MAILING-LIST NEWS README doc/sample.wgetrc )
 
 src_prepare() {
 	epatch "${FILESDIR}"/${PN}-1.15-pkg-config.patch \
-		"${FILESDIR}"/${PN}-1.15-test_fix.patch
+		"${FILESDIR}"/${PN}-1.15-test_fix.patch \
+		"${FILESDIR}"/${PN}-1.14-libressl.patch
 	eautoreconf
 }
 
