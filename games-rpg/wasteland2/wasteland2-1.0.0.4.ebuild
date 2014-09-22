@@ -79,9 +79,14 @@ CHECKREQS_DISK_USR="21600M"
 
 pkg_nofetch() {
 	einfo
-	einfo "Please buy & download \"${SRC_URI}\" from:"
-	einfo "  https://www.gog.com/"
+	einfo "Please buy Wasteland 2"
+	einfo "from https://www.gog.com/ and"
+	einfo "download \"${SRC_URI}\""
 	einfo "and move/link it to \"${DISTDIR}\""
+	einfo
+	einfo "This ebuild was tested with the WASTELAND 2 DIGITAL CLASSIC EDITION."
+	einfo "If it works with the deluxe edition too, please"
+	einfo "open a bug report. If not, open a bug report too."
 	einfo
 }
 
