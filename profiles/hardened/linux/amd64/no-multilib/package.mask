@@ -18,6 +18,7 @@ games-misc/katawa-shoujo
 games-misc/papers-please
 games-rpg/dungeon-defenders
 games-rpg/bastion
+games-rpg/wasteland2
 
 # Mirror profile/amd64/no-multilib/package.mask
 app-accessibility/mbrola
