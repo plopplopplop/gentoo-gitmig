@@ -12,7 +12,7 @@ DESCRIPTION="Duke Nukem 3D data files"
 HOMEPAGE="http://www.3drealms.com/"
 SRC_URI="gog? ( ${GOG_FILE} )"
 
-LICENSE="DUKE3D"
+LICENSE="DUKE3D gog? ( GOG-EULA )"
 SLOT="0"
 KEYWORDS="~amd64 ~hppa ~ppc ~x86"
 IUSE="gog"
