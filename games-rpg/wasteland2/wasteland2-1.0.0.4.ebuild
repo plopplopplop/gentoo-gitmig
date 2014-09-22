@@ -10,7 +10,7 @@ DESCRIPTION="Direct sequel to 1988's Wasteland, the first-ever post-apocalyptic 
 HOMEPAGE="https://wasteland.inxile-entertainment.com/"
 SRC_URI="gog_wasteland_2_${PV}.tar.gz"
 
-LICENSE="all-rights-reserved"
+LICENSE="all-rights-reserved GOG-EULA"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
