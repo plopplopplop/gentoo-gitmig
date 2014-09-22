@@ -12,7 +12,7 @@ HOMEPAGE="http://www.arkane-studios.com/uk/arx.php"
 SRC_URI="cdinstall? ( http://download.zenimax.com/arxfatalis/patches/1.21/ArxFatalis_1.21_MULTILANG.exe )
 	gog? ( setup_arx_fatalis.exe )"
 
-LICENSE="cdinstall? ( ArxFatalis-EULA-JoWooD ) gog? ( ArxFatalis-EULA-GOG )"
+LICENSE="cdinstall? ( ArxFatalis-EULA-JoWooD ) gog? ( GOG-EULA )"
 SLOT="0"
 KEYWORDS="amd64 x86"
 IUSE="gog"
